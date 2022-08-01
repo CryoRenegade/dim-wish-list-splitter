@@ -3,12 +3,10 @@ writeToPvE = False
 writeToPvP = False
 writeToTotal = False
 
-mainFile = "voltron.txt"
+mainFile = "./dim-wish-list-sources/voltron.txt"
 
-pveFile = "writePvE.txt"
-pvpFile = "writePvP.txt"
-totalFile = "writeTotal.txt"
-neitherFile = "writeNeither.txt"
+pveFile = "volton-PvE.txt"
+pvpFile = "voltron-PvP.txt"
 
 def clearFiles(fileName):
     with open(fileName, mode='w') as clearFile:
@@ -16,8 +14,6 @@ def clearFiles(fileName):
 
 clearFiles(pveFile)
 clearFiles(pvpFile)
-clearFiles(totalFile)
-clearFiles(neitherFile)
 
 def writeToFile(fileName, weaponInfo):    
     with open(fileName, mode='a') as tempFile:
@@ -32,9 +28,7 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
             writeToPvE = True
         if 'PvP' in line or "pvp" in line or 'PVP' in line:
             writeToPvP = True
-                
-        writeToTotal = True
-        
+
         if len(line) != 1:
             currentWeapon.append(line)        
         else:
@@ -42,10 +36,9 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
                 writeToFile(pveFile, currentWeapon)
             if writeToPvP:
                 writeToFile(pvpFile, currentWeapon)
-            if not writeToPvE and not writeToPvP:
-                writeToFile(neitherFile, currentWeapon)
-                
-            writeToFile(totalFile, currentWeapon)
+            else:
+                writeToFile(pveFile, currentWeapon)
+                writeToFile(pvpFile, currentWeapon)
                     
             currentWeapon = []
             writeToPvE = False
