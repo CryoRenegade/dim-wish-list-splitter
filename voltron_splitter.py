@@ -1,7 +1,6 @@
 currentWeapon = []
 writeToPvE = False
 writeToPvP = False
-writeToTotal = False
 
 mainFile = "./dim-wish-list-sources/voltron.txt"
 
@@ -36,13 +35,12 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
                 writeToFile(pveFile, currentWeapon)
             if writeToPvP:
                 writeToFile(pvpFile, currentWeapon)
-            else:
+            if not writeToPvE and not writeToPvP:
                 writeToFile(pveFile, currentWeapon)
                 writeToFile(pvpFile, currentWeapon)
                     
             currentWeapon = []
             writeToPvE = False
             writeToPvP = False
-            writeToTotal = False
 
 
