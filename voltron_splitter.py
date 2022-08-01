@@ -1,11 +1,21 @@
 currentWeapon = []
+
 writeToPvE = False
 writeToPvP = False
+writeToController = False
 
 mainFile = "./dim-wish-list-sources/voltron.txt"
 
 pveFile = "volton-PvE.txt"
 pvpFile = "voltron-PvP.txt"
+
+mouseFile = "voltron-MKB.txt"
+controllerFile = "voltron-Controller.txt"
+
+pveMouseFile = "voltron-PvE-MKB.txt"
+
+missingTagFile = "voltron-MissingTag.txt"
+
 
 def clearFiles(fileName):
     with open(fileName, mode='w') as clearFile:
@@ -13,6 +23,14 @@ def clearFiles(fileName):
 
 clearFiles(pveFile)
 clearFiles(pvpFile)
+
+clearFiles(mouseFile)
+clearFiles(controllerFile)
+
+clearFiles(pveMouseFile)
+
+clearFiles(missingTagFile)
+
 
 def writeToFile(fileName, weaponInfo):    
     with open(fileName, mode='a') as tempFile:
@@ -28,19 +46,32 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
         if 'PvP' in line or "pvp" in line or 'PVP' in line:
             writeToPvP = True
 
+        if 'Controller' in line or "controller" in line:
+            writeToController = True
+        
+        
         if len(line) != 1:
-            currentWeapon.append(line)        
+            currentWeapon.append(line)  
+            
         else:
             if writeToPvE:
                 writeToFile(pveFile, currentWeapon)
             if writeToPvP:
                 writeToFile(pvpFile, currentWeapon)
             if not writeToPvE and not writeToPvP:
-                writeToFile(pveFile, currentWeapon)
-                writeToFile(pvpFile, currentWeapon)
+                writeToFile(missingTagFile, currentWeapon)
+                
+            if writeToController:
+                writeToFile(controllerFile, currentWeapon)
+            else:
+                writeToFile(mouseFile, currentWeapon)
+                
+            if writeToPvE and not writeToController:
+                writeToFile(pveMouseFile, currentWeapon)
                     
             currentWeapon = []
             writeToPvE = False
             writeToPvP = False
+            writeToController = False
 
 
