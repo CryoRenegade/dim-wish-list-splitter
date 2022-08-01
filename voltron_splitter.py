@@ -11,7 +11,7 @@ writeToController = False
 mainFile = "./dim-wish-list-sources/voltron.txt"
 
 #main files in main repo
-pveFile = "volton-PvE.txt"
+pveFile = "voltron-PvE.txt"
 pvpFile = "voltron-PvP.txt"
 mouseFile = "voltron-MKB.txt"
 controllerFile = "voltron-Controller.txt"
