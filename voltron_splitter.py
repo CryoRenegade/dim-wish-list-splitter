@@ -2,6 +2,8 @@ currentWeapon = []
 
 writeToPvE = False
 writeToPvP = False
+
+writeToMouse = False
 writeToController = False
 
 mainFile = "./dim-wish-list-sources/voltron.txt"
@@ -48,6 +50,8 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
 
         if 'Controller' in line or "controller" in line:
             writeToController = True
+        if 'MKB' in line or 'mkb' in line or 'M+KB' in line or 'm+kb' in line:
+            writeToMouse = True
         
         
         if len(line) != 1:
@@ -63,15 +67,16 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
                 
             if writeToController:
                 writeToFile(controllerFile, currentWeapon)
-            else:
+            if writeToMouse or not writeToController:
                 writeToFile(mouseFile, currentWeapon)
-                
-            if writeToPvE and not writeToController:
+
+            if writeToPvE and (writeToMouse or not writeToController):
                 writeToFile(pveMouseFile, currentWeapon)
                     
             currentWeapon = []
             writeToPvE = False
             writeToPvP = False
+            writeToMouse = False
             writeToController = False
 
 
