@@ -22,6 +22,11 @@ pvpMouseFile = "voltron-PvP-MKB.txt"
 pveControllerFile = "voltron-PvE-Controller.txt"
 pvpControllerFile = "voltron-PvP-Controller.txt"
 
+#PvE and PvP files
+pvePvPFile = "voltron-PvE-PvP.txt"
+pvePvPMouseFile = "voltron-PvE-PvP-MKB.txt"
+pvePvPControllerFile = "voltron-PvE-PvP-Controller.txt"
+
 #function to open and clean files
 def clearFiles(fileName):
     with open(fileName, mode='w') as clearFile:
@@ -38,6 +43,11 @@ clearFiles(pveMouseFile)
 clearFiles(pvpMouseFile)
 clearFiles(pveControllerFile)
 clearFiles(pvpControllerFile)
+
+#clear Pve + PvP files
+clearFiles(pvePvPFile)
+clearFiles(pvePvPMouseFile)
+clearFiles(pvePvPControllerFile)
 
 #function to write weapon info to file
 def writeToFile(fileName, weaponInfo):    
@@ -103,7 +113,19 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
             
             if writeToPvP and writeToController:
                 writeToFile(pvpControllerFile, currentWeapon)
-                  
+            #------------------------------------
+            #PvE and PvP Combined Flags
+            pvePvPFlag = writeToPvE and writeToPvP
+            
+            if pvePvPFlag:
+                writeToFile(pvePvPFile, currentWeapon)
+                
+            if pvePvPFlag and writeToMouse:
+                writeToFile(pvePvPMouseFile, currentWeapon)
+            
+            if pvePvPFlag and writeToController:
+                writeToFile(pvePvPControllerFile, currentWeapon)
+     
             currentWeapon = []
             writeToPvE = False
             writeToPvP = False
