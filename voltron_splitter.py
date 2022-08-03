@@ -20,6 +20,7 @@ pveFlag = False
 pvpFlag = False
 mkbFlag = False
 ctrFlag = False
+dimFlag = False
 
 listSettings = [
                 {
@@ -94,7 +95,7 @@ def checkWrite():
             if eval(listParams["flags"]) or listParams["searchFlag"]:
                 writeToFile(listParams["FileName"], lineCollection)
                 
-            if not (pveFlag or pvpFlag or mkbFlag or ctrFlag):
+            if not dimFlag:
                 writeToFile(listParams["FileName"], lineCollection)
         
         listParams["searchFlag"] = False
@@ -113,6 +114,8 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
                 mkbFlag = True
             if 'controller' in line.lower():
                 ctrFlag = True
+            if 'dimwishlist:item' in line.lower():
+                dimFlag = True
             
             for listParams in listSettings:
                 if any(i in line.lower() for i in listParams["search"]):
@@ -126,6 +129,7 @@ with open(mainFile, mode='r', encoding='utf-8') as f:
             pvpFlag = False
             mkbFlag = False
             ctrFlag = False
+            dimFlag = False
             
             lineCollection = []
         
