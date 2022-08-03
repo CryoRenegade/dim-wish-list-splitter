@@ -1,3 +1,9 @@
+title:This is a compiled collection of god/recommended rolls from top community minds.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+title:u/pandapaxxy's Duality Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
+
 // Lingering Dread
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could try for chill clip but I think the utility of demolitionist for potentially shooting twice in quick succession is better. You’ll also need to have good aim to get those direct hits. Whereas with demolitionist if you do happen to get a kill with Lingering Dread you’ll just get some of your grenade cooldown knocked off. Proximity grenades are the best in slot for demoltionist, but if you wanted the alternative high-velocity rounds for getting the grenade to targets with chill clip is the way to go." Recommended MW - Velocity.|tags:pvp,mkb,controller
 dimwishlist:item=2026087437&perks=3525010810,409831596,3300816228,3523296417
@@ -141,6 +147,9 @@ dimwishlist:item=3652506829&perks=1467527085,689005463,744594675,3523296417
 dimwishlist:item=3652506829&perks=1840239774,2969185026,744594675,3523296417
 dimwishlist:item=3652506829&perks=202670084,2969185026,744594675,3523296417
 dimwishlist:item=3652506829&perks=1467527085,2969185026,744594675,3523296417
+
+title:u/pandapaxxy's Seasonal Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5euj8/seasonal_weapons_season_of_the_haunted/
 
 // Austringer
 //notes:pandapaxxy (PvP / M+KB): "You can either go for Eyasluna with rangefinder and moving target for max aim assist and incredible range. Or Austringer with eye of the storm and rangefinder for better aim assist at low health. Neither one is objectively better than the other, but how you play will determine which hand cannon is better for you. Having enhanced perks is a definite favor for Austringer, but it does not make Austringer blow Eyasluna right out of the water." Recommended MW - Range.|tags:pvp,mkb
@@ -339,6 +348,9 @@ dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,2978966579
 dimwishlist:item=1959650777&perks=1441682018,2822142346,3977735242,2978966579
 dimwishlist:item=1959650777&perks=3525010810,2822142346,3977735242,2978966579
 dimwishlist:item=1959650777&perks=1478423395,2822142346,3977735242,2978966579
+
+title:u/pandapaxxy's Vendor Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5etqg/vendor_weapons_season_of_the_haunted/
 
 // Chain of Command
 //notes:pandapaxxy (PvP / M+KB / Controller): "For PvP there aren’t too many times a neutral machine gun is a top choice. [...] I would just stay away from Chain of Command for PvP. You’re better off using something else." Recommended MW - Range.|tags:pvp,mkb,controller
@@ -747,6 +759,9 @@ dimwishlist:item=2345794502&perks=3250034553,1561002382,744594675,247725512
 dimwishlist:item=2345794502&perks=1840239774,1885400500,744594675,247725512
 dimwishlist:item=2345794502&perks=3250034553,1885400500,744594675,247725512
 
+title:u/pandapaxxy's World Drops / Season Pass, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5ev69/world_drops_season_pass_season_of_the_haunted/
+
 // Enyo-D
 //notes:pandapaxxy (PvP / M+KB): "Where I’ve heard the most chatter around Enyo-D is in the Crucible. People are calling it the Antiope-D 2.0 or the kinetic Shayura’s Wrath. I think both are true, but the Enyo-D still has some shortcomings when it comes to comparing against the both. Enyo-D does not have kill clip. Multikill clip is fine and good, but the immediate 33% damage bonus is incredible on any precision frame smg. Enyo-D also has less zoom than both. The zoom field has been condensed, but the 16 zoom smgs will still be some of the best out of the gate. Steady hands also brings up one of Enyo-D’s weakest stats and makes it feel incredibly fluid. Keep an eye out for this one." Recommended MW - Range.|tags:pvp,mkb
 dimwishlist:item=1601177201&perks=202670084,3142289711,509074078,2458213969
@@ -867,6 +882,11 @@ dimwishlist:item=1478986057&perks=1047830412,3142289711,1866048759,3511092054
 dimwishlist:item=1478986057&perks=1300023272,3142289711,1866048759,3511092054
 dimwishlist:item=1478986057&perks=1047830412,791862061,1866048759,3511092054
 dimwishlist:item=1478986057&perks=1300023272,791862061,1866048759,3511092054
+
+@title:Opulent weapons
+@description:Reprised weapons with To Excess origin perk from Leviathan Opulent Key chests and Duality Dungeon
+
+// originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep18-reprised-opulent-weapons.txt
 
 // Austringer (PvE first choice roll)
 // Corkscrew Rifling, (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds, Flared Magwell), (Outlaw Enhanced, Outlaw), (Frenzy Enhanced, Frenzy)
@@ -1069,8 +1089,20 @@ dimwishlist:item=3055790362&perks=4090651448,3230963543,3400784728,3523296417
 dimwishlist:item=3055790362&perks=1482024992,3230963543,3400784728,3523296417
 dimwishlist:item=3055790362&perks=3250034553,3230963543,3400784728,3523296417
 
+title:Season 17 Solstice of Heroes weapons
+description:New and reprised weapons dropping from Season 17 (Haunted) Solstice event
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep24-s17-solstice-weapons.txt
+
+title:Selected Dreaming City weapons
+description:Selected weapons from Dreaming City destinations and activities as at Destiny Update 4.1.5
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep23-selected-dreaming-city-weapons.txt
+
 title:S-Tier Hand Cannons and rolls recommended by @illPhysics
 description:PvP hand cannon picks as at S17 from the discussion between Kyt and illPhysics
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep263-s-tier-hand-cannons.txt
 
 // Dire Promise (PvP first-choice roll)
 // (Steadyhand HCS, Fastdraw HCS, Hitmark HCS), Ricochet Rounds, Snapshot Sights, Rangefinder
@@ -1292,6 +1324,8 @@ dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,862848869
 title:S-Tier Sub-machine guns and rolls recommended by @pattycakesGG
 description:PvP SMG picks as at S17 from the discussion between Kyt and Pattycakes
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep264-s-tier-smgs.txt
+
 // Shayura's Wrath (PvP first-choice roll)
 // Full Bore, Accurized Rounds, (Killing Wind, Tunnel Vision), Kill Clip
 //notes:Inspired by DMB Podcast 264 conversation with @pattycakesGG. PvP first-choice S-Tier roll for kill-chaining. Not available as at S17 unfortunately, but arguably the strongest legendary PvP SMG in the game. Strong stats - almost auto-rifle range is possible. Push out the range as far as you can, even to the detriment of stability with barrel, mag and masterwork - this is a precision frame with 95 recoil direction, so it fires straight up and down, and a 16 zoom scope helps constrain bullet spread when ADS. Killing Wind adds a host of boosts including more range or Tunnel Vision adds bonus Aim Assist after a kill, at which point Kill Clip reduces both optimal and body shot TTK by 25%. Masterwork: Range, with a Sprint Grip or Quick Access Sling, if you're playing aggressively, an Icarus Grip mod to build on the already good Airborne Effectiveness stat, or a Targeting Adjustor for more passive playstyles.|tags: pvp, pvp-god, pvp-chain, controller, mkb
@@ -1400,6 +1434,8 @@ dimwishlist:item=2488587246&perks=202670084,1885400500,2451262963,591790007
 title:Glaive roll recommendations with @legoleflash
 description:PvP Glaive picks as at S17 Update 4.1.5 from the discussion between Kyt and Legoleflash
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep266-glaives.txt
+
 // The Enigma (PvP first-choice roll)
 // Ballistic Tuning, Accurized Rounds, Impulse Amplifier, Unstoppable Force
 //notes:Inspired by DMB Podcast 266 conversation with @legoleflash. PvP first-choice roll for duelling. Get the range up to 80-85 with Haft and Mag, then Impulse Amplifier improves your bolt speed further, and adds a little to the slow reload speed. Unstoppable Force adds 30% if you take damage to your shield, which can help finish off opponents with Restoration effects active. Masterwork: Range, with a Freehand Grip mod - this pairs well with a Glaive Targeting mod on your helmet.|tags: pvp, pvp-god, pvp-duel, controller, mkb
@@ -1466,8 +1502,20 @@ dimwishlist:item=1466006054&perks=1263609309,3142289711,3800201097,2224838837
 dimwishlist:item=254636484&perks=1263609309,3142289711,951095735,2224838837
 dimwishlist:item=254636484&perks=1934171651,3142289711,951095735,2224838837
 
+@title:Playlist weapons
+@description:Season 17 returning and new playlist (Vanguard, Nightfall, Crucible, Iron Banner, Trials of Osiris, and Gambit) weapons
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep20-playlist-weapons.txt
+
+title:Duality Dungeon weapons
+description:New Duality weapons with the Bitterspite origin perk
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep19-duality-weapons.txt
+
 title:S-Tier Sniper rifles and rolls recommended by @ItzShadow
 description:PvP sniper rifle picks as at S17 from the discussion between Kyt and Shadow
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep262-s-tier-sniper-rifles.txt
 
 // Eye of Sol (PvP first-choice roll)
 // Hammer-Forged Rifling, Accurized Rounds, Snapshot Sights, Opening Shot
@@ -1592,6 +1640,16 @@ dimwishlist:item=4164201232&perks=3250034553,3142289711,2866798147,957782887
 //notes:Inspired by DMB Podcast 262 conversation with @ItzShadow. PvP first-choice S-Tier roll for duelling. Decent across-the-board stats and a mid-strength zoom, but the origin trait's not really any use in PvP, unfortunately. Look for range with barrel and mag, without damaging other stats. Heating Up can help with chaining kills in 6s, while Snapshot Sights is still useful to be first to ADS. Recommended MW: Range, with a Targeting Adjuster mod if you're more passive or Quick Access Sling mod if you're more aggressive.|tags: pvp, pvp-god, pvp-chain
 dimwishlist:item=4164201232&perks=3250034553,3142289711,1570042021,957782887
 
+title:Season 17 Foundry weapons
+description:Season of the Haunted Foundries New weapons
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep22-season-17-foundry-new-weapons.txt
+
+@title:Haunted weapons
+@description:Seasonal weapons from Season 17 (Haunted) with the Extrovert origin perk
+
+// originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep261-haunted-weapons.txt
+
 // Firefright (PvP first choice roll)
 // Hammer-Forged Rifling, Ricochet Rounds, (Hip-Fire Grip Enhanced, Hip-Fire Grip), (Elemental Capacitor Enhanced, Elemental Capacitor)
 //notes:Inspired by DMB Podcast 261. PvP first-choice roll for duelling. Shapeable. The Extrovert origin perk is most useful for CQC (within 15m). Precision frame, so you don't need to worry about recoil direction. Invest in range without harming other stats, and then, in the trait slots, Hip-Fire grip improves usability close-up and Elemental Capacitor, especially running an Arc subclass providing a big handling bump, helps with a stat boost (but stability from Void or improved recoil direction and ADS speed from Stasis aren't bad too bad either). Recommended MW: Range, with a Freehand Grip mod, to double down on hip-fire, or an Icarus Grip mod gets the Airborne Effectiveness to 31, which makes Firefright a jack of all trades - usable in the air, as well as at mid-range while ADS or closer up while hip-firing.|tags:pvp
@@ -1700,6 +1758,8 @@ dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,598607952
 dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,2396489472
 dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,2396489472
 
+title:u/pandapaxxy's Guardian Games 2022 breakdown
+
 // The Title
 //notes:pandapaxxy (M+KB / PvP): "For PvP I think the Title outclasses most SMGs but falls short in lethality. The best damage perk you have is swashbuckler, which, while fine, falls short of kill clip or multikill clip. It will be interesting to see how the meta shifts with the SMG rework and shotgun nerfs coming. If a more neutral SMG is what really starts to shine." Recommended MW - Range.|tags:mkb,pvp
 dimwishlist:item=294129361&perks=1467527085,1561002382,509074078,588594999
@@ -1750,6 +1810,9 @@ dimwishlist:item=294129361&perks=1467527085,1885400500,4071163871,4082225868
 dimwishlist:item=294129361&perks=3250034553,1885400500,4071163871,4082225868
 dimwishlist:item=294129361&perks=1482024992,1885400500,4071163871,4082225868
 dimwishlist:item=294129361&perks=2420895100,1885400500,4071163871,4082225868
+
+title:u/pandapaxxy's Vow of the Disciple Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhd6k/vow_of_the_disciple_weapons_season_of_the_risen/
 
 // Deliverance (Adept)
 //notes:pandapaxxy (PvP / M+KB / Controller): "For PvP Deliverance is more of a “kinetic” Likely Suspect than it is a “kinetic” Main Ingredient. That being said, it does now allow players the ability to use other weapons and create some loadout diversity. Demolitionist and tap the trigger are extremely strong pairings together. Successful warm-up is also good if you want to go on sprees, but the consistency of tap the trigger (even post nerf) is hard to pass up.". Recommended MW - Stability.|tags:pvp,mkb,controller
@@ -1966,6 +2029,9 @@ dimwishlist:item=999767358&perks=3250034553,689005463,2172504645,2213355989
 dimwishlist:item=999767358&perks=1840239774,2969185026,2172504645,2213355989
 dimwishlist:item=999767358&perks=839105230,2969185026,2172504645,2213355989
 dimwishlist:item=999767358&perks=3250034553,2969185026,2172504645,2213355989
+
+title:u/pandapaxxy's PsiOps and World Drop Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhbos/psiops_and_world_drop_weapons_season_of_the_risen/
 
 // Piece of Mind
 //notes:pandapaxxy (PvP / M+KB): "Time-Worn Spire has better range and consistency perks, while you really need arrowhead break to clean up the recoil direction to a usable degree. It does allow for other consistency in the form of perpetual motion and moving target or elemental capacitor; it falls just a little short compared to the zoom of Time-Worn Spire. Both are equally good options." Recommended MW: Range.|tags:pvp,mkb
@@ -2403,6 +2469,9 @@ dimwishlist:item=3568377122&perks=1844523823,409831596,3523296417,11612903
 dimwishlist:item=3568377122&perks=3525010810,409831596,3523296417,11612903
 dimwishlist:item=3568377122&perks=1478423395,409831596,3523296417,11612903
 
+title:u/pandapaxxy's Faction Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhb2m/faction_weapons_season_of_the_risen/
+
 // Reckless Endangerment
 //notes:pandapaxxy (PvE / PvP / M+KB / Controller): "In PvE there are just better shotguns, where a neutral, high-handling weapon just will not fit the bill. In Reckless Endangerment’s benefit is how smooth it feels to use. No other shotgun really comes close to how fluid this feels without any investment. [...] Crucible is where Reckless Endangerment can really flex [...] Having a shotgun that you don’t really have to invest in to make it feel fluid gives new players and people uncomfortable with PvP a shotgun to compete with. The obvious comparison is Riiswalker and I do think Riiswalker takes the cake over Reckless Endangerment in all forms of PvP. That being said, you can use Reckless Endangerment and hang with Riiswalker without feeling like a detriment to your team or yourself.". Recommended MW - Handling.|tags:pve,pvp,mkb,controller
 dimwishlist:item=3216652511&perks=1047830412,791862061,1428297954,957782887
@@ -2803,6 +2872,9 @@ dimwishlist:item=1796949035&perks=3666208348,52780822,3108830275,2726471870
 dimwishlist:item=1796949035&perks=2827049491,52780822,3108830275,2726471870
 dimwishlist:item=1796949035&perks=938542991,52780822,3108830275,2726471870
 
+title:u/pandapaxxy's Exotic Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfha13/exotic_weapons_season_of_the_risen/
+
 // Edge of Action
 //notes:pandapaxxy (PvE / PvP / M+KB / Controller)|tags:pve,pvp,mkb,controller
 dimwishlist:item=2535142413&perks=2713678205,3721627275,2379536009,1067908860
@@ -2854,6 +2926,9 @@ dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,1067908860
 dimwishlist:item=46524085&perks=1482024992,3142289711,4015745376,1067908860
 dimwishlist:item=46524085&perks=1840239774,3142289711,4015745376,3465198467
 dimwishlist:item=46524085&perks=1482024992,3142289711,4015745376,3465198467
+
+title:u/pandapaxxy's Enclave and Wellspring Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhcoq/enclave_and_wellspring_weapons_season_of_the_risen/
 
 // Empirical Evidence
 //notes:pandapaxxy (PvP / M+KB / Controller): "Within PvP the aggressive burst sidearms are extremely consistent. Swashbuckler will change the time to kill but even at lower stacks it will make it far easier to secure those three burst kills, or artificially extend your ranges. As long as you can maintain bursts on target this sidearm will do you well, not meta shattering well, but will definitely take some people by surprise." Recommended MW: Range.|tags:pvp,mkb,controller
@@ -3213,6 +3288,11 @@ dimwishlist:item=2721157927&perks=1844523823,409831596,2450788523,2396489472
 dimwishlist:item=2721157927&perks=3525010810,409831596,2450788523,2396489472
 dimwishlist:item=2721157927&perks=1478423395,409831596,2450788523,2396489472
 
+title:Vow of the Disciple Raid weapons
+description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep9-vow-of-the-disciple-raid-weapons.txt
+
+description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep8-witch-queen-dlc-weapons.txt
+
 // Empirical Evidence (PvE first choice roll)
 // Any Barrel, Any Mag, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
 //notes:Inspired by DMB Player Versus Enemies Podcast 8. Shapeable through the Mars Relic. PvE first choice roll for general content. Probably more of a PvP weapon, looking at the perks. Barrel and mag depend on your range/stability/handling/reload speed and combat perk (Armor-Piercing or High-Calibre Rounds) preferences. Perpetual Motion passively improves gun feel. You're likely to be in CQC, so Swashbuckler is the obvious damage boost perk. Recommended MW: your choice to round out barrel and mag perks, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
@@ -3248,6 +3328,23 @@ dimwishlist:item=2607304614&perks=1428297954,2675361166
 dimwishlist:item=2607304614&perks=2014892510,2675361166
 dimwishlist:item=2607304614&perks=2946784966,2675361166
 dimwishlist:item=2607304614&perks=987673306,2675361166
+
+@title:Triumph Weapon
+@description:From completing the Chief Investigator Triumph and then world drops
+
+@title:The Wellspring - Witch Queen DLC six-man activity - weapons
+
+@title:Throne World Weapons
+@description:Dropping from Savathun's Throne World engrams
+
+title:Nightfall weapons part 2 and Hakke foundry
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt 
+
+title:Nightfall weapons part 3 and Omolon foundry
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep12-nightfall-pt3-and-omolon-weapons.txt
+
+title:Suros foundry weapons
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep13-suros-foundry-weapons.txt
 
 // Syncopation-53 (PvE first choice roll)
 // (Arrowhead Brake, Chambered Compensator, Extended Barrel), Any mag, (Outlaw, Outlaw Enhanced), (Headstone, Headstone Enhanced)
@@ -3297,6 +3394,11 @@ dimwishlist:item=2856514843&perks=1347741687,4104185692
 dimwishlist:item=2856514843&perks=1168162263,3007133316
 dimwishlist:item=2856514843&perks=1347741687,3007133316
 
+title:Guardian Games 2022 and Trials of Osiris weapon
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep14-guardian-games-2022-and-trials-of-osiris-weapons.txt
+
+title:YeezyGT's S16
+
 // Ancient Gospel - [YeezyGT's S16] (pvp)
 //notes: [YeezyGT's S16] [MW: Range] "Ancient Gospel can be fantastic - just its base stat package isn't great versus other options in-slot. If all the stars align, and you can nail down Accurized, Range masterwork, and a Range-oriented barrel, you're onto a very unique, very strong competitor. The slim perk pool is filled with great combinations (Eye of the Storm/Kill Clip, EotS/Rangefinder, Rapid Hit/RF, Rapid Hit/Kill Clip) that can make for a fantastic gun - its main shortcoming just stems from how you obtain it, being a random chance from one encounter in a non-farmable Raid that the casual playerbase isn't that keen on." tags:pvp
 dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,1015611457
@@ -3315,6 +3417,81 @@ dimwishlist:item=48643186&perks=1467527085,3142289711,247725512,1015611457
 dimwishlist:item=48643186&perks=1467527085,3142289711,247725512,2846385770
 dimwishlist:item=48643186&perks=1467527085,3142289711,699525795,1015611457
 dimwishlist:item=48643186&perks=1467527085,3142289711,699525795,2846385770
+
+// Riiswalker - [YeezyGT's S16] ()
+//notes: [YeezyGT's S16] [MW: Range] "Iron Reach is the main draw to Riiswalker, which gives it an enormous +18 Range. You have a variety of good options in Quickdraw/Surplus, if you're someone who exclusively hip-fires, then Hip-Fire Grip is pretty strong too. Firmly Planted works mid-slide, so is more-or-less an ape's best friend."
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,4082225868
+dimwishlist:item=108221785&perks=1047830412,3142289711,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,3436462433,4082225868
+dimwishlist:item=108221785&perks=1047830412,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,1866048759,4082225868
+dimwishlist:item=108221785&perks=1047830412,3142289711,280464955,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,280464955,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,1866048759,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,280464955,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,280464955,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,706527188,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,3436462433,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,1866048759,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,280464955,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,280464955,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,3436462433,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,3436462433,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,1866048759,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,280464955,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,280464955,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,706527188,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,3436462433,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,1866048759,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,280464955,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,280464955,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,706527188,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,3436462433,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,3436462433,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,1866048759,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,1866048759,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,280464955,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,280464955,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,3436462433,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,3436462433,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,1866048759,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,280464955,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,280464955,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,706527188,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,3436462433,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,1866048759,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,280464955,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,280464955,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,706527188,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,3436462433,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,3436462433,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,1866048759,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,1866048759,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,280464955,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,280464955,4082225868
 
 // Eyasluna - [YeezyGT's S16] (god-pvp)
 //notes: [YeezyGT's S16] [MW: Range] "Eyasluna is utterly fantastic. There are so many viable rolls on this that your best bet is to just go out and try them - what works for you may be completely different to everyone else. If you want some guidance; Col. 2: [Ricochet for stats, High-Cal/Armor Piercing for flinch], Col. 3: [Rangefinder for Zoom, Perpetual for constant buffs, Rapid Hit for ensuring you win the fights you start], Col 4: [Headstone for Stasis, Kill Clip for slaying in sixes, Moving Target for Aim Assist]. This is probably the easiest gun farm we've ever had, and for a great variable Hand Cannon that you can build to your preference. Give it a go." tags:god-pvp
@@ -10350,6 +10527,11 @@ dimwishlist:item=4248569242&perks=4090651448,791862061,1866048759,588594999
 dimwishlist:item=4248569242&perks=4090651448,791862061,1866048759,957782887
 dimwishlist:item=4248569242&perks=4090651448,791862061,1866048759,2450788523
 
+// sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
+
+@title:Vow of the Disciple Raid weapons
+@description:Raid weapons from Witch Queen, Season 16 (Risen)
+
 // Insidious (PvP first choice roll)
 // Chambered Compensator, Accurized Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
@@ -11004,6 +11186,11 @@ dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,2224838837
 dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,3102670337
 dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,3102670337
 
+title:Nightfall weapons part 1
+description:Sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
+
+@title:Veist Foundry weapons
+
 // Redback-5si (PvE backup roll)
 // Any barrel, (Accurized ROunds, Steady Rounds, Alloy Mag, Flared Magwell), Perpetual Motion, Surrounded
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so choose something else. Perpetual Motion and Surrounded should work well together. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
@@ -11030,6 +11217,8 @@ dimwishlist:item=1687353095&perks=3142289711,1583705720,3425386926
 dimwishlist:item=1687353095&perks=3177308360,1583705720,3425386926
 dimwishlist:item=1687353095&perks=1431678320,1583705720,3425386926
 dimwishlist:item=1687353095&perks=3230963543,1583705720,3425386926
+
+title:YeezyGT's WQ
 
 // Cantata-57 - [YeezyGT's WQ] (god-pvp)
 //notes: [YeezyGT's WQ] [MW: Range / Stab] "Cantata's taken the new season by storm. With access to S-Tier perks like Eye of the Storm / Opening Shot, Rapid Hit / Rangefinder, Vorpal swappables, Timed Payload for flinch, Moving Target for Aim Assist - there's something here for everyone. Invest into Range where possible when not using Rangefinder, and try to find the stability kick that works for you. Feels somewhat similar to Waking Vigil, which is a bit of an acquired taste." tags:god-pvp
@@ -19017,6 +19206,10 @@ dimwishlist:item=4225322581&perks=4090651448,679225683,843318450,711234314,16070
 dimwishlist:item=4225322581&perks=4090651448,679225683,843318450,4104185692,1607056502
 dimwishlist:item=4225322581&perks=4090651448,679225683,843318450,3007133316,1607056502
 
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep2-nightfall-reprised-weapons.txt
+title:Season 15 Vanguard Nightfall weapons
+notes:Reprised D1 weapons dropping from Nightfall completions
+
 // The Palindrome (PvE first choice roll)
 // Smallbore, Appended Mag, Overflow, One for All
 //notes:Inspired by DMB Player Versus Enemies Podcast 2. PvE first choice roll for end game content. The traits are more aimed at PvP than PvE, but One for All gives a sizable 35% damage boost that can be reliably procced in end game content without having to get a kill, while Appended Mag and Overflow combine well to help with staying in the fight. Recommended MW: Reload Speed or Stability, with Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.
@@ -19304,6 +19497,11 @@ dimwishlist:item=1481892490&perks=1392496348,1885400500,1820235745,3108830275
 dimwishlist:item=1481892490&perks=1482024992,1885400500,1820235745,3108830275
 dimwishlist:item=1481892490&perks=1840239774,1885400500,1820235745,3108830275
 dimwishlist:item=1481892490&perks=4090651448,1885400500,1820235745,3108830275
+
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep241-reprised-dawning-weapons.txt
+
+title:Reprised Dawning weapons
+description:Season 15 (Season of the Lost) Dawning weapons
 
 // Cold Front (PvP first choice roll)
 // (Polygonal Rifling, Chambered Compensator, Smallbore), (Tactical Mag, Flared Magwell), Dynamic Sway Reduction, Harmony
@@ -19770,6 +19968,8 @@ dimwishlist:item=2139640995&perks=3666208348,3625355092,3523296417,1685431615
 dimwishlist:item=2139640995&perks=2827049491,3625355092,3523296417,1685431615
 dimwishlist:item=2139640995&perks=938542991,3625355092,3523296417,1685431615
 
+title:YeezyGT's S16
+
 // Ancient Gospel - [YeezyGT's S16] (pvp)
 //notes: [YeezyGT's S16] [MW: Range] "Ancient Gospel can be fantastic - just its base stat package isn't great versus other options in-slot. If all the stars align, and you can nail down Accurized, Range masterwork, and a Range-oriented barrel, you're onto a very unique, very strong competitor. The slim perk pool is filled with great combinations (Eye of the Storm/Kill Clip, EotS/Rangefinder, Rapid Hit/RF, Rapid Hit/Kill Clip) that can make for a fantastic gun - its main shortcoming just stems from how you obtain it, being a random chance from one encounter in a non-farmable Raid that the casual playerbase isn't that keen on." tags:pvp
 dimwishlist:item=48643186&perks=3250034553,3142289711,247725512,1015611457
@@ -19788,6 +19988,81 @@ dimwishlist:item=48643186&perks=1467527085,3142289711,247725512,1015611457
 dimwishlist:item=48643186&perks=1467527085,3142289711,247725512,2846385770
 dimwishlist:item=48643186&perks=1467527085,3142289711,699525795,1015611457
 dimwishlist:item=48643186&perks=1467527085,3142289711,699525795,2846385770
+
+// Riiswalker - [YeezyGT's S16] ()
+//notes: [YeezyGT's S16] [MW: Range] "Iron Reach is the main draw to Riiswalker, which gives it an enormous +18 Range. You have a variety of good options in Quickdraw/Surplus, if you're someone who exclusively hip-fires, then Hip-Fire Grip is pretty strong too. Firmly Planted works mid-slide, so is more-or-less an ape's best friend."
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,4082225868
+dimwishlist:item=108221785&perks=1047830412,3142289711,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,3436462433,4082225868
+dimwishlist:item=108221785&perks=1047830412,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,1866048759,4082225868
+dimwishlist:item=108221785&perks=1047830412,3142289711,280464955,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,280464955,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,1866048759,4082225868
+dimwishlist:item=108221785&perks=1047830412,791862061,280464955,591790007
+dimwishlist:item=108221785&perks=1047830412,791862061,280464955,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,706527188,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,3436462433,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,1866048759,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,1866048759,4082225868
+dimwishlist:item=108221785&perks=1047830412,679225683,280464955,591790007
+dimwishlist:item=108221785&perks=1047830412,679225683,280464955,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,3436462433,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,3436462433,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,1866048759,4082225868
+dimwishlist:item=108221785&perks=1482024992,3142289711,280464955,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,280464955,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,706527188,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,3436462433,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,1866048759,4082225868
+dimwishlist:item=108221785&perks=1482024992,791862061,280464955,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,280464955,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,706527188,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,3436462433,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,3436462433,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,1866048759,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,1866048759,4082225868
+dimwishlist:item=108221785&perks=1482024992,679225683,280464955,591790007
+dimwishlist:item=108221785&perks=1482024992,679225683,280464955,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,3436462433,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,3436462433,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,1866048759,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,1866048759,4082225868
+dimwishlist:item=108221785&perks=4090651448,3142289711,280464955,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,280464955,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,706527188,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,3436462433,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,3436462433,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,1866048759,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,1866048759,4082225868
+dimwishlist:item=108221785&perks=4090651448,791862061,280464955,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,280464955,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,706527188,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,3436462433,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,3436462433,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,1866048759,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,1866048759,4082225868
+dimwishlist:item=108221785&perks=4090651448,679225683,280464955,591790007
+dimwishlist:item=108221785&perks=4090651448,679225683,280464955,4082225868
 
 // Eyasluna - [YeezyGT's S16] (god-pvp)
 //notes: [YeezyGT's S16] [MW: Range] "Eyasluna is utterly fantastic. There are so many viable rolls on this that your best bet is to just go out and try them - what works for you may be completely different to everyone else. If you want some guidance; Col. 2: [Ricochet for stats, High-Cal/Armor Piercing for flinch], Col. 3: [Rangefinder for Zoom, Perpetual for constant buffs, Rapid Hit for ensuring you win the fights you start], Col 4: [Headstone for Stasis, Kill Clip for slaying in sixes, Moving Target for Aim Assist]. This is probably the easiest gun farm we've ever had, and for a great variable Hand Cannon that you can build to your preference. Give it a go." tags:god-pvp
@@ -26823,6 +27098,13 @@ dimwishlist:item=4248569242&perks=4090651448,791862061,1866048759,588594999
 dimwishlist:item=4248569242&perks=4090651448,791862061,1866048759,957782887
 dimwishlist:item=4248569242&perks=4090651448,791862061,1866048759,2450788523
 
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep240-selected-30th-anniversary-weapons.txt
+
+title:Season 15 (Season of the Lost) Selected Grasp of Avarice weapon rolls
+description:Xûr activity, reputation and cache chest legendary weapons
+
+// First choice rolls
+
 // BxR-55 Battler (PvP first choice roll)
 // Arrowhead Brake, (Flared Magwell, Ricohet Rounds), Perpetual Motion, Kill Clip
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 240. PvP first choice roll for damage chaining (6s). Intrinsic hipfiring frame perk gives great flexibility, even if the TTK isn't S-Tier (as at the 30th Anniversary sandbox). Recommended MW: Stability or Range with Hip-Fire Grip mod or Icarus Grip mod depending on play style.
@@ -26835,6 +27117,8 @@ dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
 dimwishlist:item=2708806099&perks=839105230,3230963543,1428297954,699525795
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,699525795
 
+// Range rolls for M&K
+
 // BxR-55 Battler (PvP first choice roll)
 // Hammer-Forged Rifling, Accurized Rounds, Perpetual Motion, Kill Clip
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 240. PvP first choice roll for damage chaining (6s) on M&K. Intrinsic hipfiring frame perk gives great flexibility, even if the TTK isn't S-Tier (as at the 30th Anniversary sandbox). Recommended MW: Stability or Range with Hip-Fire Grip mod or Icarus Grip mod depending on play style.
@@ -26844,6 +27128,8 @@ dimwishlist:item=2708806099&perks=3250034553,3142289711,1428297954,1015611457
 // Hammer-Forged Rifling, Accurized Rounds, Perpetual Motion, Eye Of The Storm
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 240. PvP first choice roll for duelling (3s) on M&K. Intrinsic hipfiring frame perk gives great flexibility, even if the TTK isn't S-Tier (as at the 30th Anniversary sandbox). Recommended MW: Stability or Range with Hip-Fire Grip mod or Icarus Grip mod depending on play style.
 dimwishlist:item=2708806099&perks=3250034553,3142289711,1428297954,699525795
+
+// Backup rolls - aim for 85 stability then range (Perpetual Motion will max stability when active)
 
 // BxR-55 Battler (PvP backup roll)
 // (Polygonal Rifling, Smallbore, Chambered Compensator), Steady Rounds, Perpetual Motion, Kill Clip with Range MW
@@ -26900,6 +27186,8 @@ dimwishlist:item=2708806099&perks=1392496348,3230963543,1428297954,699525795
 // Fluted Barrel, Ricochet Rounds, Perpetual Motion, Eye Of The Storm with Stability MW
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 240. PvP backup roll for duelling (3s). Intrinsic hipfiring frame perk gives great flexibility, even if the TTK isn't S-Tier (as at the 30th Anniversary sandbox). Recommended MW: Stability with Hip-Fire Grip mod or Icarus Grip mod depending on play style.
 dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,699525795
+
+// General mixed perks
 
 // BxR-55 Battler (PvP backup roll)
 // (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore Hammer-Forged Rifling), (Ricochet Rounds, Flared Magwell, Accurized Rounds, Steady Rounds), (Perpetual Motion, Killing Wind), (Kill Clip, Blunt Execution Rounds, Eye Of The Storm)
@@ -27056,6 +27344,11 @@ dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,438098033
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 240. PvP backup roll. For super-aggressive playstyles where you can use the bonus mobilty to get within kissing distance for the kill. Recommended MW: Handling with Sprint Grip or Quick Access Sling mod.
 dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,2450788523
+
+decription: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep238-selected-world-weapons.txt
+
+title:Season 15 (Season of the Lost) World drop weapon rolls
+description:World pool legendary weapon rolls
 
 // Annual Skate (PvP first choice roll)
 // SteadyHand HCS, Accurized Rounds, Tunnel Vision, Multikill Clip
@@ -27273,6 +27566,9 @@ dimwishlist:item=3743729616&perks=839105230,3142289711,1645158859,957782887
 dimwishlist:item=3743729616&perks=1840239774,3142289711,588594999,957782887
 dimwishlist:item=3743729616&perks=839105230,3142289711,588594999,957782887
 
+title:Season 13 (Season of the Chosen) World drop weapon rolls
+description:World pool legendary weapon rolls
+
 // Cartesian Coordinate (PvP first choice roll)
 // (Red Dot Micro, Red Dot 2 MOA), (Accelerated Coils, Particle Repeater), Under Pressure, High-Impact Reserves
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 238. PvP first choice roll. Very good option in the right hands. Recommended MW: Charge Rate or Stability with Targeting Adjuster or Icarus Grip mod, or Counterbalance Stock mod if you need it to help control recoil.
@@ -27304,6 +27600,11 @@ dimwishlist:item=2481881293&perks=2405638014,689005463,2039302152,1546637391
 dimwishlist:item=2481881293&perks=2405638015,689005463,2039302152,1546637391
 dimwishlist:item=2481881293&perks=2405638014,3868766766,2039302152,1546637391
 dimwishlist:item=2481881293&perks=2405638015,3868766766,2039302152,1546637391
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep235-activity-weapons.txt
+
+title:Season 15 (Season of the Lost) Activity weapon rolls
+description:Weapons dropping at the end of Crucible, Gambit and Vanguard activities
 
 // Sorrow's Verse (PvP first choice roll)
 // Arrowhead Brake, Accurized Rounds, Tunnel Vision, Multikill Clip
@@ -27563,6 +27864,11 @@ dimwishlist:item=378498222&perks=1482024992,1885400500,2846385770,438098033
 dimwishlist:item=378498222&perks=1392496348,1885400500,2846385770,438098033
 dimwishlist:item=378498222&perks=1482024992,1885400500,2946784966,438098033
 dimwishlist:item=378498222&perks=1392496348,1885400500,2946784966,438098033
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep234-vault-of-glass-weapons.txt
+
+title:Season 14 (Season of the Chosen) Vault of Glass rolls
+description:Reprised weapons from Vault of Glass Raid
 
 // Found Verdict (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling
@@ -27843,6 +28149,11 @@ dimwishlist:item=3796510434&perks=1392496348,106909392,1359896290,1890422124
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Targeting Adjuster mod.
 dimwishlist:item=3796510434&perks=1392496348,2420895100,1359896290,1890422124
 
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep233-reprised-trials-of-the-nine-weapons.txt
+
+@title:Season 15 Reissued Trials of the Nine weapons
+@notes:Drop from the Propecy dungeon - Darkest Before pulse rifle covered in podcast 232
+
 // Judgment (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvP first choice roll for 6s - although Palindrome has better base stats, so go farm that for PvP if you like this! Recommended MW: Range with Icarus Grip or Targeting Adjuster mod.
 dimwishlist:item=1476654960&perks=1926090094,3230963543,2946784966,2458213969
@@ -27997,6 +28308,11 @@ dimwishlist:item=2855157553&perks=1047830412,3142289711,3161816588,957782887
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE backup roll - arc class with Elemental Capacitor for the handling boost. Recommended MW: Handling or Reload Speed.
 dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
 dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep232-rapid-fire-pulse-rifles.txt
+
+title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
+description:Weapons roundup as at S15 Festival of the Lost
 
 // Jurassic Green (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 232. PvP first choice roll - although objectively the worst stats in the rapid-fire subtype. Recommended MW: Range or Stability on persoanl preference with Counterbalance mod.
@@ -28830,6 +29146,8 @@ dimwishlist:item=829330711&perks=1392496348,3177308360,2450788523,124408337
 dimwishlist:item=829330711&perks=4090651448,3177308360,2450788523,124408337
 dimwishlist:item=829330711&perks=1392496348,3177308360,1645158859,124408337
 dimwishlist:item=829330711&perks=4090651448,3177308360,1645158859,124408337
+
+title:YeezyGT's S15 wishlist picks.
 
 // Ignition Code - [YeezyGT's S15] (PvE): (god-pve,god-pvp)
 //notes: [YeezyGT's S15] (PvE): [MW: Velocity] "So, it took me 250 Overrides to collect the rolls I wanted for this, like Thanos with the Infinity Stones. Generally; [Quick/Hard Launch / Spike/Blinding / Surplush/Slideshot/Ambitious / Vorpal/Demolitionist/Frenzy]. Ultimately, this is a fantastic gun, and the rolls are mostly personal preference. There's a lot of fuss over Slideshot, but you may ultimately decide it doesn't fit your playstyle - my personal recommendation is Surplus, as it feels a lot better to get into the reload-shoot rhythm to me. Slideshot for PvP, however."|tags:god-pve,god-pvp
@@ -29775,6 +30093,14 @@ dimwishlist:item=4255586669&perks=981914802,3032599245,3436462433,1683379515
 dimwishlist:item=4255586669&perks=981914802,3032599245,706527188,1546637391
 dimwishlist:item=4255586669&perks=981914802,3032599245,706527188,1683379515
 
+description: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txtdescription: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txt
+
+title:Destiny Massive Breakdown-inspired weapon rolls
+description:Not affiliated with the DMB podcast, but based on their discussions
+
+title:Season 12 Beyond Light Europan weapons from Podcast 186
+description:Weapons from Variks and Europan activities
+
 // Arctic Haze (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 1. PvP first choice roll. Recommended MW: Stability with Counterbalance mod.
 dimwishlist:item=20935540&perks=839105230,3177308360,2450788523,2726471870
@@ -29933,6 +30259,9 @@ dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2396489472
 //notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 2. PvE/PvP backup roll. Recommended MW: Reload
 dimwishlist:item=42351395&perks=1844523823,1996142143,2010801679,2396489472
 
+title:Season 12 (Season of the Hunt) Wrathborne Hunt and Season Pass weapon rolls from Podcast 187
+description:Weapons dropped from Season 12 Pass, Crow and Wrathborne Hunts
+
 // Royal Chase (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 187. PvP first choice roll
 dimwishlist:item=2776503072&perks=1392496348,106909392,2869569095,2458213969
@@ -29991,6 +30320,9 @@ dimwishlist:item=2714022207&perks=3250034553,2969185026,2450788523,706527188
 dimwishlist:item=2714022207&perks=1467527085,2969185026,2450788523,706527188
 dimwishlist:item=2714022207&perks=3250034553,2969185026,588594999,706527188
 dimwishlist:item=2714022207&perks=1467527085,2969185026,588594999,706527188
+
+title:Season 12 (Beyond Light) Raid weapon rolls from Podcast 188
+description:Weapons from the Deep Stone Crypt Raid
 
 // Posterity (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP/PvE first choice roll.
@@ -30277,6 +30609,9 @@ dimwishlist:item=3366545721&perks=3666208348,269888150,2590710093,354401740
 dimwishlist:item=3366545721&perks=2827049491,269888150,2590710093,354401740
 dimwishlist:item=3366545721&perks=938542991,269888150,2590710093,354401740
 
+title:Season 12 (Season of the Hunt) Dawning event weapon rolls from Podcast 189
+description:Weapons from the S12 Christmas/New Year Dawning event
+
 // Avalanche (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 189. PvP first choice roll. Recommended MW: Stability.
 dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
@@ -30337,6 +30672,9 @@ dimwishlist:item=1030895163&perks=3250034553,3868766766,2450788523,4082225868
 //notes:Inspired by Destiny Massive Breakdowns Podcast 189. PvP first choice roll. Recommended MW: Reload, with Targeting Adjuster mod.
 dimwishlist:item=1030895163&perks=3250034553,3868766766,1645158859,2213355989
 
+title:Season 12 (Season of the Chosen) Activity weapon rolls from  Podcast 190
+description:Weapons from S13 Gambit, Vanguard and Crucible activities
+
 // Stars in Shadow (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 190. PvP first choice roll. Recommended MW: Stability with Targeting Adjuster mod.
 dimwishlist:item=2050789284&perks=839105230,3177308360,1168162263,1015611457
@@ -30389,6 +30727,9 @@ dimwishlist:item=3565520715&perks=1478423395,1380253176,2450788523,2396489472
 dimwishlist:item=3565520715&perks=1844523823,1380253176,2450788523,2396489472
 dimwishlist:item=3565520715&perks=1478423395,3301904089,2450788523,2396489472
 dimwishlist:item=3565520715&perks=1844523823,3301904089,2450788523,2396489472
+
+title:Season 14 (Season of the Chosen) Hawkmoon breakdown from Podcast 194
+description:Harbinger quest exotic hand cannon random rolls
 
 // Hawkmoon (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 194. PvP first choice roll for maximising the final round's effectiveness.
@@ -30482,6 +30823,9 @@ dimwishlist:item=3856705927&perks=1482024992,1431678320,3436462433,1012699414
 dimwishlist:item=3856705927&perks=4090651448,1431678320,3436462433,1012699414
 dimwishlist:item=3856705927&perks=1482024992,1431678320,2846385770,1012699414
 dimwishlist:item=3856705927&perks=4090651448,1431678320,2846385770,1012699414
+
+title:Season 13 (Season of the Chosen) Dead Man's Tale from Podast 198
+description:Presage quest exotic scout rifle random rolls
 
 // Dead Man's Tale (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podast 198. PvP first choice roll.
@@ -30620,6 +30964,9 @@ dimwishlist:item=3654674561&perks=1482024992,679225683,588594999,990298390
 dimwishlist:item=3654674561&perks=1392496348,679225683,588594999,990298390
 dimwishlist:item=3654674561&perks=4090651448,679225683,588594999,990298390
 dimwishlist:item=3654674561&perks=1840239774,679225683,588594999,990298390
+
+title:Season 13 (Season of the Chosen) Battleground weapon rolls from Podcast 201
+description:Weapons from Battleground events, War Table and S13 Umbral Engrams
 
 // Extraordinary Rendition (PvE/PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 201. PvE/PvP firect choice roll. Recommended MW: Stability.
@@ -30801,6 +31148,9 @@ dimwishlist:item=3460122497&perks=852209214,3311977193,2450788523,47981717
 // Threaded Needle (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 201. PvP first choice roll.
 dimwishlist:item=3075224551&perks=3250034553,2969185026,2450788523,2848615171
+
+title:Season 13 (Season of the Chosen) Gambit weapons from Podcast 203
+description:Season 13 end of game Game drops
 
 // Trinary System (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 203. PvP first choice roll. Any MW except Charge Time.
@@ -31284,6 +31634,9 @@ dimwishlist:item=1046651176&perks=3250034553,3230963543,3436462433,2458213969
 dimwishlist:item=1046651176&perks=1392496348,3230963543,3436462433,2458213969
 dimwishlist:item=1046651176&perks=1482024992,3230963543,3436462433,2458213969
 
+title:Season 13 (Season of the Chosen) Nightfall weapons from Podcast 205
+description:Reprised Vanguard and Nightfall weapons
+
 // The Third Axiom (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP first choice roll. Recommended MW: Stability.
 dimwishlist:item=4156253727&perks=1482024992,1885400500,2846385770,3425386926
@@ -31566,6 +31919,9 @@ dimwishlist:item=2448907086&perks=1441682018,1996142143,2846385770,1275731761
 dimwishlist:item=2448907086&perks=1478423395,1996142143,2846385770,1275731761
 dimwishlist:item=2448907086&perks=1844523823,1996142143,2846385770,1275731761
 
+title:Season 14 (Season of the Splicer) Iron Banner weapons from Podcast 212
+description:Season 14 Iron Banner weapons
+
 // Multimach CCX (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 212. PvP first choice roll. Recommended MW: Stability with Freehand Grip mod.
 dimwishlist:item=3717177717&perks=663495154,3177308360,2450788523,1015611457
@@ -31626,6 +31982,9 @@ dimwishlist:item=3593598010&perks=2405638014,1885400500,1820235745,11551321
 dimwishlist:item=3593598010&perks=679077872,1885400500,1820235745,11551321
 dimwishlist:item=3593598010&perks=2405638014,3230963543,1820235745,11551321
 dimwishlist:item=3593598010&perks=679077872,3230963543,1820235745,11551321
+
+title:Season 14 (Season of the Splicer) Override and Splicer Servitor weapons from Podcast 213
+description:Season 14 activity weapons
 
 // Sojourner's Tale (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 213. PvP first choice roll.
@@ -31817,6 +32176,9 @@ dimwishlist:item=1621558458&perks=1392496348,1885400500,588594999,2726471870
 dimwishlist:item=1621558458&perks=839105230,3230963543,588594999,2726471870
 dimwishlist:item=1621558458&perks=3661387068,3230963543,588594999,2726471870
 dimwishlist:item=1621558458&perks=1392496348,3230963543,588594999,2726471870
+
+title:Season 14 (Season of the Splicer) Crucible weapons from Podcast 215
+description:Shayura's Wrath and Survivors Epitaph
 
 // Shayura's Wrath (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 215. PvP first choice roll (not really built for PvE). Recommended MW: Range - aim to get stability to around 65 and then increase range after.
@@ -32218,6 +32580,9 @@ dimwishlist:item=310708513&perks=1482024992,679225683,3436462433,3592538738
 dimwishlist:item=310708513&perks=4090651448,679225683,3436462433,3592538738
 dimwishlist:item=310708513&perks=3250034553,679225683,3436462433,3592538738
 
+title:Season 14 (Season of the Splicer) Reprised Dreaming City (non-Shatterered Throne) weapons from Podcast 219
+description:New perks on Tigerspite, Twilight Oath and Abide the Return
+
 // Tigerspite (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 219. PvP/PvE first choice roll. Recommended MW: Stability. Perk set not great for PvE.
 dimwishlist:item=640114618&perks=1482024992,1885400500,1820235745,2846385770
@@ -32270,6 +32635,9 @@ dimwishlist:item=3297863558&perks=1840239774,47981717,2866798147,957782887
 dimwishlist:item=3297863558&perks=839105230,47981717,2866798147,957782887
 dimwishlist:item=3297863558&perks=4090651448,47981717,2866798147,957782887
 
+title:Season 14 (Season of the Splicer) Solstice of Heroes weapon from Podcast 220
+description:Compass Rose rolls
+
 // Compass Rose (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 220. PvP first choice roll. Recommended MW: Range.
 dimwishlist:item=2591111628&perks=1047830412,791862061,706527188,957782887
@@ -32303,6 +32671,9 @@ dimwishlist:item=2591111628&perks=1047830412,679225683,679225683,3592538738
 dimwishlist:item=2591111628&perks=1047830412,791862061,2869569095,3592538738
 dimwishlist:item=2591111628&perks=1047830412,3142289711,2869569095,3592538738
 dimwishlist:item=2591111628&perks=1047830412,679225683,2869569095,3592538738
+
+title:Season 14 (Season of the Splicer) Nightfall weapons from Podcast 222
+description:Reprised weapons as Nightfall weekly drops
 
 // Hung Jury (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP/PvE first choice roll. Recommended MW: Stability with Backup Mag (PvE) or Targeting Adjuster (PvP) mod. Good for Champion mods.
@@ -32662,6 +33033,9 @@ dimwishlist:item=852228780&perks=839105230,3142289711,2450788523,2213355989
 dimwishlist:item=852228780&perks=839105230,3142289711,957782887,3038247973
 dimwishlist:item=852228780&perks=839105230,3142289711,2450788523,3038247973
 
+title:Season 15 (Season of the Lost) Astral Alignment weapons from Podcast 228
+description:Season activity weapon rolls
+
 // Vulpecula (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 228. PvP first choice roll. Recommended MW: Handling. Get Harmony weapons in both kinetic and energy slots.
 dimwishlist:item=1622998472&perks=1840239774,3142289711,2621346526,438098033
@@ -32809,6 +33183,9 @@ dimwishlist:item=3044460004&perks=1467527085,1687452232,1645158859,2213355989
 // Iota Draconis (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 228. PvP first choice roll. Recommended MW: Range with Targeting Adjuster mod.
 dimwishlist:item=3044460004&perks=3661387068,1687452232,1645158859,2213355989
+
+title:Season 15 (Season of the Lost) Reprised and new Trials weapons from Podcast 229
+description:Reprised Trials of Osiris weapons and Reed's Regret rolls
 
 // The Messenger (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Stability with Targeting Adjuster mod.
@@ -33575,6 +33952,9 @@ dimwishlist:item=2475355656&perks=4090651448,2969185026,2450788523,438098033
 dimwishlist:item=2475355656&perks=1840239774,2969185026,706527188,438098033
 dimwishlist:item=2475355656&perks=839105230,2969185026,706527188,438098033
 dimwishlist:item=2475355656&perks=4090651448,2969185026,706527188,438098033
+
+title:Pandapaxxy's S15 roundup
+description:Converting a spreadsheet linked from https://www.reddit.com/r/sharditkeepit/comments/s6vt49/so_you_think_you_have_a_god_roll/
 
 // Annual Skate - Annual Skate (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
@@ -37974,6 +38354,141 @@ dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2846385770
 dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2213355989
 dimwishlist:item=1481892490&perks=1482024992,1885400500,3643424744,2846385770
 dimwishlist:item=1481892490&perks=1482024992,1885400500,3643424744,2213355989
+
+// Cold Front - Cold Front ()
+//notes: File auto generated from csv pandapaxxy-s15-roundup
+dimwishlist:item=1506719573&perks=1840239774,106909392,1820235745,3425386926
+dimwishlist:item=1506719573&perks=1840239774,106909392,1820235745,4049631843
+dimwishlist:item=1506719573&perks=1840239774,106909392,1820235745,4082225868
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1840239774,1087426260,1820235745,3425386926
+dimwishlist:item=1506719573&perks=1840239774,1087426260,1820235745,4049631843
+dimwishlist:item=1506719573&perks=1840239774,1087426260,1820235745,4082225868
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1840239774,2420895100,1820235745,3425386926
+dimwishlist:item=1506719573&perks=1840239774,2420895100,1820235745,4049631843
+dimwishlist:item=1506719573&perks=1840239774,2420895100,1820235745,4082225868
+dimwishlist:item=1506719573&perks=1840239774,2420895100,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,2420895100,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,2420895100,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1482024992,106909392,1820235745,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,1820235745,4049631843
+dimwishlist:item=1506719573&perks=1482024992,106909392,1820235745,4082225868
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1482024992,1087426260,1820235745,3425386926
+dimwishlist:item=1506719573&perks=1482024992,1087426260,1820235745,4049631843
+dimwishlist:item=1506719573&perks=1482024992,1087426260,1820235745,4082225868
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1482024992,2420895100,1820235745,3425386926
+dimwishlist:item=1506719573&perks=1482024992,2420895100,1820235745,4049631843
+dimwishlist:item=1506719573&perks=1482024992,2420895100,1820235745,4082225868
+dimwishlist:item=1506719573&perks=1482024992,2420895100,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,2420895100,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,2420895100,3436462433,4082225868
+dimwishlist:item=1506719573&perks=4090651448,106909392,1820235745,3425386926
+dimwishlist:item=1506719573&perks=4090651448,106909392,1820235745,4049631843
+dimwishlist:item=1506719573&perks=4090651448,106909392,1820235745,4082225868
+dimwishlist:item=1506719573&perks=4090651448,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=4090651448,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=4090651448,106909392,3436462433,4082225868
+dimwishlist:item=1506719573&perks=4090651448,1087426260,1820235745,3425386926
+dimwishlist:item=1506719573&perks=4090651448,1087426260,1820235745,4049631843
+dimwishlist:item=1506719573&perks=4090651448,1087426260,1820235745,4082225868
+dimwishlist:item=1506719573&perks=4090651448,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=4090651448,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=4090651448,1087426260,3436462433,4082225868
+dimwishlist:item=1506719573&perks=4090651448,2420895100,1820235745,3425386926
+dimwishlist:item=1506719573&perks=4090651448,2420895100,1820235745,4049631843
+dimwishlist:item=1506719573&perks=4090651448,2420895100,1820235745,4082225868
+dimwishlist:item=1506719573&perks=4090651448,2420895100,3436462433,3425386926
+dimwishlist:item=1506719573&perks=4090651448,2420895100,3436462433,4049631843
+dimwishlist:item=1506719573&perks=4090651448,2420895100,3436462433,4082225868
+
+// Cold Front - Cold Front ()
+//notes: File auto generated from csv pandapaxxy-s15-roundup
+dimwishlist:item=1506719573&perks=1840239774,106909392,1820235745,3425386926
+
+// Cold Front - Cold Front ()
+//notes: File auto generated from csv pandapaxxy-s15-roundup
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1359896290,438098033
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1359896290,4082225868
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1428297954,438098033
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1428297954,4082225868
+dimwishlist:item=1506719573&perks=1840239774,3142289711,3436462433,438098033
+dimwishlist:item=1506719573&perks=1840239774,3142289711,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1840239774,106909392,1359896290,438098033
+dimwishlist:item=1506719573&perks=1840239774,106909392,1359896290,4082225868
+dimwishlist:item=1506719573&perks=1840239774,106909392,1428297954,438098033
+dimwishlist:item=1506719573&perks=1840239774,106909392,1428297954,4082225868
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,438098033
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1482024992,3142289711,1359896290,438098033
+dimwishlist:item=1506719573&perks=1482024992,3142289711,1359896290,4082225868
+dimwishlist:item=1506719573&perks=1482024992,3142289711,1428297954,438098033
+dimwishlist:item=1506719573&perks=1482024992,3142289711,1428297954,4082225868
+dimwishlist:item=1506719573&perks=1482024992,3142289711,3436462433,438098033
+dimwishlist:item=1506719573&perks=1482024992,3142289711,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1482024992,106909392,1359896290,438098033
+dimwishlist:item=1506719573&perks=1482024992,106909392,1359896290,4082225868
+dimwishlist:item=1506719573&perks=1482024992,106909392,1428297954,438098033
+dimwishlist:item=1506719573&perks=1482024992,106909392,1428297954,4082225868
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,438098033
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,4082225868
+dimwishlist:item=1506719573&perks=4090651448,3142289711,1359896290,438098033
+dimwishlist:item=1506719573&perks=4090651448,3142289711,1359896290,4082225868
+dimwishlist:item=1506719573&perks=4090651448,3142289711,1428297954,438098033
+dimwishlist:item=1506719573&perks=4090651448,3142289711,1428297954,4082225868
+dimwishlist:item=1506719573&perks=4090651448,3142289711,3436462433,438098033
+dimwishlist:item=1506719573&perks=4090651448,3142289711,3436462433,4082225868
+dimwishlist:item=1506719573&perks=4090651448,106909392,1359896290,438098033
+dimwishlist:item=1506719573&perks=4090651448,106909392,1359896290,4082225868
+dimwishlist:item=1506719573&perks=4090651448,106909392,1428297954,438098033
+dimwishlist:item=1506719573&perks=4090651448,106909392,1428297954,4082225868
+dimwishlist:item=1506719573&perks=4090651448,106909392,3436462433,438098033
+dimwishlist:item=1506719573&perks=4090651448,106909392,3436462433,4082225868
+
+// Cold Front - Cold Front ()
+//notes: File auto generated from csv pandapaxxy-s15-roundup
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1359896290,438098033
+
+// Cold Front - Cold Front ()
+//notes: File auto generated from csv pandapaxxy-s15-roundup
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1428297954,438098033
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1428297954,4082225868
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1359896290,438098033
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1359896290,4082225868
+dimwishlist:item=1506719573&perks=1840239774,3142289711,3436462433,438098033
+dimwishlist:item=1506719573&perks=1840239774,3142289711,3436462433,4082225868
+dimwishlist:item=1506719573&perks=1840239774,106909392,1428297954,438098033
+dimwishlist:item=1506719573&perks=1840239774,106909392,1428297954,4082225868
+dimwishlist:item=1506719573&perks=1840239774,106909392,1359896290,438098033
+dimwishlist:item=1506719573&perks=1840239774,106909392,1359896290,4082225868
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,438098033
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,4082225868
+dimwishlist:item=1506719573&perks=3250034553,3142289711,1428297954,438098033
+dimwishlist:item=1506719573&perks=3250034553,3142289711,1428297954,4082225868
+dimwishlist:item=1506719573&perks=3250034553,3142289711,1359896290,438098033
+dimwishlist:item=1506719573&perks=3250034553,3142289711,1359896290,4082225868
+dimwishlist:item=1506719573&perks=3250034553,3142289711,3436462433,438098033
+dimwishlist:item=1506719573&perks=3250034553,3142289711,3436462433,4082225868
+dimwishlist:item=1506719573&perks=3250034553,106909392,1428297954,438098033
+dimwishlist:item=1506719573&perks=3250034553,106909392,1428297954,4082225868
+dimwishlist:item=1506719573&perks=3250034553,106909392,1359896290,438098033
+dimwishlist:item=1506719573&perks=3250034553,106909392,1359896290,4082225868
+dimwishlist:item=1506719573&perks=3250034553,106909392,3436462433,438098033
+dimwishlist:item=1506719573&perks=3250034553,106909392,3436462433,4082225868
+
+// Cold Front - Cold Front ()
+//notes: File auto generated from csv pandapaxxy-s15-roundup
+dimwishlist:item=1506719573&perks=1840239774,3142289711,1428297954,438098033
 
 // Friction Fire - Friction Fire (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
@@ -45731,6 +46246,9 @@ dimwishlist:item=4292849692&perks=1926090092,106909392,957782887,3038247973
 dimwishlist:item=4292849692&perks=1926090092,106909392,957782887,1954620775
 dimwishlist:item=4292849692&perks=1926090092,106909392,957782887,1015611457
 
+title:Blueberries.gg's collected / tiered S15 weapon picks
+description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
+
 // A Sudden Death
 //notes:CoolCheese (PvP): S-Tier (Best). Recommended MW: Range.|tags:pvp
 dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
@@ -45910,6 +46428,9 @@ dimwishlist:item=3326850591&perks=839105230,1087426260,3643424744,957782887
 // Forge's Pledge
 //notes:Ascendant Nomad (PvP): C-Tier (Weak). Recommended MW: Reload.|tags:pvp
 dimwishlist:item=1076810832&perks=839105230,3142289711,2946784966,2458213969
+
+title:Blueberries.gg's collected / tiered S14 weapon picks
+description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
 
 // Fatebringer
 //notes:light.gg (PvP): S-Tier (Best). Recommended MW: Range.|tags:pvp
@@ -46226,6 +46747,9 @@ dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
 // Null Composure
 //notes:Mercules904 (PvP): C-Tier (Weak). Recommended MW: Range. Feeding Frenzy for PvE, Heating Up for PvP.|tags:pvp
 dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,1427256713
+
+title:Sharditkeepit Community S14 community favorites for Override, Iron Banner, and Trials
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nhaq1m/filling_the_void_of_upandapaxxy_the_experimental/ and https://www.reddit.com/r/sharditkeepit/comments/npwigw/communitysourced_season_of_the_splicer_breakdown/
 
 // Chroma Rush
 //notes:Sharditkeepit Community: PVP Perks - Experimental Community-Sourced Weapons Preferences Survey
@@ -47129,6 +47653,9 @@ dimwishlist:item=3164743584&perks=839105230,3142289711,2866798147,47981717
 dimwishlist:item=3164743584&perks=1840239774,106909392,2866798147,47981717
 dimwishlist:item=3164743584&perks=4090651448,106909392,2866798147,47981717
 dimwishlist:item=3164743584&perks=839105230,106909392,2866798147,47981717
+
+//title:Sharditkeepit Community Vault of Glass favorites
+//description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nq1usy/communitysourced_season_of_the_splicer_breakdown/
 
 // Fatebringer
 //notes:PVP recommended roll: Full Bore (MKB) (tags: Sharditkeepit Community)|tags:Sharditkeepit Community
@@ -48108,6 +48635,9 @@ dimwishlist:item=4050645223&perks=981914802,1996142143,706527188,1546637391
 dimwishlist:item=4050645223&perks=3525010810,2822142346,706527188,1546637391
 dimwishlist:item=4050645223&perks=981914802,2822142346,706527188,1546637391
 
+title:An addendum of pandapaxxy's Dead Man's Tale rolls.
+description:Originally found in https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U
+
 // Dead Man's Tale
 //notes:pandapaxxy (PvP / M+KB)
 dimwishlist:item=3654674561&perks=1840239774,1561002382,2450788523,1067908860#notes:|tags:mkb,pvp
@@ -48180,6 +48710,9 @@ dimwishlist:item=3856705927&perks=1482024992,957782887,3326204863
 dimwishlist:item=3856705927&perks=3250034553,2450788523,3326204863
 dimwishlist:item=3856705927&perks=1482024992,2450788523,3326204863
 
+title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hjcfew/massive_breakdown_of_the_iron_banner_auto_rifle/
+
 // The Forward Path
 //notes:Mercules904 (must-have PvP): "High aim assist, and good range and stability for the archetype are the main calling cards here, while range and recoil direction are the main drawbacks, but if you throw on a long zoom scope and a Counterbalance mod and give this weapon a shot I think you'll find it to be very strong. [...] All in all, this is a fantastic gun, a great kinetic companion to Summoner and Gnawing Hunger, and I expect it to be meta for as long as 600 RPM ARs reign supreme."|tags:pvp
 dimwishlist:item=1690783811&perks=679077872,106909392,1359896290,2458213969
@@ -48237,6 +48770,9 @@ dimwishlist:item=65611680&perks=445755706,1885400500,588594999,4152709778
 dimwishlist:item=65611680&perks=445755707,1885400500,588594999,4152709778
 dimwishlist:item=65611680&perks=445755706,1885400500,1866048759,4152709778
 dimwishlist:item=65611680&perks=445755707,1885400500,1866048759,4152709778
+
+title:u/Mercules904's Massive Breakdown of the Legacy and Dredgen Focused Umbral Engram Weapons
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hfpop8/massive_breakdown_of_the_legacy_and_dredgen/
 
 // Breachlight
 //notes:Mercules904 (PvP): "Breaklight is a decent, easy to use sidearm that's very comparable stat-wise (almost across the board) to Smuggler's Word. I personally like to try to max out stability on these sidearms"|tags:pvp
@@ -48332,6 +48868,42 @@ dimwishlist:item=3369545945&perks=839105230,1885400500,2010801679,2846385770
 dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761
 dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761
 
+// Bad Omens
+//notes:Mercules904 (Gambit): "Thanks to being a Void weapon, it's perfect for taking down the Envoys and then helping to DPS the Primeval, which I believe was the intent of the Masterwork roll, which comes with increased blast radius and direct hit damage, as well as the God-Roll of Tracking Module and Cluster Bomb."|tags:gambit
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761
+
+// Mercules' Erentil FR4 breakdown
+// https://www.reddit.com/r/DestinyTheGame/comments/cbxao7/massive_breakdown_of_erentil_fr4_including_stats/
+
+// Erentil FR4
+dimwishlist:item=3027844941&perks=194952923,3868766766,280464955,1600092898
+dimwishlist:item=3027844941&perks=194952922,3868766766,280464955,1600092898
+dimwishlist:item=3027844941&perks=194952923,2969185026,280464955,1600092898
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1600092898
+dimwishlist:item=3027844941&perks=194952923,3868766766,1645158859,1600092898
+dimwishlist:item=3027844941&perks=194952922,3868766766,1645158859,1600092898
+dimwishlist:item=3027844941&perks=194952923,2969185026,1645158859,1600092898
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1600092898
+dimwishlist:item=3027844941&perks=194952923,3868766766,588594999,1600092898
+dimwishlist:item=3027844941&perks=194952922,3868766766,588594999,1600092898
+dimwishlist:item=3027844941&perks=194952923,2969185026,588594999,1600092898
+dimwishlist:item=3027844941&perks=194952922,2969185026,588594999,1600092898
+dimwishlist:item=3027844941&perks=194952923,3868766766,280464955,1890422124
+dimwishlist:item=3027844941&perks=194952922,3868766766,280464955,1890422124
+dimwishlist:item=3027844941&perks=194952923,2969185026,280464955,1890422124
+dimwishlist:item=3027844941&perks=194952922,2969185026,280464955,1890422124
+dimwishlist:item=3027844941&perks=194952923,3868766766,1645158859,1890422124
+dimwishlist:item=3027844941&perks=194952922,3868766766,1645158859,1890422124
+dimwishlist:item=3027844941&perks=194952923,2969185026,1645158859,1890422124
+dimwishlist:item=3027844941&perks=194952922,2969185026,1645158859,1890422124
+dimwishlist:item=3027844941&perks=194952923,3868766766,588594999,1890422124
+dimwishlist:item=3027844941&perks=194952922,3868766766,588594999,1890422124
+dimwishlist:item=3027844941&perks=194952923,2969185026,588594999,1890422124
+dimwishlist:item=3027844941&perks=194952922,2969185026,588594999,1890422124
+
+// Mercules' Iron Banner Season of Opulence breakdown
+// https://www.reddit.com/r/DestinyTheGame/comments/c24x3f/massive_breakdown_of_the_season_of_opulence_iron/
+
 //Gunnora's Axe (PvP)
 //notes: PvP pick
 dimwishlist:item=2326716489&perks=202670084,3142289711,2117683199,47981717
@@ -48347,12 +48919,214 @@ dimwishlist:item=2326716489&perks=202670084,791862061,706527188,47981717
 dimwishlist:item=2326716489&perks=3250034553,791862061,706527188,47981717
 dimwishlist:item=2326716489&perks=1467527085,791862061,706527188,47981717
 
+//Gunnora's Axe (curated)
+dimwishlist:item=2326716489&perks=1332244541,3142289711,1168162263,47981717
+dimwishlist:item=2326716489&perks=1332244541,791862061,1168162263,47981717
+
+// u/Mercules904 - Menagerie drops - recommended rolls
+//https://www.reddit.com/r/CruciblePlaybook/comments/c0anob/massive_breakdown_of_menagerie_weapons_including/
+
+//Austringer
+dimwishlist:item=2429822977&perks=3250034553,3142289711,1168162263,3425386926
+dimwishlist:item=2429822977&perks=3250034553,3142289711,1168162263,2846385770
+
+//Austringer (curated)
+dimwishlist:item=2429822977&perks=4090651448,106909392,1168162263,2846385770
+
+//Drang (Baroque)
+dimwishlist:item=79075821&perks=1482024992,1885400500,706527188,3425386926
+dimwishlist:item=79075821&perks=4090651448,1885400500,706527188,3425386926
+dimwishlist:item=79075821&perks=3661387068,1885400500,706527188,3425386926
+dimwishlist:item=79075821&perks=1392496348,1885400500,706527188,3425386926
+dimwishlist:item=79075821&perks=1840239774,1885400500,706527188,3425386926
+dimwishlist:item=79075821&perks=1467527085,1885400500,706527188,3425386926
+dimwishlist:item=79075821&perks=3250034553,1885400500,706527188,3425386926
+dimwishlist:item=79075821&perks=839105230,1885400500,706527188,3425386926
+
+//Drang (Baroque) (curated)
+dimwishlist:item=79075821&perks=202670084,3142289711,706527188,3425386926
+
+//CALUS Mini-Tool
+dimwishlist:item=174192097&perks=839105230,1885400500,1359896290,2779035018
+dimwishlist:item=174192097&perks=3661387068,1885400500,1359896290,2779035018
+dimwishlist:item=174192097&perks=839105230,1885400500,588594999,2779035018
+dimwishlist:item=174192097&perks=3661387068,1885400500,588594999,2779035018
+dimwishlist:item=174192097&perks=839105230,1885400500,699525795,2779035018
+dimwishlist:item=174192097&perks=3661387068,1885400500,699525795,2779035018
+dimwishlist:item=174192097&perks=839105230,1885400500,2039302152,2779035018
+dimwishlist:item=174192097&perks=3661387068,1885400500,2039302152,2779035018
+
+//CALUS Mini-Tool (curated)
+dimwishlist:item=174192097&perks=1840239774,679225683,699525795,205890336
+
+//The Epicurean
+dimwishlist:item=4124357815&perks=1482024992,2969185026,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1392496348,2969185026,1890422124,1600092898
+dimwishlist:item=4124357815&perks=3250034553,2969185026,1890422124,1600092898
+dimwishlist:item=4124357815&perks=4090651448,2969185026,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1840239774,2969185026,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1482024992,3868766766,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1392496348,3868766766,1890422124,1600092898
+dimwishlist:item=4124357815&perks=3250034553,3868766766,1890422124,1600092898
+dimwishlist:item=4124357815&perks=4090651448,3868766766,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1840239774,3868766766,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1482024992,1687452232,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1392496348,1687452232,1890422124,1600092898
+dimwishlist:item=4124357815&perks=3250034553,1687452232,1890422124,1600092898
+dimwishlist:item=4124357815&perks=4090651448,1687452232,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1840239774,1687452232,1890422124,1600092898
+dimwishlist:item=4124357815&perks=1482024992,2969185026,1890422124,588594999
+dimwishlist:item=4124357815&perks=1392496348,2969185026,1890422124,588594999
+dimwishlist:item=4124357815&perks=3250034553,2969185026,1890422124,588594999
+dimwishlist:item=4124357815&perks=4090651448,2969185026,1890422124,588594999
+dimwishlist:item=4124357815&perks=1840239774,2969185026,1890422124,588594999
+dimwishlist:item=4124357815&perks=1482024992,3868766766,1890422124,588594999
+dimwishlist:item=4124357815&perks=1392496348,3868766766,1890422124,588594999
+dimwishlist:item=4124357815&perks=3250034553,3868766766,1890422124,588594999
+dimwishlist:item=4124357815&perks=4090651448,3868766766,1890422124,588594999
+dimwishlist:item=4124357815&perks=1840239774,3868766766,1890422124,588594999
+dimwishlist:item=4124357815&perks=1482024992,1687452232,1890422124,588594999
+dimwishlist:item=4124357815&perks=1392496348,1687452232,1890422124,588594999
+dimwishlist:item=4124357815&perks=3250034553,1687452232,1890422124,588594999
+dimwishlist:item=4124357815&perks=4090651448,1687452232,1890422124,588594999
+dimwishlist:item=4124357815&perks=1840239774,1687452232,1890422124,588594999
+
+//The Epicurean (curated)
+dimwishlist:item=4124357815&perks=3250034553,689005463,1890422124,1600092898
+
+//Beloved
+dimwishlist:item=4190932264&perks=1840239774,3142289711,2866798147,2551157718
+dimwishlist:item=4190932264&perks=1840239774,3230963543,2866798147,2551157718
+dimwishlist:item=4190932264&perks=1840239774,3142289711,957782887,2551157718
+dimwishlist:item=4190932264&perks=1840239774,3230963543,957782887,2551157718
+dimwishlist:item=4190932264&perks=1840239774,3142289711,2866798147,706527188
+dimwishlist:item=4190932264&perks=1840239774,3230963543,2866798147,706527188
+dimwishlist:item=4190932264&perks=1840239774,3142289711,957782887,706527188
+dimwishlist:item=4190932264&perks=1840239774,3230963543,957782887,706527188
+dimwishlist:item=4190932264&perks=1840239774,3142289711,2866798147,588594999
+dimwishlist:item=4190932264&perks=1840239774,3230963543,2866798147,588594999
+dimwishlist:item=4190932264&perks=1840239774,3142289711,957782887,588594999
+dimwishlist:item=4190932264&perks=1840239774,3230963543,957782887,588594999
+
+//Beloved (curated)
+dimwishlist:item=4190932264&perks=3661387068,3142289711,2866798147,2551157718
+
 //Imperial Decree (PvP)
 //notes: PvP pick
 dimwishlist:item=2919334548&perks=1047830412,3142289711,3161816588,3425386926
 dimwishlist:item=2919334548&perks=1332244541,3142289711,3161816588,3425386926
 dimwishlist:item=2919334548&perks=1047830412,3142289711,3161816588,4082225868
 dimwishlist:item=2919334548&perks=1332244541,3142289711,3161816588,4082225868
+
+//Imperial Decree (curated)
+dimwishlist:item=2919334548&perks=1300023272,3142289711,1631667848,2360754333
+
+//Fixed Odds
+dimwishlist:item=1642384931&perks=839105230,1885400500,2779035018,3425386926
+dimwishlist:item=1642384931&perks=3661387068,1885400500,2779035018,3425386926
+
+//Fixed Odds (curated)
+dimwishlist:item=1642384931&perks=3250034553,1968497646,2779035018,3425386926
+
+// u/Mercules904 - Crown of Sorrow raid drops - recommended rolls
+// https://www.reddit.com/r/DestinyTheGame/comments/bxwf8s/massive_breakdown_of_the_crown_of_sorrow_raid/
+
+//Tarrabah
+dimwishlist:item=3110698812&perks=2540536653,1467527085,1968497646,3351002503
+
+//Gahlran's Right Hand
+dimwishlist:item=1286686760&perks=3661387068,1885400500,2387244414,2458213969
+dimwishlist:item=1286686760&perks=1392496348,1885400500,2387244414,2458213969
+dimwishlist:item=1286686760&perks=3661387068,1561002382,2387244414,2458213969
+dimwishlist:item=1286686760&perks=1392496348,1561002382,2387244414,2458213969
+
+//Gahlran's Right Hand (curated)
+dimwishlist:item=1286686760&perks=839105230,3177308360,3643424744,3523296417
+
+//Calusea Noblesse
+dimwishlist:item=2338088853&perks=3661387068,106909392,1168162263,3425386926
+dimwishlist:item=2338088853&perks=1392496348,106909392,1168162263,3425386926
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1168162263,3425386926
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1168162263,3425386926
+dimwishlist:item=2338088853&perks=3661387068,106909392,1820235745,3425386926
+dimwishlist:item=2338088853&perks=1392496348,106909392,1820235745,3425386926
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1820235745,3425386926
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1820235745,3425386926
+dimwishlist:item=2338088853&perks=3661387068,106909392,1683379515,3425386926
+dimwishlist:item=2338088853&perks=1392496348,106909392,1683379515,3425386926
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1683379515,3425386926
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1683379515,3425386926
+dimwishlist:item=2338088853&perks=3661387068,106909392,2010801679,3425386926
+dimwishlist:item=2338088853&perks=1392496348,106909392,2010801679,3425386926
+dimwishlist:item=2338088853&perks=3661387068,1087426260,2010801679,3425386926
+dimwishlist:item=2338088853&perks=1392496348,1087426260,2010801679,3425386926
+dimwishlist:item=2338088853&perks=3661387068,106909392,588594999,3425386926
+dimwishlist:item=2338088853&perks=1392496348,106909392,588594999,3425386926
+dimwishlist:item=2338088853&perks=3661387068,1087426260,588594999,3425386926
+dimwishlist:item=2338088853&perks=1392496348,1087426260,588594999,3425386926
+dimwishlist:item=2338088853&perks=3661387068,106909392,1168162263,2458213969
+dimwishlist:item=2338088853&perks=1392496348,106909392,1168162263,2458213969
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1168162263,2458213969
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1168162263,2458213969
+dimwishlist:item=2338088853&perks=3661387068,106909392,1820235745,2458213969
+dimwishlist:item=2338088853&perks=1392496348,106909392,1820235745,2458213969
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1820235745,2458213969
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1820235745,2458213969
+dimwishlist:item=2338088853&perks=3661387068,106909392,1683379515,2458213969
+dimwishlist:item=2338088853&perks=1392496348,106909392,1683379515,2458213969
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1683379515,2458213969
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1683379515,2458213969
+dimwishlist:item=2338088853&perks=3661387068,106909392,2010801679,2458213969
+dimwishlist:item=2338088853&perks=1392496348,106909392,2010801679,2458213969
+dimwishlist:item=2338088853&perks=3661387068,1087426260,2010801679,2458213969
+dimwishlist:item=2338088853&perks=1392496348,1087426260,2010801679,2458213969
+dimwishlist:item=2338088853&perks=3661387068,106909392,588594999,2458213969
+dimwishlist:item=2338088853&perks=1392496348,106909392,588594999,2458213969
+dimwishlist:item=2338088853&perks=3661387068,1087426260,588594999,2458213969
+dimwishlist:item=2338088853&perks=1392496348,1087426260,588594999,2458213969
+dimwishlist:item=2338088853&perks=3661387068,106909392,1168162263,3275789089
+dimwishlist:item=2338088853&perks=1392496348,106909392,1168162263,3275789089
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1168162263,3275789089
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1168162263,3275789089
+dimwishlist:item=2338088853&perks=3661387068,106909392,1820235745,3275789089
+dimwishlist:item=2338088853&perks=1392496348,106909392,1820235745,3275789089
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1820235745,3275789089
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1820235745,3275789089
+dimwishlist:item=2338088853&perks=3661387068,106909392,1683379515,3275789089
+dimwishlist:item=2338088853&perks=1392496348,106909392,1683379515,3275789089
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1683379515,3275789089
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1683379515,3275789089
+dimwishlist:item=2338088853&perks=3661387068,106909392,2010801679,3275789089
+dimwishlist:item=2338088853&perks=1392496348,106909392,2010801679,3275789089
+dimwishlist:item=2338088853&perks=3661387068,1087426260,2010801679,3275789089
+dimwishlist:item=2338088853&perks=1392496348,1087426260,2010801679,3275789089
+dimwishlist:item=2338088853&perks=3661387068,106909392,588594999,3275789089
+dimwishlist:item=2338088853&perks=1392496348,106909392,588594999,3275789089
+dimwishlist:item=2338088853&perks=3661387068,1087426260,588594999,3275789089
+dimwishlist:item=2338088853&perks=1392496348,1087426260,588594999,3275789089
+dimwishlist:item=2338088853&perks=3661387068,106909392,1168162263,2848615171
+dimwishlist:item=2338088853&perks=1392496348,106909392,1168162263,2848615171
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1168162263,2848615171
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1168162263,2848615171
+dimwishlist:item=2338088853&perks=3661387068,106909392,1820235745,2848615171
+dimwishlist:item=2338088853&perks=1392496348,106909392,1820235745,2848615171
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1820235745,2848615171
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1820235745,2848615171
+dimwishlist:item=2338088853&perks=3661387068,106909392,1683379515,2848615171
+dimwishlist:item=2338088853&perks=1392496348,106909392,1683379515,2848615171
+dimwishlist:item=2338088853&perks=3661387068,1087426260,1683379515,2848615171
+dimwishlist:item=2338088853&perks=1392496348,1087426260,1683379515,2848615171
+dimwishlist:item=2338088853&perks=3661387068,106909392,2010801679,2848615171
+dimwishlist:item=2338088853&perks=1392496348,106909392,2010801679,2848615171
+dimwishlist:item=2338088853&perks=3661387068,1087426260,2010801679,2848615171
+dimwishlist:item=2338088853&perks=1392496348,1087426260,2010801679,2848615171
+dimwishlist:item=2338088853&perks=3661387068,106909392,588594999,2848615171
+dimwishlist:item=2338088853&perks=1392496348,106909392,588594999,2848615171
+dimwishlist:item=2338088853&perks=3661387068,1087426260,588594999,2848615171
+dimwishlist:item=2338088853&perks=1392496348,1087426260,588594999,2848615171
+
+//Calusea Noblesse (curated)
+dimwishlist:item=2338088853&perks=839105230,106909392,1354429876,4267945040
 
 //Emperor's Courtesy (PvP)
 //notes: PvP pick
@@ -48376,6 +49150,9 @@ dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,47981717
 dimwishlist:item=3861448240&perks=1047830412,3142289711,1631667848,47981717
 dimwishlist:item=3861448240&perks=1332244541,3142289711,706527188,47981717
 dimwishlist:item=3861448240&perks=1047830412,3142289711,706527188,47981717
+
+//Emperor's Courtesy (curated)
+dimwishlist:item=3861448240&perks=1332244541,3142289711,1631667848,2679249093
 
 //Bane of Sorrow (PvP)
 //notes: PvP pick
@@ -48404,6 +49181,394 @@ dimwishlist:item=1496419775&perks=1392496348,1561002382,1890422124,3425386926
 dimwishlist:item=1496419775&perks=3661387068,1561002382,1890422124,3425386926
 dimwishlist:item=1496419775&perks=839105230,1561002382,1890422124,3425386926
 
+//Bane of Sorrow (curated)
+dimwishlist:item=1496419775&perks=4090651448,1561002382,1168162263,2848615171
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/9j49os/massive_breakdown_of_the_forsaken_gambit_weapons/
+
+//distant relation (masterworked)
+
+//distant relation
+dimwishlist:item=2034817450&perks=1467527085,3142289711,1168162263,3038247973
+dimwishlist:item=2034817450&perks=3250034553,3142289711,1168162263,3038247973
+
+//bygones (masterworked)
+dimwishlist:item=2712244741&perks=1467527085,1561002382,3425386926,1168162263
+
+//bygones
+dimwishlist:item=2712244741&perks=1482024992,1885400500,1015611457,1168162263
+
+//hazard of the cast (masterworked)
+dimwishlist:item=1789347249&perks=839105230,1561002382,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1561002382,2010801679,3425386926
+
+//hazard of the cast
+dimwishlist:item=1789347249&perks=3661387068,1885400500,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1885400500,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1885400500,2387244414,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1885400500,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1885400500,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1885400500,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1561002382,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1561002382,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1561002382,2387244414,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1561002382,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1561002382,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1561002382,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3661387068,679225683,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1392496348,679225683,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1482024992,679225683,2387244414,1015611457
+dimwishlist:item=1789347249&perks=4090651448,679225683,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1467527085,679225683,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3250034553,679225683,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3661387068,3230963543,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1392496348,3230963543,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1482024992,3230963543,2387244414,1015611457
+dimwishlist:item=1789347249&perks=4090651448,3230963543,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1467527085,3230963543,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3250034553,3230963543,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1087426260,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1087426260,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1087426260,2387244414,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1087426260,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1087426260,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1087426260,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1968497646,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1968497646,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1968497646,2387244414,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1968497646,2387244414,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1968497646,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1968497646,2387244414,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1885400500,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1885400500,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1885400500,3400784728,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1885400500,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1885400500,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1885400500,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1561002382,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1561002382,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1561002382,3400784728,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1561002382,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1561002382,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1561002382,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3661387068,679225683,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1392496348,679225683,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1482024992,679225683,3400784728,1015611457
+dimwishlist:item=1789347249&perks=4090651448,679225683,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1467527085,679225683,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3250034553,679225683,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3661387068,3230963543,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1392496348,3230963543,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1482024992,3230963543,3400784728,1015611457
+dimwishlist:item=1789347249&perks=4090651448,3230963543,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1467527085,3230963543,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3250034553,3230963543,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1087426260,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1087426260,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1087426260,3400784728,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1087426260,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1087426260,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1087426260,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1968497646,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1968497646,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1968497646,3400784728,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1968497646,3400784728,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1968497646,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1968497646,3400784728,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1885400500,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1885400500,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1885400500,2010801679,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1885400500,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1885400500,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1885400500,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1561002382,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1561002382,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1561002382,2010801679,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1561002382,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1561002382,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1561002382,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3661387068,679225683,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1392496348,679225683,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1482024992,679225683,2010801679,1015611457
+dimwishlist:item=1789347249&perks=4090651448,679225683,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1467527085,679225683,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3250034553,679225683,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3661387068,3230963543,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1392496348,3230963543,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1482024992,3230963543,2010801679,1015611457
+dimwishlist:item=1789347249&perks=4090651448,3230963543,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1467527085,3230963543,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3250034553,3230963543,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1087426260,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1087426260,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1087426260,2010801679,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1087426260,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1087426260,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1087426260,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1968497646,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1968497646,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1968497646,2010801679,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1968497646,2010801679,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1968497646,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1968497646,2010801679,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1885400500,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1885400500,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1885400500,1890422124,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1885400500,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1885400500,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1885400500,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1561002382,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1561002382,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1561002382,1890422124,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1561002382,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1561002382,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1561002382,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3661387068,679225683,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1392496348,679225683,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1482024992,679225683,1890422124,1015611457
+dimwishlist:item=1789347249&perks=4090651448,679225683,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1467527085,679225683,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3250034553,679225683,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3661387068,3230963543,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1392496348,3230963543,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1482024992,3230963543,1890422124,1015611457
+dimwishlist:item=1789347249&perks=4090651448,3230963543,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1467527085,3230963543,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3250034553,3230963543,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1087426260,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1087426260,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1087426260,1890422124,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1087426260,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1087426260,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1087426260,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1968497646,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1392496348,1968497646,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1482024992,1968497646,1890422124,1015611457
+dimwishlist:item=1789347249&perks=4090651448,1968497646,1890422124,1015611457
+dimwishlist:item=1789347249&perks=1467527085,1968497646,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3250034553,1968497646,1890422124,1015611457
+dimwishlist:item=1789347249&perks=3661387068,1885400500,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1885400500,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1885400500,2387244414,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1885400500,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1885400500,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1885400500,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1561002382,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1561002382,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1561002382,2387244414,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1561002382,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1561002382,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1561002382,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3661387068,679225683,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1392496348,679225683,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1482024992,679225683,2387244414,3425386926
+dimwishlist:item=1789347249&perks=4090651448,679225683,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1467527085,679225683,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3250034553,679225683,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3661387068,3230963543,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1392496348,3230963543,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1482024992,3230963543,2387244414,3425386926
+dimwishlist:item=1789347249&perks=4090651448,3230963543,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1467527085,3230963543,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3250034553,3230963543,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1087426260,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1087426260,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1087426260,2387244414,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1087426260,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1087426260,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1087426260,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1968497646,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1968497646,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1968497646,2387244414,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1968497646,2387244414,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1968497646,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1968497646,2387244414,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1885400500,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1885400500,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1885400500,3400784728,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1885400500,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1885400500,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1885400500,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1561002382,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1561002382,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1561002382,3400784728,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1561002382,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1561002382,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1561002382,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3661387068,679225683,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1392496348,679225683,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1482024992,679225683,3400784728,3425386926
+dimwishlist:item=1789347249&perks=4090651448,679225683,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1467527085,679225683,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3250034553,679225683,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3661387068,3230963543,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1392496348,3230963543,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1482024992,3230963543,3400784728,3425386926
+dimwishlist:item=1789347249&perks=4090651448,3230963543,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1467527085,3230963543,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3250034553,3230963543,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1087426260,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1087426260,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1087426260,3400784728,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1087426260,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1087426260,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1087426260,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1968497646,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1968497646,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1968497646,3400784728,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1968497646,3400784728,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1968497646,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1968497646,3400784728,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1885400500,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1885400500,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1885400500,2010801679,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1885400500,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1885400500,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1885400500,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1561002382,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1561002382,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1561002382,2010801679,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1561002382,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1561002382,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1561002382,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3661387068,679225683,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1392496348,679225683,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1482024992,679225683,2010801679,3425386926
+dimwishlist:item=1789347249&perks=4090651448,679225683,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1467527085,679225683,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3250034553,679225683,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3661387068,3230963543,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1392496348,3230963543,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1482024992,3230963543,2010801679,3425386926
+dimwishlist:item=1789347249&perks=4090651448,3230963543,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1467527085,3230963543,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3250034553,3230963543,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1087426260,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1087426260,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1087426260,2010801679,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1087426260,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1087426260,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1087426260,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1968497646,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1968497646,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1968497646,2010801679,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1968497646,2010801679,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1968497646,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1968497646,2010801679,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1885400500,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1885400500,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1885400500,1890422124,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1885400500,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1885400500,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1885400500,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1561002382,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1561002382,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1561002382,1890422124,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1561002382,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1561002382,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1561002382,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3661387068,679225683,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1392496348,679225683,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1482024992,679225683,1890422124,3425386926
+dimwishlist:item=1789347249&perks=4090651448,679225683,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1467527085,679225683,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3250034553,679225683,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3661387068,3230963543,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1392496348,3230963543,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1482024992,3230963543,1890422124,3425386926
+dimwishlist:item=1789347249&perks=4090651448,3230963543,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1467527085,3230963543,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3250034553,3230963543,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1087426260,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1087426260,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1087426260,1890422124,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1087426260,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1087426260,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1087426260,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3661387068,1968497646,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1392496348,1968497646,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1482024992,1968497646,1890422124,3425386926
+dimwishlist:item=1789347249&perks=4090651448,1968497646,1890422124,3425386926
+dimwishlist:item=1789347249&perks=1467527085,1968497646,1890422124,3425386926
+dimwishlist:item=1789347249&perks=3250034553,1968497646,1890422124,3425386926
+
+//trust (masterworked)
+dimwishlist:item=4077196130&perks=1482024992,679225683,3096702027,3038247973
+
+//also trust? (mw)
+
+//trust
+
+//and trust
+dimwishlist:item=4077196130&perks=3250034553,3142289711,1168162263,3425386926
+dimwishlist:item=4077196130&perks=3250034553,3142289711,2848615171,3425386926
+dimwishlist:item=4077196130&perks=3250034553,3142289711,1168162263,247725512
+dimwishlist:item=4077196130&perks=3250034553,3142289711,2848615171,247725512
+dimwishlist:item=4077196130&perks=3250034553,3142289711,1168162263,2387244414
+dimwishlist:item=4077196130&perks=3250034553,3142289711,2848615171,2387244414
+
+//pillager (masterwork)
+dimwishlist:item=2653316158&perks=1392496348,1561002382,1168162263,1015611457
+
+//pillager
+dimwishlist:item=2653316158&perks=3250034553,1885400500,2387244414,1015611457
+dimwishlist:item=2653316158&perks=1482024992,1885400500,2387244414,1015611457
+dimwishlist:item=2653316158&perks=1392496348,1885400500,2387244414,1015611457
+dimwishlist:item=2653316158&perks=3250034553,1561002382,2387244414,1015611457
+dimwishlist:item=2653316158&perks=1482024992,1561002382,2387244414,1015611457
+dimwishlist:item=2653316158&perks=1392496348,1561002382,2387244414,1015611457
+dimwishlist:item=2653316158&perks=3250034553,1885400500,1168162263,1015611457
+dimwishlist:item=2653316158&perks=1482024992,1885400500,1168162263,1015611457
+dimwishlist:item=2653316158&perks=1392496348,1885400500,1168162263,1015611457
+dimwishlist:item=2653316158&perks=3250034553,1561002382,1168162263,1015611457
+dimwishlist:item=2653316158&perks=1482024992,1561002382,1168162263,1015611457
+dimwishlist:item=2653316158&perks=1392496348,1561002382,1168162263,1015611457
+dimwishlist:item=2653316158&perks=3250034553,1885400500,2387244414,3425386926
+dimwishlist:item=2653316158&perks=1482024992,1885400500,2387244414,3425386926
+dimwishlist:item=2653316158&perks=1392496348,1885400500,2387244414,3425386926
+dimwishlist:item=2653316158&perks=3250034553,1561002382,2387244414,3425386926
+dimwishlist:item=2653316158&perks=1482024992,1561002382,2387244414,3425386926
+dimwishlist:item=2653316158&perks=1392496348,1561002382,2387244414,3425386926
+dimwishlist:item=2653316158&perks=3250034553,1885400500,1168162263,3425386926
+dimwishlist:item=2653316158&perks=1482024992,1885400500,1168162263,3425386926
+dimwishlist:item=2653316158&perks=1392496348,1885400500,1168162263,3425386926
+dimwishlist:item=2653316158&perks=3250034553,1561002382,1168162263,3425386926
+dimwishlist:item=2653316158&perks=1482024992,1561002382,1168162263,3425386926
+dimwishlist:item=2653316158&perks=1392496348,1561002382,1168162263,3425386926
+
+//dreaded venture (masterworked)
+dimwishlist:item=3100452337&perks=3250034553,3142289711,3038247973,957782887
+
+//parcel of stardust (masterworked)
+dimwishlist:item=2217366863&perks=1047830412,791862061,47981717,706527188
+
+//parcel of stardust
+dimwishlist:item=2217366863&perks=1047830412,791862061,47981717,3425386926
+dimwishlist:item=2217366863&perks=1047830412,3142289711,47981717,3425386926
+
+//bad omens (masterworked)
+dimwishlist:item=991314988&perks=1478423395,3796465595,3977735242,1275731761
+
+//bad omens
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761
+dimwishlist:item=991314988&perks=1478423395,1996142143,3300816228,1275731761
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/9gwchn/massive_breakdown_of_forsaken_iron_banner_weapons/
+
+// talons of the eagle
+
+// claws of the wolf
+dimwishlist:item=1280933460&perks=3661387068,1885400500,1168162263,1015611457
+dimwishlist:item=1280933460&perks=3661387068,1885400500,3161816588,1015611457
+dimwishlist:item=1280933460&perks=3661387068,1885400500,1168162263,2846385770
+dimwishlist:item=1280933460&perks=3661387068,1885400500,3161816588,2846385770
+
+//breath of the dragon
+dimwishlist:item=1357080535&perks=3250034553,1885400500,2387244414,1015611457
+dimwishlist:item=1357080535&perks=3250034553,679225683,2387244414,1015611457
+dimwishlist:item=1357080535&perks=3250034553,1885400500,2039302152,1015611457
+dimwishlist:item=1357080535&perks=3250034553,679225683,2039302152,1015611457
+
 //bite of the fox (pvp)
 //notes: PvP pick
 dimwishlist:item=3169616514&perks=1840239774,3230963543,957782887,47981717
@@ -48416,6 +49581,134 @@ dimwishlist:item=3169616514&perks=1840239774,1431678320,957782887,47981717
 //notes: PvP pick
 dimwishlist:item=1972985595&perks=1478423395,409831596,2869569095,3425386926
 dimwishlist:item=1972985595&perks=1478423395,409831596,3300816228,3425386926
+
+//roar of the bear
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/?
+
+// crimil's dagger (masterworked)
+dimwishlist:item=4292849692&perks=1926090094,1087426260,1168162263,2387244414
+dimwishlist:item=4292849692&perks=1926090095,1087426260,1168162263,2387244414
+
+// crimil's dagger
+dimwishlist:item=4292849692&perks=1926090092,4134353779,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090094,4134353779,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,4134353779,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090093,4134353779,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090092,3230963543,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090094,3230963543,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090095,3230963543,1168162263,1015611457
+dimwishlist:item=4292849692&perks=1926090093,3230963543,1168162263,1015611457
+
+//hero's burden (masterworked)
+dimwishlist:item=1865351684&perks=3151536503,1087426260,588594999,1015611457
+dimwishlist:item=1865351684&perks=3151536503,3230963543,588594999,1015611457
+
+//hero's burden
+dimwishlist:item=1865351684&perks=3151536500,1885400500,2387244414,1015611457
+dimwishlist:item=1865351684&perks=3151536501,1885400500,2387244414,1015611457
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/9hgmg4/massive_breakdown_of_forsakens_last_wish_raid/
+
+//transfiguration (masterworked)
+dimwishlist:item=3799980700&perks=1840239774,679225683,1168162263,3038247973
+
+//transfiguration
+dimwishlist:item=3799980700&perks=1392496348,3177308360,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1392496348,106909392,3425386926,1015611457
+
+//chattering bone (masterworked)
+dimwishlist:item=568515759&perks=4090651448,679225683,1015611457,2213355989
+
+//chattering bone
+dimwishlist:item=568515759&perks=1467527085,1885400500,1168162263,3425386926
+
+//age old bond (masterworked)
+dimwishlist:item=601592879&perks=1467527085,679225683,1354429876,3425386926
+
+//age old bond
+dimwishlist:item=601592879&perks=1392496348,1885400500,2387244414,1015611457
+dimwishlist:item=601592879&perks=3661387068,1885400500,2387244414,1015611457
+
+//nation of beasts (masterworked)
+dimwishlist:item=654370424&perks=202670084,679225683,1168162263,2848615171
+
+//nation of beasts
+dimwishlist:item=654370424&perks=3250034553,3142289711,1168162263,1015611457
+dimwishlist:item=654370424&perks=1467527085,3142289711,1168162263,1015611457
+
+//tyranny of heaven (masterworked)
+dimwishlist:item=2721249463&perks=4067834857,3827198035,908147344,2848615171
+
+//tyranny of heaven
+dimwishlist:item=2721249463&perks=3371775011,3827198035,201365942,3425386926
+
+//the supremacy (masterworked)
+dimwishlist:item=686951703&perks=1392496348,1968497646,1015611457,247725512
+
+//the supremacy
+dimwishlist:item=686951703&perks=3250034553,679225683,957782887,3425386926
+dimwishlist:item=686951703&perks=3250034553,1885400500,957782887,3425386926
+
+//techeun force (masterworked)
+dimwishlist:item=4094657108&perks=3250034553,689005463,3300816228,1600092898
+
+//techeun force
+dimwishlist:item=4094657108&perks=1482024992,689005463,1015611457,1600092898
+dimwishlist:item=4094657108&perks=4090651448,689005463,1015611457,1600092898
+
+//apex predator (masterworked)
+dimwishlist:item=2545083870&perks=3525010810,2822142346,957782887,1275731761
+
+//apex predator
+dimwishlist:item=2545083870&perks=1441682018,2822142346,3977735242,3300816228
+dimwishlist:item=2545083870&perks=3525010810,2822142346,3977735242,3300816228
+
+//from https://www.reddit.com/r/DestinyTheGame/comments/a64v3t/massive_breakdown_of_black_armory_forge_and/
+
+//kindled orchid (curated)
+dimwishlist:item=2575506895&perks=4090651448,4134353779,1015611457,3425386926
+
+//kindled orchid
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1168162263,3425386926
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1168162263,3425386926
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1168162263,3425386926
+dimwishlist:item=2575506895&perks=3250034553,106909392,1168162263,3425386926
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1015611457,3425386926
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1015611457,3425386926
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1015611457,3425386926
+dimwishlist:item=2575506895&perks=3250034553,106909392,1015611457,3425386926
+dimwishlist:item=2575506895&perks=3250034553,3142289711,3275789089,3425386926
+dimwishlist:item=2575506895&perks=3250034553,1087426260,3275789089,3425386926
+dimwishlist:item=2575506895&perks=3250034553,3230963543,3275789089,3425386926
+dimwishlist:item=2575506895&perks=3250034553,106909392,3275789089,3425386926
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1168162263,247725512
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1168162263,247725512
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1168162263,247725512
+dimwishlist:item=2575506895&perks=3250034553,106909392,1168162263,247725512
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1015611457,247725512
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1015611457,247725512
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1015611457,247725512
+dimwishlist:item=2575506895&perks=3250034553,106909392,1015611457,247725512
+dimwishlist:item=2575506895&perks=3250034553,3142289711,3275789089,247725512
+dimwishlist:item=2575506895&perks=3250034553,1087426260,3275789089,247725512
+dimwishlist:item=2575506895&perks=3250034553,3230963543,3275789089,247725512
+dimwishlist:item=2575506895&perks=3250034553,106909392,3275789089,247725512
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1168162263,1683379515
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1168162263,1683379515
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1168162263,1683379515
+dimwishlist:item=2575506895&perks=3250034553,106909392,1168162263,1683379515
+dimwishlist:item=2575506895&perks=3250034553,3142289711,1015611457,1683379515
+dimwishlist:item=2575506895&perks=3250034553,1087426260,1015611457,1683379515
+dimwishlist:item=2575506895&perks=3250034553,3230963543,1015611457,1683379515
+dimwishlist:item=2575506895&perks=3250034553,106909392,1015611457,1683379515
+dimwishlist:item=2575506895&perks=3250034553,3142289711,3275789089,1683379515
+dimwishlist:item=2575506895&perks=3250034553,1087426260,3275789089,1683379515
+dimwishlist:item=2575506895&perks=3250034553,3230963543,3275789089,1683379515
+dimwishlist:item=2575506895&perks=3250034553,106909392,3275789089,1683379515
+
+//the ringing nail (curated)
+dimwishlist:item=93253474&perks=3433396027,1561002382,2848615171,3425386926
 
 //the ringing nail (pvp)
 //notes: PvP pick
@@ -48432,13 +49725,48 @@ dimwishlist:item=93253474&perks=3433396026,1885400500,2387244414,1683379515
 dimwishlist:item=93253474&perks=3433396027,1561002382,2387244414,1683379515
 dimwishlist:item=93253474&perks=3433396026,1561002382,2387244414,1683379515
 
+//no feelings (curated)
+dimwishlist:item=1931556011&perks=3433396026,1087426260,4267945040,2387244414
+
+//no feelings
+dimwishlist:item=1931556011&perks=1096957638,3142289711,1168162263,2551157718
+dimwishlist:item=1931556011&perks=3433396026,3142289711,1168162263,2551157718
+dimwishlist:item=1931556011&perks=1096957638,3142289711,247725512,2551157718
+dimwishlist:item=1931556011&perks=3433396026,3142289711,247725512,2551157718
+
+//tempered dynamo (curated)
+dimwishlist:item=2753269585&perks=3433396027,3868766766,1600092898,3425386926
+
+//tempered dynamo
+dimwishlist:item=2753269585&perks=3433396027,1687452232,47981717,1015611457
+
+//tatara gaze (curated)
+dimwishlist:item=1449922174&perks=3661387068,3142289711,957782887,2551157718
+
+//tatara gaze
+dimwishlist:item=1449922174&perks=1840239774,3230963543,1168162263,1015611457
+dimwishlist:item=1449922174&perks=1840239774,1087426260,1168162263,1015611457
+dimwishlist:item=1449922174&perks=1840239774,3230963543,706527188,1015611457
+dimwishlist:item=1449922174&perks=1840239774,1087426260,706527188,1015611457
+dimwishlist:item=1449922174&perks=1840239774,3230963543,957782887,1015611457
+dimwishlist:item=1449922174&perks=1840239774,1087426260,957782887,1015611457
+
+//threat level (curated)
+dimwishlist:item=1664372054&perks=1300023272,679225683,2360754333,1631667848
+
 //threat level (pvp)
 //notes: PvP pick
 dimwishlist:item=1664372054&perks=1047830412,3142289711,3161816588,706527188
 
+//bellowing giant (curated)
+dimwishlist:item=2186258845&perks=3809316345,3796465595,3977735242,1275731761
+
 //bellowing giant (pvp)
 //notes: PvP pick
 dimwishlist:item=2186258845&perks=1478423395,1996142143,3977735242,1275731761
+
+//hammerhead (curated)
+dimwishlist:item=603242241&perks=3250034553,1968497646,2779035018,3425386926
 
 //hammerhead (pvp)
 //notes: PvP pick
@@ -48474,6 +49802,277 @@ dimwishlist:item=603242241&perks=1482024992,1561002382,1890422124,3425386926
 dimwishlist:item=603242241&perks=4090651448,1561002382,1890422124,3425386926
 dimwishlist:item=603242241&perks=1840239774,1561002382,1890422124,3425386926
 dimwishlist:item=603242241&perks=839105230,1561002382,1890422124,3425386926
+
+//from https://www.reddit.com/r/DestinyTheGame/comments/a7nh4n/massive_breakdown_of_the_black_armory_forge_bow/
+
+//blast furnace (curated)
+dimwishlist:item=3843477312&perks=3433396027,106909392,1168162263,460017080
+
+//blast furnace
+dimwishlist:item=3843477312&perks=1096957638,4134353779,1168162263,1015611457
+dimwishlist:item=3843477312&perks=3433396026,4134353779,1168162263,1015611457
+dimwishlist:item=3843477312&perks=1096957638,4134353779,2779035018,1015611457
+dimwishlist:item=3843477312&perks=3433396026,4134353779,2779035018,1015611457
+
+//spiteful fang (curated)
+dimwishlist:item=421573768&perks=1784898267,3429800428,201365942,3365897133
+
+//spiteful fang
+dimwishlist:item=421573768&perks=852209214,3429800428,201365942,3425386926
+
+// from https://docs.google.com/spreadsheets/d/1D4Fu6fSoSrPhlSOmCn_n1bItSNGZHbZxNI6_lVpoeB8/edit#gid=0
+
+//breakneck
+dimwishlist:item=324382200&perks=1392496348,2420895100,3425386926,95528736
+
+//the mountaintop
+dimwishlist:item=3993415705&perks=1478423395,3301904089,2846385770,3713839994
+dimwishlist:item=3993415705&perks=1478423395,3373736292,2846385770,3713839994
+
+//loaded question
+dimwishlist:item=580961571&perks=2405638015,1483536627,3300816228,1427256713
+
+//Galliard-42 XN7568
+dimwishlist:item=1775804198&perks=965619221,2420895100,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619220,2420895100,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619223,2420895100,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619221,679225683,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619220,679225683,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619223,679225683,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536503,679225683,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536501,679225683,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619221,1561002382,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619220,1561002382,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619223,1561002382,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619221,1885400500,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619220,1885400500,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619223,1885400500,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1168162263,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1168162263,3425386926
+dimwishlist:item=1775804198&perks=965619221,2420895100,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619220,2420895100,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619223,2420895100,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536503,2420895100,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536501,2420895100,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619221,679225683,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619220,679225683,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619223,679225683,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536503,679225683,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536501,679225683,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619221,1561002382,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619220,1561002382,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619223,1561002382,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1561002382,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1561002382,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619221,1885400500,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619220,1885400500,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619223,1885400500,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1885400500,706527188,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1885400500,706527188,3425386926
+dimwishlist:item=1775804198&perks=965619221,2420895100,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619220,2420895100,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619223,2420895100,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619221,679225683,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619220,679225683,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619223,679225683,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536503,679225683,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536501,679225683,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619221,1561002382,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619220,1561002382,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619223,1561002382,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619221,1885400500,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619220,1885400500,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619223,1885400500,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1645158859,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1645158859,3425386926
+dimwishlist:item=1775804198&perks=965619221,2420895100,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619220,2420895100,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619223,2420895100,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619221,679225683,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619220,679225683,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619223,679225683,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536503,679225683,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536501,679225683,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619221,1561002382,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619220,1561002382,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619223,1561002382,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619221,1885400500,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619220,1885400500,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619223,1885400500,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1631667848,3425386926
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1631667848,3425386926
+dimwishlist:item=1775804198&perks=965619221,2420895100,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619220,2420895100,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619223,2420895100,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619221,679225683,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619220,679225683,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619223,679225683,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536503,679225683,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536501,679225683,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619221,1561002382,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619220,1561002382,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619223,1561002382,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619221,1885400500,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619220,1885400500,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619223,1885400500,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1168162263,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1168162263,1015611457
+dimwishlist:item=1775804198&perks=965619221,2420895100,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619220,2420895100,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619223,2420895100,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536503,2420895100,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536501,2420895100,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619221,679225683,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619220,679225683,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619223,679225683,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536503,679225683,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536501,679225683,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619221,1561002382,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619220,1561002382,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619223,1561002382,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1561002382,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1561002382,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619221,1885400500,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619220,1885400500,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619223,1885400500,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1885400500,706527188,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1885400500,706527188,1015611457
+dimwishlist:item=1775804198&perks=965619221,2420895100,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619220,2420895100,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619223,2420895100,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619221,679225683,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619220,679225683,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619223,679225683,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536503,679225683,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536501,679225683,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619221,1561002382,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619220,1561002382,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619223,1561002382,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619221,1885400500,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619220,1885400500,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619223,1885400500,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1645158859,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1645158859,1015611457
+dimwishlist:item=1775804198&perks=965619221,2420895100,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619220,2420895100,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619223,2420895100,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619221,679225683,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619220,679225683,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619223,679225683,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536503,679225683,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536501,679225683,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619221,1561002382,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619220,1561002382,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619223,1561002382,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619221,1885400500,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619220,1885400500,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619223,1885400500,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1631667848,1015611457
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1631667848,1015611457
+dimwishlist:item=1775804198&perks=965619221,2420895100,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619220,2420895100,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619223,2420895100,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619221,679225683,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619220,679225683,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619223,679225683,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536503,679225683,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536501,679225683,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619221,1561002382,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619220,1561002382,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619223,1561002382,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619221,1885400500,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619220,1885400500,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619223,1885400500,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1168162263,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1168162263,2213355989
+dimwishlist:item=1775804198&perks=965619221,2420895100,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619220,2420895100,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619223,2420895100,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536503,2420895100,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536501,2420895100,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619221,679225683,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619220,679225683,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619223,679225683,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536503,679225683,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536501,679225683,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619221,1561002382,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619220,1561002382,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619223,1561002382,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1561002382,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1561002382,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619221,1885400500,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619220,1885400500,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619223,1885400500,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1885400500,706527188,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1885400500,706527188,2213355989
+dimwishlist:item=1775804198&perks=965619221,2420895100,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619220,2420895100,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619223,2420895100,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619221,679225683,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619220,679225683,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619223,679225683,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536503,679225683,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536501,679225683,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619221,1561002382,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619220,1561002382,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619223,1561002382,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619221,1885400500,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619220,1885400500,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619223,1885400500,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1645158859,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1645158859,2213355989
+dimwishlist:item=1775804198&perks=965619221,2420895100,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619220,2420895100,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619223,2420895100,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536503,2420895100,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536501,2420895100,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619221,679225683,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619220,679225683,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619223,679225683,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536503,679225683,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536501,679225683,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619221,1561002382,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619220,1561002382,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619223,1561002382,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1561002382,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1561002382,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619221,1885400500,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619220,1885400500,1631667848,2213355989
+dimwishlist:item=1775804198&perks=965619223,1885400500,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536503,1885400500,1631667848,2213355989
+dimwishlist:item=1775804198&perks=3151536501,1885400500,1631667848,2213355989
 
 //ringing nail (pvp)
 //notes: PvP pick
@@ -49926,6 +51525,19 @@ dimwishlist:item=2817798849&perks=1844523823,2985827016,3300816228,706527188
 dimwishlist:item=2817798849&perks=1441682018,2985827016,3300816228,706527188
 dimwishlist:item=2817798849&perks=1478423395,2985827016,3300816228,706527188
 
+title:u/Mercules904's Sundial weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f3garh/massive_breakdown_of_the_sundial_weapons/
+
+// Breachlight
+//notes:Mercules904 (pretty good) - "A decent, easy to use sidearm that's very comparable stat-wise (almost across the board) to Smuggler's Word. I personally like to try to max out stability on these sidearms, being that I'm a console player and it's one of the archetypes defining weakness."
+dimwishlist:item=1289997971&perks=3661387068,106909392,1866048759,706527188
+dimwishlist:item=1289997971&perks=3661387068,106909392,1866048759,1546637391
+dimwishlist:item=1289997971&perks=3661387068,106909392,1866048759,2458213969
+dimwishlist:item=1289997971&perks=3661387068,106909392,1866048759,3425386926
+
+// Breachlight
+//notes:Mercules904 (pretty good) - "A decent, easy to use sidearm that's very comparable stat-wise (almost across the board) to Smuggler's Word. I personally like to try to max out stability on these sidearms, being that I'm a console player and it's one of the archetypes defining weakness."
+
 // Steelfeather Repeater (PvP)
 //notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
 
@@ -49940,6 +51552,15 @@ dimwishlist:item=1251729046&perks=3661387068,1885400500,280464955,2458213969
 dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,2458213969
 dimwishlist:item=1251729046&perks=3661387068,1885400500,2039302152,2458213969
 
+// Patron of Lost Causes
+//notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
+dimwishlist:item=2723241847&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=2723241847&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=2723241847&perks=3661387068,3230963543,247725512,3038247973
+
+// Patron of Lost Causes
+//notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
+
 // Gallant Charge (PvP)
 //notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
 
@@ -49949,6 +51570,14 @@ dimwishlist:item=1706206669&perks=1392496348,3868766766,1866048759,1890422124
 dimwishlist:item=1706206669&perks=3661387068,3868766766,1866048759,1890422124
 dimwishlist:item=1706206669&perks=1392496348,1687452232,1866048759,1890422124
 dimwishlist:item=1706206669&perks=3661387068,1687452232,1866048759,1890422124
+
+// Martyr's Retribution
+//notes:Mercules904 (pretty good) - "I personally find Martyr's Retribution to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. Seems like it has a forgiving hit box, and I didn't have much issue hitting people, even when they were slightly behind cover."
+
+// Martyr's Retribution
+//notes:Mercules904 (pretty good) - "I personally find Marty's Retribution to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. Seems like it has a forgiving hit box, and I didn't have much issue hitting people, even when they were slightly behind cover."
+dimwishlist:item=3850168899&perks=3525010810,2822142346,3300816228,2846385770
+dimwishlist:item=3850168899&perks=3525010810,2822142346,2869569095,2846385770
 
 // Line in the Sand (PvP)
 //notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
@@ -49967,6 +51596,28 @@ dimwishlist:item=946443267&perks=4090651448,2969185026,588594999,1600092898
 
 // Line in the Sand (PvP)
 //notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
+
+title:u/Mercules904's Bygones, Last Perdition, and Black Scorpion breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f6z2ma/massive_breakdown_of_the_bygones_last_perdition/
+
+// Last Perdition (M/KB)
+//notes:Mercules904 (pretty good M/KB) - "[...] Last Perdition is basically Bygones but Void, with sights instead of barrels! [...] slightly better stability, and slightly worse range and recoil direction."
+dimwishlist:item=188882152&perks=3151536500,3142289711,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536501,3142289711,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536503,3142289711,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536500,4134353779,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536501,4134353779,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536503,4134353779,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536500,3230963543,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536501,3230963543,1168162263,1015611457
+dimwishlist:item=188882152&perks=3151536503,3230963543,1168162263,1015611457
+
+// Black Scorpion-4sr (M/KB)
+//notes:Mercules904 (pretty good M/KB) - "Outside of Bygones, this is actually my favorite primary weapon."
+dimwishlist:item=525750263&perks=1467527085,3142289711,588594999,3425386926
+
+title:u/Mercules904's Pyramid-focused Umbral primary weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/h9n8us/massive_breakdown_of_the_pyramid_focused_umbral/
 
 // False Promises
 //notes: (PvP / M+KB): Mercules904 (pretty good PvP/M+KB) - "What a great gun! I've been waiting for a Legendary High-Impact AR that felt like SUROS Regime with Dual Speed Receiver, and I think we've finally found one. Stat-wise it suffers from most of the same drawbacks that the other high impacts do, poor stability, low aim assist and handling, but for some reason the return to center speed of the reticle is much faster than I'm used to on the others guns in the archetype (like Halfdan) and so the low stability doesn't seem to have much of an effect of the usability of the weapon."|tags:pvp,mkb
@@ -50000,13 +51651,169 @@ dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3350417888
 dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391
 dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3523296417
 
+title:u/Mercules904's Vex Invasion drop picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/djo6bn/massive_breakdown_of_the_vex_offensive_weapons/
+
+// Imperative
+dimwishlist:item=2314999489&perks=1392496348,3177308360,1168162263,3425386926#notes:mercules904's Vex Invasion pick (not great)
+dimwishlist:item=2314999489&perks=1392496348,106909392,1168162263,3425386926#notes:mercules904's Vex Invasion pick (not great)
+dimwishlist:item=2314999489&perks=1392496348,1087426260,1168162263,3425386926#notes:mercules904's Vex Invasion pick (not great)
+dimwishlist:item=2314999489&perks=1392496348,3177308360,1168162263,2458213969#notes:mercules904's Vex Invasion pick (not great)
+dimwishlist:item=2314999489&perks=1392496348,106909392,1168162263,2458213969#notes:mercules904's Vex Invasion pick (not great)
+dimwishlist:item=2314999489&perks=1392496348,1087426260,1168162263,2458213969#notes:mercules904's Vex Invasion pick (not great)
+
 // Optative
 dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457#notes:mercules904's Vex Invasion pick (PvP must have)
 dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457#notes:mercules904's Vex Invasion pick (PvP must have)
 
+//Adhortative
+dimwishlist:item=1167153950&perks=1482024992,1885400500,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1885400500,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1885400500,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1885400500,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1885400500,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1885400500,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,1561002382,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1561002382,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1561002382,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1561002382,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1561002382,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1561002382,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,679225683,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,679225683,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,679225683,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,679225683,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,679225683,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,679225683,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,3230963543,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,3230963543,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,3230963543,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,3230963543,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,3230963543,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,3230963543,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,1087426260,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1087426260,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1087426260,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1087426260,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1087426260,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1087426260,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,1968497646,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1968497646,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1968497646,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1968497646,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1968497646,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1968497646,2779035018,3425386926#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,1885400500,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1885400500,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1885400500,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1885400500,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1885400500,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1885400500,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,1561002382,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1561002382,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1561002382,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1561002382,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1561002382,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1561002382,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,679225683,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,679225683,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,679225683,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,679225683,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,679225683,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,679225683,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,3230963543,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,3230963543,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,3230963543,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,3230963543,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,3230963543,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,3230963543,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,1087426260,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1087426260,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1087426260,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1087426260,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1087426260,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1087426260,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1482024992,1968497646,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3661387068,1968497646,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1467527085,1968497646,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=1392496348,1968497646,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=3250034553,1968497646,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+dimwishlist:item=1167153950&perks=4090651448,1968497646,2779035018,2458213969#notes:mercules904's Vex Invasion pick (pretty good)
+
+title:u/Mercules904's Season of the Undying season pass weapon picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/docorx/massive_breakdown_of_the_season_of_the_undying/
+
 // Pluperfect
 dimwishlist:item=1952163498&perks=3661387068,1885400500,2039302152,1015611457#notes:mercules904's "decent Halfdan replacement" PvP pick
 dimwishlist:item=1952163498&perks=3661387068,1885400500,2387244414,3425386926#notes:mercules904's "decent Halfdan replacement" PvE pick
+
+// Temporal Clause
+dimwishlist:item=3369545945&perks=1482024992,1885400500,280464955,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,280464955,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,280464955,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,280464955,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,280464955,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,280464955,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,280464955,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,3300816228,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,3300816228,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,3300816228,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,3300816228,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,3300816228,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,3300816228,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,3300816228,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,2010801679,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,2010801679,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,2010801679,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,2010801679,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,2010801679,3425386926#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,280464955,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,280464955,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,280464955,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,280464955,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,280464955,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,280464955,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,280464955,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,3300816228,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,3300816228,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,3300816228,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,3300816228,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,3300816228,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,3300816228,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,3300816228,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,2010801679,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,2010801679,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,2010801679,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,2010801679,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,2010801679,3708227201#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,280464955,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,280464955,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,280464955,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,280464955,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,280464955,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,280464955,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,280464955,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,3300816228,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,3300816228,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,3300816228,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,3300816228,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,3300816228,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,3300816228,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,3300816228,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1482024992,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3661387068,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1392496348,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=3250034553,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=4090651448,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=1840239774,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+dimwishlist:item=3369545945&perks=839105230,1885400500,2010801679,2846385770#notes:If you're looking for a Void Rapid-Fire LMG to complete the elemental trifecta (Edgewise is Solar, 21% Delirium is Arc), then look no further.
+
+title:u/Mercules904's Altars of Sorrow weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
 
 // Apostate (PvP)
 //notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
@@ -50025,6 +51832,9 @@ dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,4082225868
 // Heretic (PvP)
 //notes:Mercules904 (PVP; pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
 dimwishlist:item=3067821200&perks=1478423395,1996142143,2846385770,1275731761
+
+title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
 
 // Trophy Hunter (PvE DPS)
 //notes:Mercules904 (must have PvE DPS) - "Let's be frank, this weapon is designed strictly with PvE in mind, and is not really a good option in any way for PvP. [...] Highly recommend this weapon if you've been looking for something new to shake up your DPS phases. Won't compete with a Sole Survivor with Fourth Times the Charm and Firing Line in terms of pure DPS, but it's a heck of a lot easier to farm."
@@ -50048,6 +51858,9 @@ dimwishlist:item=1289324202&perks=981914802,3796465595,2010801679,1275731761
 dimwishlist:item=1289324202&perks=981914802,3796465595,3096702027,1275731761
 dimwishlist:item=1289324202&perks=981914802,3796465595,706527188,1275731761
 dimwishlist:item=1289324202&perks=981914802,3796465595,205890336,1275731761
+
+title:u/Mercules904's Curse of Osiris Redux Obelisk weapon picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/eizm6l/massive_breakdown_of_the_curse_of_osiris_redux/
 
 // Infinite Paths 8 (PvP)
 //notes:Mercules904 notes (not great PvP): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
@@ -50127,6 +51940,44 @@ dimwishlist:item=3393519051&perks=4090651448,1087426260,3161816588,3425386926
 dimwishlist:item=3393519051&perks=1300023272,106909392,3161816588,3425386926
 dimwishlist:item=3393519051&perks=1482024992,106909392,3161816588,3425386926
 dimwishlist:item=3393519051&perks=4090651448,106909392,3161816588,3425386926
+
+title:u/Mercules904's Garden of Salvation raid weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
+
+// Sacred Provenance
+//notes:Mercules904 (must have) - "Long story short, Sacred Provenance is a good weapon, especially if you haven't managed to nab yourself a Blast Furnace yet."
+dimwishlist:item=2408405461&perks=839105230,679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=1392496348,679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=1482024992,679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=1840239774,679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=4090651448,679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=3250034553,679225683,247725512,1015611457
+dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1392496348,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1482024992,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=4090651448,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=3250034553,1885400500,247725512,1015611457
+dimwishlist:item=2408405461&perks=839105230,679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1392496348,679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1482024992,679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1840239774,679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=3661387068,679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=4090651448,679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=3250034553,679225683,1168162263,1015611457
+dimwishlist:item=2408405461&perks=839105230,1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1392496348,1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1482024992,1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=1840239774,1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=3661387068,1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=4090651448,1885400500,1168162263,1015611457
+dimwishlist:item=2408405461&perks=3250034553,1885400500,1168162263,1015611457
+
+// Accrued Redemption
+//notes:Mercules904 - (must have) "I'm really liking this bow option from the raid, in particular because of the awesome combination of perk traits it can roll in the last two slots, with Archer's Tempo and Rapid Hit."
+dimwishlist:item=4095896073&perks=852209214,3827198035,201365942,247725512
 
 // Ancient Gospel (PvP)
 //notes:Mercules904 - (must have PvP) "Been grinding for a god-rolled Austringer but haven't had any luck yet? Fortunately for you, Ancient Gospel is basically a clone of that weapon, albeit with ever so slightly worse stats."

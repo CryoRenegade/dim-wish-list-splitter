@@ -90,8 +90,13 @@ lineCollection = []
 
 def checkWrite():
     for listParams in listSettings:
-        if eval(listParams["flags"]) or listParams["searchFlag"]:
-            writeToFile(listParams["FileName"], lineCollection)
+        if lineCollection != []:
+            if eval(listParams["flags"]) or listParams["searchFlag"]:
+                writeToFile(listParams["FileName"], lineCollection)
+                
+            if not (pveFlag or pvpFlag or mkbFlag or ctrFlag):
+                writeToFile(listParams["FileName"], lineCollection)
+        
         listParams["searchFlag"] = False
 
 with open(mainFile, mode='r', encoding='utf-8') as f:
