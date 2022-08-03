@@ -4,4 +4,10 @@ Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.
 
 Separates PvE, PvP, Controller, MKB, and their combinations into seperate files.
 
-If no PvE or PvP tag it's added to both. If no Controller tag it's added to MKB.
+If no PvP or PvE tag weapon added to only PvE. If no MKB or Controller tag weapon added to MKB.
+
+To add to DIM:
+1. Go into "wishlist" folder
+2. Select a txt file
+3. Go to raw version. Either click "view raw" link or button on top right side of text window.
+4. Copy URL of raw version into DIM wishlist settings
