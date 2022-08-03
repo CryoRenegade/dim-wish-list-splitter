@@ -1,3 +1,5 @@
+# git submodule update --remote
+
 #function to open and clean files
 def clearFiles(wishListAll):
     for curList in wishListAll:
