@@ -1,18 +1,5 @@
 # git submodule update --remote
 
-#function to open and clean files
-def clearFiles(wishListAll):
-    for curList in wishListAll:
-        with open(curList["FileName"], mode='w') as clearFile:
-            pass
-
-#write to outFile
-def writeToFile(fileName, weaponInfo):
-    with open(fileName, mode='a') as tempFile:
-        for i in weaponInfo:
-            tempFile.write(i)
-        tempFile.write("\n")
-
 #voltron file in submodule
 mainFile = "./dim-wish-list-sources/voltron.txt"
 
@@ -85,20 +72,26 @@ listSettings = [
                 }
                 ]
 
-clearFiles(listSettings)
-
 lineCollection = []
+
+#function to open and clean files
+def clearFiles(wishListAll):
+    for curList in wishListAll:
+        with open(curList["FileName"], mode='w') as clearFile:
+            pass
 
 def checkWrite():
     for listParams in listSettings:
         if lineCollection != []:
-            if eval(listParams["flags"]) or listParams["searchFlag"]:
-                writeToFile(listParams["FileName"], lineCollection)
-                
-            if not dimFlag:
-                writeToFile(listParams["FileName"], lineCollection)
-        
+            if (eval(listParams["flags"]) or listParams["searchFlag"]) or not dimFlag:
+                with open(listParams["FileName"], mode='a') as tempFile:
+                    for i in lineCollection:
+                        tempFile.write(i)
+                    tempFile.write("\n")
+
         listParams["searchFlag"] = False
+
+clearFiles(listSettings)
 
 with open(mainFile, mode='r', encoding='utf-8') as f:
     for line in f:

@@ -4587,9 +4587,6 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,1546637391
 // Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Survivor's Epitaph - Survivor's Epitaph (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
@@ -4599,23 +4596,14 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,1546637391
 // Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Survivor's Epitaph - Survivor's Epitaph (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
 // Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-
 // Survivor's Epitaph - Survivor's Epitaph (pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 
 // Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
@@ -11774,17 +11762,11 @@ dimwishlist:item=2714022207&perks=202670084,2969185026,2450788523,3108830275
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Tyranny of Heaven - Tyranny of Heaven (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -15785,17 +15767,11 @@ dimwishlist:item=4094657108&perks=3250034553,2969185026,957782887,2846385770
 // Accrued Redemption - Accrued Redemption (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Accrued Redemption - Accrued Redemption (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
 // Accrued Redemption - Accrued Redemption (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
 // Accrued Redemption - Accrued Redemption (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp

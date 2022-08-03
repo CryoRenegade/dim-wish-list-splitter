@@ -8866,9 +8866,6 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 title:u/pandapaxxy's 30th Anniversary Controller Breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
 
-title:u/pandapaxxy's 30th Anniversary Controller Breakdown
-description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
-
 // Pardon Our Dust
 //notes:pandapaxxy (Controller / PvE): "The downside to this is it is worse than last season’s Ignition Code. Both in farming and rolls you can get. If you already have a good Ignition code there is very little reason to get another one of these." Recommended MW: Reload or Velocity.|tags:controller,pve
 dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
@@ -13238,12 +13235,6 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,1546637391
 // Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
@@ -13252,12 +13243,6 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,1546637391
 
 // Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
 // Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -13339,9 +13324,6 @@ dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,4104185692
 dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,1015611457
 dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,2458213969
 dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,11612903
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 
 // Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
@@ -13423,9 +13405,6 @@ dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,4104185692
 dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,1015611457
 dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,2458213969
 dimwishlist:item=310708513&perks=4090651448,2420895100,3436462433,11612903
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 
 // Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
@@ -33728,12 +33707,6 @@ dimwishlist:item=2714022207&perks=202670084,2969185026,2450788523,3108830275
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
@@ -33742,12 +33715,6 @@ dimwishlist:item=2714022207&perks=202670084,2969185026,2450788523,3108830275
 
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -44843,12 +44810,6 @@ dimwishlist:item=4094657108&perks=3250034553,2969185026,957782887,2846385770
 // Accrued Redemption - Accrued Redemption (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 
-// Accrued Redemption - Accrued Redemption (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
 // Accrued Redemption - Accrued Redemption (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
@@ -44857,12 +44818,6 @@ dimwishlist:item=4094657108&perks=3250034553,2969185026,957782887,2846385770
 
 // Accrued Redemption - Accrued Redemption (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Accrued Redemption - Accrued Redemption (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
 
 // Accrued Redemption - Accrued Redemption (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -48710,9 +48665,6 @@ title:@AyyItsChevy's Super Pog PvE Loot List
 
 title:u/pandapaxxy's Dawning + Hawkmoon MKB Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgnq/dawning_breakdown_and_hawkmoon_thoughts_mnk/
-
-title:u/pandapaxxy's Dawning + Hawkmoon Controller Breakdown
-description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgzy/dawning_breakdown_and_hawkmoon_thoughts_controller/
 
 title:u/pandapaxxy's Dawning + Hawkmoon Controller Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgzy/dawning_breakdown_and_hawkmoon_thoughts_controller/

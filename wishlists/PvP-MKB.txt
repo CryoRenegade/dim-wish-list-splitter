@@ -1102,9 +1102,6 @@ description:Selected weapons from Dreaming City destinations and activities as a
 title:S-Tier Hand Cannons and rolls recommended by @illPhysics
 description:PvP hand cannon picks as at S17 from the discussion between Kyt and illPhysics
 
-title:S-Tier Hand Cannons and rolls recommended by @illPhysics
-description:PvP hand cannon picks as at S17 from the discussion between Kyt and illPhysics
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep263-s-tier-hand-cannons.txt
 
 // Dire Promise (PvP first-choice roll)
@@ -1327,9 +1324,6 @@ dimwishlist:item=3856705927&perks=3250034553,1431678320,2450788523,862848869
 title:S-Tier Sub-machine guns and rolls recommended by @pattycakesGG
 description:PvP SMG picks as at S17 from the discussion between Kyt and Pattycakes
 
-title:S-Tier Sub-machine guns and rolls recommended by @pattycakesGG
-description:PvP SMG picks as at S17 from the discussion between Kyt and Pattycakes
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep264-s-tier-smgs.txt
 
 // Shayura's Wrath (PvP first-choice roll)
@@ -1440,9 +1434,6 @@ dimwishlist:item=2488587246&perks=202670084,1885400500,2451262963,591790007
 title:Glaive roll recommendations with @legoleflash
 description:PvP Glaive picks as at S17 Update 4.1.5 from the discussion between Kyt and Legoleflash
 
-title:Glaive roll recommendations with @legoleflash
-description:PvP Glaive picks as at S17 Update 4.1.5 from the discussion between Kyt and Legoleflash
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep266-glaives.txt
 
 // The Enigma (PvP first-choice roll)
@@ -1520,9 +1511,6 @@ title:Duality Dungeon weapons
 description:New Duality weapons with the Bitterspite origin perk
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep19-duality-weapons.txt
-
-title:S-Tier Sniper rifles and rolls recommended by @ItzShadow
-description:PvP sniper rifle picks as at S17 from the discussion between Kyt and Shadow
 
 title:S-Tier Sniper rifles and rolls recommended by @ItzShadow
 description:PvP sniper rifle picks as at S17 from the discussion between Kyt and Shadow
@@ -34873,9 +34861,6 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,1546637391
 // Survivor's Epitaph - Survivor's Epitaph (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
-// Survivor's Epitaph - Survivor's Epitaph (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
 // Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 
@@ -34885,23 +34870,14 @@ dimwishlist:item=304659313&perks=3525010810,3301904089,3436462433,1546637391
 // Survivor's Epitaph - Survivor's Epitaph (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
-// Survivor's Epitaph - Survivor's Epitaph (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
 // Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 
 // Survivor's Epitaph - Survivor's Epitaph (pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
 
-// Survivor's Epitaph - Survivor's Epitaph (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-
 // Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
 
 // Survivor's Epitaph - Survivor's Epitaph (pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
@@ -41630,17 +41606,11 @@ dimwishlist:item=2714022207&perks=202670084,2969185026,2450788523,3108830275
 // Tyranny of Heaven - Tyranny of Heaven (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
-// Tyranny of Heaven - Tyranny of Heaven (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 
 // Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Tyranny of Heaven - Tyranny of Heaven (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
 // Tyranny of Heaven - Tyranny of Heaven (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
@@ -45444,17 +45414,11 @@ dimwishlist:item=4094657108&perks=3250034553,2969185026,957782887,2846385770
 // Accrued Redemption - Accrued Redemption (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
-// Accrued Redemption - Accrued Redemption (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
 // Accrued Redemption - Accrued Redemption (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 
 // Accrued Redemption - Accrued Redemption (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Accrued Redemption - Accrued Redemption (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
 // Accrued Redemption - Accrued Redemption (god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
@@ -48614,9 +48578,6 @@ dimwishlist:item=3850168899&perks=1478423395,2822142346,2869569095,2846385770
 // Temporal Clause
 //notes:Mercules904 (PvP): "For the trait slots, you've got some pretty great options depending on how you want to use this gun:
 
-// Temporal Clause
-//notes:Mercules904 (PvP): "For the trait slots, you've got some pretty great options depending on how you want to use this gun:
-
 1. For PvP - Firmly Planted and Rampage or Rangefinder
 [...]
 All in all, an interesting gun with lots of options for the discerning player, but part of a weak archetype that on the whole needs some love."|tags:pvp
@@ -50336,9 +50297,6 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 
 // Steelfeather Repeater (PvP)
 //notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
-
-// Steelfeather Repeater (PvP)
-//notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
 dimwishlist:item=1251729046&perks=839105230,1885400500,280464955,4082225868
 dimwishlist:item=1251729046&perks=3661387068,1885400500,280464955,4082225868
 dimwishlist:item=1251729046&perks=839105230,1885400500,2039302152,4082225868
@@ -50353,9 +50311,6 @@ dimwishlist:item=1251729046&perks=3661387068,1885400500,2039302152,2458213969
 
 // Patron of Lost Causes
 //notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
-
-// Gallant Charge (PvP)
-//notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
 
 // Gallant Charge (PvP)
 //notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
@@ -50387,9 +50342,6 @@ dimwishlist:item=946443267&perks=1840239774,2969185026,588594999,1600092898
 dimwishlist:item=946443267&perks=839105230,2969185026,588594999,1600092898
 dimwishlist:item=946443267&perks=1482024992,2969185026,588594999,1600092898
 dimwishlist:item=946443267&perks=4090651448,2969185026,588594999,1600092898
-
-// Line in the Sand (PvP)
-//notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
 
 // Line in the Sand (PvP)
 //notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
@@ -50455,9 +50407,6 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 // Apostate (PvP)
 //notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
 
-// Apostate (PvP)
-//notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
-
 // Apostate (PvP) [curated]
 //notes:Mercules904 (must have PvP/curated) - "Definitely rate this gun as a must have for PvP snipers."
 dimwishlist:item=2164448701&perks=1840239774,3142289711,3275789089,247725512
@@ -50507,9 +50456,6 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 
 // Infinite Paths 8 (PvP)
 //notes:Mercules904 notes (not great PvP): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
-
-// Infinite Paths 8 (PvP)
-//notes:Mercules904 notes (not great PvP): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
 dimwishlist:item=3233390913&perks=1467527085,3142289711,588594999,699525795
 dimwishlist:item=3233390913&perks=3661387068,3142289711,588594999,699525795
 dimwishlist:item=3233390913&perks=1467527085,106909392,588594999,699525795
@@ -50532,14 +50478,8 @@ dimwishlist:item=410996590&perks=1926090092,1885400500,1820235745,4082225868
 // Jack Queen King 3 (PvP)
 //notes:Mercules904 notes (pretty good PvP): "This isn't a great PvP gun on it's own, with Spare Rations being better pretty much across the board, but if you get a Subsistence and Rampage or Swashbuckler roll, I'd give it a shot for sure!"
 
-// Jack Queen King 3 (PvP)
-//notes:Mercules904 notes (pretty good PvP): "This isn't a great PvP gun on it's own, with Spare Rations being better pretty much across the board, but if you get a Subsistence and Rampage or Swashbuckler roll, I'd give it a shot for sure!"
-
 // Jack Queen King 3 (PvE)
 //notes:Mercules904 notes (pretty good PvE): "Lightweights aren't the most useful guns in PvE, but it's really easy to get a great roll on this one, with almost any of the trait perks being useful."
-
-// Traveler's Judgment 5 (PvP)
-//notes:Mercules904 notes (must have PvP): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
 
 // Traveler's Judgment 5 (PvP)
 //notes:Mercules904 notes (must have PvP): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
@@ -50555,9 +50495,6 @@ dimwishlist:item=4149758318&perks=445755707,1885400500,1866048759,1890422124
 
 // Traveler's Judgment 5 (PvE)
 //notes:Mercules904 notes (must have PvE): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
-
-// Perfect Paradox (PvP)
-//notes:Mercules904 notes (must have PvP): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
 
 // Perfect Paradox (PvP)
 //notes:Mercules904 notes (must have PvP): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
@@ -50583,12 +50520,6 @@ dimwishlist:item=3393519051&perks=4090651448,1087426260,3523296417,2360754333
 
 // Perfect Paradox (PvE DPS)
 //notes:Mercules904 notes (must have PvE DPS): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
-
-// Perfect Paradox (PvE DPS)
-//notes:Mercules904 notes (must have PvE DPS): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
-
-// Perfect Paradox (PvE add clear)
-//notes:Mercules904 notes (must have PvE add clear): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
 
 // Perfect Paradox (PvE add clear)
 //notes:Mercules904 notes (must have PvE add clear): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."

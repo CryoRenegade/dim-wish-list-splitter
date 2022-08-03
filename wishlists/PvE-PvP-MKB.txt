@@ -7146,9 +7146,6 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 
 // Perfect Paradox (PvP)
 //notes:Mercules904 notes (must have PvP): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
-
-// Perfect Paradox (PvP)
-//notes:Mercules904 notes (must have PvP): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
 dimwishlist:item=3393519051&perks=1047830412,3142289711,3161816588,47981717
 
 // Perfect Paradox (PvE DPS)
@@ -7168,12 +7165,6 @@ dimwishlist:item=3393519051&perks=4090651448,1087426260,3523296417,2360754333
 
 // Perfect Paradox (PvE DPS)
 //notes:Mercules904 notes (must have PvE DPS): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
-
-// Perfect Paradox (PvE DPS)
-//notes:Mercules904 notes (must have PvE DPS): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
-
-// Perfect Paradox (PvE add clear)
-//notes:Mercules904 notes (must have PvE add clear): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
 
 // Perfect Paradox (PvE add clear)
 //notes:Mercules904 notes (must have PvE add clear): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
