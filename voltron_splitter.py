@@ -1,135 +1,126 @@
-#list to store weapon info
-currentWeapon = []
-
-#flags for weapon tags
-writeToPvE = False
-writeToPvP = False
-writeToMouse = False
-writeToController = False
-
-#voltron file in submodule
-mainFile = "./dim-wish-list-sources/voltron.txt"
-
-#main files in main repo
-pveFile = "voltron-PvE.txt"
-pvpFile = "voltron-PvP.txt"
-mouseFile = "voltron-MKB.txt"
-controllerFile = "voltron-Controller.txt"
-
-#combined flag files
-pveMouseFile = "voltron-PvE-MKB.txt"
-pvpMouseFile = "voltron-PvP-MKB.txt"
-pveControllerFile = "voltron-PvE-Controller.txt"
-pvpControllerFile = "voltron-PvP-Controller.txt"
-
-#PvE and PvP files
-pvePvPFile = "voltron-PvE-PvP.txt"
-pvePvPMouseFile = "voltron-PvE-PvP-MKB.txt"
-pvePvPControllerFile = "voltron-PvE-PvP-Controller.txt"
-
 #function to open and clean files
-def clearFiles(fileName):
-    with open(fileName, mode='w') as clearFile:
-        pass
+def clearFiles(wishListAll):
+    for curList in wishListAll:
+        with open(curList["FileName"], mode='w') as clearFile:
+            pass
 
-#clears al main files
-clearFiles(pveFile)
-clearFiles(pvpFile)
-clearFiles(mouseFile)
-clearFiles(controllerFile)
-
-#clears all combined files
-clearFiles(pveMouseFile)
-clearFiles(pvpMouseFile)
-clearFiles(pveControllerFile)
-clearFiles(pvpControllerFile)
-
-#clear Pve + PvP files
-clearFiles(pvePvPFile)
-clearFiles(pvePvPMouseFile)
-clearFiles(pvePvPControllerFile)
-
-#function to write weapon info to file
-def writeToFile(fileName, weaponInfo):    
+#write to outFile
+def writeToFile(fileName, weaponInfo):
     with open(fileName, mode='a') as tempFile:
         for i in weaponInfo:
             tempFile.write(i)
         tempFile.write("\n")
-        
-#function to read voltron file in submodule
-#collect weapon info and trigger flags
-#which then write to seperate files
+
+#voltron file in submodule
+mainFile = "./dim-wish-list-sources/voltron.txt"
+
+pveFlag = False
+pvpFlag = False
+mkbFlag = False
+ctrFlag = False
+
+listSettings = [
+                {
+                "flags": "pveFlag or not pvpFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvE.txt"
+                },
+                {
+                "flags": "pvpFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvP.txt"
+                },
+                {
+                "flags": "mkbFlag or not ctrFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/MKB.txt"
+                },
+                {
+                "flags": "ctrFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/Controller.txt"
+                },
+                {
+                "flags": "(pveFlag or not pvpFlag) and (mkbFlag or not ctrFlag)", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvE-MKB.txt"
+                },
+                {
+                "flags": "(pveFlag or not pvpFlag) and ctrFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvE-Controller.txt"
+                },
+                {
+                "flags": "pvpFlag and (mkbFlag or not ctrFlag)", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvP-MKB.txt"
+                },
+                {
+                "flags": "pvpFlag and ctrFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvP-Controller.txt"
+                },
+                {
+                "flags": "pveFlag and pvpFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvE-PvP.txt"
+                },
+                {
+                "flags": "(pveFlag and pvpFlag) and (mkbFlag or not ctrFlag)", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvE-PvP-MKB.txt"
+                },
+                {
+                "flags": "(pveFlag and pvpFlag) and ctrFlag", 
+                "search":[], "searchFlag": False,
+                "FileName":"./wishlists/PvE-PvP-Controller.txt"
+                },
+                {
+                "flags": "False", 
+                "search":["pandapaxxy"], "searchFlag": False,
+                "FileName":"./wishlists/PandaPaxxy.txt"
+                }
+                ]
+
+clearFiles(listSettings)
+
+lineCollection = []
+
+def checkWrite():
+    for listParams in listSettings:
+        if eval(listParams["flags"]) or listParams["searchFlag"]:
+            writeToFile(listParams["FileName"], lineCollection)
+        listParams["searchFlag"] = False
+
 with open(mainFile, mode='r', encoding='utf-8') as f:
-    for l_no, line in enumerate(f):
-        
-        #Checks for PvE and PvP
-        if 'PvE' in line or "pve" in line or 'PVE' in line:
-            writeToPvE = True
-        if 'PvP' in line or "pvp" in line or 'PVP' in line:
-            writeToPvP = True
-
-        #Checks for Controller or Mouse
-        if 'Controller' in line or "controller" in line:
-            writeToController = True
-        if 'MKB' in line or 'mkb' in line or 'M+KB' in line or 'm+kb' in line:
-            writeToMouse = True
-        
-        #If line isn't empty add to current weapon
+    for line in f:
+        #Non-empty Line. Add to Weapon. Check for Flags
         if len(line) != 1:
-            currentWeapon.append(line)  
+            lineCollection.append(line)
             
-        #Line is empty so finished current weapon info
+            if 'pve' in line.lower():
+                pveFlag = True
+            if 'pvp' in line.lower():
+                pvpFlag = True
+            if 'mkb' in line.lower() or "m+kb" in line.lower():
+                mkbFlag = True
+            if 'controller' in line.lower():
+                ctrFlag = True
+            
+            for listParams in listSettings:
+                if any(i in line.lower() for i in listParams["search"]):
+                    listParams["searchFlag"] = True
+                    
+        #Empty Line. Add Weapon to WishLists. Reset Flags
         else:
-            #Handle if No flags Triggered
-            #No PvE and PvP = PvE and PvP
-            if not writeToPvE and not writeToPvP:
-                writeToPvE = True
-                writeToPvP = True
+            checkWrite()
             
-            #No Controller or Mouse = Mouse
-            if not writeToController and not writeToMouse:
-                writeToMouse = True
-            #------------------------------------
-            #Main Flags
-            if writeToPvE:
-                writeToFile(pveFile, currentWeapon)
-            if writeToPvP:
-                writeToFile(pvpFile, currentWeapon)
-            if writeToController:
-                writeToFile(controllerFile, currentWeapon)
-            if writeToMouse:
-                writeToFile(mouseFile, currentWeapon)
-
-            #------------------------------------
-            #Combined Flags
-            if writeToPvE and writeToMouse:
-                writeToFile(pveMouseFile, currentWeapon)
+            pveFlag = False
+            pvpFlag = False
+            mkbFlag = False
+            ctrFlag = False
             
-            if writeToPvP and writeToMouse:
-                writeToFile(pvpMouseFile, currentWeapon)
-                
-            if writeToPvE and writeToController:
-                writeToFile(pveControllerFile, currentWeapon)
-            
-            if writeToPvP and writeToController:
-                writeToFile(pvpControllerFile, currentWeapon)
-            #------------------------------------
-            #PvE and PvP Combined Flags
-            pvePvPFlag = writeToPvE and writeToPvP
-            
-            if pvePvPFlag:
-                writeToFile(pvePvPFile, currentWeapon)
-                
-            if pvePvPFlag and writeToMouse:
-                writeToFile(pvePvPMouseFile, currentWeapon)
-            
-            if pvePvPFlag and writeToController:
-                writeToFile(pvePvPControllerFile, currentWeapon)
+            lineCollection = []
+        
      
-            currentWeapon = []
-            writeToPvE = False
-            writeToPvP = False
-            writeToMouse = False
-            writeToController = False
-
-
+    checkWrite()
