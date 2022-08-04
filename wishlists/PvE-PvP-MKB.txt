@@ -1,6 +1,3 @@
-title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
-
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
 
@@ -78,9 +75,6 @@ dimwishlist:item=2488587246&perks=4090651448,2420895100,744594675,1546637391
 
 title:u/pandapaxxy's World Drops / Season Pass, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5ev69/world_drops_season_pass_season_of_the_haunted/
-
-@title:Opulent weapons
-@description:Reprised weapons with To Excess origin perk from Leviathan Opulent Key chests and Duality Dungeon
 
 // originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep18-reprised-opulent-weapons.txt
 
@@ -285,53 +279,23 @@ dimwishlist:item=3055790362&perks=4090651448,3230963543,3400784728,3523296417
 dimwishlist:item=3055790362&perks=1482024992,3230963543,3400784728,3523296417
 dimwishlist:item=3055790362&perks=3250034553,3230963543,3400784728,3523296417
 
-title:Season 17 Solstice of Heroes weapons
-description:New and reprised weapons dropping from Season 17 (Haunted) Solstice event
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep24-s17-solstice-weapons.txt
-
-title:Selected Dreaming City weapons
-description:Selected weapons from Dreaming City destinations and activities as at Destiny Update 4.1.5
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep23-selected-dreaming-city-weapons.txt
 
-title:S-Tier Hand Cannons and rolls recommended by @illPhysics
-description:PvP hand cannon picks as at S17 from the discussion between Kyt and illPhysics
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep263-s-tier-hand-cannons.txt
-
-title:S-Tier Sub-machine guns and rolls recommended by @pattycakesGG
-description:PvP SMG picks as at S17 from the discussion between Kyt and Pattycakes
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep264-s-tier-smgs.txt
 
-title:Glaive roll recommendations with @legoleflash
-description:PvP Glaive picks as at S17 Update 4.1.5 from the discussion between Kyt and Legoleflash
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep266-glaives.txt
-
-@title:Playlist weapons
-@description:Season 17 returning and new playlist (Vanguard, Nightfall, Crucible, Iron Banner, Trials of Osiris, and Gambit) weapons
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep20-playlist-weapons.txt
 
-title:Duality Dungeon weapons
-description:New Duality weapons with the Bitterspite origin perk
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep19-duality-weapons.txt
-
-title:S-Tier Sniper rifles and rolls recommended by @ItzShadow
-description:PvP sniper rifle picks as at S17 from the discussion between Kyt and Shadow
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep262-s-tier-sniper-rifles.txt
 
-title:Season 17 Foundry weapons
-description:Season of the Haunted Foundries New weapons
-
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep22-season-17-foundry-new-weapons.txt
-
-@title:Haunted weapons
-@description:Seasonal weapons from Season 17 (Haunted) with the Extrovert origin perk
 
 // originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep261-haunted-weapons.txt
 
@@ -342,8 +306,6 @@ dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,598607952
 dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,598607952
 dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,2396489472
 dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,2396489472
-
-title:u/pandapaxxy's Guardian Games 2022 breakdown
 
 title:u/pandapaxxy's Vow of the Disciple Weapons, Season of the Risen Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhd6k/vow_of_the_disciple_weapons_season_of_the_risen/
@@ -660,14 +622,6 @@ dimwishlist:item=2607304614&perks=2014892510,2675361166
 dimwishlist:item=2607304614&perks=2946784966,2675361166
 dimwishlist:item=2607304614&perks=987673306,2675361166
 
-@title:Triumph Weapon
-@description:From completing the Chief Investigator Triumph and then world drops
-
-@title:The Wellspring - Witch Queen DLC six-man activity - weapons
-
-@title:Throne World Weapons
-@description:Dropping from Savathun's Throne World engrams
-
 title:Nightfall weapons part 2 and Hakke foundry
 description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt 
 
@@ -727,8 +681,6 @@ dimwishlist:item=2856514843&perks=1347741687,3007133316
 
 title:Guardian Games 2022 and Trials of Osiris weapon
 description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep14-guardian-games-2022-and-trials-of-osiris-weapons.txt
-
-title:YeezyGT's S16
 
 // Gnawing Hunger - [YeezyGT's S16] (pve,pvp)
 //notes: [YeezyGT's S16] [MW: Any] "Gnawing Hunger is a workhorse that saw a lot of use after its Umbral-focused return in Season of Arrivals. It's got a fairly shallow perk pool filled with viable perks, so just pick up what you like and roll with it. There's some curated Overflow rolls kicking around from back when Tier 3 Reckoning was a thing, and they mostly overshadow the current perks available. Regardless, its a super-reliable 600RPM with a respectable stat package to boot." tags:pve,pvp
@@ -1427,9 +1379,6 @@ dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,1015611457
 
 // sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
 
-@title:Vow of the Disciple Raid weapons
-@description:Raid weapons from Witch Queen, Season 16 (Risen)
-
 // Insidious (PvP first choice roll)
 // Chambered Compensator, Accurized Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 241. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
@@ -1575,8 +1524,6 @@ dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,2422968039
 title:Nightfall weapons part 1
 description:Sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
 
-@title:Veist Foundry weapons
-
 // Redback-5si (PvE backup roll)
 // Any barrel, (Accurized ROunds, Steady Rounds, Alloy Mag, Flared Magwell), Perpetual Motion, Surrounded
 //notes:Inspired by DMB Player Versus Enemies Podcast 10. PvE backup roll for general add clear, although Sidearms are more for PvP. Barrel depends on your range/stability/handling/recoil direction preferences. There's no magazine perks that boost magazine except extended mag, so choose something else. Perpetual Motion and Surrounded should work well together. Recommended MW: Reload Speed or Stability, with a Backup Mag or damage-boosting (Minor, Major or Taken Spec) mod.|tags:pve
@@ -1603,8 +1550,6 @@ dimwishlist:item=1687353095&perks=3142289711,1583705720,3425386926
 dimwishlist:item=1687353095&perks=3177308360,1583705720,3425386926
 dimwishlist:item=1687353095&perks=1431678320,1583705720,3425386926
 dimwishlist:item=1687353095&perks=3230963543,1583705720,3425386926
-
-title:YeezyGT's WQ
 
 // Likely Suspect - [YeezyGT's WQ] (pve)
 //notes: [YeezyGT's WQ] [MW: Stability / Charge] "Likely Suspect is fantastic. I have a really hard time recommending anything other than Firmly Planted / Successful Warm Up here, as it's a stellar workhorse, and just straight up deadly in PvP, and everywhere else. If you're crouch/slide averse -- Perpetual or Heating Up are strong options here too. There's a careful balancing act for PvP Charge Time I won't get into (look up Castle Content for a full breakdown), but for PvE I wanted pure consistency at a distance outside of Rapid Fire's normal operating range, so Smallbore + Particle Repeater were my go-to's." tags:pve
@@ -3766,8 +3711,6 @@ dimwishlist:item=2856514843&perks=1392496348,3230963543,2717805783,3418165135,40
 dimwishlist:item=2856514843&perks=1392496348,3230963543,2717805783,4104185692,4008116374
 dimwishlist:item=2856514843&perks=1392496348,3230963543,2717805783,3007133316,4008116374
 
-title:@AyyItsChevy's S16 Super Pog PvE Loot List
-
 description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep2-nightfall-reprised-weapons.txt
 title:Season 15 Vanguard Nightfall weapons
 notes:Reprised D1 weapons dropping from Nightfall completions
@@ -4062,9 +4005,6 @@ dimwishlist:item=1481892490&perks=4090651448,1885400500,1820235745,3108830275
 
 description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep241-reprised-dawning-weapons.txt
 
-title:Reprised Dawning weapons
-description:Season 15 (Season of the Lost) Dawning weapons
-
 title:u/pandapaxxy's 30th Anniversary M+KB Breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
 
@@ -4231,8 +4171,6 @@ dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,588594999
 
 title:u/pandapaxxy's 30th Anniversary Controller Breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
-
-title:YeezyGT's S16
 
 // Gnawing Hunger - [YeezyGT's S16] (pve,pvp)
 //notes: [YeezyGT's S16] [MW: Any] "Gnawing Hunger is a workhorse that saw a lot of use after its Umbral-focused return in Season of Arrivals. It's got a fairly shallow perk pool filled with viable perks, so just pick up what you like and roll with it. There's some curated Overflow rolls kicking around from back when Tier 3 Reckoning was a thing, and they mostly overshadow the current perks available. Regardless, its a super-reliable 600RPM with a respectable stat package to boot." tags:pve,pvp
@@ -4931,21 +4869,7 @@ dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,1015611457
 
 description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep240-selected-30th-anniversary-weapons.txt
 
-title:Season 15 (Season of the Lost) Selected Grasp of Avarice weapon rolls
-description:Xûr activity, reputation and cache chest legendary weapons
-
-// First choice rolls
-
-// Range rolls for M&K
-
-// Backup rolls - aim for 85 stability then range (Perpetual Motion will max stability when active)
-
-// General mixed perks
-
 decription: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep238-selected-world-weapons.txt
-
-title:Season 15 (Season of the Lost) World drop weapon rolls
-description:World pool legendary weapon rolls
 
 // Legal Action II (PvP backup roll/PvE first choice roll)
 // (Polygonal Rifling, Chambered Compensator), (Steady Rounds, Tactical Mag, Flared Magwell), Surplus, (Thresh, Wellspring)
@@ -5023,13 +4947,7 @@ dimwishlist:item=577528837&perks=1392496348,3230963543,3436462433,2726471870
 dimwishlist:item=577528837&perks=1482024992,3230963543,3436462433,2726471870
 dimwishlist:item=577528837&perks=3661387068,3230963543,3436462433,2726471870
 
-title:Season 13 (Season of the Chosen) World drop weapon rolls
-description:World pool legendary weapon rolls
-
 description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep235-activity-weapons.txt
-
-title:Season 15 (Season of the Lost) Activity weapon rolls
-description:Weapons dropping at the end of Crucible, Gambit and Vanguard activities
 
 // Servant Leader (PvP/PvE first choice roll)
 // Polygonal Rifling, Steady Rounds, Rapid Hit, Kill Clip
@@ -5051,17 +4969,11 @@ dimwishlist:item=1107446438&perks=839105230,3230963543,247725512,1015611457
 
 description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep234-vault-of-glass-weapons.txt
 
-title:Season 14 (Season of the Chosen) Vault of Glass rolls
-description:Reprised weapons from Vault of Glass Raid
-
 // Praedyth's Revenge (PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15. Recommended MW: Handling.
 dimwishlist:item=3653573172&perks=1840239774,106909392,3418782618,4104185692
 
 description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep233-reprised-trials-of-the-nine-weapons.txt
-
-@title:Season 15 Reissued Trials of the Nine weapons
-@notes:Drop from the Propecy dungeon - Darkest Before pulse rifle covered in podcast 232
 
 // A Sudden Death (PvP backup roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 233. PvE backup roll - arc class with Elemental Capacitor for the handling boost. Recommended MW: Handling or Reload Speed.
@@ -5069,9 +4981,6 @@ dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
 dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
 
 description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep232-rapid-fire-pulse-rifles.txt
-
-title:Rapid-fire pulse rifles breakdown from DMB Podcast 232
-description:Weapons roundup as at S15 Festival of the Lost
 
 description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/S15-IB-new-rolls-DMB-ep230.txt
 // Forge's Pledge (PvP/PvE first choice roll)
@@ -5198,8 +5107,6 @@ dimwishlist:item=829330711&perks=4090651448,3177308360,1820235745,3523296417
 //notes:Inspired by Destiny Massive Breakdowns Podcast 230. PvP backup roll - best in class for kinetic adaptive frame sidearms. Recommended MW: Range with Icarus Grip mod for PvP.
 dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,4082225868
 dimwishlist:item=829330711&perks=4090651448,3177308360,972757866,3523296417
-
-title:YeezyGT's S15 wishlist picks.
 
 // Ignition Code - [YeezyGT's S15] (PvE): (god-pve,god-pvp)
 //notes: [YeezyGT's S15] (PvE): [MW: Velocity] "So, it took me 250 Overrides to collect the rolls I wanted for this, like Thanos with the Infinity Stones. Generally; [Quick/Hard Launch / Spike/Blinding / Surplush/Slideshot/Ambitious / Vorpal/Demolitionist/Frenzy]. Ultimately, this is a fantastic gun, and the rolls are mostly personal preference. There's a lot of fuss over Slideshot, but you may ultimately decide it doesn't fit your playstyle - my personal recommendation is Surplus, as it feels a lot better to get into the reload-shoot rhythm to me. Slideshot for PvP, however."|tags:god-pve,god-pvp
@@ -6021,12 +5928,6 @@ dimwishlist:item=4255586669&perks=981914802,3032599245,706527188,1683379515
 
 description: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txtdescription: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txt
 
-title:Destiny Massive Breakdown-inspired weapon rolls
-description:Not affiliated with the DMB podcast, but based on their discussions
-
-title:Season 12 Beyond Light Europan weapons from Podcast 186
-description:Weapons from Variks and Europan activities
-
 // High Albedo (PvE/PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 1. PvE/PvP first choice roll 
 dimwishlist:item=1197486957&perks=3661387068,3177308360,3436462433,3592538738
@@ -6047,9 +5948,6 @@ dimwishlist:item=42351395&perks=1478423395,1996142143,2010801679,2396489472
 //notes:Inspired by Destiny Massive Breakdowns Podcast 186 Part 2. PvE/PvP backup roll. Recommended MW: Reload
 dimwishlist:item=42351395&perks=1844523823,1996142143,2010801679,2396489472
 
-title:Season 12 (Season of the Hunt) Wrathborne Hunt and Season Pass weapon rolls from Podcast 187
-description:Weapons dropped from Season 12 Pass, Crow and Wrathborne Hunts
-
 // Deafening Whisper (PvE/PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 187. PvE/PvP first choice roll. Recommended MW: Reload
 dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228
@@ -6068,27 +5966,12 @@ dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738
 dimwishlist:item=981718087&perks=3798852852,2822142346,2010801679,3592538738
 dimwishlist:item=981718087&perks=981914802,2822142346,2010801679,3592538738
 
-title:Season 12 (Beyond Light) Raid weapon rolls from Podcast 188
-description:Weapons from the Deep Stone Crypt Raid
-
 // Posterity (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP/PvE first choice roll.
 dimwishlist:item=3281285075&perks=1482024992,106909392,247725512,3425386926
 dimwishlist:item=3281285075&perks=1482024992,3230963543,247725512,3425386926
 dimwishlist:item=3281285075&perks=1482024992,106909392,247725512,3523296417
 dimwishlist:item=3281285075&perks=1482024992,3230963543,247725512,3523296417
-
-title:Season 12 (Season of the Hunt) Dawning event weapon rolls from Podcast 189
-description:Weapons from the S12 Christmas/New Year Dawning event
-
-title:Season 12 (Season of the Chosen) Activity weapon rolls from  Podcast 190
-description:Weapons from S13 Gambit, Vanguard and Crucible activities
-
-title:Season 14 (Season of the Chosen) Hawkmoon breakdown from Podcast 194
-description:Harbinger quest exotic hand cannon random rolls
-
-title:Season 13 (Season of the Chosen) Dead Man's Tale from Podast 198
-description:Presage quest exotic scout rifle random rolls
 
 // Dead Man's Tale (PvP/PvE backup roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podast 198. PvP/PvE backup roll.
@@ -6149,9 +6032,6 @@ dimwishlist:item=3654674561&perks=3661387068,679225683,1168162263,990298390
 dimwishlist:item=3654674561&perks=3661387068,1885400500,1546637391,990298390
 dimwishlist:item=3654674561&perks=3661387068,3230963543,1546637391,990298390
 dimwishlist:item=3654674561&perks=3661387068,679225683,1546637391,990298390
-
-title:Season 13 (Season of the Chosen) Battleground weapon rolls from Podcast 201
-description:Weapons from Battleground events, War Table and S13 Umbral Engrams
 
 // Extraordinary Rendition (PvE/PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 201. PvE/PvP firect choice roll. Recommended MW: Stability.
@@ -6297,12 +6177,6 @@ dimwishlist:item=2121785039&perks=1392496348,1885400500,2779035018,3425386926
 dimwishlist:item=2121785039&perks=1482024992,1885400500,2779035018,3425386926
 dimwishlist:item=2121785039&perks=3661387068,1885400500,2779035018,3425386926
 dimwishlist:item=2121785039&perks=4090651448,1885400500,2779035018,3425386926
-
-title:Season 13 (Season of the Chosen) Gambit weapons from Podcast 203
-description:Season 13 end of game Game drops
-
-title:Season 13 (Season of the Chosen) Nightfall weapons from Podcast 205
-description:Reprised Vanguard and Nightfall weapons
 
 // Palindrome (PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP first choice roll. Recommended MW: Stability.
@@ -6457,21 +6331,12 @@ dimwishlist:item=2448907086&perks=1441682018,1996142143,2846385770,1275731761
 dimwishlist:item=2448907086&perks=1478423395,1996142143,2846385770,1275731761
 dimwishlist:item=2448907086&perks=1844523823,1996142143,2846385770,1275731761
 
-title:Season 14 (Season of the Splicer) Iron Banner weapons from Podcast 212
-description:Season 14 Iron Banner weapons
-
-title:Season 14 (Season of the Splicer) Override and Splicer Servitor weapons from Podcast 213
-description:Season 14 activity weapons
-
 // Ignition Code (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 213. PvP first choice roll or PvE for add clear. Recommended MW: Blast Radius.
 dimwishlist:item=304659313&perks=1478423395,409831596,3161816588,2726471870
 dimwishlist:item=304659313&perks=1441682018,409831596,3161816588,2726471870
 dimwishlist:item=304659313&perks=1478423395,409831596,3161816588,3523296417
 dimwishlist:item=304659313&perks=1441682018,409831596,3161816588,3523296417
-
-title:Season 14 (Season of the Splicer) Crucible weapons from Podcast 215
-description:Shayura's Wrath and Survivors Epitaph
 
 // Shayura's Wrath (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 215. PvP first choice roll (not really built for PvE). Recommended MW: Range - aim to get stability to around 65 and then increase range after.
@@ -6752,9 +6617,6 @@ dimwishlist:item=310708513&perks=1482024992,679225683,3436462433,3592538738
 dimwishlist:item=310708513&perks=4090651448,679225683,3436462433,3592538738
 dimwishlist:item=310708513&perks=3250034553,679225683,3436462433,3592538738
 
-title:Season 14 (Season of the Splicer) Reprised Dreaming City (non-Shatterered Throne) weapons from Podcast 219
-description:New perks on Tigerspite, Twilight Oath and Abide the Return
-
 // Tigerspite (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 219. PvP/PvE first choice roll. Recommended MW: Stability. Perk set not great for PvE.
 dimwishlist:item=640114618&perks=1482024992,1885400500,1820235745,2846385770
@@ -6788,12 +6650,6 @@ dimwishlist:item=640114618&perks=3250034553,1885400500,3643424744,4082225868
 dimwishlist:item=640114618&perks=3661387068,1885400500,3643424744,4082225868
 dimwishlist:item=640114618&perks=839105230,1885400500,3643424744,4082225868
 
-title:Season 14 (Season of the Splicer) Solstice of Heroes weapon from Podcast 220
-description:Compass Rose rolls
-
-title:Season 14 (Season of the Splicer) Nightfall weapons from Podcast 222
-description:Reprised weapons as Nightfall weekly drops
-
 // Hung Jury (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP/PvE first choice roll. Recommended MW: Stability with Backup Mag (PvE) or Targeting Adjuster (PvP) mod. Good for Champion mods.
 dimwishlist:item=4281371574&perks=1392496348,3177308360,247725512,3038247973
@@ -6815,9 +6671,6 @@ dimwishlist:item=681067419&perks=1392496348,3177308360,1820235745,3038247973
 dimwishlist:item=681067419&perks=1482024992,3177308360,1820235745,3038247973
 dimwishlist:item=681067419&perks=3661387068,3177308360,1820235745,3038247973
 dimwishlist:item=681067419&perks=4090651448,3177308360,1820235745,3038247973
-
-title:Season 15 (Season of the Lost) Astral Alignment weapons from Podcast 228
-description:Season activity weapon rolls
 
 // Wolftone Draw (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 228. PvP/PvE first choice roll. Recommended MW: Draw Time.
@@ -6858,77 +6711,8 @@ dimwishlist:item=3472875143&perks=852209214,3311977193,951095735,438098033
 dimwishlist:item=3472875143&perks=852209214,3429800428,951095735,438098033
 dimwishlist:item=3472875143&perks=852209214,16392701,951095735,438098033
 
-title:Season 15 (Season of the Lost) Reprised and new Trials weapons from Podcast 229
-description:Reprised Trials of Osiris weapons and Reed's Regret rolls
-
 title:Pandapaxxy's S15 roundup
 description:Converting a spreadsheet linked from https://www.reddit.com/r/sharditkeepit/comments/s6vt49/so_you_think_you_have_a_god_roll/
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-
-// Survivor's Epitaph - Survivor's Epitaph (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Tyranny of Heaven - Tyranny of Heaven (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Tyranny of Heaven - Tyranny of Heaven (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
-// Accrued Redemption - Accrued Redemption (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Accrued Redemption - Accrued Redemption (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-
-// Accrued Redemption - Accrued Redemption (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-
-// Accrued Redemption - Accrued Redemption (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-
-// Accrued Redemption - Accrued Redemption (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
 
 title:@AyyItsChevy's S15 Super Pog PvE Loot List
 description:Originally found at https://twitter.com/AyyItsChevy/status/1431303773817823234?s=20 . Cheers to @Deanosim for the conversion.
@@ -6966,8 +6750,6 @@ description:Originally found at https://twitter.com/AyyItsChevy/status/135956529
 title:An addendum of pandapaxxy's Dead Man's Tale rolls.
 description:Originally found in https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U
 
-title:@AyyItsChevy's Super Pog PvE Loot List
-
 title:u/pandapaxxy's Dawning + Hawkmoon MKB Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgnq/dawning_breakdown_and_hawkmoon_thoughts_mnk/
 
@@ -6985,12 +6767,6 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 dimwishlist:item=2138599001&perks=3250034553,3142289711,247725512,1015611457
 dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457
 
-// Temporal Clause
-//notes:Mercules904 (PvP): "For the trait slots, you've got some pretty great options depending on how you want to use this gun:
-
-// Temporal Clause
-//notes:Mercules904 (PvE): "For the trait slots, you've got some pretty great options depending on how you want to use this gun:
-
 // Mercules' Erentil FR4 breakdown
 // https://www.reddit.com/r/DestinyTheGame/comments/cbxao7/massive_breakdown_of_erentil_fr4_including_stats/
 
@@ -7005,20 +6781,7 @@ dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457
 
 // from https://www.reddit.com/r/DestinyTheGame/comments/9j49os/massive_breakdown_of_the_forsaken_gambit_weapons/
 
-//distant relation (masterworked)
-
-//also trust? (mw)
-
-//trust
-
 // from https://www.reddit.com/r/DestinyTheGame/comments/9gwchn/massive_breakdown_of_forsaken_iron_banner_weapons/
-
-// talons of the eagle
-
-//bite of the fox (pve)
-//notes: PvE pick
-
-//roar of the bear
 
 // from https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/?
 
@@ -7032,33 +6795,6 @@ dimwishlist:item=2138599001&perks=3250034553,3142289711,1168162263,1015611457
 
 title:u/Mercules904's Sundial weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f3garh/massive_breakdown_of_the_sundial_weapons/
-
-// Breachlight
-//notes:Mercules904 (pretty good) - "A decent, easy to use sidearm that's very comparable stat-wise (almost across the board) to Smuggler's Word. I personally like to try to max out stability on these sidearms, being that I'm a console player and it's one of the archetypes defining weakness."
-
-// Steelfeather Repeater (PvP)
-//notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
-
-// Steelfeather Repeater (PvE)
-//notes:Mercules904 (okay PvE) - "If you do want to use this gun in PvE instead of the Crucible (which I think is the way to go) [...] this might help convince some players to try to bring ARs back to prevalence a little bit in PvE."
-
-// Patron of Lost Causes
-//notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
-
-// Gallant Charge (PvP)
-//notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
-
-// Gallant Charge (PvE)
-//notes:Mercules904 (not great PvE) - "In PvE, unfortunately, this gun seems like almost every perk on it is pushing it in the "add clear" direction, and high-impacts just don't excel there. You'd be better off using something with faster charge time and higher inventory to wipe out the red bars [...]"
-
-// Martyr's Retribution
-//notes:Mercules904 (pretty good) - "I personally find Martyr's Retribution to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. Seems like it has a forgiving hit box, and I didn't have much issue hitting people, even when they were slightly behind cover."
-
-// Line in the Sand (PvP)
-//notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
-
-// Line in the Sand (PvE)
-//notes:Mercules904 (pretty good PvE) - "For PvE is really where I'm excited about this gun. [...] It will put out a decent amount of damage, and if LFRs as a whole ever get buffed would be top tier."
 
 title:u/Mercules904's Bygones, Last Perdition, and Black Scorpion breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f6z2ma/massive_breakdown_of_the_bygones_last_perdition/
@@ -7091,9 +6827,6 @@ dimwishlist:item=1952163498&perks=3661387068,1885400500,2387244414,3425386926#no
 title:u/Mercules904's Altars of Sorrow weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
 
-// Apostate (PvP)
-//notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
-
 // Heretic (PvP)
 //notes:Mercules904 (PVP; pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
 dimwishlist:item=3067821200&perks=1478423395,1996142143,2846385770,1275731761
@@ -7122,24 +6855,6 @@ dimwishlist:item=1289324202&perks=981914802,3796465595,205890336,1275731761
 
 title:u/Mercules904's Curse of Osiris Redux Obelisk weapon picks
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/eizm6l/massive_breakdown_of_the_curse_of_osiris_redux/
-
-// Infinite Paths 8 (PvP)
-//notes:Mercules904 notes (not great PvP): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
-
-// Infinite Paths 8 (PvE)
-//notes:Mercules904 notes (not great PvE): "High aim assist, reload speed, and decent stability all combine to make this gun pretty decent when used correctly, but sadly it resides firmly outside of the current competitive meta due to the high precision accuracy needed to achieve the optimal TtK, and comparative weakness to Rapid-Fire's within the same engagement ranges. I definitely recommend trying to get one, but mostly to put in the vault until such a time as the non-Aggressive pulses get some of their range back (or Lightweights get a damage buff)."
-
-// Jack Queen King 3 (PvP)
-//notes:Mercules904 notes (pretty good PvP): "This isn't a great PvP gun on it's own, with Spare Rations being better pretty much across the board, but if you get a Subsistence and Rampage or Swashbuckler roll, I'd give it a shot for sure!"
-
-// Jack Queen King 3 (PvE)
-//notes:Mercules904 notes (pretty good PvE): "Lightweights aren't the most useful guns in PvE, but it's really easy to get a great roll on this one, with almost any of the trait perks being useful."
-
-// Traveler's Judgment 5 (PvP)
-//notes:Mercules904 notes (must have PvP): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
-
-// Traveler's Judgment 5 (PvE)
-//notes:Mercules904 notes (must have PvE): "This is perhaps the gun I am most excited to get my hands on from the set. [...] Stat-wise the gun is straight up competitive, boasting very high base stability for a sidearm, and above average range, plus a decent mag size (equivalent to 10 bursts), and decent aim assist. Indeed, the only real drawback is below average recoil direction, and even that is manageable."
 
 // Perfect Paradox (PvP)
 //notes:Mercules904 notes (must have PvP): "Long story short, this is an excellent shotgun, and a ton of fun in PvE and even PvP. Super fast RoF, huge mag size, high inventory and reload speed, all combine to make this a weapon that excels in a multitude of roles."
