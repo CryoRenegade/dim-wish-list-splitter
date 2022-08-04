@@ -37,7 +37,7 @@ class FileInfo:
                         self.ctrFlag = True
                     if 'dimwishlist:item' in line.lower():
                         self.dimFlag = True
-                    if 'https://' in line.lower():
+                    if 'https://' in line.lower() or 'u/' in line.lower():
                         self.creditFlag = True
 
                     for listSettings in self.allLists:

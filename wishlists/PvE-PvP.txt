@@ -1,3 +1,6 @@
+title:This is a compiled collection of god/recommended rolls from top community minds.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
+
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
 
@@ -346,6 +349,8 @@ dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,598607952
 dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,598607952
 dimwishlist:item=1959650777&perks=1478423395,1996142143,406461158,2396489472
 dimwishlist:item=1959650777&perks=1478423395,1996142143,3977735242,2396489472
+
+title:u/pandapaxxy's Guardian Games 2022 breakdown
 
 title:u/pandapaxxy's Vow of the Disciple Weapons, Season of the Risen Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhd6k/vow_of_the_disciple_weapons_season_of_the_risen/

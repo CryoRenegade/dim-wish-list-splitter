@@ -1,3 +1,6 @@
+title:This is a compiled collection of god/recommended rolls from top community minds.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
+
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
 
@@ -1317,6 +1320,8 @@ dimwishlist:item=1601177201&perks=1840239774,3230963543,2779035018,3425386926
 dimwishlist:item=1601177201&perks=1482024992,3230963543,2779035018,3425386926
 
 // originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep261-haunted-weapons.txt
+
+title:u/pandapaxxy's Guardian Games 2022 breakdown
 
 // The Title
 //notes:pandapaxxy (Controller / PvP): "For PvP I think the Title outclasses most SMGs but falls short in lethality. The best damage perk you have is swashbuckler, which, while fine, falls short of kill clip or multikill clip. It will be interesting to see how the meta shifts with the SMG rework and shotgun nerfs coming. If a more neutral SMG is what really starts to shine." Recommended MW - Range or Stability.|tags:controller,pvp

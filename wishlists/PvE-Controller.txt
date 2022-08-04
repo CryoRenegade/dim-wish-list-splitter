@@ -1,3 +1,6 @@
+title:This is a compiled collection of god/recommended rolls from top community minds.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
+
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
 
@@ -2904,6 +2907,8 @@ dimwishlist:item=617501162&perks=1840239774,1087426260,3643424744,2610012052
 dimwishlist:item=617501162&perks=1482024992,1087426260,3643424744,2610012052
 
 // originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep261-haunted-weapons.txt
+
+title:u/pandapaxxy's Guardian Games 2022 breakdown
 
 // The Title
 //notes:pandapaxxy (M+KB / Controller / PvE): "The Title is an interesting SMG. It's got some great synergy with different builds like the All for All, or grave robber and swashbuckler. Vorpal is always a good choice for general use, but I find SMGs can't really take advantage of it. If you have a good Funnelweb, you can make this work with different builds, but for overall usage I don't know if I'd take The Title over my frenzy Funnelweb." Recommended MW- Reload.|tags:mkb,controller,pve
