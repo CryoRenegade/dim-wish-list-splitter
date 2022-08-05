@@ -67,20 +67,24 @@ class FileInfo:
     def checkWrite(self):
         for curList in self.allLists:
             if self.lineCollection != []:
-                if (eval(curList.getFlags()) or curList.getSearchFlag()) or (not self.dimFlag and self.creditFlag):
+                if (eval(curList.getFlags()) and curList.getSearchFlag()) or (not self.dimFlag and self.creditFlag):
                     with open(curList.getFileName(), mode='a') as tempFile:
                         for i in self.lineCollection:
                             tempFile.write(i)
                         tempFile.write("\n")
 
-            curList.setSearchFlag(False)
+            curList.resetSearchFlag()
+
 class ListSetting:
     def __init__(self, flags, search, fileName):
         self.flags = flags
         self.search = search
         self.fileName = fileName
 
-        self.searchFlag = False
+        self.searchFlag = True
+
+        if self.search != []:
+            self.searchFlag = False
 
     def getFlags(self):
         return self.flags
@@ -94,6 +98,11 @@ class ListSetting:
     def setSearchFlag(self, newFlag):
         self.searchFlag = newFlag
     
+    def resetSearchFlag(self):
+        self.searchFlag = True
+
+        if self.search != []:
+            self.searchFlag = False
 
 wishLists = []
 
@@ -115,8 +124,8 @@ wishLists.append(ListSetting("self.pveFlag and self.pvpFlag", [], "./wishlists/P
 wishLists.append(ListSetting("(self.pveFlag and self.pvpFlag) and (self.mkbFlag or not self.ctrFlag)", [], "./wishlists/PvE-PvP-MKB.txt"))
 wishLists.append(ListSetting("(self.pveFlag and self.pvpFlag) and self.ctrFlag", [], "./wishlists/PvE-PvP-Controller.txt"))
 
-wishLists.append(ListSetting("False", ["pandapaxxy"], "./wishlists/PandaPaxxy.txt"))
-wishLists.append(ListSetting("(self.pveFlag or not self.pvpFlag) and (self.mkbFlag or not self.ctrFlag)", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVE-MKB.txt"))
-wishLists.append(ListSetting("self.pvpFlag and (self.mkbFlag or not self.ctrFlag)", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVP-MKB.txt"))
+wishLists.append(ListSetting("True", ["pandapaxxy"], "./wishlists/PandaPaxxy.txt"))
+wishLists.append(ListSetting("self.pveFlag or not self.pvpFlag", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVE.txt"))
+wishLists.append(ListSetting("self.pvpFlag", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVP.txt"))
 
 FileInfo(wishLists)
