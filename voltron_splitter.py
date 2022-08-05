@@ -107,6 +107,8 @@ class ListSetting:
 wishLists = []
 
 # create individual lists and add to wishLists
+wishLists.append(ListSetting("True", [], "./wishlists/All.txt"))
+
 wishLists.append(ListSetting("self.pveFlag or not self.pvpFlag", [], "./wishlists/PvE.txt"))
 wishLists.append(ListSetting("self.pvpFlag", [], "./wishlists/PvP.txt"))
 
