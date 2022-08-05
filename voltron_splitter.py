@@ -116,5 +116,7 @@ wishLists.append(ListSetting("(self.pveFlag and self.pvpFlag) and (self.mkbFlag 
 wishLists.append(ListSetting("(self.pveFlag and self.pvpFlag) and self.ctrFlag", [], "./wishlists/PvE-PvP-Controller.txt"))
 
 wishLists.append(ListSetting("False", ["pandapaxxy"], "./wishlists/PandaPaxxy.txt"))
+wishLists.append(ListSetting("(self.pveFlag or not self.pvpFlag) and (self.mkbFlag or not self.ctrFlag)", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVE-MKB.txt"))
+wishLists.append(ListSetting("self.pvpFlag and (self.mkbFlag or not self.ctrFlag)", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVP-MKB.txt"))
 
 FileInfo(wishLists)
