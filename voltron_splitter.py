@@ -125,7 +125,5 @@ wishLists.append(ListSetting("(self.pveFlag and self.pvpFlag) and (self.mkbFlag 
 wishLists.append(ListSetting("(self.pveFlag and self.pvpFlag) and self.ctrFlag", [], "./wishlists/PvE-PvP-Controller.txt"))
 
 wishLists.append(ListSetting("True", ["pandapaxxy"], "./wishlists/PandaPaxxy.txt"))
-wishLists.append(ListSetting("self.pveFlag or not self.pvpFlag", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVE.txt"))
-wishLists.append(ListSetting("self.pvpFlag", ["pandapaxxy"], "./wishlists/PandaPaxxy-PVP.txt"))
 
 FileInfo(wishLists)
