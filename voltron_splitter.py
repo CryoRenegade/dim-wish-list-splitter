@@ -83,7 +83,7 @@ class ListSetting:
         self.fileName = fileName
 
         self.searchFlag = True
-        self.resetSearchFlag
+        self.resetSearchFlag()
     
     def resetSearchFlag(self):
         self.searchFlag = True
