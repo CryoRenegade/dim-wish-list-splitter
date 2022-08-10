@@ -11,3 +11,7 @@ To add to DIM:
 2. Select a txt file
 3. Go to raw version. Either click "view raw" link or button on top right side of text window.
 4. Copy URL of raw version into DIM wishlist settings
+
+To Change WishLists Either:
+* Copy new URL of raw verion of a wishlist
+* Adjust ending of existing URL (ex. .../wishlists/PvE.txt --> .../wishlists/PvP-MKB.txt)
