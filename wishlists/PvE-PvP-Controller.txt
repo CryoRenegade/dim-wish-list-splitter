@@ -81,6 +81,8 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 
 // originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep18-reprised-opulent-weapons.txt
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep25-prophecy-weapons.txt
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep24-s17-solstice-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep23-selected-dreaming-city-weapons.txt

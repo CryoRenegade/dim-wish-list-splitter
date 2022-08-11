@@ -1086,6 +1086,8 @@ dimwishlist:item=3055790362&perks=4090651448,3230963543,3400784728,3523296417
 dimwishlist:item=3055790362&perks=1482024992,3230963543,3400784728,3523296417
 dimwishlist:item=3055790362&perks=3250034553,3230963543,3400784728,3523296417
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep25-prophecy-weapons.txt
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep24-s17-solstice-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep23-selected-dreaming-city-weapons.txt
