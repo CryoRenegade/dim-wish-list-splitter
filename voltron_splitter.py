@@ -1,36 +1,22 @@
-# Stores Flags for Gamemode, Input, and Other 
-class WeaponInfo:
+# Main Class for Splitter Program
+class Splitter:
     def __init__(self):
+        self.mainFile = "./dim-wish-list-sources/voltron.txt"
+        
         self.newWeapon()
-
+        
     def newWeapon(self):
         self.pveFlag = self.pvpFlag = self.mkbFlag = self.ctrFlag = False
         self.dimFlag = self.creditFlag = False
         
         self.lineCollection = []
 
-# Global object of WeaponInfo
-curWeapon = WeaponInfo()
-
-# Main Class for Splitter Program
-class Splitter:
-    def __init__(self):
-        self.mainFile = "./dim-wish-list-sources/voltron.txt"
-        
-        self.clearFiles()
-        self.readMain()
-
-    def clearFiles(self):
-        for curWishList in flag_search_file:
-            with open(curWishList.get("file"), mode='w') as clearFile:
-                pass
-
     def readMain(self):
         with open(self.mainFile, mode='r', encoding='utf-8') as f:
             for line in f:
                 # Non-empty Line
                 if len(line) != 1:
-                    curWeapon.lineCollection.append(line)
+                    self.lineCollection.append(line)
 
                     # improved flag search in lines
                     relevantLine = ""
@@ -44,20 +30,20 @@ class Splitter:
                     line = line.lower()
 
                     # Relevant Line Flags
-                    if not curWeapon.pveFlag and 'pve' in relevantLine:
-                        curWeapon.pveFlag = True
-                    if not curWeapon.pvpFlag and 'pvp' in relevantLine:
-                        curWeapon.pvpFlag = True
-                    if not curWeapon.mkbFlag and ('mkb' in relevantLine or "m+kb" in relevantLine):
-                        curWeapon.mkbFlag = True
-                    if not curWeapon.ctrFlag and 'controller' in relevantLine:
-                        curWeapon.ctrFlag = True
+                    if not self.pveFlag and 'pve' in relevantLine:
+                        self.pveFlag = True
+                    if not self.pvpFlag and 'pvp' in relevantLine:
+                        self.pvpFlag = True
+                    if not self.mkbFlag and ('mkb' in relevantLine or "m+kb" in relevantLine):
+                        self.mkbFlag = True
+                    if not self.ctrFlag and 'controller' in relevantLine:
+                        self.ctrFlag = True
                     
                     # Full Line Flags
-                    if not curWeapon.dimFlag and 'dimwishlist:item' in line:
-                        curWeapon.dimFlag = True
-                    if not curWeapon.creditFlag and 'https://' in line or 'u/' in line:
-                        curWeapon.creditFlag = True
+                    if not self.dimFlag and 'dimwishlist:item' in line:
+                        self.dimFlag = True
+                    if not self.creditFlag and 'https://' in line or 'u/' in line:
+                        self.creditFlag = True
 
                     # checks line for search flag
                     for listSettings in flag_search_file:
@@ -68,17 +54,17 @@ class Splitter:
                 # Empty Line
                 else:
                     self.checkWrite()
-                    curWeapon.newWeapon()
+                    self.newWeapon()
         
         self.checkWrite()
 
     def checkWrite(self):
         for curWishList in flag_search_file:
-            if curWeapon.lineCollection != []:
+            if self.lineCollection != []:
                 if ( (curWishList.get("flag", lambda: None)() and curWishList.get("searchFlag")) 
-                    or (not curWeapon.dimFlag and curWeapon.creditFlag) ):
+                    or (not self.dimFlag and self.creditFlag) ):
                     with open(curWishList.get("file"), mode='a') as tempFile:
-                        for i in curWeapon.lineCollection:
+                        for i in self.lineCollection:
                             tempFile.write(i)
                         tempFile.write("\n")
 
@@ -86,6 +72,8 @@ class Splitter:
                 curWishList["searchFlag"] = True
             else:
                 curWishList["searchFlag"] = False
+
+mainObj = Splitter()
 
 # -------------------------------------------
 # Dictionary of All Filters
@@ -98,38 +86,38 @@ flag_search_file.append({"flag": lambda: True,
 
 # -------------------------------------------
 # Gamemode Filters
-flag_search_file.append({"flag": lambda: curWeapon.pveFlag or not curWeapon.pvpFlag, 
+flag_search_file.append({"flag": lambda: mainObj.pveFlag or not mainObj.pvpFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE.txt"})
-flag_search_file.append({"flag": lambda: curWeapon.pvpFlag, 
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvP.txt"})
 
 # -------------------------------------------
 # Input Filters
-flag_search_file.append({"flag": lambda: curWeapon.mkbFlag or not curWeapon.ctrFlag, 
+flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/MKB.txt"})
-flag_search_file.append({"flag": lambda: curWeapon.ctrFlag, 
+flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/CTR.txt"})
 
 # -------------------------------------------
 # PvE or PvP Filters
-flag_search_file.append({"flag": lambda: (curWeapon.pveFlag or not curWeapon.pvpFlag) and (curWeapon.mkbFlag or not curWeapon.ctrFlag), 
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-MKB.txt"})
-flag_search_file.append({"flag": lambda: (curWeapon.pveFlag or not curWeapon.pvpFlag) and curWeapon.ctrFlag, 
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-CTR.txt"})
 
-flag_search_file.append({"flag": lambda: curWeapon.pvpFlag and (curWeapon.mkbFlag or not curWeapon.ctrFlag), 
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvP-MKB.txt"})
-flag_search_file.append({"flag": lambda: curWeapon.pvpFlag and curWeapon.ctrFlag, 
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvP-CTR.txt"})
 
 # -------------------------------------------
 # PvE and PvP Filters
-flag_search_file.append({"flag": lambda: curWeapon.pveFlag and curWeapon.pvpFlag, 
+flag_search_file.append({"flag": lambda: mainObj.pveFlag and mainObj.pvpFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP.txt"})
 
-flag_search_file.append({"flag": lambda: (curWeapon.pveFlag and curWeapon.pvpFlag) and (curWeapon.mkbFlag or not curWeapon.ctrFlag), 
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag and mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP-MKB.txt"})
-flag_search_file.append({"flag": lambda: (curWeapon.pveFlag and curWeapon.pvpFlag) and curWeapon.ctrFlag, 
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag and mainObj.pvpFlag) and mainObj.ctrFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP-CTR.txt"})
 
 # -------------------------------------------
@@ -137,5 +125,10 @@ flag_search_file.append({"flag": lambda: (curWeapon.pveFlag and curWeapon.pvpFla
 flag_search_file.append({"flag": lambda: True, 
                         "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy.txt"})
 
+# Clear Previous Files
+for curWishList in flag_search_file:
+    with open(curWishList.get("file"), mode='w') as clearFile:
+        pass
+
 # Start Program
-Splitter()
+mainObj.readMain()
