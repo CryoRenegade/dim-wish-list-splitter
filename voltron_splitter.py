@@ -1,5 +1,3 @@
-# git submodule update --remote
-
 from logging import captureWarnings
 
 class WeaponInfo:
