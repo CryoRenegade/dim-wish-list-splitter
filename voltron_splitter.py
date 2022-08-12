@@ -1,5 +1,6 @@
 from logging import captureWarnings
 
+# Stores Flags for Gamemode, Input, and Other 
 class WeaponInfo:
     def __init__(self):
         self.newWeapon()
@@ -15,21 +16,20 @@ class WeaponInfo:
         
         self.lineCollection = []
 
+# Global object of WeaponInfo
 curWeapon = WeaponInfo()
 
-# read lines of file and trip flags
-class FileInfo:
-    def __init__(self, allLists):
-        self.allWishLists = allLists
-
+# Main Class for Splitter Program
+class Splitter:
+    def __init__(self):
         self.mainFile = "./dim-wish-list-sources/voltron.txt"
         
         self.clearFiles()
         self.readMain()
 
     def clearFiles(self):
-        for curWishList in self.allWishLists:
-            with open(curWishList.fileName, mode='w') as clearFile:
+        for curWishList in flag_search_file.values():
+            with open(curWishList.get("file"), mode='w') as clearFile:
                 pass
 
     def readMain(self):
@@ -52,9 +52,9 @@ class FileInfo:
                     if not curWeapon.creditFlag and 'https://' in line.lower() or 'u/' in line.lower():
                         curWeapon.creditFlag = True
 
-                    for listSettings in self.allWishLists:
-                        if any(i in line.lower() for i in listSettings.search):
-                            listSettings.searchFlag = True
+                    for listSettings in flag_search_file.values():
+                        if not listSettings.get("searchFlag") and any(i in line.lower() for i in listSettings.get("search")):
+                            listSettings["searchFlag"] = True
 
                 # Empty Line
                 else:
@@ -64,74 +64,81 @@ class FileInfo:
         self.checkWrite()
 
     def checkWrite(self):
-        updateFlags()
-
-        for curWishList in self.allWishLists:
+        for curWishList in flag_search_file.values():
             if curWeapon.lineCollection != []:
-                if (curWishList.flags and curWishList.searchFlag) or (not curWeapon.dimFlag and curWeapon.creditFlag):
-                    with open(curWishList.fileName, mode='a') as tempFile:
+                if (curWishList.get("flag", lambda: None)() and curWishList.get("searchFlag")) or (not curWeapon.dimFlag and curWeapon.creditFlag):
+                    with open(curWishList.get("file"), mode='a') as tempFile:
                         for i in curWeapon.lineCollection:
                             tempFile.write(i)
                         tempFile.write("\n")
 
-            curWishList.resetSearchFlag()
+            if curWishList.get("search") == []:
+                curWishList["searchFlag"] = True
+            else:
+                curWishList["searchFlag"] = False
 
-class ListSetting:
-    def __init__(self, search, fileName):
-        self.flags = False
-        self.search = search
-        self.fileName = fileName
+# -------------------------------------------
+# Dictionary of All Filters
+flag_search_file = {}
 
-        self.searchFlag = True
-        self.resetSearchFlag()
+# -------------------------------------------
+# No Filters
+flag_search_file.update({"All": 
+                        {"flag": lambda: True, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/All.txt"}})
 
-    def resetSearchFlag(self):
-        self.searchFlag = True
+# -------------------------------------------
+# Gamemode Filters
+flag_search_file.update({"PvE": 
+                        {"flag": lambda: curWeapon.pveFlag or not curWeapon.pvpFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvE.txt"}})
+flag_search_file.update({"PvP": 
+                        {"flag": lambda: curWeapon.pvpFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvP.txt"}})
 
-        if self.search != []:
-            self.searchFlag = False
+# -------------------------------------------
+# Input Filters
+flag_search_file.update({"MKB": 
+                        {"flag": lambda: curWeapon.mkbFlag or not curWeapon.ctrFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/MKB.txt"}})
+flag_search_file.update({"CTR": 
+                        {"flag": lambda: curWeapon.ctrFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/CTR.txt"}})
 
-wishLists = []
+# -------------------------------------------
+# PvE or PvP Filters
+flag_search_file.update({"PvE-MKB": 
+                        {"flag": lambda: (curWeapon.pveFlag or not curWeapon.pvpFlag) and (curWeapon.mkbFlag or not curWeapon.ctrFlag), 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-MKB.txt"}})
+flag_search_file.update({"PvE-CTR": 
+                        {"flag": lambda: (curWeapon.pveFlag or not curWeapon.pvpFlag) and curWeapon.ctrFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-CTR.txt"}})
 
-wishLists.append(ListSetting([], "./wishlists/All.txt"))
+flag_search_file.update({"PvP-MKB": 
+                        {"flag": lambda: curWeapon.pvpFlag and (curWeapon.mkbFlag or not curWeapon.ctrFlag), 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvP-MKB.txt"}})
+flag_search_file.update({"PvP-CTR": 
+                        {"flag": lambda: curWeapon.pvpFlag and curWeapon.ctrFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvP-CTR.txt"}})
 
-wishLists.append(ListSetting([], "./wishlists/PvE.txt"))
-wishLists.append(ListSetting([], "./wishlists/PvP.txt"))
+# -------------------------------------------
+# PvE and PvP Filters
+flag_search_file.update({"PvE-PvP": 
+                        {"flag": lambda: curWeapon.pveFlag and curWeapon.pvpFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP.txt"}})
 
-wishLists.append(ListSetting([], "./wishlists/MKB.txt"))
-wishLists.append(ListSetting([], "./wishlists/Controller.txt"))
+flag_search_file.update({"PvE-PvP-MKB": 
+                        {"flag": lambda: (curWeapon.pveFlag and curWeapon.pvpFlag) and (curWeapon.mkbFlag or not curWeapon.ctrFlag), 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP-MKB.txt"}})
+flag_search_file.update({"PvE-PvP-CTR": 
+                        {"flag": lambda: (curWeapon.pveFlag and curWeapon.pvpFlag) and curWeapon.ctrFlag, 
+                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP-CTR.txt"}})
 
-wishLists.append(ListSetting([], "./wishlists/PvE-MKB.txt"))
-wishLists.append(ListSetting([], "./wishlists/PvE-Controller.txt"))
+# -------------------------------------------
+# Search Filters
+flag_search_file.update({"PandaPaxxy": 
+                        {"flag": lambda: True, 
+                        "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy.txt"}})
 
-wishLists.append(ListSetting([], "./wishlists/PvP-MKB.txt"))
-wishLists.append(ListSetting([], "./wishlists/PvP-Controller.txt"))
-
-wishLists.append(ListSetting([], "./wishlists/PvE-PvP.txt"))
-
-wishLists.append(ListSetting([], "./wishlists/PvE-PvP-MKB.txt"))
-wishLists.append(ListSetting([], "./wishlists/PvE-PvP-Controller.txt"))
-
-wishLists.append(ListSetting(["pandapaxxy"], "./wishlists/PandaPaxxy.txt"))
-
-flagExpressions = {
-    0: lambda: True,
-    1: lambda: curWeapon.pveFlag or not curWeapon.pvpFlag,
-    2: lambda: curWeapon.pvpFlag,
-    3: lambda: curWeapon.mkbFlag or not curWeapon.ctrFlag,
-    4: lambda: curWeapon.ctrFlag,
-    5: lambda: (curWeapon.pveFlag or not curWeapon.pvpFlag) and (curWeapon.mkbFlag or not curWeapon.ctrFlag),
-    6: lambda: (curWeapon.pveFlag or not curWeapon.pvpFlag) and curWeapon.ctrFlag,
-    7: lambda: curWeapon.pvpFlag and (curWeapon.mkbFlag or not curWeapon.ctrFlag),
-    8: lambda: curWeapon.pvpFlag and curWeapon.ctrFlag,
-    9: lambda: curWeapon.pveFlag and curWeapon.pvpFlag,
-    10: lambda: (curWeapon.pveFlag and curWeapon.pvpFlag) and (curWeapon.mkbFlag or not curWeapon.ctrFlag),
-    11: lambda: (curWeapon.pveFlag and curWeapon.pvpFlag) and curWeapon.ctrFlag,
-    12: lambda: True
-}
-
-def updateFlags():
-    for index in range(len(wishLists)):
-        wishLists[index].flags = flagExpressions.get(index, lambda: None)()
-
-FileInfo(wishLists)
+# Start Program
+Splitter()
