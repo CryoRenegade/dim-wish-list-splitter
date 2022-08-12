@@ -1,3 +1,4 @@
+from ctypes.wintypes import SERVICE_STATUS_HANDLE
 from logging import captureWarnings
 
 # Stores Flags for Gamemode, Input, and Other 
@@ -6,13 +7,8 @@ class WeaponInfo:
         self.newWeapon()
 
     def newWeapon(self):
-        self.pveFlag = False
-        self.pvpFlag = False
-        self.mkbFlag = False
-        self.ctrFlag = False
-
-        self.dimFlag = False
-        self.creditFlag = False
+        self.pveFlag = self.pvpFlag = self.mkbFlag = self.ctrFlag = False
+        self.dimFlag = self.creditFlag = False
         
         self.lineCollection = []
 
@@ -39,21 +35,36 @@ class Splitter:
                 if len(line) != 1:
                     curWeapon.lineCollection.append(line)
 
-                    if not curWeapon.pveFlag and 'pve' in line.lower():
+                    # improved flag search in lines
+                    relevantLine = ""
+                    if '(' in line.lower() and ')' in line.lower():
+                        relevantLine = line[line.find('('):line.find(')')+1]
+                    if "tags:" in line.lower():
+                        relevantLine += " " + line[line.rfind("tags:"):]
+
+                    # Ignore Case
+                    relevantLine = relevantLine.lower()
+                    line = line.lower()
+
+                    # Relevant Line Flags
+                    if not curWeapon.pveFlag and 'pve' in relevantLine:
                         curWeapon.pveFlag = True
-                    if not curWeapon.pvpFlag and 'pvp' in line.lower():
+                    if not curWeapon.pvpFlag and 'pvp' in relevantLine:
                         curWeapon.pvpFlag = True
-                    if not curWeapon.mkbFlag and 'mkb' in line.lower() or "m+kb" in line.lower():
+                    if not curWeapon.mkbFlag and ('mkb' in relevantLine or "m+kb" in relevantLine):
                         curWeapon.mkbFlag = True
-                    if not curWeapon.ctrFlag and 'controller' in line.lower():
+                    if not curWeapon.ctrFlag and 'controller' in relevantLine:
                         curWeapon.ctrFlag = True
-                    if not curWeapon.dimFlag and 'dimwishlist:item' in line.lower():
+                    
+                    # Full Line Flags
+                    if not curWeapon.dimFlag and 'dimwishlist:item' in line:
                         curWeapon.dimFlag = True
-                    if not curWeapon.creditFlag and 'https://' in line.lower() or 'u/' in line.lower():
+                    if not curWeapon.creditFlag and 'https://' in line or 'u/' in line:
                         curWeapon.creditFlag = True
 
+                    # checks line for search flag
                     for listSettings in flag_search_file.values():
-                        if not listSettings.get("searchFlag") and any(i in line.lower() for i in listSettings.get("search")):
+                        if not listSettings.get("searchFlag") and any(i in line for i in listSettings.get("search")):
                             listSettings["searchFlag"] = True
 
                 # Empty Line
