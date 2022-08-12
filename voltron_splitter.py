@@ -99,7 +99,7 @@ flag_search_file.append({"flag": lambda: mainObj.ctrFlag,
                         "search": [], "searchFlag": True,"file": "./wishlists/CTR.txt"})
 
 # -------------------------------------------
-# PvE or PvP Filters
+# Separate PvE / PvP Filters
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-MKB.txt"})
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
@@ -111,7 +111,7 @@ flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag,
                         "search": [], "searchFlag": True,"file": "./wishlists/PvP-CTR.txt"})
 
 # -------------------------------------------
-# PvE and PvP Filters
+# Both PvE / PvP Filters
 flag_search_file.append({"flag": lambda: mainObj.pveFlag and mainObj.pvpFlag, 
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP.txt"})
 
@@ -121,14 +121,26 @@ flag_search_file.append({"flag": lambda: (mainObj.pveFlag and mainObj.pvpFlag) a
                         "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP-CTR.txt"})
 
 # -------------------------------------------
-# Search Filters
+# PandaPaxxy Filters
 flag_search_file.append({"flag": lambda: True, 
                         "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy.txt"})
 
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
+                        "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy-PvE-MKB.txt"})
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
+                        "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy-PvE-CTR.txt"})
+
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
+                        "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy-PvP-MKB.txt"})
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
+                        "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy-PvP-CTR.txt"})
+
+# -------------------------------------------
 # Clear Previous Files
 for curWishList in flag_search_file:
     with open(curWishList.get("file"), mode='w') as clearFile:
         pass
 
+# -------------------------------------------
 # Start Program
 mainObj.readMain()
