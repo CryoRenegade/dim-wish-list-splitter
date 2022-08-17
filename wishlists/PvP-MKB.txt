@@ -9753,6 +9753,77 @@ dimwishlist:item=3428521585&perks=1392496348,3177308360,3523296417,2422968039
 dimwishlist:item=3428521585&perks=1392496348,3177308360,1906147653,2422968039
 dimwishlist:item=3428521585&perks=1392496348,3177308360,1906147653,2422968039
 
+// Insidious (Adept) (PvP first choice roll)
+// Chambered Compensator, Accurized Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=3661387068,3142289711,247725512,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,2938480696,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,1570042021,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,2748258257,3425386926
+dimwishlist:item=786352912&perks=3661387068,3142289711,247725512,288411554
+dimwishlist:item=786352912&perks=3661387068,3142289711,2938480696,288411554
+dimwishlist:item=786352912&perks=3661387068,3142289711,1570042021,288411554
+dimwishlist:item=786352912&perks=3661387068,3142289711,2748258257,288411554
+
+// Insidious (Adept) (PvP first choice roll) 
+// Extended Barrel, Steady Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Aim to improve the recoil direction, get stability in the mid-70s and then add range. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1467527085,3142289711,247725512,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,247725512,3425386926
+dimwishlist:item=786352912&perks=1467527085,3142289711,2938480696,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,2938480696,3425386926
+dimwishlist:item=786352912&perks=1467527085,3142289711,1570042021,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,1570042021,3425386926
+dimwishlist:item=786352912&perks=1467527085,3142289711,2748258257,3425386926
+dimwishlist:item=786352912&perks=1467527085,3177308360,2748258257,3425386926
+
+// Insidious (Adept) (PvP first choice roll)
+// (Polygonal Rifling, Smallbore), Steady Rounds, (Rapid Hit, Rapid Hit Enhanced, Heating Up, Heating Up Enhanced), (Rampage, Rampage Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to get stability high enough so when either Rapid Hit or Heating Up kicks in, it mitigates the slightly-off recoil direction. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1482024992,3177308360,247725512,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,247725512,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,2938480696,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,2938480696,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,1570042021,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,1570042021,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,2748258257,3425386926
+dimwishlist:item=786352912&perks=1392496348,3177308360,2748258257,3425386926
+dimwishlist:item=786352912&perks=1482024992,3177308360,247725512,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,247725512,288411554
+dimwishlist:item=786352912&perks=1482024992,3177308360,2938480696,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,2938480696,288411554
+dimwishlist:item=786352912&perks=1482024992,3177308360,1570042021,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,1570042021,288411554
+dimwishlist:item=786352912&perks=1482024992,3177308360,2748258257,288411554
+dimwishlist:item=786352912&perks=1392496348,3177308360,2748258257,288411554
+
+// Insidious (Adept) (PvP first choice roll)
+// Chambered Compensator, Accurized Rounds, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to improve recoil direction, stability and range, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=3661387068,3142289711,3523296417,11612903
+dimwishlist:item=786352912&perks=3661387068,3142289711,1906147653,11612903
+dimwishlist:item=786352912&perks=3661387068,3142289711,3523296417,2422968039
+dimwishlist:item=786352912&perks=3661387068,3142289711,1906147653,2422968039
+
+// Insidious (Adept) (PvP first choice roll)
+// Extended Barrel, Steady Rounds, (Demolitionist, Demolitionist Enhanced), (Adrenaline Junkie, Adrenaline Junkie Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to improve recoil direction, stability and range, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1467527085,3177308360,3523296417,11612903
+dimwishlist:item=786352912&perks=1467527085,3177308360,1906147653,11612903
+dimwishlist:item=786352912&perks=1467527085,3177308360,3523296417,2422968039
+dimwishlist:item=786352912&perks=1467527085,3177308360,1906147653,2422968039
+
+// Insidious (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Rare example of a strong, forgiving subtype, even though the perks are more PvE orientated. Looking to get stability high enough so it helps with the slightly-off recoil direction, and then follow Shaxx's advice grenade frequency with Demolitionist and Adrenaline Junkie. Recommended MW: Stability with Targeting Adjuster or Quick Access Sling mod depending on play style.
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,11612903
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,2422968039
+dimwishlist:item=786352912&perks=1392496348,3177308360,3523296417,2422968039
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,2422968039
+dimwishlist:item=786352912&perks=1392496348,3177308360,1906147653,2422968039
+
 // Submission (PvP first choice roll)
 // Hammer-Forged Rifling, Steady Rounds, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Icarus Grip or Freehand Grip mod depending on play style.
@@ -9784,6 +9855,38 @@ dimwishlist:item=3886416794&perks=1392496348,3142289711,2172504645,438098033
 dimwishlist:item=3886416794&perks=1392496348,3142289711,1172098417,438098033
 dimwishlist:item=3886416794&perks=1392496348,3142289711,2172504645,2748801589
 dimwishlist:item=3886416794&perks=1392496348,3142289711,1172098417,2748801589
+
+// Submission (Adept)(PvP first choice roll)
+// Hammer-Forged Rifling, Steady Rounds, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1428297954,4082225868
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2014892510,4082225868
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1428297954,1161469972
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2014892510,1161469972
+
+// Submission (Adept)(PvP first choice roll)
+// Polygonal Rifling, Accurized Rounds, (Perpetual Motion, Perpetual Motion Enhanced), (Swashbuckler, Swashbuckler Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1428297954,4082225868
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2014892510,4082225868
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1428297954,1161469972
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2014892510,1161469972
+
+// Submission (Adept)(PvP first choice roll)
+// Hammer-Forged Rifling, Steady Rounds, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Sleight of Hand and Harmony work well together for a fast swap and 20% damage boots after a kill with another weapon. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2172504645,438098033
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1172098417,438098033
+dimwishlist:item=1941816543&perks=3250034553,3177308360,2172504645,2748801589
+dimwishlist:item=1941816543&perks=3250034553,3177308360,1172098417,2748801589
+
+// Submission (Adept)(PvP first choice roll)
+// Polygonal Rifling, Accurized Rounds, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for damage chaining (6s). Good PvP SMG with 1.5 zoom and the Lightweight's boost to mobility. Close to Multimach CCX in stats, but can't roll with Dynamic Sway Reduction so you'll need to use traits to compensate. Sleight of Hand and Harmony work well together for a fast swap and 20% damage boots after a kill with another weapon. Recommended MW: Stability with Adept Icarus Grip or Freehand Grip mod depending on play style.
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2172504645,438098033
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1172098417,438098033
+dimwishlist:item=1941816543&perks=1392496348,3142289711,2172504645,2748801589
+dimwishlist:item=1941816543&perks=1392496348,3142289711,1172098417,2748801589
 
 // Deliverance (PvP first choice roll)
 // Hammer-Forged Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
@@ -9961,6 +10064,182 @@ dimwishlist:item=768621510&perks=4090651448,3868766766,1008128453,2978966579
 dimwishlist:item=768621510&perks=4090651448,3868766766,1799762209,344235611
 dimwishlist:item=768621510&perks=4090651448,3868766766,1008128453,344235611
 
+// Deliverance (Adept) (PvP first choice roll)
+// Hammer-Forged Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Going all in to range to get an extra metre to the damage falloff, and using the boosts from Perpetual Motion and Tap the Trigger get you to 77 stability in use. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=3250034553,2969185026,1428297954,1890422124
+dimwishlist:item=2886339027&perks=3250034553,2969185026,2014892510,1890422124
+dimwishlist:item=2886339027&perks=3250034553,2969185026,1428297954,1523649716
+dimwishlist:item=2886339027&perks=3250034553,2969185026,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,1890422124
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,1890422124
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,1523649716
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,1890422124
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,1890422124
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,1523649716
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Tap The Trigger, Tap The Trigger Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get Range to 80 and Stability to 70 with barrel and mag traits, so the boosts from Perpetual Motion and Tap the Trigger get you to 90 stability in use. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,1890422124
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,1890422124
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,1523649716
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,1523649716
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,344235611
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,344235611
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for duelling (3s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,344235611
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Successful Warm-up enables fast follow-up kills once procced. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1428297954,617966211
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2014892510,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Perpetual Motion, Perpetual Motion Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Successful Warm-up enables fast follow-up kills once procced. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1428297954,617966211
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2014892510,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Perpetual Motion, Perpetual Motion Enhanced), (Successful Warm-Up, Successful Warm-Up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range and Stability to 80 with Masterwork, barrel, mag traits and Perpetual Motion. Successful Warm-up enables fast follow-up kills once procced. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1428297954,617966211
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2014892510,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Heating Up, Heating Up Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Heating Up and Successful Warm-up enable fast follow-up kills once procced. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1570042021,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2748258257,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1570042021,617966211
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2748258257,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Heating Up, Heating Up Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Heating Up and Successful Warm-up enable fast follow-up kills once procced.  Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1570042021,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2748258257,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1570042021,617966211
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2748258257,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Heating Up, Heating Up Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Heating Up and Successful Warm-up enable fast follow-up kills once procced.  Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1570042021,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2748258257,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1570042021,617966211
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2748258257,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Sleight of Hand and Harmony are an ideal pairing for chaining kills, after a kill with another weapon. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2172504645,438098033
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1172098417,438098033
+dimwishlist:item=2886339027&perks=1482024992,3868766766,2172504645,2748801589
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1172098417,2748801589
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Sleight of Hand and Harmony are an ideal pairing for chaining kills, after a kill with another weapon. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2172504645,438098033
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1172098417,438098033
+dimwishlist:item=2886339027&perks=1392496348,2969185026,2172504645,2748801589
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1172098417,2748801589
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Sleight of Hand, Sleight of Hand Enhanced), (Harmony, Harmony Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Sleight of Hand and Harmony are an ideal pairing for chaining kills, after a kill with another weapon. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2172504645,438098033
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1172098417,438098033
+dimwishlist:item=2886339027&perks=4090651448,3868766766,2172504645,2748801589
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1172098417,2748801589
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Cornered, Cornered Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Cornered gives you Backup Plan-lite when near enemies, and Successful Warm-Up makes follow-up kills easier. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,2652708987
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,617966211
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Cornered, Cornered Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Cornered gives you Backup Plan-lite when near enemies, and Successful Warm-Up makes follow-up kills easier. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,2652708987
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,617966211
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Cornered, Cornered Enhanced), (Successful Warm-up, Successful Warm-up Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Cornered gives you Backup Plan-lite when near enemies, and Successful Warm-Up makes follow-up kills easier. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,2652708987
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,617966211
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,617966211
+
+// Deliverance (Adept) (PvP first choice roll)
+// Smallbore, Particle Repeater, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Range with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,2978966579
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1799762209,344235611
+dimwishlist:item=2886339027&perks=1482024992,3868766766,1008128453,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Polygonal Rifling, Projection Fuse, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Range or Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,2978966579
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1799762209,344235611
+dimwishlist:item=2886339027&perks=1392496348,2969185026,1008128453,344235611
+
+// Deliverance (Adept) (PvP first choice roll)
+// Corkscrew Rifling, Particle Repeater, (Cornered, Cornered Enhanced), (Chill Clip, Chill Clip Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll for chaining (6s). Strong subtype with vertical recoil, very good stats, and very good perk combinations from the first ever legendary stasis (kinetic slot) fusion rifle. Looking to get both Range to 80 and Stability to 70 with Masterwork, barrel, and mag traits. Just pick up one special brick (preferably with a Fusion Scavenger) to proc Chill Clip - just one bolt, even at range, will proc the slowing field detonation, and Cornered helps with follow-up kills for anyone close by caught in the slowing field. Recommended MW: Stability with Quick Access Sling or Targeting Adjuster mod depending on play style.
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,2978966579
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1799762209,344235611
+dimwishlist:item=2886339027&perks=4090651448,3868766766,1008128453,344235611
+
 // Forbearance (PvP first choice roll)
 // Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll. Use as a priming weapon (although if you have two in the tube from Ambitious Assassin, you can finish with a quick second shot) Recommended MW: Handling with Quick Access Sling mod.
@@ -9976,6 +10255,22 @@ dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,2396489472
 dimwishlist:item=613334176&perks=3798852852,2822142346,3797647183,2396489472
 dimwishlist:item=613334176&perks=3798852852,2822142346,2010801679,598607952
 dimwishlist:item=613334176&perks=3798852852,2822142346,3797647183,598607952
+
+// Forbearance (Adept) (PvP first choice roll)
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll. Use as a priming weapon (although if you have two in the tube from Ambitious Assassin, you can finish with a quick second shot) Recommended MW: Handling with Quick Access Sling mod.
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3797647183,2396489472
+dimwishlist:item=4038592169&perks=3525010810,2822142346,2010801679,598607952
+dimwishlist:item=4038592169&perks=3525010810,2822142346,3797647183,598607952
+
+// Forbearance (Adept) (PvP backup roll)
+// Quick Launch, High-Velocity Rounds, (Ambitious Assassin, Ambitious Assassin Enhanced), (Chain Reaction, Chain Reaction Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP backup roll. Use as a priming weapon (although if you have two in the tube from Ambitious Assassin, you can finish with a quick second shot) Recommended MW: Handling with Quick Access Sling mod.
+dimwishlist:item=4038592169&perks=3798852852,2822142346,2010801679,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3797647183,2396489472
+dimwishlist:item=4038592169&perks=3798852852,2822142346,2010801679,598607952
+dimwishlist:item=4038592169&perks=3798852852,2822142346,3797647183,598607952
 
 // Lubrae's Ruin (PvP first choice roll)
 // Auxilliary Reserves, Accurized Rounds, (Grave Robber, Grave Robber Enhanced), (Swashbuckler, Swashbuckler Enhanced, Surrounded, Surrounded Enhanced, Unstoppable Force, Unstoppable Force Enhanced)
@@ -10008,6 +10303,38 @@ dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,2224838837
 dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,2224838837
 dimwishlist:item=2534546147&perks=1934171651,3142289711,1631667848,3102670337
 dimwishlist:item=2534546147&perks=1934171651,3142289711,402033656,3102670337
+
+// Lubrae's Ruin (Adept) (PvP first choice roll)
+// Auxilliary Reserves, Accurized Rounds, (Grave Robber, Grave Robber Enhanced), (Swashbuckler, Swashbuckler Enhanced, Surrounded, Surrounded Enhanced, Unstoppable Force, Unstoppable Force Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP first choice roll. Look to increase range with haft and mag traits, without hurting shield duration. Takes two bolts to kill, so you'll need to adapt to a shoot-shield-shoot cycle. Remember that melee attacks do not proc or benefit from perks that activate on kills. Recommended MW: Range with Quick Access Sling mod.
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,4082225868
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,4082225868
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,1161469972
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,1161469972
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,3708227201
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,3708227201
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,781192741
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,781192741
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,2224838837
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,2224838837
+dimwishlist:item=1466006054&perks=580685494,3142289711,1631667848,3102670337
+dimwishlist:item=1466006054&perks=580685494,3142289711,402033656,3102670337
+
+// Lubrae's Ruin (Adept) (PvP backup roll)
+// Supercooled Accelerator, Accurized Rounds, (Grave Robber, Grave Robber Enhanced), (Swashbuckler, Swashbuckler Enhanced, Surrounded, Surrounded Enhanced, Unstoppable Force, Unstoppable Force Enhanced)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 251. PvP backup roll. Look to increase range with haft and mag traits, without hurting shield duration. Takes two bolts to kill, so you'll need to adapt to a shoot-shield-shoot cycle. Remember that melee attacks do not proc or benefit from perks that activate on kills. Recommended MW: Range with Quick Access Sling mod.
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,4082225868
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,4082225868
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,1161469972
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,1161469972
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,3708227201
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,3708227201
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,781192741
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,781192741
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,2224838837
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,2224838837
+dimwishlist:item=1466006054&perks=1934171651,3142289711,1631667848,3102670337
+dimwishlist:item=1466006054&perks=1934171651,3142289711,402033656,3102670337
 
 title:Nightfall weapons part 1
 description:Sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
@@ -23745,6 +24072,14 @@ dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,47981717
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2450788523
 
+// Found Verdict (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling with Adept Handling mod
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,47981717
+
+// Found Verdict (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll. Recommended MW: Handling with Adept Handling mod
+dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,2450788523
+
 // Fatebringer (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability with Targeting Adjuster or Icarus Grip mod.
 dimwishlist:item=2171478765&perks=3250034553,106909392,2946784966,1015611457
@@ -23835,6 +24170,95 @@ dimwishlist:item=2171478765&perks=1392496348,3230963543,3038247973,699525795
 dimwishlist:item=2171478765&perks=1482024992,3230963543,3038247973,699525795
 dimwishlist:item=2171478765&perks=1840239774,3230963543,3038247973,699525795
 
+// Fatebringer (Timelost) (PvP first choice roll)
+// Range barrel, Stability mag, Stability MW
+// (Hammer-Forged Rifling, Smallbore), (Tactical Mag, Steady Rounds, Flared Magwell), Tunnel Vision, Kill Clip
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=3250034553,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=3250034553,3177308360,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3177308360,2946784966,1015611457
+dimwishlist:item=1216319404&perks=3250034553,3230963543,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2946784966,1015611457
+
+// Fatebringer (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2946784966,1015611457
+
+// Fatebringer (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for 6s. Recommended MW: Stability or Range with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1840239774,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,106909392,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1392496348,3230963543,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1840239774,3230963543,2946784966,1015611457
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2946784966,1015611457
+
+// Fatebringer (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=3250034553,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=3250034553,1482024992,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,1482024992,2450788523,47981717
+dimwishlist:item=1216319404&perks=3250034553,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=3250034553,1482024992,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,1482024992,3038247973,47981717
+dimwishlist:item=1216319404&perks=3250034553,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=3250034553,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=3250034553,1482024992,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,1482024992,2450788523,699525795
+dimwishlist:item=1216319404&perks=3250034553,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=3250034553,1482024992,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,1482024992,3038247973,699525795
+dimwishlist:item=1216319404&perks=3250034553,3230963543,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,699525795
+
+// Fatebringer (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2450788523,47981717
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
+dimwishlist:item=1216319404&perks=1392496348,3142289711,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2450788523,699525795
+dimwishlist:item=1216319404&perks=1840239774,3142289711,2450788523,699525795
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795
+
+// Fatebringer (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll for duelling and 3s. Recommended MW: Stability or Range with Targeting Adjuster or Adept Icarus Grip mod.
+dimwishlist:item=1216319404&perks=1392496348,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=1840239774,106909392,2450788523,47981717
+dimwishlist:item=1216319404&perks=1392496348,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1840239774,3230963543,2450788523,47981717
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,47981717
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,47981717
+dimwishlist:item=1216319404&perks=1392496348,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=1840239774,106909392,2450788523,699525795
+dimwishlist:item=1216319404&perks=1392496348,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1840239774,3230963543,2450788523,699525795
+dimwishlist:item=1216319404&perks=1392496348,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,699525795
+dimwishlist:item=1216319404&perks=1392496348,3230963543,3038247973,699525795
+dimwishlist:item=1216319404&perks=1482024992,3230963543,3038247973,699525795
+dimwishlist:item=1216319404&perks=1840239774,3230963543,3038247973,699525795
+
 // Vision of Confluence (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll but currently a weak subtype as at Season 15, so keep for when precision scout rifles are ever buffed, or we get long-range maps. Recommended MW: Stability or Handling.
 dimwishlist:item=3186018373&perks=1840239774,1885400500,2946784966,1015611457
@@ -23850,6 +24274,22 @@ dimwishlist:item=3186018373&perks=839105230,1561002382,2946784966,1015611457
 dimwishlist:item=3186018373&perks=1392496348,1561002382,2946784966,1015611457
 dimwishlist:item=3186018373&perks=1482024992,1561002382,2946784966,1015611457
 dimwishlist:item=3186018373&perks=4090651448,1561002382,2946784966,1015611457
+
+// Vision of Confluence (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll but currently a weak subtype as at Season 15, so keep for when precision scout rifles are ever buffed, or we get long-range maps. Recommended MW: Stability or Handling.
+dimwishlist:item=690668916&perks=1840239774,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=839105230,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=1392496348,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=1482024992,1885400500,2946784966,1015611457
+dimwishlist:item=690668916&perks=4090651448,1885400500,2946784966,1015611457
+
+// Vision of Confluence (Timelost) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll but currently a weak subtype as at Season 15, so keep for when precision scout rifles are ever buffed, or we get long-range maps. Recommended MW: Stability or Reload Speed.
+dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=839105230,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=1392496348,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=1482024992,1561002382,2946784966,1015611457
+dimwishlist:item=690668916&perks=4090651448,1561002382,2946784966,1015611457
 
 // Praedyth's Revenge (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Handling with Targeting Adjuster mod.
@@ -23867,6 +24307,22 @@ dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188,47981717
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Range.
 dimwishlist:item=3653573172&perks=1840239774,106909392,706527188,47981717
 
+/ Praedyth's Revenge (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Handling with Targeting Adjuster mod.
+dimwishlist:item=1987769101&perks=1840239774,3142289711,588594999,47981717
+
+// Praedyth's Revenge (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Range with Targeting Adjuster mod.
+dimwishlist:item=1987769101&perks=1840239774,106909392,588594999,47981717
+
+// Praedyth's Revenge (Timelost) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Handling.
+dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,47981717
+
+// Praedyth's Revenge (Timelost) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP backup roll - best example currently of a weak subtype as at Season 15, so keep in case they ever get a buff. Recommended MW: Range.
+dimwishlist:item=1987769101&perks=1840239774,106909392,706527188,47981717
+
 // Corrective Measure (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Backup Mag mod.
 dimwishlist:item=471518543&perks=1392496348,106909392,1359896290,1890422124
@@ -23874,6 +24330,14 @@ dimwishlist:item=471518543&perks=1392496348,106909392,1359896290,1890422124
 // Corrective Measure (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Targeting Adjuster mod.
 dimwishlist:item=471518543&perks=1392496348,2420895100,1359896290,1890422124
+
+// Corrective Measure (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Backup Mag mod.
+dimwishlist:item=3796510434&perks=1392496348,106909392,1359896290,1890422124
+
+// Corrective Measure (Timelost) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 234. PvP first choice roll, but not quite a Hammerhead replacement. Get the magazine size to 70+ for four extra bullets from heavy ammo spawns. Recommended MW: Handling or Stability with Targeting Adjuster mod.
+dimwishlist:item=3796510434&perks=1392496348,2420895100,1359896290,1890422124
 
 description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep233-reprised-trials-of-the-nine-weapons.txt
 
@@ -27360,6 +27824,11 @@ dimwishlist:item=4156253727&perks=4090651448,1561002382,588594999,2458213969
 dimwishlist:item=432476743&perks=1482024992,1885400500,2450788523,2846385770
 dimwishlist:item=432476743&perks=1392496348,1885400500,2450788523,2846385770
 
+// Palindrome (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP first choice roll. Recommended MW: Stability.
+dimwishlist:item=1481892490&perks=1482024992,1885400500,2450788523,2846385770
+dimwishlist:item=1481892490&perks=1392496348,1885400500,2450788523,2846385770
+
 // THE SWARM (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP first choice roll. Recommended MW: Stability.
 dimwishlist:item=47772649&perks=1392496348,3177308360,3436462433,1890422124
@@ -27370,6 +27839,17 @@ dimwishlist:item=47772649&perks=1392496348,3177308360,3436462433,1890422124
 dimwishlist:item=47772649&perks=1392496348,3230963543,3436462433,1890422124
 dimwishlist:item=47772649&perks=1392496348,3177308360,1359896290,1890422124
 dimwishlist:item=47772649&perks=1392496348,3230963543,1359896290,1890422124
+
+// THE SWARM (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP backup roll. Recommended MW: Stability.
+dimwishlist:item=3836861464&perks=1392496348,3177308360,3436462433,1890422124
+
+// THE SWARM (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP backup roll. Recommended MW: Stability.
+dimwishlist:item=3836861464&perks=1392496348,3177308360,3436462433,1890422124
+dimwishlist:item=3836861464&perks=1392496348,3230963543,3436462433,1890422124
+dimwishlist:item=3836861464&perks=1392496348,3177308360,1359896290,1890422124
+dimwishlist:item=3836861464&perks=1392496348,3230963543,1359896290,1890422124
 
 // Shadow Price (PvP/PvE first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP/PvE first choice roll. Recommended MW: Stability with Targeting Adjuster mod (PvP) or Backup Mag (PvE).
@@ -27447,6 +27927,13 @@ dimwishlist:item=2147010335&perks=1482024992,106909392,3643424744,2726471870
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP/PvE first choice roll. Recommended MW: Stability with Adept Stability mod (PvP) or Adept Mag (PvE).
 dimwishlist:item=2147010335&perks=1482024992,3177308360,3643424744,4082225868
 dimwishlist:item=2147010335&perks=1482024992,3177308360,3643424744,2726471870
+
+// Shadow Price (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP first choice roll. Recommended MW: Stability with Adept Stability mod.
+dimwishlist:item=2147010335&perks=1482024992,3177308360,3436462433,4082225868
+dimwishlist:item=2147010335&perks=1482024992,3177308360,2450788523,4082225868
+dimwishlist:item=2147010335&perks=1482024992,3177308360,3436462433,2726471870
+dimwishlist:item=2147010335&perks=1482024992,3177308360,2450788523,2726471870
 
 // Shadow Price (Adept) (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns from Podcast 205. PvP first choice roll. Recommended MW: Stability with Adept Stability mod (PvP) or Adept Mag (PvE).
@@ -27870,6 +28357,138 @@ dimwishlist:item=3682803680&perks=3250034553,3177308360,1570042021,1890422124
 dimwishlist:item=3682803680&perks=1840239774,3177308360,1570042021,1890422124
 dimwishlist:item=3682803680&perks=4090651448,3177308360,1570042021,1890422124
 
+// Shayura's Wrath (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 215. PvP first choice roll (not really built for PvE). Recommended MW: Adept Range - aim to get stability to around 65 and then increase range after.
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1392496348,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1392496348,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1392496348,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1392496348,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1392496348,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1392496348,106909392,1570042021,1890422124
+
+// Shayura's Wrath (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 215. PvP first choice roll (not really built for PvE). Recommended MW: Adept Range - aim to get stability to around 65 and then increase range after.
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3177308360,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3177308360,1570042021,1890422124
+
+// Shayura's Wrath (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 215. PvP first choice roll (not really built for PvE). Recommended MW: Adept Stability - aim to get stability to around 65 and then increase range after.
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,1890422124
+
+// Shayura's Wrath (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 215. PvP backup roll (not really built for PvE). Recommended MW: Adept Range/ Adept Stability - aim to get stability to around 65 and then increase range after.
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1840239774,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=4090651448,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1392496348,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1840239774,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=4090651448,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3177308360,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3177308360,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1840239774,3177308360,2946784966,1015611457
+dimwishlist:item=4023807721&perks=4090651448,3177308360,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1840239774,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=4090651448,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1482024992,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1392496348,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1840239774,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=4090651448,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3177308360,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3177308360,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1840239774,3177308360,2450788523,1015611457
+dimwishlist:item=4023807721&perks=4090651448,3177308360,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1840239774,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=4090651448,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1482024992,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1392496348,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1840239774,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=4090651448,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3177308360,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1392496348,3177308360,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3177308360,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1840239774,3177308360,1570042021,1015611457
+dimwishlist:item=4023807721&perks=4090651448,3177308360,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1840239774,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=4090651448,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1482024992,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1392496348,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1840239774,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=4090651448,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3177308360,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3177308360,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1840239774,3177308360,2946784966,1890422124
+dimwishlist:item=4023807721&perks=4090651448,3177308360,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1840239774,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=4090651448,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1482024992,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1392496348,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1840239774,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=4090651448,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3177308360,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3177308360,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3177308360,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1840239774,3177308360,2450788523,1890422124
+dimwishlist:item=4023807721&perks=4090651448,3177308360,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1840239774,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=4090651448,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1482024992,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1392496348,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1840239774,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=4090651448,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3177308360,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1392496348,3177308360,1570042021,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3177308360,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1840239774,3177308360,1570042021,1890422124
+dimwishlist:item=4023807721&perks=4090651448,3177308360,1570042021,1890422124
+
 // Survivor's Epitaph (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 213. PvP first choice roll. Recommended MW: Stability.
 dimwishlist:item=310708513&perks=1392496348,3230963543,2946784966,699525795
@@ -28253,6 +28872,167 @@ dimwishlist:item=4281371574&perks=1482024992,106909392,1570042021,3824105627
 dimwishlist:item=4281371574&perks=3661387068,106909392,1570042021,3824105627
 dimwishlist:item=4281371574&perks=4090651448,106909392,1570042021,3824105627
 
+// Hung Jury (Adept) (PvP/PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP/PvE first choice roll. Recommended MW: Stability with Adept Backup Mag (PvE) or Targeting Adjuster (PvP) mod. Good for Champion mods.
+dimwishlist:item=681067419&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=4090651448,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=1392496348,3177308360,1820235745,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,1820235745,3038247973
+dimwishlist:item=681067419&perks=3661387068,3177308360,1820235745,3038247973
+dimwishlist:item=681067419&perks=4090651448,3177308360,1820235745,3038247973
+
+// Hung Jury (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP first choice roll. Recommended MW: Stability with Targeting Adjuster mod.
+dimwishlist:item=681067419&perks=1392496348,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=3661387068,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=4090651448,3177308360,247725512,3038247973
+dimwishlist:item=681067419&perks=1392496348,3177308360,1820235745,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,1820235745,3038247973
+dimwishlist:item=681067419&perks=3661387068,3177308360,1820235745,3038247973
+dimwishlist:item=681067419&perks=4090651448,3177308360,1820235745,3038247973
+dimwishlist:item=681067419&perks=1392496348,3177308360,588594999,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,588594999,3038247973
+dimwishlist:item=681067419&perks=3661387068,3177308360,588594999,3038247973
+dimwishlist:item=681067419&perks=4090651448,3177308360,588594999,3038247973
+dimwishlist:item=681067419&perks=1392496348,3177308360,1570042021,3038247973
+dimwishlist:item=681067419&perks=1482024992,3177308360,1570042021,3038247973
+dimwishlist:item=681067419&perks=3661387068,3177308360,1570042021,3038247973
+dimwishlist:item=681067419&perks=4090651448,3177308360,1570042021,3038247973
+dimwishlist:item=681067419&perks=1392496348,3177308360,247725512,2551157718
+dimwishlist:item=681067419&perks=1482024992,3177308360,247725512,2551157718
+dimwishlist:item=681067419&perks=3661387068,3177308360,247725512,2551157718
+dimwishlist:item=681067419&perks=4090651448,3177308360,247725512,2551157718
+dimwishlist:item=681067419&perks=1392496348,3177308360,1820235745,2551157718
+dimwishlist:item=681067419&perks=1482024992,3177308360,1820235745,2551157718
+dimwishlist:item=681067419&perks=3661387068,3177308360,1820235745,2551157718
+dimwishlist:item=681067419&perks=4090651448,3177308360,1820235745,2551157718
+dimwishlist:item=681067419&perks=1392496348,3177308360,588594999,2551157718
+dimwishlist:item=681067419&perks=1482024992,3177308360,588594999,2551157718
+dimwishlist:item=681067419&perks=3661387068,3177308360,588594999,2551157718
+dimwishlist:item=681067419&perks=4090651448,3177308360,588594999,2551157718
+dimwishlist:item=681067419&perks=1392496348,3177308360,1570042021,2551157718
+dimwishlist:item=681067419&perks=1482024992,3177308360,1570042021,2551157718
+dimwishlist:item=681067419&perks=3661387068,3177308360,1570042021,2551157718
+dimwishlist:item=681067419&perks=4090651448,3177308360,1570042021,2551157718
+dimwishlist:item=681067419&perks=1392496348,3177308360,247725512,3824105627
+dimwishlist:item=681067419&perks=1482024992,3177308360,247725512,3824105627
+dimwishlist:item=681067419&perks=3661387068,3177308360,247725512,3824105627
+dimwishlist:item=681067419&perks=4090651448,3177308360,247725512,3824105627
+dimwishlist:item=681067419&perks=1392496348,3177308360,1820235745,3824105627
+dimwishlist:item=681067419&perks=1482024992,3177308360,1820235745,3824105627
+dimwishlist:item=681067419&perks=3661387068,3177308360,1820235745,3824105627
+dimwishlist:item=681067419&perks=4090651448,3177308360,1820235745,3824105627
+dimwishlist:item=681067419&perks=1392496348,3177308360,588594999,3824105627
+dimwishlist:item=681067419&perks=1482024992,3177308360,588594999,3824105627
+dimwishlist:item=681067419&perks=3661387068,3177308360,588594999,3824105627
+dimwishlist:item=681067419&perks=4090651448,3177308360,588594999,3824105627
+dimwishlist:item=681067419&perks=1392496348,3177308360,1570042021,3824105627
+dimwishlist:item=681067419&perks=1482024992,3177308360,1570042021,3824105627
+dimwishlist:item=681067419&perks=3661387068,3177308360,1570042021,3824105627
+dimwishlist:item=681067419&perks=4090651448,3177308360,1570042021,3824105627
+
+// Hung Jury (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP backup roll. Recommended MW: Stability with Targeting Adjuster mod.
+dimwishlist:item=681067419&perks=1392496348,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=1482024992,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=3661387068,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=4090651448,3230963543,247725512,3038247973
+dimwishlist:item=681067419&perks=1392496348,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=1482024992,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=3661387068,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=4090651448,106909392,247725512,3038247973
+dimwishlist:item=681067419&perks=1392496348,3230963543,1820235745,3038247973
+dimwishlist:item=681067419&perks=1482024992,3230963543,1820235745,3038247973
+dimwishlist:item=681067419&perks=3661387068,3230963543,1820235745,3038247973
+dimwishlist:item=681067419&perks=4090651448,3230963543,1820235745,3038247973
+dimwishlist:item=681067419&perks=1392496348,106909392,1820235745,3038247973
+dimwishlist:item=681067419&perks=1482024992,106909392,1820235745,3038247973
+dimwishlist:item=681067419&perks=3661387068,106909392,1820235745,3038247973
+dimwishlist:item=681067419&perks=4090651448,106909392,1820235745,3038247973
+dimwishlist:item=681067419&perks=1392496348,3230963543,588594999,3038247973
+dimwishlist:item=681067419&perks=1482024992,3230963543,588594999,3038247973
+dimwishlist:item=681067419&perks=3661387068,3230963543,588594999,3038247973
+dimwishlist:item=681067419&perks=4090651448,3230963543,588594999,3038247973
+dimwishlist:item=681067419&perks=1392496348,106909392,588594999,3038247973
+dimwishlist:item=681067419&perks=1482024992,106909392,588594999,3038247973
+dimwishlist:item=681067419&perks=3661387068,106909392,588594999,3038247973
+dimwishlist:item=681067419&perks=4090651448,106909392,588594999,3038247973
+dimwishlist:item=681067419&perks=1392496348,3230963543,1570042021,3038247973
+dimwishlist:item=681067419&perks=1482024992,3230963543,1570042021,3038247973
+dimwishlist:item=681067419&perks=3661387068,3230963543,1570042021,3038247973
+dimwishlist:item=681067419&perks=4090651448,3230963543,1570042021,3038247973
+dimwishlist:item=681067419&perks=1392496348,106909392,1570042021,3038247973
+dimwishlist:item=681067419&perks=1482024992,106909392,1570042021,3038247973
+dimwishlist:item=681067419&perks=3661387068,106909392,1570042021,3038247973
+dimwishlist:item=681067419&perks=4090651448,106909392,1570042021,3038247973
+dimwishlist:item=681067419&perks=1392496348,3230963543,247725512,2551157718
+dimwishlist:item=681067419&perks=1482024992,3230963543,247725512,2551157718
+dimwishlist:item=681067419&perks=3661387068,3230963543,247725512,2551157718
+dimwishlist:item=681067419&perks=4090651448,3230963543,247725512,2551157718
+dimwishlist:item=681067419&perks=1392496348,106909392,247725512,2551157718
+dimwishlist:item=681067419&perks=1482024992,106909392,247725512,2551157718
+dimwishlist:item=681067419&perks=3661387068,106909392,247725512,2551157718
+dimwishlist:item=681067419&perks=4090651448,106909392,247725512,2551157718
+dimwishlist:item=681067419&perks=1392496348,3230963543,1820235745,2551157718
+dimwishlist:item=681067419&perks=1482024992,3230963543,1820235745,2551157718
+dimwishlist:item=681067419&perks=3661387068,3230963543,1820235745,2551157718
+dimwishlist:item=681067419&perks=4090651448,3230963543,1820235745,2551157718
+dimwishlist:item=681067419&perks=1392496348,106909392,1820235745,2551157718
+dimwishlist:item=681067419&perks=1482024992,106909392,1820235745,2551157718
+dimwishlist:item=681067419&perks=3661387068,106909392,1820235745,2551157718
+dimwishlist:item=681067419&perks=4090651448,106909392,1820235745,2551157718
+dimwishlist:item=681067419&perks=1392496348,3230963543,588594999,2551157718
+dimwishlist:item=681067419&perks=1482024992,3230963543,588594999,2551157718
+dimwishlist:item=681067419&perks=3661387068,3230963543,588594999,2551157718
+dimwishlist:item=681067419&perks=4090651448,3230963543,588594999,2551157718
+dimwishlist:item=681067419&perks=1392496348,106909392,588594999,2551157718
+dimwishlist:item=681067419&perks=1482024992,106909392,588594999,2551157718
+dimwishlist:item=681067419&perks=3661387068,106909392,588594999,2551157718
+dimwishlist:item=681067419&perks=4090651448,106909392,588594999,2551157718
+dimwishlist:item=681067419&perks=1392496348,3230963543,1570042021,2551157718
+dimwishlist:item=681067419&perks=1482024992,3230963543,1570042021,2551157718
+dimwishlist:item=681067419&perks=3661387068,3230963543,1570042021,2551157718
+dimwishlist:item=681067419&perks=4090651448,3230963543,1570042021,2551157718
+dimwishlist:item=681067419&perks=1392496348,106909392,1570042021,2551157718
+dimwishlist:item=681067419&perks=1482024992,106909392,1570042021,2551157718
+dimwishlist:item=681067419&perks=3661387068,106909392,1570042021,2551157718
+dimwishlist:item=681067419&perks=4090651448,106909392,1570042021,2551157718
+dimwishlist:item=681067419&perks=1392496348,3230963543,247725512,3824105627
+dimwishlist:item=681067419&perks=1482024992,3230963543,247725512,3824105627
+dimwishlist:item=681067419&perks=3661387068,3230963543,247725512,3824105627
+dimwishlist:item=681067419&perks=4090651448,3230963543,247725512,3824105627
+dimwishlist:item=681067419&perks=1392496348,106909392,247725512,3824105627
+dimwishlist:item=681067419&perks=1482024992,106909392,247725512,3824105627
+dimwishlist:item=681067419&perks=3661387068,106909392,247725512,3824105627
+dimwishlist:item=681067419&perks=4090651448,106909392,247725512,3824105627
+dimwishlist:item=681067419&perks=1392496348,3230963543,1820235745,3824105627
+dimwishlist:item=681067419&perks=1482024992,3230963543,1820235745,3824105627
+dimwishlist:item=681067419&perks=3661387068,3230963543,1820235745,3824105627
+dimwishlist:item=681067419&perks=4090651448,3230963543,1820235745,3824105627
+dimwishlist:item=681067419&perks=1392496348,106909392,1820235745,3824105627
+dimwishlist:item=681067419&perks=1482024992,106909392,1820235745,3824105627
+dimwishlist:item=681067419&perks=3661387068,106909392,1820235745,3824105627
+dimwishlist:item=681067419&perks=4090651448,106909392,1820235745,3824105627
+dimwishlist:item=681067419&perks=1392496348,3230963543,588594999,3824105627
+dimwishlist:item=681067419&perks=1482024992,3230963543,588594999,3824105627
+dimwishlist:item=681067419&perks=3661387068,3230963543,588594999,3824105627
+dimwishlist:item=681067419&perks=4090651448,3230963543,588594999,3824105627
+dimwishlist:item=681067419&perks=1392496348,106909392,588594999,3824105627
+dimwishlist:item=681067419&perks=1482024992,106909392,588594999,3824105627
+dimwishlist:item=681067419&perks=3661387068,106909392,588594999,3824105627
+dimwishlist:item=681067419&perks=4090651448,106909392,588594999,3824105627
+dimwishlist:item=681067419&perks=1392496348,3230963543,1570042021,3824105627
+dimwishlist:item=681067419&perks=1482024992,3230963543,1570042021,3824105627
+dimwishlist:item=681067419&perks=3661387068,3230963543,1570042021,3824105627
+dimwishlist:item=681067419&perks=4090651448,3230963543,1570042021,3824105627
+dimwishlist:item=681067419&perks=1392496348,106909392,1570042021,3824105627
+dimwishlist:item=681067419&perks=1482024992,106909392,1570042021,3824105627
+dimwishlist:item=681067419&perks=3661387068,106909392,1570042021,3824105627
+dimwishlist:item=681067419&perks=4090651448,106909392,1570042021,3824105627
+
 // Uzume RR4 (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP backup roll. Recommended MW: Range/Handling with Targetng Adjuster mod.
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391
@@ -28270,6 +29050,24 @@ dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,2213355989
 dimwishlist:item=2065081837&perks=839105230,3142289711,2450788523,2213355989
 dimwishlist:item=2065081837&perks=839105230,3142289711,957782887,3038247973
 dimwishlist:item=2065081837&perks=839105230,3142289711,2450788523,3038247973
+
+// Uzume RR4 (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP backup roll. Recommended MW: Range with Targeting Adjuster mod.
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
+dimwishlist:item=852228780&perks=1840239774,3142289711,2450788523,1546637391
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,3523296417
+dimwishlist:item=852228780&perks=1840239774,3142289711,2450788523,3523296417
+
+// Uzume RR4 (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 222. PvP backup roll. Recommended MW: Range with Targeting Adjuster mod.
+dimwishlist:item=852228780&perks=839105230,3142289711,957782887,1546637391
+dimwishlist:item=852228780&perks=839105230,3142289711,2450788523,1546637391
+dimwishlist:item=852228780&perks=839105230,3142289711,957782887,3523296417
+dimwishlist:item=852228780&perks=839105230,3142289711,2450788523,3523296417
+dimwishlist:item=852228780&perks=839105230,3142289711,957782887,2213355989
+dimwishlist:item=852228780&perks=839105230,3142289711,2450788523,2213355989
+dimwishlist:item=852228780&perks=839105230,3142289711,957782887,3038247973
+dimwishlist:item=852228780&perks=839105230,3142289711,2450788523,3038247973
 
 // Vulpecula (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 228. PvP first choice roll. Recommended MW: Handling. Get Harmony weapons in both kinetic and energy slots.
@@ -28488,6 +29286,75 @@ dimwishlist:item=3658188704&perks=3661387068,1885400500,2450788523,3047969693
 dimwishlist:item=3658188704&perks=1392496348,3230963543,2450788523,3047969693
 dimwishlist:item=3658188704&perks=3661387068,3230963543,2450788523,3047969693
 
+// The Messenger (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Stability with Adept Stability mod.
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,1015611457
+dimwishlist:item=1173780905&perks=839105230,3230963543,247725512,1015611457
+dimwishlist:item=1173780905&perks=839105230,1885400500,1168162263,1015611457
+dimwishlist:item=1173780905&perks=839105230,3230963543,1168162263,1015611457
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,3047969693
+dimwishlist:item=1173780905&perks=839105230,3230963543,247725512,3047969693
+dimwishlist:item=1173780905&perks=839105230,1885400500,1168162263,3047969693
+dimwishlist:item=1173780905&perks=839105230,3230963543,1168162263,3047969693
+
+// The Messenger (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first chioce roll. Recommended MW: Stability with Adept Stability mod.
+dimwishlist:item=1173780905&perks=839105230,1885400500,588594999,1015611457
+dimwishlist:item=1173780905&perks=839105230,3230963543,588594999,1015611457
+dimwishlist:item=1173780905&perks=839105230,1885400500,1570042021,1015611457
+dimwishlist:item=1173780905&perks=839105230,3230963543,1570042021,1015611457
+dimwishlist:item=1173780905&perks=839105230,1885400500,2450788523,1015611457
+dimwishlist:item=1173780905&perks=839105230,3230963543,2450788523,1015611457
+dimwishlist:item=1173780905&perks=839105230,1885400500,588594999,3047969693
+dimwishlist:item=1173780905&perks=839105230,3230963543,588594999,3047969693
+dimwishlist:item=1173780905&perks=839105230,1885400500,1570042021,3047969693
+dimwishlist:item=1173780905&perks=839105230,3230963543,1570042021,3047969693
+dimwishlist:item=1173780905&perks=839105230,1885400500,2450788523,3047969693
+dimwishlist:item=1173780905&perks=839105230,3230963543,2450788523,3047969693
+
+// The Messenger (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP backup roll. Recommended MW: Stability with Counterbalance mod.
+dimwishlist:item=1173780905&perks=1392496348,1885400500,247725512,1015611457
+dimwishlist:item=1173780905&perks=3661387068,1885400500,247725512,1015611457
+dimwishlist:item=1173780905&perks=1392496348,3230963543,247725512,1015611457
+dimwishlist:item=1173780905&perks=3661387068,3230963543,247725512,1015611457
+dimwishlist:item=1173780905&perks=1392496348,1885400500,1168162263,1015611457
+dimwishlist:item=1173780905&perks=3661387068,1885400500,1168162263,1015611457
+dimwishlist:item=1173780905&perks=1392496348,3230963543,1168162263,1015611457
+dimwishlist:item=1173780905&perks=3661387068,3230963543,1168162263,1015611457
+dimwishlist:item=1173780905&perks=1392496348,1885400500,588594999,1015611457
+dimwishlist:item=1173780905&perks=3661387068,1885400500,588594999,1015611457
+dimwishlist:item=1173780905&perks=1392496348,3230963543,588594999,1015611457
+dimwishlist:item=1173780905&perks=3661387068,3230963543,588594999,1015611457
+dimwishlist:item=1173780905&perks=1392496348,1885400500,1570042021,1015611457
+dimwishlist:item=1173780905&perks=3661387068,1885400500,1570042021,1015611457
+dimwishlist:item=1173780905&perks=1392496348,3230963543,1570042021,1015611457
+dimwishlist:item=1173780905&perks=3661387068,3230963543,1570042021,1015611457
+dimwishlist:item=1173780905&perks=1392496348,1885400500,2450788523,1015611457
+dimwishlist:item=1173780905&perks=3661387068,1885400500,2450788523,1015611457
+dimwishlist:item=1173780905&perks=1392496348,3230963543,2450788523,1015611457
+dimwishlist:item=1173780905&perks=3661387068,3230963543,2450788523,1015611457
+dimwishlist:item=1173780905&perks=1392496348,1885400500,247725512,3047969693
+dimwishlist:item=1173780905&perks=3661387068,1885400500,247725512,3047969693
+dimwishlist:item=1173780905&perks=1392496348,3230963543,247725512,3047969693
+dimwishlist:item=1173780905&perks=3661387068,3230963543,247725512,3047969693
+dimwishlist:item=1173780905&perks=1392496348,1885400500,1168162263,3047969693
+dimwishlist:item=1173780905&perks=3661387068,1885400500,1168162263,3047969693
+dimwishlist:item=1173780905&perks=1392496348,3230963543,1168162263,3047969693
+dimwishlist:item=1173780905&perks=3661387068,3230963543,1168162263,3047969693
+dimwishlist:item=1173780905&perks=1392496348,1885400500,588594999,3047969693
+dimwishlist:item=1173780905&perks=3661387068,1885400500,588594999,3047969693
+dimwishlist:item=1173780905&perks=1392496348,3230963543,588594999,3047969693
+dimwishlist:item=1173780905&perks=3661387068,3230963543,588594999,3047969693
+dimwishlist:item=1173780905&perks=1392496348,1885400500,1570042021,3047969693
+dimwishlist:item=1173780905&perks=3661387068,1885400500,1570042021,3047969693
+dimwishlist:item=1173780905&perks=1392496348,3230963543,1570042021,3047969693
+dimwishlist:item=1173780905&perks=3661387068,3230963543,1570042021,3047969693
+dimwishlist:item=1173780905&perks=1392496348,1885400500,2450788523,3047969693
+dimwishlist:item=1173780905&perks=3661387068,1885400500,2450788523,3047969693
+dimwishlist:item=1173780905&perks=1392496348,3230963543,2450788523,3047969693
+dimwishlist:item=1173780905&perks=3661387068,3230963543,2450788523,3047969693
+
 // Shayura's Wrath (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Range with Hip-fire Grip or Icarus mod depending on playstyle.
 dimwishlist:item=3682803680&perks=202670084,3142289711,2946784966,1015611457
@@ -28617,6 +29484,135 @@ dimwishlist:item=3682803680&perks=202670084,106909392,2450788523,438098033
 dimwishlist:item=3682803680&perks=3250034553,106909392,2450788523,438098033
 dimwishlist:item=3682803680&perks=1482024992,106909392,2450788523,438098033
 
+// Shayura's Wrath (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Range with Adept Hip-fire Grip or Adept Icarus mod depending on playstyle.
+dimwishlist:item=4023807721&perks=202670084,3142289711,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457
+
+// Shayura's Wrath (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Range with Adept Hip-fire Grip or Adept Icarus mod depending on playstyle.
+dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1890422124
+
+// Shayura's Wrath (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP backup roll. Recommended MW: Range with Adept Hip-fire Grip or Adept Icarus mod depending on playstyle.
+dimwishlist:item=4023807721&perks=202670084,3142289711,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457
+dimwishlist:item=4023807721&perks=202670084,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2946784966,1015611457
+dimwishlist:item=4023807721&perks=202670084,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=1482024992,106909392,2946784966,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,1015611457
+dimwishlist:item=4023807721&perks=202670084,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,1015611457
+dimwishlist:item=4023807721&perks=202670084,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=1482024992,106909392,1570042021,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1015611457
+dimwishlist:item=4023807721&perks=202670084,3230963543,1359896290,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1359896290,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1359896290,1015611457
+dimwishlist:item=4023807721&perks=202670084,106909392,1359896290,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,1359896290,1015611457
+dimwishlist:item=4023807721&perks=1482024992,106909392,1359896290,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2450788523,1015611457
+dimwishlist:item=4023807721&perks=202670084,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2450788523,1015611457
+dimwishlist:item=4023807721&perks=202670084,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=1482024992,106909392,2450788523,1015611457
+dimwishlist:item=4023807721&perks=202670084,3142289711,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1890422124
+dimwishlist:item=4023807721&perks=202670084,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2946784966,1890422124
+dimwishlist:item=4023807721&perks=202670084,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=1482024992,106909392,2946784966,1890422124
+dimwishlist:item=4023807721&perks=202670084,3142289711,1570042021,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,1890422124
+dimwishlist:item=4023807721&perks=202670084,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,1890422124
+dimwishlist:item=4023807721&perks=202670084,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=1482024992,106909392,1570042021,1890422124
+dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,1890422124
+dimwishlist:item=4023807721&perks=202670084,3230963543,1359896290,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1359896290,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1359896290,1890422124
+dimwishlist:item=4023807721&perks=202670084,106909392,1359896290,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,1359896290,1890422124
+dimwishlist:item=4023807721&perks=1482024992,106909392,1359896290,1890422124
+dimwishlist:item=4023807721&perks=202670084,3142289711,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2450788523,1890422124
+dimwishlist:item=4023807721&perks=202670084,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2450788523,1890422124
+dimwishlist:item=4023807721&perks=202670084,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,1890422124
+dimwishlist:item=4023807721&perks=1482024992,106909392,2450788523,1890422124
+
+// Shayura's Wrath (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP backup roll. Recommended MW: Range with Adept Hip-fire Grip or Adept Icarus mod depending on playstyle. Use with Harmony kinetic weapon.
+dimwishlist:item=4023807721&perks=202670084,3142289711,2946784966,438098033
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,438098033
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,438098033
+dimwishlist:item=4023807721&perks=202670084,3230963543,2946784966,438098033
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,438098033
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2946784966,438098033
+dimwishlist:item=4023807721&perks=202670084,106909392,2946784966,438098033
+dimwishlist:item=4023807721&perks=3250034553,106909392,2946784966,438098033
+dimwishlist:item=4023807721&perks=1482024992,106909392,2946784966,438098033
+dimwishlist:item=4023807721&perks=202670084,3142289711,1570042021,438098033
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1570042021,438098033
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,438098033
+dimwishlist:item=4023807721&perks=202670084,3230963543,1570042021,438098033
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1570042021,438098033
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,438098033
+dimwishlist:item=4023807721&perks=202670084,106909392,1570042021,438098033
+dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,438098033
+dimwishlist:item=4023807721&perks=1482024992,106909392,1570042021,438098033
+dimwishlist:item=4023807721&perks=202670084,3142289711,1359896290,438098033
+dimwishlist:item=4023807721&perks=3250034553,3142289711,1359896290,438098033
+dimwishlist:item=4023807721&perks=1482024992,3142289711,1359896290,438098033
+dimwishlist:item=4023807721&perks=202670084,3230963543,1359896290,438098033
+dimwishlist:item=4023807721&perks=3250034553,3230963543,1359896290,438098033
+dimwishlist:item=4023807721&perks=1482024992,3230963543,1359896290,438098033
+dimwishlist:item=4023807721&perks=202670084,106909392,1359896290,438098033
+dimwishlist:item=4023807721&perks=3250034553,106909392,1359896290,438098033
+dimwishlist:item=4023807721&perks=1482024992,106909392,1359896290,438098033
+dimwishlist:item=4023807721&perks=202670084,3142289711,2450788523,438098033
+dimwishlist:item=4023807721&perks=3250034553,3142289711,2450788523,438098033
+dimwishlist:item=4023807721&perks=1482024992,3142289711,2450788523,438098033
+dimwishlist:item=4023807721&perks=202670084,3230963543,2450788523,438098033
+dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,438098033
+dimwishlist:item=4023807721&perks=1482024992,3230963543,2450788523,438098033
+dimwishlist:item=4023807721&perks=202670084,106909392,2450788523,438098033
+dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,438098033
+dimwishlist:item=4023807721&perks=1482024992,106909392,2450788523,438098033
+
 // Igneous Hammer (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Range/Stability with Icarus mod.
 dimwishlist:item=2351180975&perks=1482024992,1885400500,247725512,3425386926
@@ -28722,6 +29718,111 @@ dimwishlist:item=2351180975&perks=1840239774,679225683,706527188,47981717
 dimwishlist:item=2351180975&perks=1840239774,1885400500,706527188,588594999
 dimwishlist:item=2351180975&perks=1840239774,679225683,706527188,588594999
 
+// Igneous Hammer (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Range/Stability with Adept Icarus mod.
+dimwishlist:item=2527666306&perks=1482024992,1885400500,247725512,3425386926
+dimwishlist:item=2527666306&perks=4090651448,1885400500,247725512,3425386926
+dimwishlist:item=2527666306&perks=1482024992,1885400500,1168162263,3425386926
+dimwishlist:item=2527666306&perks=4090651448,1885400500,1168162263,3425386926
+dimwishlist:item=2527666306&perks=1482024992,1885400500,2450788523,3425386926
+dimwishlist:item=2527666306&perks=4090651448,1885400500,2450788523,3425386926
+
+// Igneous Hammer (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Range/Stability with Adept Icarus mod.
+dimwishlist:item=2527666306&perks=1482024992,1885400500,2450788523,47981717
+dimwishlist:item=2527666306&perks=4090651448,1885400500,2450788523,47981717
+dimwishlist:item=2527666306&perks=1482024992,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=4090651448,1885400500,706527188,47981717
+
+// Igneous Hammer (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Range/Stability with Adept Icarus mod.
+dimwishlist:item=2527666306&perks=1482024992,1885400500,2450788523,588594999
+dimwishlist:item=2527666306&perks=4090651448,1885400500,2450788523,588594999
+dimwishlist:item=2527666306&perks=1482024992,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=4090651448,1885400500,706527188,588594999
+
+// Igneous Hammer (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP backup roll. Recommended MW: Range/Stability with Adept Icarus mod.
+dimwishlist:item=2527666306&perks=3250034553,1885400500,247725512,47981717
+dimwishlist:item=2527666306&perks=1482024992,1885400500,247725512,47981717
+dimwishlist:item=2527666306&perks=4090651448,1885400500,247725512,47981717
+dimwishlist:item=2527666306&perks=3250034553,679225683,247725512,47981717
+dimwishlist:item=2527666306&perks=1482024992,679225683,247725512,47981717
+dimwishlist:item=2527666306&perks=4090651448,679225683,247725512,47981717
+dimwishlist:item=2527666306&perks=3250034553,1885400500,1168162263,47981717
+dimwishlist:item=2527666306&perks=1482024992,1885400500,1168162263,47981717
+dimwishlist:item=2527666306&perks=4090651448,1885400500,1168162263,47981717
+dimwishlist:item=2527666306&perks=3250034553,679225683,1168162263,47981717
+dimwishlist:item=2527666306&perks=1482024992,679225683,1168162263,47981717
+dimwishlist:item=2527666306&perks=4090651448,679225683,1168162263,47981717
+dimwishlist:item=2527666306&perks=3250034553,1885400500,2450788523,47981717
+dimwishlist:item=2527666306&perks=1482024992,1885400500,2450788523,47981717
+dimwishlist:item=2527666306&perks=4090651448,1885400500,2450788523,47981717
+dimwishlist:item=2527666306&perks=3250034553,679225683,2450788523,47981717
+dimwishlist:item=2527666306&perks=1482024992,679225683,2450788523,47981717
+dimwishlist:item=2527666306&perks=4090651448,679225683,2450788523,47981717
+dimwishlist:item=2527666306&perks=3250034553,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=1482024992,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=4090651448,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=3250034553,679225683,706527188,47981717
+dimwishlist:item=2527666306&perks=1482024992,679225683,706527188,47981717
+dimwishlist:item=2527666306&perks=4090651448,679225683,706527188,47981717
+dimwishlist:item=2527666306&perks=3250034553,1885400500,247725512,3425386926
+dimwishlist:item=2527666306&perks=1482024992,1885400500,247725512,3425386926
+dimwishlist:item=2527666306&perks=4090651448,1885400500,247725512,3425386926
+dimwishlist:item=2527666306&perks=3250034553,679225683,247725512,3425386926
+dimwishlist:item=2527666306&perks=1482024992,679225683,247725512,3425386926
+dimwishlist:item=2527666306&perks=4090651448,679225683,247725512,3425386926
+dimwishlist:item=2527666306&perks=3250034553,1885400500,1168162263,3425386926
+dimwishlist:item=2527666306&perks=1482024992,1885400500,1168162263,3425386926
+dimwishlist:item=2527666306&perks=4090651448,1885400500,1168162263,3425386926
+dimwishlist:item=2527666306&perks=3250034553,679225683,1168162263,3425386926
+dimwishlist:item=2527666306&perks=1482024992,679225683,1168162263,3425386926
+dimwishlist:item=2527666306&perks=4090651448,679225683,1168162263,3425386926
+dimwishlist:item=2527666306&perks=3250034553,1885400500,2450788523,3425386926
+dimwishlist:item=2527666306&perks=1482024992,1885400500,2450788523,3425386926
+dimwishlist:item=2527666306&perks=4090651448,1885400500,2450788523,3425386926
+dimwishlist:item=2527666306&perks=3250034553,679225683,2450788523,3425386926
+dimwishlist:item=2527666306&perks=1482024992,679225683,2450788523,3425386926
+dimwishlist:item=2527666306&perks=4090651448,679225683,2450788523,3425386926
+dimwishlist:item=2527666306&perks=3250034553,1885400500,706527188,3425386926
+dimwishlist:item=2527666306&perks=1482024992,1885400500,706527188,3425386926
+dimwishlist:item=2527666306&perks=4090651448,1885400500,706527188,3425386926
+dimwishlist:item=2527666306&perks=3250034553,679225683,706527188,3425386926
+dimwishlist:item=2527666306&perks=1482024992,679225683,706527188,3425386926
+dimwishlist:item=2527666306&perks=4090651448,679225683,706527188,3425386926
+dimwishlist:item=2527666306&perks=3250034553,1885400500,247725512,588594999
+dimwishlist:item=2527666306&perks=1482024992,1885400500,247725512,588594999
+dimwishlist:item=2527666306&perks=4090651448,1885400500,247725512,588594999
+dimwishlist:item=2527666306&perks=3250034553,679225683,247725512,588594999
+dimwishlist:item=2527666306&perks=1482024992,679225683,247725512,588594999
+dimwishlist:item=2527666306&perks=4090651448,679225683,247725512,588594999
+dimwishlist:item=2527666306&perks=3250034553,1885400500,1168162263,588594999
+dimwishlist:item=2527666306&perks=1482024992,1885400500,1168162263,588594999
+dimwishlist:item=2527666306&perks=4090651448,1885400500,1168162263,588594999
+dimwishlist:item=2527666306&perks=3250034553,679225683,1168162263,588594999
+dimwishlist:item=2527666306&perks=1482024992,679225683,1168162263,588594999
+dimwishlist:item=2527666306&perks=4090651448,679225683,1168162263,588594999
+dimwishlist:item=2527666306&perks=3250034553,1885400500,2450788523,588594999
+dimwishlist:item=2527666306&perks=1482024992,1885400500,2450788523,588594999
+dimwishlist:item=2527666306&perks=4090651448,1885400500,2450788523,588594999
+dimwishlist:item=2527666306&perks=3250034553,679225683,2450788523,588594999
+dimwishlist:item=2527666306&perks=1482024992,679225683,2450788523,588594999
+dimwishlist:item=2527666306&perks=4090651448,679225683,2450788523,588594999
+dimwishlist:item=2527666306&perks=3250034553,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=1482024992,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=4090651448,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=3250034553,679225683,706527188,588594999
+dimwishlist:item=2527666306&perks=1482024992,679225683,706527188,588594999
+dimwishlist:item=2527666306&perks=4090651448,679225683,706527188,588594999
+
+// Igneous Hammer (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll for blinting. Recommended MW: Range/Stability with Adept Icarus mod.
+dimwishlist:item=2527666306&perks=1840239774,1885400500,706527188,47981717
+dimwishlist:item=2527666306&perks=1840239774,679225683,706527188,47981717
+dimwishlist:item=2527666306&perks=1840239774,1885400500,706527188,588594999
+dimwishlist:item=2527666306&perks=1840239774,679225683,706527188,588594999
+
 // Eye of Sol (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Handling with Targeting Adjuster mod.
 dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,47981717
@@ -28784,6 +29885,68 @@ dimwishlist:item=3164743584&perks=1840239774,1431678320,2450788523,957782887
 dimwishlist:item=3164743584&perks=839105230,1431678320,2450788523,957782887
 dimwishlist:item=3164743584&perks=4090651448,1431678320,2450788523,957782887
 
+// Eye of Sol (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Handling with Adept Handing mod.
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,280464955,47981717
+
+// Eye of Sol (Adept) (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP backup roll. Recommended MW: Handling with Adept Handling mod.
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=839105230,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=4090651448,3142289711,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,1431678320,588594999,47981717
+dimwishlist:item=3637570176&perks=839105230,1431678320,588594999,47981717
+dimwishlist:item=3637570176&perks=4090651448,1431678320,588594999,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,280464955,47981717
+dimwishlist:item=3637570176&perks=839105230,3142289711,280464955,47981717
+dimwishlist:item=3637570176&perks=4090651448,3142289711,280464955,47981717
+dimwishlist:item=3637570176&perks=1840239774,1431678320,280464955,47981717
+dimwishlist:item=3637570176&perks=839105230,1431678320,280464955,47981717
+dimwishlist:item=3637570176&perks=4090651448,1431678320,280464955,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,2450788523,47981717
+dimwishlist:item=3637570176&perks=839105230,3142289711,2450788523,47981717
+dimwishlist:item=3637570176&perks=4090651448,3142289711,2450788523,47981717
+dimwishlist:item=3637570176&perks=1840239774,1431678320,2450788523,47981717
+dimwishlist:item=3637570176&perks=839105230,1431678320,2450788523,47981717
+dimwishlist:item=3637570176&perks=4090651448,1431678320,2450788523,47981717
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,1546637391
+dimwishlist:item=3637570176&perks=839105230,3142289711,588594999,1546637391
+dimwishlist:item=3637570176&perks=4090651448,3142289711,588594999,1546637391
+dimwishlist:item=3637570176&perks=1840239774,1431678320,588594999,1546637391
+dimwishlist:item=3637570176&perks=839105230,1431678320,588594999,1546637391
+dimwishlist:item=3637570176&perks=4090651448,1431678320,588594999,1546637391
+dimwishlist:item=3637570176&perks=1840239774,3142289711,280464955,1546637391
+dimwishlist:item=3637570176&perks=839105230,3142289711,280464955,1546637391
+dimwishlist:item=3637570176&perks=4090651448,3142289711,280464955,1546637391
+dimwishlist:item=3637570176&perks=1840239774,1431678320,280464955,1546637391
+dimwishlist:item=3637570176&perks=839105230,1431678320,280464955,1546637391
+dimwishlist:item=3637570176&perks=4090651448,1431678320,280464955,1546637391
+dimwishlist:item=3637570176&perks=1840239774,3142289711,2450788523,1546637391
+dimwishlist:item=3637570176&perks=839105230,3142289711,2450788523,1546637391
+dimwishlist:item=3637570176&perks=4090651448,3142289711,2450788523,1546637391
+dimwishlist:item=3637570176&perks=1840239774,1431678320,2450788523,1546637391
+dimwishlist:item=3637570176&perks=839105230,1431678320,2450788523,1546637391
+dimwishlist:item=3637570176&perks=4090651448,1431678320,2450788523,1546637391
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=3637570176&perks=839105230,3142289711,588594999,957782887
+dimwishlist:item=3637570176&perks=4090651448,3142289711,588594999,957782887
+dimwishlist:item=3637570176&perks=1840239774,1431678320,588594999,957782887
+dimwishlist:item=3637570176&perks=839105230,1431678320,588594999,957782887
+dimwishlist:item=3637570176&perks=4090651448,1431678320,588594999,957782887
+dimwishlist:item=3637570176&perks=1840239774,3142289711,280464955,957782887
+dimwishlist:item=3637570176&perks=839105230,3142289711,280464955,957782887
+dimwishlist:item=3637570176&perks=4090651448,3142289711,280464955,957782887
+dimwishlist:item=3637570176&perks=1840239774,1431678320,280464955,957782887
+dimwishlist:item=3637570176&perks=839105230,1431678320,280464955,957782887
+dimwishlist:item=3637570176&perks=4090651448,1431678320,280464955,957782887
+dimwishlist:item=3637570176&perks=1840239774,3142289711,2450788523,957782887
+dimwishlist:item=3637570176&perks=839105230,3142289711,2450788523,957782887
+dimwishlist:item=3637570176&perks=4090651448,3142289711,2450788523,957782887
+dimwishlist:item=3637570176&perks=1840239774,1431678320,2450788523,957782887
+dimwishlist:item=3637570176&perks=839105230,1431678320,2450788523,957782887
+dimwishlist:item=3637570176&perks=4090651448,1431678320,2450788523,957782887
+
 // Sola's Scar (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Impact with Adept Impact mod.
 dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,1546637391
@@ -28793,6 +29956,15 @@ dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,354401740
 dimwishlist:item=1313528549&perks=2827049491,269888150,2590710093,354401740
 dimwishlist:item=1313528549&perks=938542991,269888150,2590710093,354401740
 
+// Sola's Scar (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Impact with Adept Impact mod.
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,1546637391
+dimwishlist:item=3847137620&perks=2827049491,269888150,2590710093,1546637391
+dimwishlist:item=3847137620&perks=938542991,269888150,2590710093,1546637391
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,354401740
+dimwishlist:item=3847137620&perks=2827049491,269888150,2590710093,354401740
+dimwishlist:item=3847137620&perks=938542991,269888150,2590710093,354401740
+
 // Reed's Regret (PvP first choice roll)
 //notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Handling with Targeting Adjuster mod.
 dimwishlist:item=1399243961&perks=1840239774,2969185026,2450788523,438098033
@@ -28801,6 +29973,15 @@ dimwishlist:item=1399243961&perks=4090651448,2969185026,2450788523,438098033
 dimwishlist:item=1399243961&perks=1840239774,2969185026,706527188,438098033
 dimwishlist:item=1399243961&perks=839105230,2969185026,706527188,438098033
 dimwishlist:item=1399243961&perks=4090651448,2969185026,706527188,438098033
+
+// Reed's Regret (Adept) (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 229. PvP first choice roll. Recommended MW: Handling with Adept Targeting Adjuster mod.
+dimwishlist:item=2475355656&perks=1840239774,2969185026,2450788523,438098033
+dimwishlist:item=2475355656&perks=839105230,2969185026,2450788523,438098033
+dimwishlist:item=2475355656&perks=4090651448,2969185026,2450788523,438098033
+dimwishlist:item=2475355656&perks=1840239774,2969185026,706527188,438098033
+dimwishlist:item=2475355656&perks=839105230,2969185026,706527188,438098033
+dimwishlist:item=2475355656&perks=4090651448,2969185026,706527188,438098033
 
 title:Pandapaxxy's S15 roundup
 description:Converting a spreadsheet linked from https://www.reddit.com/r/sharditkeepit/comments/s6vt49/so_you_think_you_have_a_god_roll/

@@ -19,9 +19,14 @@ class Splitter:
                     self.lineCollection.append(line)
 
                     # improved flag search in lines
+                    tempLine = line
                     relevantLine = ""
-                    if '(' in line.lower() and ')' in line.lower():
-                        relevantLine = line[line.find('('):line.find(')')+1]
+                    while tempLine.find("(") != -1 and tempLine.find(')', tempLine.find('(')) != -1:
+                        tarString = tempLine[tempLine.find('('):tempLine.find(')', tempLine.find('('))+1]
+                        relevantLine += " " + tarString;
+                        tempLine = tempLine.split(tarString, 1)[1]
+
+                    # tag search in lines
                     if "tags:" in line.lower():
                         relevantLine += " " + line[line.rfind("tags:"):]
 
