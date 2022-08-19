@@ -147,5 +147,17 @@ for curWishList in flag_search_file:
         pass
 
 # -------------------------------------------
+# God Filters
+flag_search_file.append({"flag": lambda: True, 
+                        "search": ["god-"], "searchFlag": False,"file": "./wishlists/GOD.txt"})
+
+# -------------------------------------------
+# God Input Filters
+flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
+                        "search": ["god-"], "searchFlag": False,"file": "./wishlists/MKB-GOD.txt"})
+flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
+                        "search": ["god-"], "searchFlag": False,"file": "./wishlists/CTR-GOD.txt"})
+
+# -------------------------------------------
 # Start Program
 mainObj.readMain()
