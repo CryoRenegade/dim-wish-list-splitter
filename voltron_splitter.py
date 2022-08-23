@@ -80,7 +80,7 @@ class Splitter:
 
 mainObj = Splitter()
 
-# -------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------------
 # Dictionary of All Filters
 flag_search_file = []
 
@@ -141,15 +141,16 @@ flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag,
                         "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy-PvP-CTR.txt"})
 
 # -------------------------------------------
-# Clear Previous Files
-for curWishList in flag_search_file:
-    with open(curWishList.get("file"), mode='w') as clearFile:
-        pass
-
-# -------------------------------------------
 # God Filters
 flag_search_file.append({"flag": lambda: True, 
                         "search": ["god-"], "searchFlag": False,"file": "./wishlists/GOD.txt"})
+
+# -------------------------------------------
+# God Gamemode Filters
+flag_search_file.append({"flag": lambda: mainObj.pveFlag or not mainObj.pvpFlag, 
+                        "search": ["god-"], "searchFlag": False,"file": "./wishlists/PvE-GOD.txt"})
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag, 
+                        "search": ["god-"], "searchFlag": False,"file": "./wishlists/PvP-GOD.txt"})
 
 # -------------------------------------------
 # God Input Filters
@@ -157,6 +158,13 @@ flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag,
                         "search": ["god-"], "searchFlag": False,"file": "./wishlists/MKB-GOD.txt"})
 flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
                         "search": ["god-"], "searchFlag": False,"file": "./wishlists/CTR-GOD.txt"})
+
+
+# -----------------------------------------------------------------------------------------------------------------------------
+# Clear Previous Files
+for curWishList in flag_search_file:
+    with open(curWishList.get("file"), mode='w') as clearFile:
+        pass
 
 # -------------------------------------------
 # Start Program
