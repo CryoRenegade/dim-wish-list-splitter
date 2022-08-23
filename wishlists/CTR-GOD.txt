@@ -20942,3 +20942,2995 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 title:u/Mercules904's Garden of Salvation raid weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
 
+title:This is a compiled collection of god/recommended rolls from top community minds.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+title:u/pandapaxxy's Duality Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
+
+title:u/pandapaxxy's Seasonal Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5euj8/seasonal_weapons_season_of_the_haunted/
+
+title:u/pandapaxxy's Vendor Weapons, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5etqg/vendor_weapons_season_of_the_haunted/
+
+title:u/pandapaxxy's World Drops / Season Pass, Season of the Haunted
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5ev69/world_drops_season_pass_season_of_the_haunted/
+
+// originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep18-reprised-opulent-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep25-prophecy-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep24-s17-solstice-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep23-selected-dreaming-city-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep263-s-tier-hand-cannons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep264-s-tier-smgs.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep266-glaives.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep20-playlist-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep19-duality-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep262-s-tier-sniper-rifles.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep22-season-17-foundry-new-weapons.txt
+
+// originally from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep261-haunted-weapons.txt
+
+title:u/pandapaxxy's Guardian Games 2022 breakdown
+
+title:u/pandapaxxy's Vow of the Disciple Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhd6k/vow_of_the_disciple_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's PsiOps and World Drop Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhbos/psiops_and_world_drop_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's Faction Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhb2m/faction_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's Exotic Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfha13/exotic_weapons_season_of_the_risen/
+
+title:u/pandapaxxy's Enclave and Wellspring Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhcoq/enclave_and_wellspring_weapons_season_of_the_risen/
+
+title:Vow of the Disciple Raid weapons
+description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep9-vow-of-the-disciple-raid-weapons.txt
+
+description:Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep8-witch-queen-dlc-weapons.txt
+
+title:Nightfall weapons part 2 and Hakke foundry
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep11-nightfall-pt2-and-hakke-weapons.txt 
+
+title:Nightfall weapons part 3 and Omolon foundry
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep12-nightfall-pt3-and-omolon-weapons.txt
+
+title:Suros foundry weapons
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep13-suros-foundry-weapons.txt
+
+title:Guardian Games 2022 and Trials of Osiris weapon
+description:Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep14-guardian-games-2022-and-trials-of-osiris-weapons.txt
+
+// sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
+
+title:Nightfall weapons part 1
+description:Sourced from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep251-vow-of-the-disciple-raid-weapons.txt
+
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep2-nightfall-reprised-weapons.txt
+title:Season 15 Vanguard Nightfall weapons
+notes:Reprised D1 weapons dropping from Nightfall completions
+
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep241-reprised-dawning-weapons.txt
+
+title:u/pandapaxxy's 30th Anniversary M+KB Breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
+
+title:u/pandapaxxy's 30th Anniversary Controller Breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/rfp330/30th_anniversary_weapons_breakdown/
+
+description: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep240-selected-30th-anniversary-weapons.txt
+
+decription: Taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/ep238-selected-world-weapons.txt
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep235-activity-weapons.txt
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep234-vault-of-glass-weapons.txt
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep233-reprised-trials-of-the-nine-weapons.txt
+
+description: Taken from https://github.com/Butlins12/destiny-rolls/blob/main/ep232-rapid-fire-pulse-rifles.txt
+
+description: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txtdescription: Originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/DMB-inspired-rolls.txt
+
+title:Pandapaxxy's S15 roundup
+description:Converting a spreadsheet linked from https://www.reddit.com/r/sharditkeepit/comments/s6vt49/so_you_think_you_have_a_god_roll/
+
+// Annual Skate - Annual Skate (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=6857689&perks=1926090094,106909392,1168162263,2458213969
+
+// Annual Skate - Annual Skate (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,1954620775
+
+// Annual Skate - Annual Skate (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=6857689&perks=1926090094,106909392,1168162263,2458213969
+
+// Annual Skate - Annual Skate (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=6857689&perks=1926090095,3142289711,3436462433,1954620775
+
+// Arctic Haze - Arctic Haze (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=20935540&perks=1840239774,106909392,1820235745,2848615171
+
+// Arctic Haze - Arctic Haze (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=20935540&perks=1840239774,3142289711,2450788523,699525795
+
+// Arctic Haze - Arctic Haze (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=20935540&perks=1840239774,106909392,1820235745,2848615171
+
+// Arctic Haze - Arctic Haze (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=20935540&perks=1840239774,3142289711,2450788523,699525795
+
+// Temptation's Hook - Temptation Hook (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1546637391
+
+// Temptation's Hook - Temptation Hook (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=35794111&perks=3666208348,269888150,2590710093,1685431615
+
+// Subzero Salvo - Subzero Salvo (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=42351395&perks=3525010810,3796465595,2010801679,2396489472
+
+// Subzero Salvo - Subzero Salvo (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=42351395&perks=1478423395,1996142143,706527188,2396489472
+
+// THE SWARM - THE SWARM (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=47772649&perks=1840239774,106909392,1168162263,1546637391
+
+// THE SWARM - THE SWARM (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=47772649&perks=1840239774,3142289711,1359896290,1890422124
+
+// THE SWARM - THE SWARM (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=47772649&perks=1840239774,106909392,1168162263,1546637391
+
+// THE SWARM - THE SWARM (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=47772649&perks=1840239774,3142289711,1359896290,1890422124
+
+// Ancient Gospel - Ancient Gospel (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=48643186&perks=1840239774,106909392,247725512,1015611457
+
+// Ancient Gospel - Ancient Gospel (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=48643186&perks=1840239774,3142289711,247725512,2846385770
+
+// Ancient Gospel - Ancient Gospel (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=48643186&perks=1840239774,106909392,247725512,1015611457
+
+// Ancient Gospel - Ancient Gospel (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=48643186&perks=1840239774,3142289711,247725512,2846385770
+
+// The Fool's Remedy - The Fool's Remedy (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=65611680&perks=445755707,1968497646,1820235745,1015611457
+
+// The Fool's Remedy - The Fool's Remedy (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=65611680&perks=445755707,1885400500,588594999,1015611457
+
+// Avalanche - Avalanche (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,1546637391
+
+// Avalanche - Avalanche (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
+
+// Avalanche - Avalanche (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,1546637391
+
+// Avalanche - Avalanche (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
+
+// Riiswalker - Riiswalker (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=108221785&perks=1300023272,106909392,3436462433,1546637391
+
+// Riiswalker - Riiswalker (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
+
+// Shining Sphere - Shining Sphere (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=136525518&perks=3525010810,3796465595,3300816228,3523296417
+
+// Shining Sphere - Shining Sphere (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=136525518&perks=1478423395,1996142143,957782887,3977735242
+
+// Last Perdition - Last Perdition (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=188882152&perks=965619221,106909392,1168162263,1015611457
+
+// Last Perdition - Last Perdition (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=188882152&perks=3151536501,3142289711,2846385770,1015611457
+
+// Premonition - Premonition (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=208088207&perks=839105230,1968497646,2779035018,3425386926
+
+// Premonition - Premonition (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=208088207&perks=3661387068,1885400500,588594999,460017080
+
+// Whispering Slab - Whispering Slab (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391
+
+// Whispering Slab - Whispering Slab (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,47981717
+
+// Whispering Slab - Whispering Slab (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391
+
+// Whispering Slab - Whispering Slab (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,47981717
+
+// The Deicide - The Deicide (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,1546637391
+
+// The Deicide - The Deicide (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=217140611&perks=1047830412,3142289711,3436462433,3511092054
+
+// Eyasluna - Eyasluna (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,1015611457
+
+// Eyasluna - Eyasluna (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=235827225&perks=1926090095,1885400500,1428297954,588594999
+
+// Eyasluna - Eyasluna (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,1015611457
+
+// Eyasluna - Eyasluna (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=235827225&perks=1926090095,1885400500,1428297954,588594999
+
+// Main Ingredient - Main Ingredient (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=253196586&perks=13792278,2680121939,3300816228,3425386926
+
+// Main Ingredient - Main Ingredient (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,2213355989
+
+// Main Ingredient - Main Ingredient (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=253196586&perks=13792278,2680121939,3300816228,3425386926
+
+// Main Ingredient - Main Ingredient (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=253196586&perks=2405638014,3868766766,1645158859,2213355989
+
+// Exile's Curse (Adept) - Exile's Curse (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=276080079&perks=839105230,689005463,3161816588,1546637391
+
+// Exile's Curse (Adept) - Exile's Curse (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=276080079&perks=1840239774,689005463,3161816588,2213355989
+
+// Exile's Curse (Adept) - Exile's Curse (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=276080079&perks=839105230,689005463,3161816588,1546637391
+
+// Exile's Curse (Adept) - Exile's Curse (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=276080079&perks=1840239774,689005463,3161816588,2213355989
+
+// Ignition Code - Ignition Code (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
+
+// Ignition Code - Ignition Code (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=304659313&perks=1478423395,409831596,3161816588,3523296417
+
+// Ignition Code - Ignition Code (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
+
+// Ignition Code - Ignition Code (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=304659313&perks=1478423395,409831596,3161816588,3523296417
+
+// Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+
+// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+
+// Survivor's Epitaph - Survivor's Epitaph (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+
+// Survivor's Epitaph - Survivor's Epitaph (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+
+// Waking Vigil - Waking Vigil (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=334171687&perks=1926090094,1968497646,247725512,1015611457
+
+// Waking Vigil - Waking Vigil (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=334171687&perks=1926090095,1885400500,2846385770,47981717
+
+// Waking Vigil - Waking Vigil (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=334171687&perks=1926090094,1968497646,247725512,1015611457
+
+// Waking Vigil - Waking Vigil (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=334171687&perks=1926090095,1885400500,2846385770,47981717
+
+// Retold Tale - Retold Tale (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=346136302&perks=1300023272,106909392,2869569095,1546637391
+
+// Retold Tale - Retold Tale (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=346136302&perks=1047830412,3142289711,706527188,957782887
+
+// Punching Out - Punching Out (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=378498222&perks=1840239774,1968497646,1820235745,4104185692
+
+// Punching Out - Punching Out (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=378498222&perks=1840239774,1561002382,2846385770,1015611457
+
+// Berenger's Memory - Berenger's Memory (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,1683379515
+
+// Berenger's Memory - Berenger's Memory (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=407621213&perks=1478423395,409831596,4071163871,3523296417
+
+// Berenger's Memory - Berenger's Memory (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=407621213&perks=3525010810,3301904089,2869569095,1683379515
+
+// Berenger's Memory - Berenger's Memory (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=407621213&perks=1478423395,409831596,4071163871,3523296417
+
+// The Keening - The Keening (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=409551876&perks=1840239774,1968497646,247725512,1546637391
+
+// The Keening - The Keening (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=409551876&perks=1840239774,1561002382,247725512,957782887
+
+// The Palindrome - The Palindrome (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=432476743&perks=1840239774,1968497646,3643424744,4049631843
+
+// The Palindrome - The Palindrome (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=432476743&perks=1840239774,1885400500,706527188,2846385770
+
+// The Palindrome - The Palindrome (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=432476743&perks=1840239774,1968497646,3643424744,4049631843
+
+// The Palindrome - The Palindrome (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=432476743&perks=1840239774,1885400500,706527188,2846385770
+
+// Corrective Measure - Corrective Measure (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=471518543&perks=1840239774,106909392,3418782618,3824105627
+
+// Corrective Measure - Corrective Measure (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=471518543&perks=1840239774,3142289711,1359896290,1890422124
+
+// Corrective Measure - Corrective Measure (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=471518543&perks=1840239774,106909392,3418782618,3824105627
+
+// Corrective Measure - Corrective Measure (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=471518543&perks=1840239774,3142289711,1359896290,1890422124
+
+// The Last Breath - The Last Breath (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=507038823&perks=1840239774,1968497646,1820235745,4104185692
+
+// The Last Breath - The Last Breath (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=507038823&perks=1840239774,1885400500,1359896290,2846385770
+
+// The Last Breath - The Last Breath (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=507038823&perks=1840239774,1968497646,1820235745,4104185692
+
+// The Last Breath - The Last Breath (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=507038823&perks=1840239774,1885400500,1359896290,2846385770
+
+// BrayTech Werewolf - BrayTech Werewolf (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=528834068&perks=1840239774,1968497646,1354429876,1546637391
+
+// BrayTech Werewolf - BrayTech Werewolf (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=528834068&perks=1840239774,1885400500,1359896290,1890422124
+
+// BrayTech Werewolf - BrayTech Werewolf (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=528834068&perks=1840239774,1968497646,1354429876,1546637391
+
+// BrayTech Werewolf - BrayTech Werewolf (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=528834068&perks=1840239774,1885400500,1359896290,1890422124
+
+// Astral Horizon (Adept) - Astral Horizon (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=532746994&perks=1300023272,106909392,3300816228,2360754333
+
+// Astral Horizon (Adept) - Astral Horizon (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=532746994&perks=1047830412,3142289711,3436462433,47981717
+
+// PLUG ONE.1 (Adept) - PLUG ONE.1 (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=534775659&perks=839105230,1687452232,2779035018,1427256713
+
+// PLUG ONE.1 (Adept) - PLUG ONE.1 (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=534775659&perks=1840239774,689005463,1645158859,1754714824
+
+// PLUG ONE.1 (Adept) - PLUG ONE.1 (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=534775659&perks=839105230,1687452232,2779035018,1427256713
+
+// PLUG ONE.1 (Adept) - PLUG ONE.1 (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=534775659&perks=1840239774,689005463,1645158859,1754714824
+
+// Farewell - Farewell (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=541188001&perks=1840239774,106909392,1820235745,4104185692
+
+// Farewell - Farewell (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=541188001&perks=1840239774,3142289711,2846385770,2458213969
+
+// Retraced Path - Retraced Path (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=548958835&perks=1840239774,732557052,1820235745,2610012052
+
+// Retraced Path - Retraced Path (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=548958835&perks=1482024992,2969185026,1428297954,3523296417
+
+// Chattering Bone - Chattering Bone (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=568515759&perks=839105230,1968497646,1168162263,3425386926
+
+// Chattering Bone - Chattering Bone (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=568515759&perks=839105230,1885400500,2846385770,3425386926
+
+// Contingency Plan - Contingency Plan (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=577528837&perks=839105230,106909392,1820235745,4104185692
+
+// Contingency Plan - Contingency Plan (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=577528837&perks=839105230,3177308360,280464955,1015611457
+
+// Sojourner's Tale - Sojourner's Tale (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=599895591&perks=1840239774,106909392,3300816228,4104185692
+
+// Sojourner's Tale - Sojourner's Tale (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=599895591&perks=1840239774,3142289711,706527188,47981717
+
+// Age-Old Bond - Age-Old Bond (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=601592879&perks=1840239774,1968497646,3400784728,1015611457
+
+// Age-Old Bond - Age-Old Bond (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=601592879&perks=1840239774,1561002382,1890422124,1015611457
+
+// Age-Old Bond - Age-Old Bond (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=601592879&perks=1840239774,1968497646,3400784728,1015611457
+
+// Age-Old Bond - Age-Old Bond (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=601592879&perks=1840239774,1561002382,1890422124,1015611457
+
+// Scathelocke - Scathelocke (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=602618796&perks=1840239774,106909392,1820235745,3425386926
+
+// Scathelocke - Scathelocke (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=602618796&perks=1840239774,3142289711,1570042021,699525795
+
+// Scathelocke - Scathelocke (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=602618796&perks=1840239774,106909392,1820235745,3425386926
+
+// Scathelocke - Scathelocke (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=602618796&perks=1840239774,3142289711,1570042021,699525795
+
+// Hollow Words - Hollow Words (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=607191995&perks=839105230,1687452232,2779035018,1546637391
+
+// Hollow Words - Hollow Words (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=607191995&perks=1840239774,689005463,1645158859,1683379515
+
+// Hollow Words - Hollow Words (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=607191995&perks=839105230,1687452232,2779035018,1546637391
+
+// Hollow Words - Hollow Words (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=607191995&perks=1840239774,689005463,1645158859,1683379515
+
+// Falling Guillotine - Falling Guillotine (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130
+
+// Falling Guillotine - Falling Guillotine (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=614426548&perks=3666208348,269888150,2590710093,1685431615
+
+// Found Verdict (Timelost) - Found Verdict (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=631439337&perks=1300023272,106909392,3300816228,1546637391
+
+// Found Verdict (Timelost) - Found Verdict (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=631439337&perks=1047830412,3142289711,3436462433,47981717
+
+// Tigerspite - Tigerspite (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=640114618&perks=1840239774,1968497646,1820235745,4104185692
+
+// Tigerspite - Tigerspite (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=640114618&perks=1840239774,1885400500,3643424744,2846385770
+
+// Tigerspite - Tigerspite (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=640114618&perks=1840239774,1968497646,1820235745,4104185692
+
+// Tigerspite - Tigerspite (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=640114618&perks=1840239774,1885400500,3643424744,2846385770
+
+// Nation of Beasts - Nation of Beasts (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=654370424&perks=1840239774,106909392,1168162263,3038247973
+
+// Nation of Beasts - Nation of Beasts (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=654370424&perks=1840239774,3142289711,47981717,3038247973
+
+// Nation of Beasts - Nation of Beasts (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=654370424&perks=1840239774,106909392,1168162263,3038247973
+
+// Nation of Beasts - Nation of Beasts (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=654370424&perks=1840239774,3142289711,47981717,3038247973
+
+// Exile's Curse - Exile's Curse (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=679281855&perks=839105230,689005463,3161816588,1546637391
+
+// Exile's Curse - Exile's Curse (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=679281855&perks=1840239774,689005463,3161816588,2213355989
+
+// Exile's Curse - Exile's Curse (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=679281855&perks=839105230,689005463,3161816588,1546637391
+
+// Exile's Curse - Exile's Curse (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=679281855&perks=1840239774,689005463,3161816588,2213355989
+
+// Hung Jury SR4 (Adept) - Hung Jury SR4 (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=681067419&perks=1840239774,106909392,247725512,3038247973
+
+// Hung Jury SR4 (Adept) - Hung Jury SR4 (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=681067419&perks=1840239774,3142289711,588594999,3038247973
+
+// The Supremacy - The Supremacy (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=686951703&perks=839105230,1087426260,1168162263,3400784728
+
+// The Supremacy - The Supremacy (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=686951703&perks=1840239774,1561002382,957782887,1015611457
+
+// Vision of Confluence (Timelost) - Vision of Confluence (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=690668916&perks=1840239774,1968497646,3418782618,4104185692
+
+// Vision of Confluence (Timelost) - Vision of Confluence (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=690668916&perks=3661387068,1885400500,3436462433,1015611457
+
+// Arsenic Bite-4b - Arsenic Bite-4b (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=720351795&perks=2801223209,3429800428,2848615171,3365897133
+
+// Arsenic Bite-4b - Arsenic Bite-4b (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=720351795&perks=2801223209,3429800428,588594999,201365942
+
+// Arsenic Bite-4b - Arsenic Bite-4b (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=720351795&perks=2801223209,3429800428,2848615171,3365897133
+
+// Arsenic Bite-4b - Arsenic Bite-4b (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=720351795&perks=2801223209,3429800428,588594999,201365942
+
+// Ascendancy - Ascendancy (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,3194351027
+
+// Ascendancy - Ascendancy (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=725408022&perks=3525010810,3796465595,951095735,2396489472
+
+// Seventh Seraph VY-7 - Seventh Seraph VY-7 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=766323545&perks=1840239774,106909392,2010801679,1546637391
+
+// Seventh Seraph VY-7 - Seventh Seraph VY-7 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=766323545&perks=1840239774,3142289711,280464955,2779035018
+
+// Gnawing Hunger - Gnawing Hunger (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3425386926
+
+// Gnawing Hunger - Gnawing Hunger (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=821154603&perks=1840239774,3142289711,1890422124,1015611457
+
+// Gnawing Hunger - Gnawing Hunger (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3425386926
+
+// Gnawing Hunger - Gnawing Hunger (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=821154603&perks=1840239774,3142289711,1890422124,1015611457
+
+// Peacebond - Peacebond (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,124408337
+
+// Peacebond - Peacebond (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=829330711&perks=1840239774,3142289711,2846385770,124408337
+
+// Uzume RR4 (Adept) - Uzume RR4 (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=852228780&perks=839105230,106909392,3400784728,1546637391
+
+// Uzume RR4 (Adept) - Uzume RR4 (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,3038247973
+
+// Occluded Finality - Occluded Finality (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=852551895&perks=839105230,1087426260,3300816228,1546637391
+
+// Occluded Finality - Occluded Finality (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=852551895&perks=1840239774,1561002382,957782887,47981717
+
+// Borrowed Time - Borrowed Time (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=875848769&perks=1840239774,1968497646,2779035018,4104185692
+
+// Borrowed Time - Borrowed Time (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=875848769&perks=1840239774,1885400500,1359896290,1890422124
+
+// Far Future - Far Future (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=893527433&perks=839105230,106909392,3300816228,4104185692
+
+// Far Future - Far Future (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=893527433&perks=1840239774,3142289711,706527188,47981717
+
+// Tomorrow's Answer - Tomorrow's Answer (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=958384347&perks=3525010810,3796465595,951095735,2396489472
+
+// Tomorrow's Answer - Tomorrow's Answer (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=958384347&perks=1478423395,1996142143,951095735,2396489472
+
+// Deafening Whisper - Deafening Whisper (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3425386926
+
+// Deafening Whisper - Deafening Whisper (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=981718087&perks=1478423395,2822142346,2450788523,3300816228
+
+// Deafening Whisper - Deafening Whisper (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3425386926
+
+// Deafening Whisper - Deafening Whisper (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=981718087&perks=1478423395,2822142346,2450788523,3300816228
+
+// Bad Omens - Bad Omens (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=991314988&perks=3525010810,2985827016,3300816228,1275731761
+
+// Bad Omens - Bad Omens (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,706527188
+
+// One Small Step - One Small Step (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1016668089&perks=1300023272,106909392,3300816228,2679249093
+
+// One Small Step - One Small Step (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1016668089&perks=1047830412,3142289711,3161816588,4082225868
+
+// The Comedian - The Comedian (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1028582252&perks=1300023272,106909392,1820235745,1546637391
+
+// The Comedian - The Comedian (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1028582252&perks=1047830412,3142289711,1866048759,1546637391
+
+// Glacioclasm - Glacioclasm (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
+
+// Glacioclasm - Glacioclasm (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1030895163&perks=1840239774,689005463,1645158859,2213355989
+
+// Glacioclasm - Glacioclasm (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1030895163&perks=839105230,689005463,1820235745,1427256713
+
+// Glacioclasm - Glacioclasm (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1030895163&perks=1840239774,689005463,1645158859,2213355989
+
+// Bottom Dollar - Bottom Dollar (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1046651176&perks=1840239774,106909392,247725512,3425386926
+
+// Bottom Dollar - Bottom Dollar (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1046651176&perks=1840239774,3142289711,247725512,3038247973
+
+// Bottom Dollar - Bottom Dollar (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1046651176&perks=1840239774,106909392,247725512,3425386926
+
+// Bottom Dollar - Bottom Dollar (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1046651176&perks=1840239774,3142289711,247725512,3038247973
+
+// Forge's Pledge - Forges Pledge (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1076810832&perks=839105230,106909392,1570042021,3425386926
+
+// Forge's Pledge - Forges Pledge (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1076810832&perks=839105230,3142289711,1570042021,3425386926
+
+// IKELOS_SG_v1.0.2 - IKELOS_SG_v1.0.2 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1096206669&perks=1840239774,106909392,2779035018,1546637391
+
+// IKELOS_SG_v1.0.2 - IKELOS_SG_v1.0.2 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1096206669&perks=202670084,3142289711,588594999,3511092054
+
+// Extraordinary Rendition - Extraordinary Rendition (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1097616550&perks=1840239774,106909392,1820235745,4104185692
+
+// Extraordinary Rendition - Extraordinary Rendition (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1097616550&perks=1840239774,3142289711,280464955,1890422124
+
+// Servant Leader - Servant Leader (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1107446438&perks=839105230,106909392,247725512,4104185692
+
+// Servant Leader - Servant Leader (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1107446438&perks=839105230,3177308360,247725512,1015611457
+
+// Chroma Rush - Chroma Rush (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1119734784&perks=1840239774,106909392,1820235745,3425386926
+
+// Chroma Rush - Chroma Rush (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1119734784&perks=1840239774,3142289711,1359896290,1015611457
+
+// Chroma Rush - Chroma Rush (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1119734784&perks=1840239774,106909392,1820235745,3425386926
+
+// Chroma Rush - Chroma Rush (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1119734784&perks=1840239774,3142289711,1359896290,1015611457
+
+// Jian 7 Rifle - Jian 7 Rifle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1162247618&perks=965619221,1968497646,1683379515,3425386926
+
+// Jian 7 Rifle - Jian 7 Rifle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1162247618&perks=3151536501,1885400500,280464955,2846385770
+
+// The Messenger (Adept) - The Messenger (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1173780905&perks=839105230,1968497646,247725512,4104185692
+
+// The Messenger (Adept) - The Messenger (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1173780905&perks=839105230,1885400500,247725512,3047969693
+
+// Felwinter's Lie - Felwinter's Lie (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,1546637391
+
+// Felwinter's Lie - Felwinter's Lie (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3436462433,47981717
+
+// High Albedo - High Albedo (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1197486957&perks=1840239774,106909392,2010801679,3523296417
+
+// High Albedo - High Albedo (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1197486957&perks=1840239774,3142289711,2450788523,957782887
+
+// IKELOS_HC_v1.0.2 - IKELOS_HC_v1.0.2 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1200824700&perks=1840239774,1140096971,1820235745,1546637391
+
+// IKELOS_HC_v1.0.2 - IKELOS_HC_v1.0.2 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871,699525795
+
+// IKELOS_HC_v1.0.2 - IKELOS_HC_v1.0.2 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1200824700&perks=1840239774,1140096971,1820235745,1546637391
+
+// IKELOS_HC_v1.0.2 - IKELOS_HC_v1.0.2 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1200824700&perks=1840239774,1140096971,4071163871,699525795
+
+// Cold Denial - Cold Denial (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1216130969&perks=839105230,1968497646,2779035018,2458213969
+
+// Cold Denial - Cold Denial (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1216130969&perks=839105230,1885400500,2450788523,460017080
+
+// Fatebringer (Timelost) - Fatebringer (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,4104185692
+
+// Fatebringer (Timelost) - Fatebringer (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
+
+// Fatebringer (Timelost) - Fatebringer (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1216319404&perks=1840239774,106909392,3038247973,4104185692
+
+// Fatebringer (Timelost) - Fatebringer (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
+
+// IKELOS_SR_v1.0.2 - IKELOS_SR_v1.0.2 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1253087083&perks=839105230,106909392,1354429876,2213355989
+
+// IKELOS_SR_v1.0.2 - IKELOS_SR_v1.0.2 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1253087083&perks=1840239774,1140096971,588594999,706527188
+
+// Widow's Bite - Widow's Bite (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1271343896&perks=839105230,106909392,2779035018,3523296417
+
+// Widow's Bite - Widow's Bite (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1271343896&perks=1840239774,3142289711,280464955,706527188
+
+// PLUG ONE.1 - PLUG ONE.1 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1289000550&perks=839105230,1687452232,2779035018,1427256713
+
+// PLUG ONE.1 - PLUG ONE.1 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1289000550&perks=1840239774,689005463,1645158859,1754714824
+
+// PLUG ONE.1 - PLUG ONE.1 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1289000550&perks=839105230,1687452232,2779035018,1427256713
+
+// PLUG ONE.1 - PLUG ONE.1 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1289000550&perks=1840239774,689005463,1645158859,1754714824
+
+// Sola's Scar - Sola's Scar (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,2396489472
+
+// Sola's Scar - Sola's Scar (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1313528549&perks=3666208348,269888150,2590710093,354401740
+
+// Chrysura Melo - Chrysura Melo (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1337707096&perks=1840239774,106909392,1354429876,4104185692
+
+// Chrysura Melo - Chrysura Melo (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1337707096&perks=1840239774,3142289711,1359896290,2458213969
+
+// Chrysura Melo - Chrysura Melo (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1337707096&perks=1840239774,106909392,1354429876,4104185692
+
+// Chrysura Melo - Chrysura Melo (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1337707096&perks=1840239774,3142289711,1359896290,2458213969
+
+// Tomorrow's Answer (Adept) - Tomorrow's Answer (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1366917989&perks=3525010810,3796465595,951095735,2396489472
+
+// Tomorrow's Answer (Adept) - Tomorrow's Answer (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1366917989&perks=1478423395,1996142143,951095735,2396489472
+
+// Trustee - Trustee (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,2213355989
+
+// Trustee - Trustee (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1392919471&perks=839105230,3142289711,3436462433,47981717
+
+// Reed's Regret - Reeds Regret (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1399243961&perks=1840239774,2680121939,3400784728,1546637391
+
+// Reed's Regret - Reeds Regret (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1399243961&perks=1840239774,689005463,3436462433,438098033
+
+// Reed's Regret - Reeds Regret (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1399243961&perks=1840239774,2680121939,3400784728,1546637391
+
+// Reed's Regret - Reeds Regret (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1399243961&perks=1840239774,689005463,3436462433,438098033
+
+// Retrofuturist - Retrofuturist (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1402766122&perks=1300023272,106909392,2779035018,4082225868
+
+// Retrofuturist - Retrofuturist (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1402766122&perks=1047830412,791862061,706527188,957782887
+
+// Judgment - Judgment (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1954620775
+
+// Judgment - Judgment (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,47981717
+
+// Judgment - Judgment (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1954620775
+
+// Judgment - Judgment (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,47981717
+
+// The Palindrome (Adept) - The Palindrome (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1481892490&perks=1840239774,1968497646,3643424744,4049631843
+
+// The Palindrome (Adept) - The Palindrome (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1481892490&perks=1840239774,1885400500,706527188,2846385770
+
+// The Palindrome (Adept) - The Palindrome (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1481892490&perks=1840239774,1968497646,3643424744,4049631843
+
+// The Palindrome (Adept) - The Palindrome (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1481892490&perks=1840239774,1885400500,706527188,2846385770
+
+// Friction Fire - Friction Fire (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1513993763&perks=1840239774,106909392,1820235745,3425386926
+
+// Friction Fire - Friction Fire (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1513993763&perks=1840239774,3142289711,4071163871,1546637391
+
+// Seventh Seraph Carbine - Seventh Seraph Carbine (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1561006927&perks=1840239774,1968497646,1354429876,3425386926
+
+// Seventh Seraph Carbine - Seventh Seraph Carbine (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1561006927&perks=1840239774,1561002382,3161816588,588594999
+
+// Seventh Seraph Carbine - Seventh Seraph Carbine (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1561006927&perks=1840239774,1968497646,1354429876,3425386926
+
+// Seventh Seraph Carbine - Seventh Seraph Carbine (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1561006927&perks=1840239774,1561002382,3161816588,588594999
+
+// Gridskipper - Gridskipper (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1621558458&perks=839105230,1968497646,1570042021,4104185692
+
+// Gridskipper - Gridskipper (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1621558458&perks=839105230,1885400500,588594999,957782887
+
+// Biting Winds - Biting Winds (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
+
+// Biting Winds - Biting Winds (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,3365897133
+
+// Biting Winds - Biting Winds (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
+
+// Biting Winds - Biting Winds (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1621657423&perks=2801223209,3429800428,588594999,3365897133
+
+// Vulpecula - Vulpecula (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1622998472&perks=1840239774,106909392,1168162263,124408337
+
+// Vulpecula - Vulpecula (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1622998472&perks=1840239774,3142289711,2450788523,438098033
+
+// Vulpecula - Vulpecula (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1622998472&perks=1840239774,106909392,1168162263,124408337
+
+// Vulpecula - Vulpecula (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1622998472&perks=1840239774,3142289711,2450788523,438098033
+
+// A Swift Verdict - A Swift Verdict (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1626503676&perks=445755707,1968497646,3436462433,1015611457
+
+// A Swift Verdict - A Swift Verdict (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1626503676&perks=445755707,1561002382,2450788523,1015611457
+
+// The Guiding Sight - The Guiding Sight (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1641430382&perks=13792278,1968497646,247725512,1546637391
+
+// The Guiding Sight - The Guiding Sight (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1641430382&perks=2405638014,1885400500,247725512,11551321
+
+// Abide the Return - Abide the Return (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1644160541&perks=3666208348,269888150,1749209109,3913600130
+
+// Abide the Return - Abide the Return (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1644160541&perks=3666208348,269888150,2590710093,1685431615
+
+// Null Composure - Null Composure (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
+
+// Null Composure - Null Composure (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,2213355989
+
+// Null Composure - Null Composure (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
+
+// Null Composure - Null Composure (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,2213355989
+
+// Tranquility - Tranquility (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1645386487&perks=839105230,106909392,2779035018,1771339417
+
+// Tranquility - Tranquility (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1645386487&perks=1840239774,3142289711,1645158859,957782887
+
+// Wastelander M5 - Wastelander M5 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1679868061&perks=1300023272,791862061,1820235745,2679249093
+
+// Wastelander M5 - Wastelander M5 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,47981717
+
+// The Forward Path - The Forward Path (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1690783811&perks=13792278,106909392,1354429876,4082225868
+
+// The Forward Path - The Forward Path (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124
+
+// The Forward Path - The Forward Path (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1690783811&perks=13792278,106909392,1354429876,4082225868
+
+// The Forward Path - The Forward Path (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1690783811&perks=2405638014,3142289711,1359896290,1890422124
+
+// Astral Horizon - Astral Horizon (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1697682876&perks=1300023272,106909392,3300816228,2360754333
+
+// Astral Horizon - Astral Horizon (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1697682876&perks=1047830412,3142289711,3436462433,47981717
+
+// Enigma's Draw - Enigma's Draw (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1723380073&perks=445755707,1968497646,3400784728,4082225868
+
+// Enigma's Draw - Enigma's Draw (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1723380073&perks=445755707,1561002382,47981717,2846385770
+
+// Thermal Erosion - Thermal Erosion (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1766088024&perks=1840239774,1087426260,2869569095,3523296417
+
+// Thermal Erosion - Thermal Erosion (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1766088024&perks=1840239774,1885400500,2450788523,1890422124
+
+// Thermal Erosion - Thermal Erosion (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1766088024&perks=1840239774,1087426260,2869569095,3523296417
+
+// Thermal Erosion - Thermal Erosion (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1766088024&perks=1840239774,1885400500,2450788523,1890422124
+
+// Escape Velocity - Escape Velocity (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1786797708&perks=2209280306,106909392,3643424744,1546637391
+
+// Escape Velocity - Escape Velocity (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1786797708&perks=663495155,3142289711,3643424744,3511092054
+
+// Seventh Seraph CQC-12 - Seventh Seraph CQC-12 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1821724780&perks=1300023272,106909392,3300816228,1546637391
+
+// Seventh Seraph CQC-12 - Seventh Seraph CQC-12 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1821724780&perks=1047830412,791862061,706527188,957782887
+
+// Nature of the Beast - Nature of the Beast (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1835747805&perks=1926090094,106909392,1820235745,1546637391
+
+// Nature of the Beast - Nature of the Beast (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1835747805&perks=1926090095,3142289711,706527188,2846385770
+
+// Nature of the Beast - Nature of the Beast (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1835747805&perks=1926090094,106909392,1820235745,1546637391
+
+// Nature of the Beast - Nature of the Beast (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1835747805&perks=1926090095,3142289711,706527188,2846385770
+
+// The Hothead (Adept) - The Hothead (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1866778462&perks=3525010810,3796465595,3523296417,3194351027
+
+// The Hothead (Adept) - The Hothead (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1866778462&perks=1478423395,1996142143,3977735242,3194351027
+
+// The Summoner - The Summoner (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1907698332&perks=1840239774,1968497646,3643424744,3425386926
+
+// The Summoner - The Summoner (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1907698332&perks=1840239774,1561002382,588594999,2846385770
+
+// The Summoner - The Summoner (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1907698332&perks=1840239774,1968497646,3643424744,3425386926
+
+// The Summoner - The Summoner (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1907698332&perks=1840239774,1561002382,588594999,2846385770
+
+// Hezen Vengeance (Timelost) - Hezen Vengeance (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391
+
+// Hezen Vengeance (Timelost) - Hezen Vengeance (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1921159786&perks=1478423395,1996142143,951095735,3523296417
+
+// Truthteller - Truthteller (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515
+
+// Truthteller - Truthteller (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,1683379515
+
+// Truthteller - Truthteller (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515
+
+// Truthteller - Truthteller (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1946491241&perks=1478423395,409831596,3300816228,1683379515
+
+// Archon's Thunder - Archon's Thunder (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1967303408&perks=1840239774,106909392,2869569095,3425386926
+
+// Archon's Thunder - Archon's Thunder (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1967303408&perks=1840239774,3142289711,2846385770,957782887
+
+// Archon's Thunder - Archon's Thunder (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1967303408&perks=1840239774,106909392,2869569095,3425386926
+
+// Archon's Thunder - Archon's Thunder (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1967303408&perks=1840239774,3142289711,2846385770,957782887
+
+// Swarm of the Raven - Swarm of the Raven (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1972985595&perks=3525010810,3301904089,3300816228,2010801679
+
+// Swarm of the Raven - Swarm of the Raven (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1972985595&perks=1478423395,409831596,3300816228,3425386926
+
+// Swarm of the Raven - Swarm of the Raven (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1972985595&perks=3525010810,3301904089,3300816228,2010801679
+
+// Swarm of the Raven - Swarm of the Raven (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1972985595&perks=1478423395,409831596,3300816228,3425386926
+
+// Talons of the Eagle - Talons of the Eagle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1982711279&perks=839105230,106909392,1168162263,3038247973
+
+// Talons of the Eagle - Talons of the Eagle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1982711279&perks=839105230,3142289711,280464955,3038247973
+
+// Praedyth's Revenge (Timelost) - Praedyth's Revenge (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1987769101&perks=839105230,106909392,3418782618,2213355989
+
+// Praedyth's Revenge (Timelost) - Praedyth's Revenge (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,47981717
+
+// The Last Dance - The Last Dance (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2009277538&perks=445755707,1968497646,1168162263,1015611457
+
+// The Last Dance - The Last Dance (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2009277538&perks=445755707,1561002382,588594999,1890422124
+
+// Stars in Shadow - Stars in Shadow (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2050789284&perks=839105230,106909392,2779035018,1015611457
+
+// Stars in Shadow - Stars in Shadow (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2050789284&perks=839105230,3142289711,280464955,1015611457
+
+// Salvager's Salvo - Salvager's Salvo (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+
+// Salvager's Salvo - Salvager's Salvo (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+
+// Salvager's Salvo - Salvager's Salvo (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2060863616&perks=3525010810,3301904089,2010801679,2396489472
+
+// Salvager's Salvo - Salvager's Salvo (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2060863616&perks=3525010810,3301904089,3523296417,1546637391
+
+// Uzume RR4 - Uzume RR4 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2065081837&perks=839105230,106909392,3400784728,1546637391
+
+// Uzume RR4 - Uzume RR4 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,3038247973
+
+// Canis Major - Canis Major (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2066434718&perks=3525010810,3301904089,2869569095,1546637391
+
+// Canis Major - Canis Major (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2066434718&perks=1478423395,409831596,951095735,2396489472
+
+// Canis Major - Canis Major (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2066434718&perks=3525010810,3301904089,2869569095,1546637391
+
+// Canis Major - Canis Major (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2066434718&perks=1478423395,409831596,951095735,2396489472
+
+// Orewing's Maul - Orewing's Maul (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2108920981&perks=3525010810,3032599245,2869569095,3523296417
+
+// Orewing's Maul - Orewing's Maul (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2108920981&perks=1478423395,409831596,972757866,3523296417
+
+// Orewing's Maul - Orewing's Maul (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2108920981&perks=3525010810,3032599245,2869569095,3523296417
+
+// Orewing's Maul - Orewing's Maul (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2108920981&perks=1478423395,409831596,972757866,3523296417
+
+// Brass Attacks - Brass Attacks (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2121785039&perks=1840239774,1968497646,247725512,4104185692
+
+// Brass Attacks - Brass Attacks (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2121785039&perks=1840239774,1561002382,247725512,3425386926
+
+// Hero of Ages - Hero of Ages (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2139640995&perks=3666208348,269888150,1749209109,4049631843
+
+// Hero of Ages - Hero of Ages (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2139640995&perks=3666208348,269888150,2590710093,354401740
+
+// Shadow Price (Adept) - Shadow Price(Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2147010335&perks=1840239774,106909392,1354429876,4049631843
+
+// Shadow Price (Adept) - Shadow Price(Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2147010335&perks=1840239774,3142289711,2450788523,4082225868
+
+// Shadow Price (Adept) - Shadow Price (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2147010335&perks=1840239774,106909392,1354429876,4049631843
+
+// Shadow Price (Adept) - Shadow Price (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2147010335&perks=1840239774,3142289711,2450788523,4082225868
+
+// Apostate - Apostate (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2164448701&perks=839105230,106909392,1168162263,3038247973
+
+// Apostate - Apostate (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2164448701&perks=1840239774,3142289711,280464955,706527188
+
+// Fatebringer - Fatebringer (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,4104185692
+
+// Fatebringer - Fatebringer (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,47981717
+
+// Fatebringer - Fatebringer (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2171478765&perks=1840239774,106909392,3038247973,4104185692
+
+// Fatebringer - Fatebringer (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2171478765&perks=1840239774,3142289711,3038247973,47981717
+
+// Lonesome - Lonesome (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2199171672&perks=1840239774,1968497646,247725512,1015611457
+
+// Lonesome - Lonesome (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2199171672&perks=1840239774,1561002382,247725512,1015611457
+
+// Zealot's Reward - Zealot's Reward (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,3425386926
+
+// Zealot's Reward - Zealot's Reward (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2209003210&perks=1840239774,689005463,1645158859,2213355989
+
+// Zealot's Reward - Zealot's Reward (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,3425386926
+
+// Zealot's Reward - Zealot's Reward (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2209003210&perks=1840239774,689005463,1645158859,2213355989
+
+// The Steady Hand - The Steady Hand (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2220884262&perks=1926090094,1968497646,1168162263,4082225868
+
+// The Steady Hand - The Steady Hand (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2220884262&perks=1926090095,1885400500,706527188,11551321
+
+// The Steady Hand - The Steady Hand (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2220884262&perks=1926090094,1968497646,1168162263,4082225868
+
+// The Steady Hand - The Steady Hand (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2220884262&perks=1926090095,1885400500,706527188,11551321
+
+// IKELOS_SMG_v1.0.2 - IKELOS_SMG_v1.0.2 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2222560548&perks=1840239774,1140096971,1820235745,1546637391
+
+// IKELOS_SMG_v1.0.2 - IKELOS_SMG_v1.0.2 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2222560548&perks=1840239774,1140096971,1359896290,1890422124
+
+// Interference VI - Interference VI (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110
+
+// Interference VI - Interference VI (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2257180473&perks=1478423395,409831596,3300816228,3523296417
+
+// Interference VI - Interference VI (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2257180473&perks=3525010810,3301904089,3300816228,2888557110
+
+// Interference VI - Interference VI (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2257180473&perks=1478423395,409831596,3300816228,3523296417
+
+// Jurassic Green - Jurassic Green (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2261046232&perks=839105230,1968497646,1820235745,4104185692
+
+// Jurassic Green - Jurassic Green (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2261046232&perks=839105230,1885400500,2846385770,2458213969
+
+// Stochastic Variable - Stochastic Variable (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2272470786&perks=1840239774,830282363,2779035018,2458213969
+
+// Stochastic Variable - Stochastic Variable (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2272470786&perks=1840239774,1885400500,2450788523,2458213969
+
+// Igneous Hammer - Igneous Hammer (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2351180975&perks=1840239774,1968497646,247725512,3425386926
+
+// Igneous Hammer - Igneous Hammer (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2351180975&perks=1840239774,1885400500,247725512,47981717
+
+// Igneous Hammer - Igneous Hammer (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2351180975&perks=1840239774,1968497646,247725512,3425386926
+
+// Igneous Hammer - Igneous Hammer (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2351180975&perks=1840239774,1885400500,247725512,47981717
+
+// The Scholar (Adept) - The Scholar (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2386979999&perks=1840239774,1968497646,2039302152,1546637391
+
+// The Scholar (Adept) - The Scholar (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2386979999&perks=1840239774,1885400500,47981717,957782887
+
+// Sacred Provenance - Sacred Provenance (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2408405461&perks=839105230,1968497646,247725512,1015611457
+
+// Sacred Provenance - Sacred Provenance (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
+
+// The Vision - The Vision (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2414141462&perks=445755707,106909392,2010801679,4049631843
+
+// The Vision - The Vision (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2414141462&perks=445755707,3142289711,3436462433,1015611457
+
+// Shattered Cipher - Shattered Cypher (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2434225986&perks=1840239774,106909392,3300816228,3425386926
+
+// Shattered Cipher - Shattered Cypher (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2434225986&perks=1840239774,3142289711,1645158859,957782887
+
+// Shattered Cipher - Shattered Cypher (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2434225986&perks=1840239774,106909392,3300816228,3425386926
+
+// Shattered Cipher - Shattered Cypher (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2434225986&perks=1840239774,3142289711,1645158859,957782887
+
+// The Comedian (Adept) - The Comedian (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2443900757&perks=1300023272,106909392,1820235745,1546637391
+
+// The Comedian (Adept) - The Comedian (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2443900757&perks=1047830412,3142289711,1866048759,1546637391
+
+// Royal Entry - Royal Entry (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2448907086&perks=3525010810,3796465595,951095735,2396489472
+
+// Royal Entry - Royal Entry (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2448907086&perks=1478423395,1996142143,951095735,2396489472
+
+// Blast Battue - Blast Battue (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,2396489472
+
+// Blast Battue - Blast Battue (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2453357042&perks=1478423395,409831596,2450788523,2396489472
+
+// Blast Battue - Blast Battue (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2453357042&perks=3525010810,3301904089,2284787283,2396489472
+
+// Blast Battue - Blast Battue (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2453357042&perks=1478423395,409831596,2450788523,2396489472
+
+// Reed's Regret (Adept) - Reeds Regret (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2475355656&perks=1840239774,2680121939,3400784728,1546637391
+
+// Reed's Regret (Adept) - Reeds Regret (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2475355656&perks=1840239774,689005463,3436462433,438098033
+
+// Reed's Regret (Adept) - Reeds Regret (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2475355656&perks=1840239774,2680121939,3400784728,1546637391
+
+// Reed's Regret (Adept) - Reeds Regret (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2475355656&perks=1840239774,689005463,3436462433,438098033
+
+// The Scholar - The Scholar (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2478792241&perks=1840239774,1968497646,2039302152,1546637391
+
+// The Scholar - The Scholar (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2478792241&perks=1840239774,1885400500,47981717,957782887
+
+// Darkest Before - Darkest Before (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2481758391&perks=839105230,1968497646,3643424744,3425386926
+
+// Darkest Before - Darkest Before (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2481758391&perks=839105230,1885400500,3161816588,3511092054
+
+// Cartesian Coordinate - Cartesian Coordinate (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2481881293&perks=13792278,689005463,2779035018,1546637391
+
+// Cartesian Coordinate - Cartesian Coordinate (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2481881293&perks=2405638014,689005463,1645158859,2213355989
+
+// Cartesian Coordinate - Cartesian Coordinate (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2481881293&perks=13792278,689005463,2779035018,1546637391
+
+// Cartesian Coordinate - Cartesian Coordinate (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2481881293&perks=2405638014,689005463,1645158859,2213355989
+
+// The Number - The Number (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2492081469&perks=1840239774,1968497646,2869569095,4049631843
+
+// The Number - The Number (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2492081469&perks=1840239774,1561002382,2450788523,2458213969
+
+// The Number - The Number (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2492081469&perks=1840239774,1968497646,2869569095,4049631843
+
+// The Number - The Number (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2492081469&perks=1840239774,1561002382,2450788523,2458213969
+
+// Code Duello - Code Duello (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2496242052&perks=3525010810,3796465595,951095735,2396489472
+
+// Code Duello - Code Duello (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2496242052&perks=1478423395,1996142143,951095735,2396489472
+
+// Sorrow's Verse - Sorrow's Verse (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2496875173&perks=1840239774,106909392,1820235745,4104185692
+
+// Sorrow's Verse - Sorrow's Verse (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2496875173&perks=1840239774,3142289711,1890422124,2458213969
+
+// Sorrow's Verse - Sorrow's Verse (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2496875173&perks=1840239774,106909392,1820235745,4104185692
+
+// Sorrow's Verse - Sorrow's Verse (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2496875173&perks=1840239774,3142289711,1890422124,2458213969
+
+// Igneous Hammer (Adept) - Igneous Hammer (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2527666306&perks=1840239774,1968497646,247725512,3425386926
+
+// Igneous Hammer (Adept) - Igneous Hammer (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2527666306&perks=1840239774,1885400500,247725512,47981717
+
+// Igneous Hammer (Adept) - Igneous Hammer (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2527666306&perks=1840239774,1968497646,247725512,3425386926
+
+// Igneous Hammer (Adept) - Igneous Hammer (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2527666306&perks=1840239774,1885400500,247725512,47981717
+
+// Apex Predator - Apex Predator (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2545083870&perks=3525010810,3796465595,2010801679,3300816228
+
+// Apex Predator - Apex Predator (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2545083870&perks=1478423395,1996142143,3977735242,957782887
+
+// Matador 64 - Matador 64 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2563012876&perks=1300023272,791862061,1556840489,2679249093
+
+// Matador 64 - Matador 64 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2563012876&perks=1047830412,3142289711,1428297954,47981717
+
+// Seventh Seraph SAW - Seventh Seraph SAW (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1771339417
+
+// Seventh Seraph SAW - Seventh Seraph SAW (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2582755344&perks=1840239774,1885400500,2387244414,47981717
+
+// Seventh Seraph SAW - Seventh Seraph SAW (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1771339417
+
+// Seventh Seraph SAW - Seventh Seraph SAW (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2582755344&perks=1840239774,1885400500,2387244414,47981717
+
+// Spoiler Alert - Spoiler Alert (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2588048270&perks=445755707,1968497646,2779035018,4104185692
+
+// Spoiler Alert - Spoiler Alert (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2588048270&perks=445755707,1885400500,2450788523,3523296417
+
+// Compass Rose - Compass Rose (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2591111628&perks=1300023272,106909392,2869569095,1546637391
+
+// Compass Rose - Compass Rose (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2591111628&perks=1047830412,3142289711,706527188,957782887
+
+// Shadow Price - Shadow Price (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2633186522&perks=1840239774,106909392,1354429876,4049631843
+
+// Shadow Price - Shadow Price (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2633186522&perks=1840239774,3142289711,2450788523,4082225868
+
+// Shadow Price - Shadow Price (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2633186522&perks=1840239774,106909392,1354429876,4049631843
+
+// Shadow Price - Shadow Price (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2633186522&perks=1840239774,3142289711,2450788523,4082225868
+
+// BxR-55 Battler - BxR-55 Battler (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2708806099&perks=839105230,3230963543,1168162263,1015611457
+
+// BxR-55 Battler - BxR-55 Battler (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2708806099&perks=839105230,1885400500,957782887,2846385770
+
+// Corsair's Wrath - Corsair's Wrath (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2714022207&perks=1840239774,2680121939,1168162263,2213355989
+
+// Corsair's Wrath - Corsair's Wrath (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2714022207&perks=1840239774,689005463,280464955,706527188
+
+// Corsair's Wrath - Corsair's Wrath (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2714022207&perks=1840239774,2680121939,1168162263,2213355989
+
+// Corsair's Wrath - Corsair's Wrath (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2714022207&perks=1840239774,689005463,280464955,706527188
+
+// Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+
+// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+
+// Tyranny of Heaven - Tyranny of Heaven (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+
+// Tyranny of Heaven - Tyranny of Heaven (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+
+// Arc Logic - Arc Logic (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2723909519&perks=1840239774,106909392,1820235745,4104185692
+
+// Arc Logic - Arc Logic (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2723909519&perks=1840239774,3142289711,1570042021,3523296417
+
+// Arc Logic - Arc Logic (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2723909519&perks=1840239774,106909392,1820235745,4104185692
+
+// Arc Logic - Arc Logic (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2723909519&perks=1840239774,3142289711,1570042021,3523296417
+
+// Death Adder - Death Adder (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2742490609&perks=1840239774,106909392,2779035018,2848615171
+
+// Death Adder - Death Adder (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2742490609&perks=1840239774,3142289711,1359896290,2846385770
+
+// True Prophecy - True Prophecy (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,3038247973
+
+// True Prophecy - True Prophecy (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3038247973
+
+// True Prophecy - True Prophecy (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,3038247973
+
+// True Prophecy - True Prophecy (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2742838700&perks=1926090095,3142289711,2846385770,3038247973
+
+// Dire Promise - Dire Promise (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2742838701&perks=1926090094,1968497646,3643424744,4082225868
+
+// Dire Promise - Dire Promise (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
+
+// Dire Promise - Dire Promise (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2742838701&perks=1926090094,1968497646,3643424744,4082225868
+
+// Dire Promise - Dire Promise (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2742838701&perks=1926090095,1885400500,47981717,2846385770
+
+// Royal Chase - Royal Chase (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2776503072&perks=839105230,106909392,2869569095,2848615171
+
+// Royal Chase - Royal Chase (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2776503072&perks=839105230,3142289711,2866798147,4071163871
+
+// Quickfang - Quickfang (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,4049631843
+
+// Quickfang - Quickfang (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2782325300&perks=3666208348,269888150,2590710093,354401740
+
+// Eternity's Edge - Eternity's Edge (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201
+
+// Eternity's Edge - Eternity's Edge (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2782325301&perks=3666208348,2363751990,2590710093,354401740
+
+// Crown-Splitter - Crown-Splitter (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2782325302&perks=3666208348,2349202967,2590710093,1546637391
+
+// Crown-Splitter - Crown-Splitter (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2782325302&perks=3666208348,2349202967,2590710093,1546637391
+
+// Blasphemer - Blasphemer (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2782847179&perks=1840239774,791862061,1354429876,4082225868
+
+// Blasphemer - Blasphemer (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,47981717
+
+// Distant Tumulus - Distant Tumulus (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2807687156&perks=839105230,106909392,2284787283,1771339417
+
+// Distant Tumulus - Distant Tumulus (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2807687156&perks=1840239774,3142289711,972757866,957782887
+
+// A Sudden Death - A Sudden Death (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2855157553&perks=1300023272,106909392,1631667848,2679249093
+
+// A Sudden Death - A Sudden Death (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
+
+// Honor's Edge - Honor's Edge (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2857348871&perks=3666208348,269888150,1749209109,3708227201
+
+// Honor's Edge - Honor's Edge (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2857348871&perks=3666208348,269888150,2590710093,1685431615
+
+// Hailing Confusion - Hailing Confusion (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2870169846&perks=839105230,1968497646,1168162263,3523296417
+
+// Hailing Confusion - Hailing Confusion (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2870169846&perks=839105230,1885400500,280464955,3523296417
+
+// Xenoclast IV - Xenoclast IV (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2891672170&perks=1300023272,106909392,3300816228,1546637391
+
+// Xenoclast IV - Xenoclast IV (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2891672170&perks=1047830412,3142289711,3436462433,699525795
+
+// Dream Breaker - Dream Breaker (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2931957300&perks=839105230,1687452232,1556840489,4104185692
+
+// Dream Breaker - Dream Breaker (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2931957300&perks=1840239774,689005463,280464955,699525795
+
+// Dream Breaker - Dream Breaker (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2931957300&perks=839105230,1687452232,1556840489,4104185692
+
+// Dream Breaker - Dream Breaker (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2931957300&perks=1840239774,689005463,280464955,699525795
+
+// Toil and Trouble - Toil and Trouble (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2957367743&perks=1300023272,106909392,3161816588,3300816228
+
+// Toil and Trouble - Toil and Trouble (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2957367743&perks=1047830412,3142289711,3161816588,957782887
+
+// Succession - Succession (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391
+
+// Succession - Succession (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2990047042&perks=1840239774,3142289711,588594999,957782887
+
+// Seventh Seraph Officer Revolver - Seventh Seraph Officer Revolver (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3037520408&perks=1840239774,106909392,2010801679,1546637391
+
+// Seventh Seraph Officer Revolver - Seventh Seraph Officer Revolver (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3037520408&perks=1840239774,3142289711,280464955,1954620775
+
+// Seventh Seraph Officer Revolver - Seventh Seraph Officer Revolver (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3037520408&perks=1840239774,106909392,2010801679,1546637391
+
+// Seventh Seraph Officer Revolver - Seventh Seraph Officer Revolver (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3037520408&perks=1840239774,3142289711,280464955,1954620775
+
+// Iota Draconis - Iota Draconis (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3044460004&perks=839105230,689005463,2779035018,4104185692
+
+// Iota Draconis - Iota Draconis (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3044460004&perks=1840239774,689005463,1645158859,2213355989
+
+// Iota Draconis - Iota Draconis (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3044460004&perks=839105230,689005463,2779035018,4104185692
+
+// Iota Draconis - Iota Draconis (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3044460004&perks=1840239774,689005463,1645158859,2213355989
+
+// Timelines' Vertex - Timelines' Vertex (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3055192515&perks=1409978309,1687452232,3300816228,3523296417
+
+// Timelines' Vertex - Timelines' Vertex (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3055192515&perks=194952922,689005463,280464955,957782887
+
+// Timelines' Vertex - Timelines' Vertex (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3055192515&perks=1409978309,1687452232,3300816228,3523296417
+
+// Timelines' Vertex - Timelines' Vertex (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3055192515&perks=194952922,689005463,280464955,957782887
+
+// Heretic - Heretic (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3067821200&perks=3525010810,3796465595,951095735,3927722942
+
+// Heretic - Heretic (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3067821200&perks=1478423395,1996142143,951095735,1275731761
+
+// Threaded Needle - Threaded Needle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3075224551&perks=1840239774,2680121939,3300816228,1546637391
+
+// Threaded Needle - Threaded Needle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3075224551&perks=1840239774,689005463,2846385770,3523296417
+
+// Threaded Needle - Threaded Needle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3075224551&perks=1840239774,2680121939,3300816228,1546637391
+
+// Threaded Needle - Threaded Needle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3075224551&perks=1840239774,689005463,2846385770,3523296417
+
+// False Promises - False Promises (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3143732432&perks=1840239774,1968497646,3643424744,3425386926
+
+// False Promises - False Promises (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3143732432&perks=1840239774,1561002382,1359896290,699525795
+
+// False Promises - False Promises (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3143732432&perks=1840239774,1968497646,3643424744,3425386926
+
+// False Promises - False Promises (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3143732432&perks=1840239774,1561002382,1359896290,699525795
+
+// Eye of Sol - Eye of Sol (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3164743584&perks=839105230,106909392,3436462433,1546637391
+
+// Eye of Sol - Eye of Sol (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3164743584&perks=1840239774,3142289711,588594999,957782887
+
+// Memory Interdict - Memory Interdict (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472
+
+// Memory Interdict - Memory Interdict (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3165547384&perks=1478423395,409831596,951095735,2396489472
+
+// Memory Interdict - Memory Interdict (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472
+
+// Memory Interdict - Memory Interdict (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3165547384&perks=1478423395,409831596,951095735,2396489472
+
+// Bite of the Fox - Bite of the Fox (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3169616514&perks=839105230,106909392,247725512,3038247973
+
+// Bite of the Fox - Bite of the Fox (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3169616514&perks=1840239774,3142289711,957782887,47981717
+
+// Fractethyst - Fractethyst (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3184681056&perks=1300023272,106909392,3161816588,2360754333
+
+// Fractethyst - Fractethyst (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+
+// Vision of Confluence - Vision of Confluence (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3186018373&perks=1840239774,1968497646,3418782618,4104185692
+
+// Vision of Confluence - Vision of Confluence (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3186018373&perks=3661387068,1885400500,3436462433,1015611457
+
+// Found Verdict - Found Verdict (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3197270240&perks=1300023272,106909392,3300816228,1546637391
+
+// Found Verdict - Found Verdict (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3197270240&perks=1047830412,3142289711,3436462433,47981717
+
+// Vouchsafe - Vouchsafe (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3242168339&perks=839105230,106909392,247725512,3038247973
+
+// Vouchsafe - Vouchsafe (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3242168339&perks=839105230,3142289711,247725512,3038247973
+
+// Half-Truths - Half-Truths (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3257091166&perks=3666208348,269888150,3705817207,438098033
+
+// Half-Truths - Half-Truths (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3257091166&perks=3666208348,269888150,2590710093,354401740
+
+// The Other Half - The Other Half (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3257091167&perks=3666208348,269888150,1749209109,3913600130
+
+// The Other Half - The Other Half (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,4104185692
+
+// Trinary System - Trinary System (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3258665412&perks=839105230,1687452232,3300816228,4049631843
+
+// Trinary System - Trinary System (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3258665412&perks=1840239774,689005463,1645158859,1890422124
+
+// Trinary System - Trinary System (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3258665412&perks=839105230,1687452232,3300816228,4049631843
+
+// Trinary System - Trinary System (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3258665412&perks=1840239774,689005463,1645158859,1890422124
+
+// Posterity - Posterity (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3281285075&perks=1840239774,106909392,1523832109,3425386926
+
+// Posterity - Posterity (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3281285075&perks=1840239774,3142289711,2450788523,47981717
+
+// Posterity - Posterity (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3281285075&perks=1840239774,106909392,1523832109,3425386926
+
+// Posterity - Posterity (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3281285075&perks=1840239774,3142289711,2450788523,47981717
+
+// Twilight Oath - Twilight Oath (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3297863558&perks=839105230,106909392,2779035018,1546637391
+
+// Twilight Oath - Twilight Oath (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3297863558&perks=1840239774,3142289711,47981717,957782887
+
+// A Fine Memorial - A Fine Memorial (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3325778512&perks=1840239774,1087426260,3300816228,4104185692
+
+// A Fine Memorial - A Fine Memorial (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3325778512&perks=1840239774,1885400500,706527188,957782887
+
+// A Fine Memorial - A Fine Memorial (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3325778512&perks=1840239774,1087426260,3300816228,4104185692
+
+// A Fine Memorial - A Fine Memorial (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3325778512&perks=1840239774,1885400500,706527188,957782887
+
+// The Long Walk - The Long Walk (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3326850591&perks=839105230,1087426260,3643424744,1771339417
+
+// The Long Walk - The Long Walk (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3326850591&perks=1840239774,1561002382,3643424744,957782887
+
+// Tarantula - Tarantula (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3335343363&perks=1840239774,2680121939,2869569095,2848615171
+
+// Tarantula - Tarantula (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3335343363&perks=1840239774,689005463,280464955,957782887
+
+// Tarantula - Tarantula (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3335343363&perks=1840239774,2680121939,2869569095,2848615171
+
+// Tarantula - Tarantula (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3335343363&perks=1840239774,689005463,280464955,957782887
+
+// Wishbringer - Wishbringer (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3356526253&perks=1300023272,106909392,1631667848,3425386926
+
+// Wishbringer - Wishbringer (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3356526253&perks=1047830412,3142289711,4071163871,47981717
+
+// Bequest - Bequest (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3366545721&perks=3666208348,269888150,1749209109,3708227201
+
+// Bequest - Bequest (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3366545721&perks=3666208348,269888150,2590710093,354401740
+
+// Reckless Oracle - Reckless Oracle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3385326721&perks=1840239774,1968497646,1168162263,1015611457
+
+// Reckless Oracle - Reckless Oracle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3385326721&perks=1840239774,1885400500,1168162263,1015611457
+
+// Reckless Oracle - Reckless Oracle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3385326721&perks=1840239774,1968497646,1168162263,1015611457
+
+// Reckless Oracle - Reckless Oracle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3385326721&perks=1840239774,1885400500,1168162263,1015611457
+
+// Zephyr - Zephyr (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3400256755&perks=3666208348,269888150,1749209109,3650930298
+
+// Zephyr - Zephyr (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3400256755&perks=3666208348,269888150,2590710093,354401740
+
+// Legal Action II - Legal Action II (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3409645497&perks=839105230,106909392,2779035018,4104185692
+
+// Legal Action II - Legal Action II (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3409645497&perks=839105230,3177308360,588594999,3425386926
+
+// Point of the Stag - Point of the Stag (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
+
+// Point of the Stag - Point of the Stag (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
+
+// Point of the Stag - Point of the Stag (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
+
+// Point of the Stag - Point of the Stag (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
+
+// Omniscient Eye - Omniscient Eye (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3454326177&perks=839105230,106909392,1168162263,2848615171
+
+// Omniscient Eye - Omniscient Eye (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3454326177&perks=1840239774,3142289711,1168162263,957782887
+
+// Imperial Needle - Imperial Needle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,4104185692
+
+// Imperial Needle - Imperial Needle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,47981717
+
+// Imperial Needle - Imperial Needle (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,4104185692
+
+// Imperial Needle - Imperial Needle (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3460122497&perks=2801223209,3429800428,201365942,47981717
+
+// Wolftone Draw - Wolftone Draw (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,4104185692
+
+// Wolftone Draw - Wolftone Draw (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,3523296417
+
+// Wolftone Draw - Wolftone Draw (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,4104185692
+
+// Wolftone Draw - Wolftone Draw (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,3523296417
+
+// Frozen Orbit - Frozen Orbit (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3473290087&perks=839105230,106909392,3400784728,2213355989
+
+// Frozen Orbit - Frozen Orbit (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3473290087&perks=1840239774,3142289711,280464955,957782887
+
+// Night Watch - Night Watch (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3504336176&perks=839105230,106909392,247725512,3038247973
+
+// Night Watch - Night Watch (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3504336176&perks=839105230,3142289711,247725512,3038247973
+
+// Coriolis Force - Coriolis Force (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3512349612&perks=1840239774,1687452232,2779035018,2726471870
+
+// Coriolis Force - Coriolis Force (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3512349612&perks=1840239774,689005463,1645158859,2846385770
+
+// Coriolis Force - Coriolis Force (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3512349612&perks=1840239774,1687452232,2779035018,2726471870
+
+// Coriolis Force - Coriolis Force (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3512349612&perks=1840239774,689005463,1645158859,2846385770
+
+// Eternal Blazon - Eternal Blazon (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3514096004&perks=1409978309,1968497646,247725512,1015611457
+
+// Eternal Blazon - Eternal Blazon (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3514096004&perks=1628165637,1885400500,247725512,1015611457
+
+// The Summoner (Adept) - The Summoner (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3514144928&perks=1840239774,1968497646,3643424744,3425386926
+
+// The Summoner (Adept) - The Summoner (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3514144928&perks=1840239774,1561002382,588594999,2846385770
+
+// The Summoner (Adept) - The Summoner (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3514144928&perks=1840239774,1968497646,3643424744,3425386926
+
+// The Summoner (Adept) - The Summoner (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3514144928&perks=1840239774,1561002382,588594999,2846385770
+
+// Pleiades Corrector - Pleiades Corrector (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3556999246&perks=839105230,1968497646,1820235745,2458213969
+
+// Pleiades Corrector - Pleiades Corrector (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3556999246&perks=839105230,1885400500,3436462433,3523296417
+
+// Crowd Pleaser - Crowd Pleaser (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3565520715&perks=3525010810,3301904089,2869569095,2396489472
+
+// Crowd Pleaser - Crowd Pleaser (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3565520715&perks=1478423395,409831596,2450788523,706527188
+
+// Crowd Pleaser - Crowd Pleaser (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3565520715&perks=3525010810,3301904089,2869569095,2396489472
+
+// Crowd Pleaser - Crowd Pleaser (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3565520715&perks=1478423395,409831596,2450788523,706527188
+
+// The Time-Worn Spire - The Time-Worn Spire (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3593598010&perks=13792278,1968497646,1820235745,3425386926
+
+// The Time-Worn Spire - The Time-Worn Spire (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3593598010&perks=2405638014,1885400500,588594999,11551321
+
+// First In, Last Out - First In, Last Out (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3616586446&perks=1840239774,106909392,3300816228,1546637391
+
+// First In, Last Out - First In, Last Out (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3616586446&perks=1840239774,791862061,3161816588,47981717
+
+// Negative Space - Negative Space (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3629968765&perks=3666208348,269888150,1749209109,3913600130
+
+// Negative Space - Negative Space (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3629968765&perks=3666208348,269888150,2590710093,3016987351
+
+// Eye of Sol (Adept) - Eye of Sol (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3637570176&perks=839105230,106909392,3436462433,1546637391
+
+// Eye of Sol (Adept) - Eye of Sol (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3637570176&perks=1840239774,3142289711,588594999,957782887
+
+// Praedyth's Revenge - Praedyth's Revenge (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3653573172&perks=839105230,106909392,3418782618,2213355989
+
+// Praedyth's Revenge - Praedyth's Revenge (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188,47981717
+
+// The Messenger - The Messenger (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3658188704&perks=839105230,1968497646,247725512,4104185692
+
+// The Messenger - The Messenger (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,3047969693
+
+// Hoosegow - Hoosegow (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3669616453&perks=3525010810,3796465595,3300816228,3523296417
+
+// Hoosegow - Hoosegow (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3669616453&perks=1478423395,1996142143,3977735242,706527188
+
+// Shayura's Wrath - Shayura's Wrath (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3682803680&perks=1840239774,106909392,1570042021,1015611457
+
+// Shayura's Wrath - Shayura's Wrath (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3682803680&perks=1840239774,3142289711,1359896290,1015611457
+
+// Love and Death - Love and Death (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3690523502&perks=3525010810,3301904089,3300816228,2888557110
+
+// Love and Death - Love and Death (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3690523502&perks=1478423395,409831596,3300816228,3523296417
+
+// Love and Death - Love and Death (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3690523502&perks=3525010810,3301904089,3300816228,2888557110
+
+// Love and Death - Love and Death (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3690523502&perks=1478423395,409831596,3300816228,3523296417
+
+// Multimach CCX - Multimach CCX (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3717177717&perks=2209280306,106909392,1820235745,1015611457
+
+// Multimach CCX - Multimach CCX (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3717177717&perks=663495155,3142289711,1359896290,1015611457
+
+// Sleepless - Sleepless (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3740842661&perks=3525010810,3796465595,3300816228,2396489472
+
+// Sleepless - Sleepless (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3740842661&perks=1478423395,1996142143,706527188,2396489472
+
+// Shepherd's Watch - Shepherd's Watch (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3743729616&perks=839105230,106909392,1556840489,1771339417
+
+// Shepherd's Watch - Shepherd's Watch (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3743729616&perks=1840239774,3142289711,1645158859,957782887
+
+// Long Shadow - Long Shadow (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3745990145&perks=893526893,106909392,2869569095,3400784728
+
+// Long Shadow - Long Shadow (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3745990145&perks=893526894,3142289711,957782887,588594999
+
+// Corrective Measure (Timelost) - Corrective Measure (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3796510434&perks=1840239774,106909392,3418782618,3824105627
+
+// Corrective Measure (Timelost) - Corrective Measure (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3796510434&perks=1840239774,3142289711,1359896290,1890422124
+
+// Corrective Measure (Timelost) - Corrective Measure (Timelost) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3796510434&perks=1840239774,106909392,3418782618,3824105627
+
+// Corrective Measure (Timelost) - Corrective Measure (Timelost) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3796510434&perks=1840239774,3142289711,1359896290,1890422124
+
+// Transfiguration - Transfiguration (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,1015611457
+
+// Transfiguration - Transfiguration (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3799980700&perks=1840239774,3142289711,3425386926,1015611457
+
+// Finite Impactor - Finite Impactor (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3813153080&perks=1926090094,1968497646,2039302152,2458213969
+
+// Finite Impactor - Finite Impactor (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3813153080&perks=1926090095,1885400500,280464955,11551321
+
+// Finite Impactor - Finite Impactor (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3813153080&perks=1926090094,1968497646,2039302152,2458213969
+
+// Finite Impactor - Finite Impactor (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3813153080&perks=1926090095,1885400500,280464955,11551321
+
+// Horror Story - Horror Story (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3829285960&perks=13792278,106909392,1820235745,3523296417
+
+// Horror Story - Horror Story (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,588594999
+
+// Horror Story - Horror Story (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3829285960&perks=13792278,106909392,1820235745,3523296417
+
+// Horror Story - Horror Story (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3829285960&perks=2405638014,3142289711,280464955,588594999
+
+// THE SWARM (Adept) - THE SWARM (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,1546637391
+
+// THE SWARM (Adept) - THE SWARM (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3836861464&perks=1840239774,3142289711,1359896290,1890422124
+
+// THE SWARM (Adept) - THE SWARM (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3836861464&perks=1840239774,106909392,1168162263,1546637391
+
+// THE SWARM (Adept) - THE SWARM (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3836861464&perks=1840239774,3142289711,1359896290,1890422124
+
+// Sola's Scar (Adept) - Sola's Scar (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,2396489472
+
+// Sola's Scar (Adept) - Sola's Scar (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3847137620&perks=3666208348,269888150,2590710093,354401740
+
+// Pardon Our Dust - Pardon Our Dust (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
+
+// Pardon Our Dust - Pardon Our Dust (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3849810018&perks=1478423395,409831596,3300816228,3523296417
+
+// Pardon Our Dust - Pardon Our Dust (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
+
+// Pardon Our Dust - Pardon Our Dust (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3849810018&perks=1478423395,409831596,3300816228,3523296417
+
+// Night Terror - Night Terror (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3870811754&perks=3666208348,269888150,1749209109,3913600130
+
+// Night Terror - Night Terror (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3870811754&perks=3666208348,269888150,2590710093,3108830275
+
+// Loud Lullaby - Loud Lullaby (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3924212056&perks=1840239774,106909392,1820235745,4104185692
+
+// Loud Lullaby - Loud Lullaby (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3924212056&perks=1840239774,3142289711,588594999,1015611457
+
+// Loud Lullaby - Loud Lullaby (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3924212056&perks=1840239774,106909392,1820235745,4104185692
+
+// Loud Lullaby - Loud Lullaby (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3924212056&perks=1840239774,3142289711,588594999,1015611457
+
+// Seventh Seraph SI-2 - Seventh Seraph SI-2 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3937866388&perks=1840239774,106909392,3523296417,2848615171
+
+// Seventh Seraph SI-2 - Seventh Seraph SI-2 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3937866388&perks=1840239774,3142289711,3523296417,957782887
+
+// Prophet of Doom - Prophet of Doom (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4020742303&perks=1300023272,106909392,2779035018,2679249093
+
+// Prophet of Doom - Prophet of Doom (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4020742303&perks=1047830412,3142289711,2039302152,47981717
+
+// Shayura's Wrath (Adept) - Shayura's Wrath (Adept) (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4023807721&perks=1840239774,106909392,1570042021,1015611457
+
+// Shayura's Wrath (Adept) - Shayura's Wrath (Adept) (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4023807721&perks=1840239774,3142289711,1359896290,1015611457
+
+// Bonechiller - Bonechiller (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4037745684&perks=1840239774,106909392,3400784728,3523296417
+
+// Bonechiller - Bonechiller (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4037745684&perks=1840239774,791862061,3436462433,47981717
+
+// Hezen Vengeance - Hezen Vengeance (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1546637391
+
+// Hezen Vengeance - Hezen Vengeance (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4050645223&perks=1478423395,1996142143,951095735,3523296417
+
+// Techeun Force - Techeun Force (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4094657108&perks=839105230,1687452232,1015611457,3425386926
+
+// Techeun Force - Techeun Force (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4094657108&perks=1840239774,689005463,1645158859,2213355989
+
+// Techeun Force - Techeun Force (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4094657108&perks=839105230,1687452232,1015611457,3425386926
+
+// Techeun Force - Techeun Force (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4094657108&perks=1840239774,689005463,1645158859,2213355989
+
+// Accrued Redemption - Accrued Redemption (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+
+// Accrued Redemption - Accrued Redemption (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+
+// Accrued Redemption - Accrued Redemption (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+
+// Accrued Redemption - Accrued Redemption (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+
+// Outrageous Fortune - Outrageous Fortune (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,2010801679
+
+// Outrageous Fortune - Outrageous Fortune (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4146702548&perks=1478423395,409831596,3300816228,3425386926
+
+// Outrageous Fortune - Outrageous Fortune (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4146702548&perks=3525010810,3301904089,3300816228,2010801679
+
+// Outrageous Fortune - Outrageous Fortune (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4146702548&perks=1478423395,409831596,3300816228,3425386926
+
+// The Third Axiom - The Third Axiom (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4156253727&perks=839105230,1968497646,2779035018,3425386926
+
+// The Third Axiom - The Third Axiom (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4156253727&perks=839105230,1885400500,2846385770,3425386926
+
+// 1000 Yard Stare - 1000 Yard Stare (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4164201232&perks=839105230,106909392,3400784728,3523296417
+
+// 1000 Yard Stare - 1000 Yard Stare (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4164201232&perks=1840239774,3142289711,280464955,957782887
+
+// Adored - Adored (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4184808992&perks=3250034553,3142289711,3400784728,1546637391
+
+// Adored - Adored (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4184808992&perks=3250034553,3142289711,2450788523,957782887
+
+// Commemoration - Commemoration (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4230965989&perks=1840239774,106909392,1523832109,3425386926
+
+// Commemoration - Commemoration (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4230965989&perks=1840239774,3142289711,1359896290,588594999
+
+// Commemoration - Commemoration (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4230965989&perks=1840239774,106909392,1523832109,3425386926
+
+// Commemoration - Commemoration (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4230965989&perks=1840239774,3142289711,1359896290,588594999
+
+// Steel Sybil Z-14 - Steel Sybil Z-14 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4230993599&perks=3666208348,269888150,1749209109,3913600130
+
+// Steel Sybil Z-14 - Steel Sybil Z-14 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4230993599&perks=3666208348,269888150,2590710093,354401740
+
+// Heritage - Heritage (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,469285294
+
+// Heritage - Heritage (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4248569242&perks=1840239774,791862061,3161816588,957782887
+
+// The Hothead - The Hothead (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4255171531&perks=3525010810,3796465595,3523296417,3194351027
+
+// The Hothead - The Hothead (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4255171531&perks=1478423395,1996142143,3977735242,3194351027
+
+// Empty Vessel - Empty Vessel (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391
+
+// Empty Vessel - Empty Vessel (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4255586669&perks=1478423395,409831596,3300816228,3523296417
+
+// Empty Vessel - Empty Vessel (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391
+
+// Empty Vessel - Empty Vessel (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4255586669&perks=1478423395,409831596,3300816228,3523296417
+
+// Every Waking Moment - Every Waking Moment (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4277547616&perks=1840239774,1968497646,1820235745,1015611457
+
+// Every Waking Moment - Every Waking Moment (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4277547616&perks=1840239774,1561002382,2846385770,1015611457
+
+// Hung Jury SR4 - Hung Jury SR4 (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4281371574&perks=1840239774,106909392,247725512,3038247973
+
+// Hung Jury SR4 - Hung Jury SR4 (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4281371574&perks=1840239774,3142289711,588594999,3038247973
+
+// Crimil's Dagger - Crimil's Dagger (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4292849692&perks=1926090094,106909392,1168162263,3038247973
+
+// Crimil's Dagger - Crimil's Dagger (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,3038247973
+
+// Crimil's Dagger - Crimil's Dagger (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4292849692&perks=1926090094,106909392,1168162263,3038247973
+
+// Crimil's Dagger - Crimil's Dagger (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4292849692&perks=1926090095,3142289711,2846385770,3038247973
+
+title:@AyyItsChevy's S15 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1431303773817823234?s=20 . Cheers to @Deanosim for the conversion.
+
+title:Blueberries.gg's collected / tiered S15 weapon picks
+description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
+
+title:@AyyItsChevy's S14 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1394340842278686722?s=20
+
+title:Blueberries.gg's collected / tiered S14 weapon picks
+description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
+
+title:Sharditkeepit Community S14 community favorites for Override, Iron Banner, and Trials
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nhaq1m/filling_the_void_of_upandapaxxy_the_experimental/ and https://www.reddit.com/r/sharditkeepit/comments/npwigw/communitysourced_season_of_the_splicer_breakdown/
+
+//title:Sharditkeepit Community Vault of Glass favorites
+//description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/nq1usy/communitysourced_season_of_the_splicer_breakdown/
+
+title:@AyyItsChevy's S13 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1359565294709190658?s=20
+
+title:An addendum of pandapaxxy's Dead Man's Tale rolls.
+description:Originally found in https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U
+
+title:u/pandapaxxy's Dawning + Hawkmoon MKB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgnq/dawning_breakdown_and_hawkmoon_thoughts_mnk/
+
+title:u/pandapaxxy's Dawning + Hawkmoon Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgzy/dawning_breakdown_and_hawkmoon_thoughts_controller/
+
+title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hjcfew/massive_breakdown_of_the_iron_banner_auto_rifle/
+
+title:u/Mercules904's Massive Breakdown of the Legacy and Dredgen Focused Umbral Engram Weapons
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hfpop8/massive_breakdown_of_the_legacy_and_dredgen/
+
+// Mercules' Erentil FR4 breakdown
+// https://www.reddit.com/r/DestinyTheGame/comments/cbxao7/massive_breakdown_of_erentil_fr4_including_stats/
+
+// Mercules' Iron Banner Season of Opulence breakdown
+// https://www.reddit.com/r/DestinyTheGame/comments/c24x3f/massive_breakdown_of_the_season_of_opulence_iron/
+
+// u/Mercules904 - Menagerie drops - recommended rolls
+//https://www.reddit.com/r/CruciblePlaybook/comments/c0anob/massive_breakdown_of_menagerie_weapons_including/
+
+// u/Mercules904 - Crown of Sorrow raid drops - recommended rolls
+// https://www.reddit.com/r/DestinyTheGame/comments/bxwf8s/massive_breakdown_of_the_crown_of_sorrow_raid/
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/9j49os/massive_breakdown_of_the_forsaken_gambit_weapons/
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/9gwchn/massive_breakdown_of_forsaken_iron_banner_weapons/
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/?
+
+// from https://www.reddit.com/r/DestinyTheGame/comments/9hgmg4/massive_breakdown_of_forsakens_last_wish_raid/
+
+//from https://www.reddit.com/r/DestinyTheGame/comments/a64v3t/massive_breakdown_of_black_armory_forge_and/
+
+//from https://www.reddit.com/r/DestinyTheGame/comments/a7nh4n/massive_breakdown_of_the_black_armory_forge_bow/
+
+// from https://docs.google.com/spreadsheets/d/1D4Fu6fSoSrPhlSOmCn_n1bItSNGZHbZxNI6_lVpoeB8/edit#gid=0
+
+title:u/Mercules904's Sundial weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f3garh/massive_breakdown_of_the_sundial_weapons/
+
+title:u/Mercules904's Bygones, Last Perdition, and Black Scorpion breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/f6z2ma/massive_breakdown_of_the_bygones_last_perdition/
+
+title:u/Mercules904's Pyramid-focused Umbral primary weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/h9n8us/massive_breakdown_of_the_pyramid_focused_umbral/
+
+title:u/Mercules904's Vex Invasion drop picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/djo6bn/massive_breakdown_of_the_vex_offensive_weapons/
+
+title:u/Mercules904's Season of the Undying season pass weapon picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/docorx/massive_breakdown_of_the_season_of_the_undying/
+
+title:u/Mercules904's Altars of Sorrow weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
+
+title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
+
+title:u/Mercules904's Curse of Osiris Redux Obelisk weapon picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/eizm6l/massive_breakdown_of_the_curse_of_osiris_redux/
+
+title:u/Mercules904's Garden of Salvation raid weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
+
