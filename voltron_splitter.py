@@ -140,6 +140,11 @@ flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
                         "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy-PvP-CTR.txt"})
 
+flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
+                        "search": ["pandapaxxy"], "searchFlag": True,"file": "./wishlists/PandaPaxxy-MKB.txt"})
+flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
+                        "search": ["pandapaxxy"], "searchFlag": True,"file": "./wishlists/PandaPaxxy-CTR.txt"})
+
 # -------------------------------------------
 # God Filters
 flag_search_file.append({"flag": lambda: True, 
