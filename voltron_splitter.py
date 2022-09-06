@@ -1,4 +1,7 @@
 # Main Class for Splitter Program
+from asyncio.windows_events import NULL
+
+
 class Splitter:
     def __init__(self):
         self.mainFile = "./dim-wish-list-sources/voltron.txt"
@@ -9,6 +12,8 @@ class Splitter:
         self.pveFlag = self.pvpFlag = self.mkbFlag = self.ctrFlag = False
         self.dimFlag = self.creditFlag = False
         
+        self.excludeFlag = True
+
         self.lineCollection = []
 
     def readMain(self):
@@ -52,9 +57,17 @@ class Splitter:
 
                     # checks line for search flag
                     for listSettings in flag_search_file:
-                        if ( not listSettings.get("searchFlag") 
-                            and any(i in line for i in listSettings.get("search")) ):
-                            listSettings["searchFlag"] = True
+                        if ("search" in listSettings):
+                            if ( not listSettings.get("searchFlag") 
+                                and any(i in line for i in listSettings.get("search")) ):
+                                listSettings["searchFlag"] = True
+
+                    # check line for exclude flag
+                    for listSettings in flag_search_file:
+                        if ("exclude" in listSettings):
+                            if (listSettings.get("excludeFlag") 
+                                and any(i in line for i in listSettings.get("exclude")) ):
+                                listSettings["excludeFlag"] = False
 
                 # Empty Line
                 else:
@@ -66,7 +79,12 @@ class Splitter:
     def checkWrite(self):
         for curWishList in flag_search_file:
             if self.lineCollection != []:
-                if ( (curWishList.get("flag", lambda: None)() and curWishList.get("searchFlag")) 
+                if (
+                    ( # Checks flags 
+                    (curWishList.get("flag", lambda: None)() or curWishList.get("flag") is None)
+                    and (curWishList.get("searchFlag") or curWishList.get("search") is None) 
+                    and (curWishList.get("excludeFlag") or curWishList.get("exclude") is None) 
+                    ) # Checks for Dim Link or Credits
                     or (not self.dimFlag and self.creditFlag) ):
                     with open(curWishList.get("file"), mode='a') as tempFile:
                         for i in self.lineCollection:
@@ -87,48 +105,49 @@ flag_search_file = []
 # -------------------------------------------
 # No Filters
 flag_search_file.append({"flag": lambda: True, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/All.txt"})
+                        "search": [], "searchFlag": True,
+                        "exclude": [], "excludeFlag" : True, 
+                        "file": "./wishlists/All.txt"})
 
 # -------------------------------------------
 # Gamemode Filters
 flag_search_file.append({"flag": lambda: mainObj.pveFlag or not mainObj.pvpFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvE.txt"})
+                        "file": "./wishlists/PvE.txt"})
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvP.txt"})
+                        "file": "./wishlists/PvP.txt"})
 
 # -------------------------------------------
 # Input Filters
 flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/MKB.txt"})
+                        "file": "./wishlists/MKB.txt"})
 flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/CTR.txt"})
+                        "file": "./wishlists/CTR.txt"})
 
 # -------------------------------------------
 # Separate PvE / PvP Filters
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-MKB.txt"})
+                        "file": "./wishlists/PvE-MKB.txt"})
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-CTR.txt"})
+                        "file": "./wishlists/PvE-CTR.txt"})
 
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvP-MKB.txt"})
+                        "file": "./wishlists/PvP-MKB.txt"})
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvP-CTR.txt"})
+                        "file": "./wishlists/PvP-CTR.txt"})
 
 # -------------------------------------------
 # Both PvE / PvP Filters
 flag_search_file.append({"flag": lambda: mainObj.pveFlag and mainObj.pvpFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP.txt"})
+                        "file": "./wishlists/PvE-PvP.txt"})
 
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag and mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP-MKB.txt"})
+                        "file": "./wishlists/PvE-PvP-MKB.txt"})
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag and mainObj.pvpFlag) and mainObj.ctrFlag, 
-                        "search": [], "searchFlag": True,"file": "./wishlists/PvE-PvP-CTR.txt"})
+                        "file": "./wishlists/PvE-PvP-CTR.txt"})
 
 # -------------------------------------------
 # PandaPaxxy Filters
-flag_search_file.append({"flag": lambda: True, 
-                        "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy.txt"})
+flag_search_file.append({"search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy.txt"})
 
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
                         "search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy-PvE-MKB.txt"})
@@ -147,22 +166,29 @@ flag_search_file.append({"flag": lambda: mainObj.ctrFlag,
 
 # -------------------------------------------
 # God Filters
-flag_search_file.append({"flag": lambda: True, 
-                        "search": ["god-"], "searchFlag": False,"file": "./wishlists/GOD.txt"})
+flag_search_file.append({"search": ["god-"], "searchFlag": False,"file": "./wishlists/GOD.txt"})
 
-# -------------------------------------------
-# God Gamemode Filters
 flag_search_file.append({"flag": lambda: mainObj.pveFlag or not mainObj.pvpFlag, 
                         "search": ["god-"], "searchFlag": False,"file": "./wishlists/PvE-GOD.txt"})
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag, 
                         "search": ["god-"], "searchFlag": False,"file": "./wishlists/PvP-GOD.txt"})
 
-# -------------------------------------------
-# God Input Filters
 flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
                         "search": ["god-"], "searchFlag": False,"file": "./wishlists/MKB-GOD.txt"})
 flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
                         "search": ["god-"], "searchFlag": False,"file": "./wishlists/CTR-GOD.txt"})
+
+# -------------------------------------------
+# Exclude YeezyGT Filters
+flag_search_file.append({"exclude": ["YeezyGT"], "excludeFlag" : True, 
+                        "file": "./wishlists/-YeezyGT.txt"})
+
+flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
+                        "exclude": ["YeezyGT"], "excludeFlag" : True, 
+                        "file": "./wishlists/-YeezyGT-MKB.txt"})
+flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
+                        "exclude": ["YeezyGT"], "excludeFlag" : True, 
+                        "file": "./wishlists/-YeezyGT-CTR.txt"})
 
 
 # -----------------------------------------------------------------------------------------------------------------------------
