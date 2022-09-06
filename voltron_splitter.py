@@ -65,9 +65,9 @@ class Splitter:
                     # check line for exclude flag
                     for listSettings in flag_search_file:
                         if ("exclude" in listSettings):
-                            if (listSettings.get("excludeFlag") 
+                            if ( not listSettings.get("excludeFlag") 
                                 and any(i in line for i in listSettings.get("exclude")) ):
-                                listSettings["excludeFlag"] = False
+                                listSettings["excludeFlag"] = True
 
                 # Empty Line
                 else:
@@ -180,14 +180,14 @@ flag_search_file.append({"flag": lambda: mainObj.ctrFlag,
 
 # -------------------------------------------
 # Exclude YeezyGT Filters
-flag_search_file.append({"exclude": ["YeezyGT"], "excludeFlag" : True, 
+flag_search_file.append({"exclude": ["YeezyGT"], "excludeFlag" : False, 
                         "file": "./wishlists/-YeezyGT.txt"})
 
 flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "exclude": ["YeezyGT"], "excludeFlag" : True, 
+                        "exclude": ["YeezyGT"], "excludeFlag" : False, 
                         "file": "./wishlists/-YeezyGT-MKB.txt"})
 flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
-                        "exclude": ["YeezyGT"], "excludeFlag" : True, 
+                        "exclude": ["YeezyGT"], "excludeFlag" : False, 
                         "file": "./wishlists/-YeezyGT-CTR.txt"})
 
 
