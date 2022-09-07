@@ -5,7 +5,6 @@ from asyncio.windows_events import NULL
 class Splitter:
     def __init__(self):
         self.mainFile = "./dim-wish-list-sources/voltron.txt"
-        # self.mainFile = "test.txt"
         self.newWeapon()
         
     def newWeapon(self):
