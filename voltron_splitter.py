@@ -106,9 +106,9 @@ flag_search_file.append({"file": "./wishlists/All.txt"})
 # -------------------------------------------
 # Gamemode Filters
 flag_search_file.append({"flag": lambda: mainObj.pveFlag or not mainObj.pvpFlag, 
-                        "file": "./wishlists/PvE.txt"})
+                        "file": "./wishlists/PVE.txt"})
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag, 
-                        "file": "./wishlists/PvP.txt"})
+                        "file": "./wishlists/PVP.txt"})
 
 # -------------------------------------------
 # Input Filters
@@ -120,81 +120,57 @@ flag_search_file.append({"flag": lambda: mainObj.ctrFlag,
 # -------------------------------------------
 # Separate PvE / PvP Filters
 flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "file": "./wishlists/PvE-MKB.txt"})
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
-                        "file": "./wishlists/PvE-CTR.txt"})
-
+                        "file": "./wishlists/MKB_PVE.txt"})
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "file": "./wishlists/PvP-MKB.txt"})
+                        "file": "./wishlists/MKB_PVP.txt"})
+
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
+                        "file": "./wishlists/CTR_PVE.txt"})
 flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
-                        "file": "./wishlists/PvP-CTR.txt"})
-
-# -------------------------------------------
-# Both PvE / PvP Filters
-flag_search_file.append({"flag": lambda: mainObj.pveFlag and mainObj.pvpFlag, 
-                        "file": "./wishlists/PvE-PvP.txt"})
-
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag and mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "file": "./wishlists/PvE-PvP-MKB.txt"})
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag and mainObj.pvpFlag) and mainObj.ctrFlag, 
-                        "file": "./wishlists/PvE-PvP-CTR.txt"})
+                        "file": "./wishlists/CTR_PVP.txt"})
 
 # -------------------------------------------
 # PandaPaxxy Filters
-flag_search_file.append({"search": ["pandapaxxy"], "searchFlag": False,"file": "./wishlists/PandaPaxxy.txt"})
-
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/PandaPaxxy-PvE-MKB.txt"})
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/PandaPaxxy-PvE-CTR.txt"})
-
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/PandaPaxxy-PvP-MKB.txt"})
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/PandaPaxxy-PvP-CTR.txt"})
+flag_search_file.append({"search": ["pandapaxxy"], "searchFlag": False,
+                        "file": "./wishlists/Panda.txt"})
 
 flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
                         "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/PandaPaxxy-MKB.txt"})
+                        "file": "./wishlists/Panda_MKB.txt"})
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
+                        "search": ["pandapaxxy"], "searchFlag": False,
+                        "file": "./wishlists/Panda_MKB_PVE.txt"})
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
+                        "search": ["pandapaxxy"], "searchFlag": False,
+                        "file": "./wishlists/Panda_MKB_PVP.txt"})
+
 flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
                         "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/PandaPaxxy-CTR.txt"})
+                        "file": "./wishlists/Panda_CTR.txt"})
+flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
+                        "search": ["pandapaxxy"], "searchFlag": False,
+                        "file": "./wishlists/Panda_CTR_PVE.txt"})                        
+flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
+                        "search": ["pandapaxxy"], "searchFlag": False,
+                        "file": "./wishlists/Panda_CTR_PVP.txt"})
 
 # -------------------------------------------
 # God Filters
-flag_search_file.append({"search": ["god-"], "searchFlag": False,
-                        "file": "./wishlists/GOD.txt"})
-
-flag_search_file.append({"flag": lambda: mainObj.pveFlag or not mainObj.pvpFlag, 
-                        "search": ["god-"], "searchFlag": False,
-                        "file": "./wishlists/PvE-GOD.txt"})
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag, 
-                        "search": ["god-"], "searchFlag": False,
-                        "file": "./wishlists/PvP-GOD.txt"})
-
 flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
                         "search": ["god-"], "searchFlag": False,
-                        "file": "./wishlists/MKB-GOD.txt"})
-flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
-                        "search": ["god-"], "searchFlag": False,
-                        "file": "./wishlists/CTR-GOD.txt"})
+                        "file": "./wishlists/MKB_GOD.txt"})
 
 # -------------------------------------------
-# Exclude YeezyGT Filters
-flag_search_file.append({"exclude": ["yeezygt"], "excludeFlag" : False, 
-                        "file": "./wishlists/-YeezyGT.txt"})
-
+# Exclude YeezyGT - Input Filters
 flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
                         "exclude": ["yeezygt"], "excludeFlag" : False, 
-                        "file": "./wishlists/-YeezyGT-MKB.txt"})
-flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
-                        "exclude": ["yeezygt"], "excludeFlag" : False, 
-                        "file": "./wishlists/-YeezyGT-CTR.txt"})
+                        "file": "./wishlists/MKB_!Yeezy.txt"})
 
+# -------------------------------------------
+# Exclude YeezyGT and Backup Rolls - Input Filters
+flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
+                        "exclude": ["yeezygt", "backup"], "excludeFlag" : False, 
+                        "file": "./wishlists/MKB_!Backup_!Yeezy.txt"})
 
 # -----------------------------------------------------------------------------------------------------------------------------
 # Clear Previous Files
