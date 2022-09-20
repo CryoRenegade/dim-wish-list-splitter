@@ -6,6 +6,27 @@ description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/
 title:u/pandapaxxy's Season of the Plunder Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/x8jqis/season_of_the_plunder_breakdown/
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep31-season-of-plunder-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep26-dares-of-eternity-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep30-dares-of-eternity-redux-weapons.txt
+
+title:Chevy's S17 Super Pog PVE List
+description:These are Chevy's personal preference Rolls, your preferred roll may be different! Originally from https://bit.ly/3MeP2BW
+
+// CALUS Mini-Tool - Mini Tool (Current) (pve,god-pve)
+//notes: Chevy's S17 Super Pog PVE List Range MW tags:pve, M+KB,god-pve
+dimwishlist:item=2490988246&perks=1467527085,106909392,402033656,2675184851
+
+// The Hothead - Hothead GOD (god-pve,pve)
+//notes: Chevy's S17 Super Pog PVE List Reload MW  Cheap Gallahorn tags:god-pve,pve
+dimwishlist:item=4255171531&perks=3525010810,3796465595,2869569095,2284787283
+dimwishlist:item=4255171531&perks=981914802,3796465595,2869569095,2284787283
+
+title:Chevy's S18 Super Pog PVE List
+description:These are Chevy's personal preference Rolls, your preferred roll may be different! Orginally found at https://twitter.com/AyyItsChevy/status/1569894911993839622 
+
 title:u/pandapaxxy's Duality Weapons, Season of the Haunted
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/v5evog/duality_weapons_season_of_the_haunted/
 
