@@ -6,6 +6,10 @@ description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/
 title:u/pandapaxxy's Season of the Plunder Breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/x8jqis/season_of_the_plunder_breakdown/
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep275-season-18-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep32-kings-fall-weapons.txt
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep31-season-of-plunder-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep26-dares-of-eternity-weapons.txt

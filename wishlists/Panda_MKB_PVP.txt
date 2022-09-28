@@ -2003,6 +2003,10 @@ dimwishlist:item=291092617&perks=1482024992,2420895100,1365187766,3824105627
 dimwishlist:item=291092617&perks=1840239774,3177308360,1365187766,3824105627
 dimwishlist:item=291092617&perks=1482024992,3177308360,1365187766,3824105627
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep275-season-18-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep32-kings-fall-weapons.txt
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep31-season-of-plunder-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep26-dares-of-eternity-weapons.txt
