@@ -1,5 +1,9 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep276-s-tier-scout-rifles.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep33-s18-playlist-and-foundry-weapons.txt
 
 // sourced from https://github.com/GoddamTofu/D2wishlist/blob/main/PandaPaxxy_S18.txt
 
@@ -9,6 +13,8 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep275-season-18-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep32-kings-fall-weapons.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/midha-corrections.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep31-season-of-plunder-weapons.txt
 

@@ -1,5 +1,81 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, and @johnldixon for their contributions. Ping u/48klocs / @48klocs with any issues.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep276-s-tier-scout-rifles.txt
+
+@title:Season of Plunder PvP weapon picks with Gleaux
+@description:Season 18 weapons with Right Hook origin perk
+
+// Hung Jury SR4 (PvP first-choice roll)
+// Fluted Barrel, Steady Roads, Rapid Hit, Box Breathing
+//notes:First choice PvP roll for duelling. Inspired by DMB Podcast 275 conversation with @DefyFly. The main draw for Hung Jury as at v6.2.0.6 is Box Breathing in the second trait column, which means you can three tap any resilience (2 Crit + 1 Body of a 0.67s TTK) and two tap tap lower resiliences, as at Season 18 v6.2.0.6. To proc it though, you need to almost treat the weapon like it needs pre-charging by ADS-ing before an ancounter, It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Rapid Hit in the first trait column helps further with Stability (as well as a Reload Speed boost) Recommended MW: Handling, with a Full Auto Retrofit mod, Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duelling, PvP-God, MKB, Controller
+dimwishlist:item=4281371574&perks=1840239774,3177308360,247725512,2551157718
+
+// Hung Jury SR4 (Adept) (PvP first-choice roll)
+// Fluted Barrel, Steady Roads, Rapid Hit, Box Breathing
+//notes:First choice PvP roll for duelling. Inspired by DMB Podcast 275 conversation with @DefyFly. The main draw for Hung Jury as at v6.2.0.6 is Box Breathing in the second trait column, which means you can three tap any resilience (2 Crit + 1 Body of a 0.67s TTK) and two tap tap lower resiliences, as at Season 18 v6.2.0.6. To proc it though, you need to almost treat the weapon like it needs pre-charging by ADS-ing before an ancounter, It goes without saying, you need to land crits and stay mobile. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Rapid Hit in the first trait column helps further with Stability (as well as a Reload Speed boost) Recommended MW: Handling, with a Full Auto Retrofit mod, Radar Tuner (to help you stay aware of your surroundings if hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duelling, PvP-God, MKB, Controller
+dimwishlist:item=681067419&perks=1840239774,3177308360,247725512,2551157718
+
+// Staccato-46 (PvP first-choice roll)
+// Fluted Barrel, Steady Rounds, Outlaw, Rampage
+//notes:Inspired by DMB Podcast 275 conversation with @DefyFly. First choice PvP roll for kill-chaining. You don't need extra range, so focus on Handling and Stability with your barrel and mag. Outlaw is probably your best first trait column perk, but it does stack well with Rampage anyway, one stack of which with Radiant or in an Empowering Rift (sorry Titans), gets you a 0.67s TTK against any resilience, with two crits and a body, as at Season 18 v6.2.0.6, on anyone within a 70m radius of you. Recommended MW: Stability, with a Full Auto Retrofit mod, Radar Tuner (to help you stay aware of your surroundings), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duelling, PvP-God, MKB, Controller
+dimwishlist:item=4019668921&perks=1840239774,3177308360,1168162263,3425386926
+
+// Servant Leader (PvP first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), Steady Rounds, (Tunnel Vision, Rapid Hit), Kill Clip
+//notes:Inspired by DMB Podcast 275 conversation with @DefyFly. First choice PvP roll for kill-chaining. Drops from Gambit, so reset your reputation as many times as you have patience for first, to maximise the trait options from decrypting engrams. You don't need extra range,  and the high base zoom (26) means you can control the recoil with Stability, and not worry about Recoil Direction, in your barrel and mag. Kill Clip, in the second trait column, reduces the TTK to a competitive 0.7s (3 crits, 1 body), as at Season 18 v6.2.0.6, and you can pair this with Tunnel Vision or Rapid Hit, both of which will work well. Recommended MW: Handling or Stability, with a Radar Tuner (to help you stay aware of your surroundings when hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chaining, PvP-God, MKB, Controller
+dimwishlist:item=1107446438&perks=1840239774,3177308360,2946784966,1015611457
+dimwishlist:item=1107446438&perks=1392496348,3177308360,2946784966,1015611457
+dimwishlist:item=1107446438&perks=1840239774,3177308360,247725512,1015611457
+dimwishlist:item=1107446438&perks=1392496348,3177308360,247725512,1015611457
+
+// Contingency Plan (PvP first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake), Steady Rounds, Tunnel Vision, Kill Clip
+//notes:Inspired by DMB Podcast 275 conversation with @DefyFly. First choice PvP roll for kill-chaining. You don't need extra range, so choose between Fluted Barrel for Handling or Polygonal Rifling for pure Stability (or maybe Arrowhead Brake if you find the Recoil Direction needs taming), and add more Stability with Steady Rounds in the mag. Kill Clip, in the second trait column, reduces the TTK to a competitive 0.7s (3 crits, 1 body), as at Season 18 v6.2.0.6, and you can pair this with Tunnel Vision which procs on the same condition and makes your follow-up kills easier. Recommended MW: Stability or Handling, with a Radar Tuner (to help you stay aware of your surroundings when hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chaining, PvP-God, MKB, Controller
+dimwishlist:item=577528837&perks=1840239774,3177308360,2946784966,1015611457
+dimwishlist:item=577528837&perks=1392496348,3177308360,2946784966,1015611457
+dimwishlist:item=577528837&perks=839105230,3177308360,2946784966,1015611457
+
+// Transfiguration (PvP first-choice roll)
+// Fluted Barrel, (Drop Mag, Tactical Mag, Steady Rounds), Rampage, Kill Clip
+//notes:Inspired by DMB Podcast 275 conversation with @DefyFly. First choice PvP roll for kill-chaining. You don't need extra range, so choose between Fluted Barrel for Handling or Polygonal Rifling for pure Stability (or maybe Arrowhead Brake if you find the Recoil Direction needs taming), and add more Stability with Steady Rounds in the mag, or boost your reload speed to maximise your uptime with damage perks. For the memes, if you can proc Rampage x1 and Kill Clip at the same time, you can two tap crit any resilience in 0.4s, as at Season 18 v6.2.0.6. Recommended MW: Reload Speed, with a Radar Tuner (to help you stay aware of your surroundings when hardscoping), Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Chaining, PvP-God, MKB, Controller
+dimwishlist:item=3799980700&perks=1840239774,4134353779,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,106909392,3425386926,1015611457
+dimwishlist:item=3799980700&perks=1840239774,3177308360,3425386926,1015611457
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep33-s18-playlist-and-foundry-weapons.txt
+
+@title:Season 18 Playlist and Foundry weapons
+@description:New Vanguard, Gambit and Crucible playlist, and Hakke, Suros, Omolon and Veist weapons
+
+// Boudica-C (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Pugilist, Swashbuckler
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for endgame content. Sidearms aren't first choice for end-game activities but, if you're forced to use one there because of an anti-Champion mod, the you do have some options here. Range is highly constrained (maximising it only gets you another 0.7m when ADS), so you'll get more value out of Handling or Stability from your barrel, and any of the combat effect mods (Armor-Piercing, High Caliber or Riochet Rounds) will work. Pugilist is a natural pairing with Swashbucker to boost damage with a melee kill and recover melee energy using the 33% damage boost on adds. Recommended MW: Stability or Handling, with a Surrounded Spec mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
+dimwishlist:item=1916287826&perks=1392496348,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1885400500,691659142,4082225868
+dimwishlist:item=1916287826&perks=1392496348,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1968497646,691659142,4082225868
+dimwishlist:item=1916287826&perks=1392496348,1561002382,691659142,4082225868
+dimwishlist:item=1916287826&perks=1482024992,1561002382,691659142,4082225868
+dimwishlist:item=1916287826&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=1916287826&perks=4090651448,1561002382,691659142,4082225868
+
+// Taipan-4fr (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), Enhanced Battery, (Clown Cartridge, Triple Tap, Field Prep), Frenzy
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for burst damage against majors and Champions in end-game content. Shapeable. An end-game LFR that you don't need to complete a Raid, Dungeon or Trials for, which works for both burst and sustained damage, especially with the Veist Stinger origin trait throwing in extra shots for free at random. A Handling barrel just makes using it snappier, and Enhanced Battery adds a shot with no downsides, to give the origin trait an extra chance to proc. For solo or against more mobile bosses, take your choice of Clown Cartridge, Triple Tap or Field Prep with Frenzy, so you don't need to worry about how close your are to the rest of your fireteam. Recommended MW: Handling or Charge Time, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, PvE-Champion, Controller, MKB
+dimwishlist:item=1911060537&perks=1840239774,2680121939,2284787283,4104185692
+dimwishlist:item=1911060537&perks=839105230,2680121939,2284787283,4104185692
+dimwishlist:item=1911060537&perks=4090651448,2680121939,2284787283,4104185692
+dimwishlist:item=1911060537&perks=1840239774,2680121939,3400784728,4104185692
+dimwishlist:item=1911060537&perks=839105230,2680121939,3400784728,4104185692
+dimwishlist:item=1911060537&perks=4090651448,2680121939,3400784728,4104185692
+dimwishlist:item=1911060537&perks=1840239774,2680121939,2869569095,4104185692
+dimwishlist:item=1911060537&perks=839105230,2680121939,2869569095,4104185692
+dimwishlist:item=1911060537&perks=4090651448,2680121939,2869569095,4104185692
 
 // sourced from https://github.com/GoddamTofu/D2wishlist/blob/main/PandaPaxxy_S18.txt
 
@@ -5071,6 +5147,176 @@ dimwishlist:item=291092617&perks=1482024992,2420895100,1365187766,3824105627
 dimwishlist:item=291092617&perks=1840239774,3177308360,1365187766,3824105627
 dimwishlist:item=291092617&perks=1482024992,3177308360,1365187766,3824105627
 
+title: WarlockMaggie's Something New perk list
+
+// Something New
+//notes:WarlockMaggie (PvE / M+KB / Controller): "This Stasis weapon brings us solid perks like Headstone or Demolitionist. Stats for All plus Headstone is ridiculously fun. A quick warning. the intrinsic trait will make reload-based perks (like MKC and Tunnel Vision) near useless in team activities. For magazine options, choose getting more shots or increasing Stability/Reload, either or both will help combat common Aggressive frame issues. Barrels are similar: focusing on Stability and Handling over Range will make this gun feel much better in combat." Recommended MW: Reload or Stability|tags:pve,mkb,controller
+dimwishlist:item=1856262127&perks=1840239774,3230963543,1583705720,124408337
+dimwishlist:item=1856262127&perks=1840239774,3230963543,1583705720,3523296417
+dimwishlist:item=1856262127&perks=1840239774,3230963543,1583705720,438098033
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3592538738,124408337
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3592538738,438098033
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3400784728,124408337
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3400784728,3523296417
+dimwishlist:item=1856262127&perks=1840239774,3230963543,3400784728,438098033
+dimwishlist:item=1856262127&perks=1840239774,1885400500,1583705720,124408337
+dimwishlist:item=1856262127&perks=1840239774,1885400500,1583705720,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1885400500,1583705720,438098033
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3592538738,124408337
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3592538738,438098033
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3400784728,124408337
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3400784728,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3400784728,438098033
+dimwishlist:item=1856262127&perks=1840239774,1087426260,1583705720,124408337
+dimwishlist:item=1856262127&perks=1840239774,1087426260,1583705720,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1087426260,1583705720,438098033
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,124408337
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3592538738,438098033
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3400784728,124408337
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3400784728,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1087426260,3400784728,438098033
+dimwishlist:item=1856262127&perks=839105230,3230963543,1583705720,124408337
+dimwishlist:item=1856262127&perks=839105230,3230963543,1583705720,3523296417
+dimwishlist:item=1856262127&perks=839105230,3230963543,1583705720,438098033
+dimwishlist:item=1856262127&perks=839105230,3230963543,3592538738,124408337
+dimwishlist:item=1856262127&perks=839105230,3230963543,3592538738,3523296417
+dimwishlist:item=1856262127&perks=839105230,3230963543,3592538738,438098033
+dimwishlist:item=1856262127&perks=839105230,3230963543,3400784728,124408337
+dimwishlist:item=1856262127&perks=839105230,3230963543,3400784728,3523296417
+dimwishlist:item=1856262127&perks=839105230,3230963543,3400784728,438098033
+dimwishlist:item=1856262127&perks=839105230,1885400500,1583705720,124408337
+dimwishlist:item=1856262127&perks=839105230,1885400500,1583705720,3523296417
+dimwishlist:item=1856262127&perks=839105230,1885400500,1583705720,438098033
+dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,124408337
+dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,3523296417
+dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,438098033
+dimwishlist:item=1856262127&perks=839105230,1885400500,3400784728,124408337
+dimwishlist:item=1856262127&perks=839105230,1885400500,3400784728,3523296417
+dimwishlist:item=1856262127&perks=839105230,1885400500,3400784728,438098033
+dimwishlist:item=1856262127&perks=839105230,1087426260,1583705720,124408337
+dimwishlist:item=1856262127&perks=839105230,1087426260,1583705720,3523296417
+dimwishlist:item=1856262127&perks=839105230,1087426260,1583705720,438098033
+dimwishlist:item=1856262127&perks=839105230,1087426260,3592538738,124408337
+dimwishlist:item=1856262127&perks=839105230,1087426260,3592538738,3523296417
+dimwishlist:item=1856262127&perks=839105230,1087426260,3592538738,438098033
+dimwishlist:item=1856262127&perks=839105230,1087426260,3400784728,124408337
+dimwishlist:item=1856262127&perks=839105230,1087426260,3400784728,3523296417
+dimwishlist:item=1856262127&perks=839105230,1087426260,3400784728,438098033
+dimwishlist:item=1856262127&perks=4090651448,3230963543,1583705720,124408337
+dimwishlist:item=1856262127&perks=4090651448,3230963543,1583705720,3523296417
+dimwishlist:item=1856262127&perks=4090651448,3230963543,1583705720,438098033
+dimwishlist:item=1856262127&perks=4090651448,3230963543,3592538738,124408337
+dimwishlist:item=1856262127&perks=4090651448,3230963543,3592538738,3523296417
+dimwishlist:item=1856262127&perks=4090651448,3230963543,3592538738,438098033
+dimwishlist:item=1856262127&perks=4090651448,3230963543,3400784728,124408337
+dimwishlist:item=1856262127&perks=4090651448,3230963543,3400784728,3523296417
+dimwishlist:item=1856262127&perks=4090651448,3230963543,3400784728,438098033
+dimwishlist:item=1856262127&perks=4090651448,1885400500,1583705720,124408337
+dimwishlist:item=1856262127&perks=4090651448,1885400500,1583705720,3523296417
+dimwishlist:item=1856262127&perks=4090651448,1885400500,1583705720,438098033
+dimwishlist:item=1856262127&perks=4090651448,1885400500,3592538738,124408337
+dimwishlist:item=1856262127&perks=4090651448,1885400500,3592538738,3523296417
+dimwishlist:item=1856262127&perks=4090651448,1885400500,3592538738,438098033
+dimwishlist:item=1856262127&perks=4090651448,1885400500,3400784728,124408337
+dimwishlist:item=1856262127&perks=4090651448,1885400500,3400784728,3523296417
+dimwishlist:item=1856262127&perks=4090651448,1885400500,3400784728,438098033
+dimwishlist:item=1856262127&perks=4090651448,1087426260,1583705720,124408337
+dimwishlist:item=1856262127&perks=4090651448,1087426260,1583705720,3523296417
+dimwishlist:item=1856262127&perks=4090651448,1087426260,1583705720,438098033
+dimwishlist:item=1856262127&perks=4090651448,1087426260,3592538738,124408337
+dimwishlist:item=1856262127&perks=4090651448,1087426260,3592538738,3523296417
+dimwishlist:item=1856262127&perks=4090651448,1087426260,3592538738,438098033
+dimwishlist:item=1856262127&perks=4090651448,1087426260,3400784728,124408337
+dimwishlist:item=1856262127&perks=4090651448,1087426260,3400784728,3523296417
+dimwishlist:item=1856262127&perks=4090651448,1087426260,3400784728,438098033
+
+// Something New
+//notes:WarlockMaggie (PvP / M+KB / Controller): "This Stasis weapon brings us solid perks like Headstone or Demolitionist. For PvP, Harmony is unique to this 120 HC and allows for potential 2-tap kills. A quick warning. the intrinsic trait will make reload-based perks (like MKC and Tunnel Vision) near useless in team activities. For magazine options choose getting more shots, increasing Stability, or Dueling potential. Barrels are similar, focusing on Stability (or Handling) over Range. Overall, not the best 120 in the Crucible, but you can make it work." Recommended MW: Stability|tags:pvp,mkb,controller
+dimwishlist:item=1856262127&perks=1482024992,1561002382,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1482024992,1561002382,2621346526,438098033
+dimwishlist:item=1856262127&perks=1482024992,1561002382,2621346526,124408337
+dimwishlist:item=1856262127&perks=1482024992,1561002382,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1482024992,1561002382,2779035018,438098033
+dimwishlist:item=1856262127&perks=1482024992,1561002382,2779035018,124408337
+dimwishlist:item=1856262127&perks=1482024992,1561002382,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1482024992,1561002382,3592538738,438098033
+dimwishlist:item=1856262127&perks=1482024992,1561002382,3592538738,124408337
+dimwishlist:item=1856262127&perks=1482024992,1885400500,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1482024992,1885400500,2621346526,438098033
+dimwishlist:item=1856262127&perks=1482024992,1885400500,2621346526,124408337
+dimwishlist:item=1856262127&perks=1482024992,1885400500,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1482024992,1885400500,2779035018,438098033
+dimwishlist:item=1856262127&perks=1482024992,1885400500,2779035018,124408337
+dimwishlist:item=1856262127&perks=1482024992,1885400500,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1482024992,1885400500,3592538738,438098033
+dimwishlist:item=1856262127&perks=1482024992,1885400500,3592538738,124408337
+dimwishlist:item=1856262127&perks=1482024992,2420895100,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1482024992,2420895100,2621346526,438098033
+dimwishlist:item=1856262127&perks=1482024992,2420895100,2621346526,124408337
+dimwishlist:item=1856262127&perks=1482024992,2420895100,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1482024992,2420895100,2779035018,438098033
+dimwishlist:item=1856262127&perks=1482024992,2420895100,2779035018,124408337
+dimwishlist:item=1856262127&perks=1482024992,2420895100,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1482024992,2420895100,3592538738,438098033
+dimwishlist:item=1856262127&perks=1482024992,2420895100,3592538738,124408337
+dimwishlist:item=1856262127&perks=1840239774,1561002382,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1561002382,2621346526,438098033
+dimwishlist:item=1856262127&perks=1840239774,1561002382,2621346526,124408337
+dimwishlist:item=1856262127&perks=1840239774,1561002382,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1561002382,2779035018,438098033
+dimwishlist:item=1856262127&perks=1840239774,1561002382,2779035018,124408337
+dimwishlist:item=1856262127&perks=1840239774,1561002382,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1561002382,3592538738,438098033
+dimwishlist:item=1856262127&perks=1840239774,1561002382,3592538738,124408337
+dimwishlist:item=1856262127&perks=1840239774,1885400500,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1885400500,2621346526,438098033
+dimwishlist:item=1856262127&perks=1840239774,1885400500,2621346526,124408337
+dimwishlist:item=1856262127&perks=1840239774,1885400500,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1885400500,2779035018,438098033
+dimwishlist:item=1856262127&perks=1840239774,1885400500,2779035018,124408337
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3592538738,438098033
+dimwishlist:item=1856262127&perks=1840239774,1885400500,3592538738,124408337
+dimwishlist:item=1856262127&perks=1840239774,2420895100,2621346526,3523296417
+dimwishlist:item=1856262127&perks=1840239774,2420895100,2621346526,438098033
+dimwishlist:item=1856262127&perks=1840239774,2420895100,2621346526,124408337
+dimwishlist:item=1856262127&perks=1840239774,2420895100,2779035018,3523296417
+dimwishlist:item=1856262127&perks=1840239774,2420895100,2779035018,438098033
+dimwishlist:item=1856262127&perks=1840239774,2420895100,2779035018,124408337
+dimwishlist:item=1856262127&perks=1840239774,2420895100,3592538738,3523296417
+dimwishlist:item=1856262127&perks=1840239774,2420895100,3592538738,438098033
+dimwishlist:item=1856262127&perks=1840239774,2420895100,3592538738,124408337
+dimwishlist:item=1856262127&perks=839105230,1561002382,2621346526,3523296417
+dimwishlist:item=1856262127&perks=839105230,1561002382,2621346526,438098033
+dimwishlist:item=1856262127&perks=839105230,1561002382,2621346526,124408337
+dimwishlist:item=1856262127&perks=839105230,1561002382,2779035018,3523296417
+dimwishlist:item=1856262127&perks=839105230,1561002382,2779035018,438098033
+dimwishlist:item=1856262127&perks=839105230,1561002382,2779035018,124408337
+dimwishlist:item=1856262127&perks=839105230,1561002382,3592538738,3523296417
+dimwishlist:item=1856262127&perks=839105230,1561002382,3592538738,438098033
+dimwishlist:item=1856262127&perks=839105230,1561002382,3592538738,124408337
+dimwishlist:item=1856262127&perks=839105230,1885400500,2621346526,3523296417
+dimwishlist:item=1856262127&perks=839105230,1885400500,2621346526,438098033
+dimwishlist:item=1856262127&perks=839105230,1885400500,2621346526,124408337
+dimwishlist:item=1856262127&perks=839105230,1885400500,2779035018,3523296417
+dimwishlist:item=1856262127&perks=839105230,1885400500,2779035018,438098033
+dimwishlist:item=1856262127&perks=839105230,1885400500,2779035018,124408337
+dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,3523296417
+dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,438098033
+dimwishlist:item=1856262127&perks=839105230,1885400500,3592538738,124408337
+dimwishlist:item=1856262127&perks=839105230,2420895100,2621346526,3523296417
+dimwishlist:item=1856262127&perks=839105230,2420895100,2621346526,438098033
+dimwishlist:item=1856262127&perks=839105230,2420895100,2621346526,124408337
+dimwishlist:item=1856262127&perks=839105230,2420895100,2779035018,3523296417
+dimwishlist:item=1856262127&perks=839105230,2420895100,2779035018,438098033
+dimwishlist:item=1856262127&perks=839105230,2420895100,2779035018,124408337
+dimwishlist:item=1856262127&perks=839105230,2420895100,3592538738,3523296417
+dimwishlist:item=1856262127&perks=839105230,2420895100,3592538738,438098033
+dimwishlist:item=1856262127&perks=839105230,2420895100,3592538738,124408337
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep275-season-18-weapons.txt
 
 title:Season of Plunder PvP weapon picks with Gleaux
@@ -5193,23 +5439,53 @@ dimwishlist:item=291092617&perks=3250034553,2420895100,2621346526,4293542123
 dimwishlist:item=291092617&perks=1482024992,2420895100,2621346526,4293542123
 dimwishlist:item=291092617&perks=4090651448,2420895100,2621346526,4293542123
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/midha-corrections.txt
+
 // Midha's Reckoning (PvE first-choice roll)
-// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, (Field Prep, Unrelenting), Reservoir Burst
-//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery can push you up to 10 shots (8+2) with the origin trait. You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve) to use in combination with Reservoir Burst. RB procs on any overflowed charges from the origin trait, giving you up to three shots with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), (Ionised Battery, Enhanced Battery), Field Prep, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag (with Enhanced RB you only need Enhanced Battery). You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve) to use in combination with Reservoir Burst. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
 dimwishlist:item=3969066556&perks=3250034553,1483536627,2869569095,1427256713
 dimwishlist:item=3969066556&perks=1482024992,1483536627,2869569095,1427256713
 dimwishlist:item=3969066556&perks=1840239774,1483536627,2869569095,1427256713
 dimwishlist:item=3969066556&perks=4090651448,1483536627,2869569095,1427256713
 dimwishlist:item=3969066556&perks=839105230,1483536627,2869569095,1427256713
+dimwishlist:item=3969066556&perks=3250034553,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1482024992,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=1840239774,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=4090651448,2680121939,2869569095,1427256713
+dimwishlist:item=3969066556&perks=839105230,2680121939,2869569095,1427256713
+
+// Midha's Reckoning (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), (Ionised Battery, Enhanced Battery), Unrelenting, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag (with Enhanced RB you only need Enhanced Battery). You should be getting plenty of kills with Reservoir Burst, so you can use Unrelenting to recover your health while in combat. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3969066556&perks=3250034553,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1482024992,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1840239774,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=4090651448,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=839105230,1483536627,3108830275,1427256713
+dimwishlist:item=3969066556&perks=3250034553,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1482024992,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=1840239774,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=4090651448,2680121939,3108830275,1427256713
+dimwishlist:item=3969066556&perks=839105230,2680121939,3108830275,1427256713
 
 // Midha's Reckoning (Harrowed) (PvE first-choice roll)
-// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, (Field Prep, Unrelenting), Reservoir Burst
-//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery can push you up to 10 shots (8+2) with the origin trait. You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve) to use in combination with Reservoir Burst. RB procs on any overflowed charges from the origin trait, giving you up to three shots with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too). Recommended MW: Range or Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod.|tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, Field Prep, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag. You can get around the reload penalty from Ionised Battery when crouching with Field Prep (and have more ammo in reserve) to use in combination with Reservoir Burst. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
 dimwishlist:item=3904516037&perks=3250034553,1483536627,2869569095,1427256713
 dimwishlist:item=3904516037&perks=1482024992,1483536627,2869569095,1427256713
 dimwishlist:item=3904516037&perks=1840239774,1483536627,2869569095,1427256713
 dimwishlist:item=3904516037&perks=4090651448,1483536627,2869569095,1427256713
 dimwishlist:item=3904516037&perks=839105230,1483536627,2869569095,1427256713
+
+// Midha's Reckoning (Harrowed) (PvE first-choice roll)
+// (Hammer-Forged Rifling, Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Ionised Battery, Unrelenting, Reservoir Burst
+//notes:Inspired by DMB PvE Podcast 32. PvE first-choice roll for end-game content. Shapeable. The Origin Perk is aimed at playing with a fireteam - the larger, the better your magazine size after reload will be. Decent in-slot stats compared to Exile's Curse or Wizened Rebuke. Generally, with fewer bolts being fired from a High-Impact frame, you don't have to worry so much about stability, so can either push the range or improve handling with your barrel. Increasing the battery size with Ionised Battery and Reservoir Burst pushes you to the maximum of 8 in the mag. You should be getting plenty of kills with Reservoir Burst, so you can use Unrelenting to recover your health while in combat. With a battery size of eight, you'll get up to five overflowed shots with the origin trait if you're in a Raid near a full fireteam, or three reloading in a normal fireteam of three. RB procs on any overflowed charges from the origin trait, with a 25% damage bonus and those lovely explosions on kills (maybe with Arc 3.0 Spark of Beacons for a bit of blinding too) on them all. Recommended MW: Range or Handling, with a damage-boosting (Adept Big Ones or Taken Spec) mod. Tags: PvE, PvE-God, PvE-Boss, PvE-MajorSpec, PvE-EndGame, Controller, MKB
+dimwishlist:item=3904516037&perks=3250034553,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1482024992,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=1840239774,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=4090651448,1483536627,3108830275,1427256713
+dimwishlist:item=3904516037&perks=839105230,1483536627,3108830275,1427256713
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep31-season-of-plunder-weapons.txt
 
