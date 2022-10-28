@@ -1,6 +1,836 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep280-S18-festival-of-the-lost-and-30th-anniversary-special-power-weapons.txt
+
+// BrayTech Werewolf (PvP first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Dynamic Sway Reduction, Tap the Trigger
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For duelling, you don't really need to look further than Dynamic Sway Reduction and Tap the Trigger which together add stability and accuracy through your volley. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2869466318&perks=1392496348,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3661387068,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1482024992,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3250034553,1885400500,1359896290,1890422124
+
+// BrayTech Werewolf (PvP backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), (Ricochet Rounds, Flared Magwell, Light Mag), (Dynamic Sway Reduction, Under Pressure), Tap the Trigger
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel and mag perks to fill in your favoured stats - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. For duelling, Dynamic Sway Reduction is always great although, if you have the discipline to use the bottom half of a magazine, rather than continually reloading, Under Pressure offers great stability and accuracy boosts too. Finally, in the second trait column, Tap the Trigger which adds stability and accuracy when you need it, on initial trigger pull. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=2869466318&perks=1392496348,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3661387068,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1482024992,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3250034553,3230963543,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1392496348,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3661387068,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1482024992,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=3250034553,679225683,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1392496348,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3661387068,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1482024992,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3250034553,1885400500,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1392496348,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3661387068,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1482024992,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1840239774,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=4090651448,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3250034553,3230963543,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1392496348,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3661387068,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1482024992,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=1840239774,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=4090651448,679225683,1645158859,1890422124
+dimwishlist:item=2869466318&perks=3250034553,679225683,1645158859,1890422124
+
+// BrayTech Werewolf (PvP first-choice roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Ricochet Rounds, Pugilist, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For kill-chaining, Swashbuckler x5 after a melee kill reduces TTK to 0.67 (4c, 2b), while Pugilist turns this into a legendary "Monte Carlo-lite", recovering melee ability energy to repeat the cycle. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=2869466318&perks=1392496348,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=3661387068,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1885400500,691659142,4082225868
+dimwishlist:item=2869466318&perks=3250034553,1885400500,691659142,4082225868
+
+// BrayTech Werewolf (PvP backup roll)
+// (Polygonal Rifling, Chambered Compensator, Smallbore, Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), (Flared Magwell, Light Mag), Pugilist, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel and mag perks to fill in your favoured stats - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. For kill-chaining, Swashbuckler x5 after a melee kill reduces TTK to 0.67 (4c, 2b), while Pugilist turns this into a legendary "Monte Carlo-lite", recovering melee ability energy to repeat the cycle. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=2869466318&perks=1392496348,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=3661387068,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=3250034553,3230963543,691659142,4082225868
+dimwishlist:item=2869466318&perks=1392496348,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=3661387068,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1482024992,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=1840239774,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=4090651448,679225683,691659142,4082225868
+dimwishlist:item=2869466318&perks=3250034553,679225683,691659142,4082225868
+
+// Jurassic Green (PvP first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel), Ricochet Rounds, Perpetual Motion, Golden Tricorn
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. A competitive subfamily TTK of 0.8s if you can hit 6 crits and 1 body shot, and a not-awful accuracy-adjusted TTK of 0.93s (4c, 4b) as at v6.2.5. Decent stats within the subfamily. Ignore the recoil direction, as this is a precision frame, so you can use the barrel to fill in your favoured stat - this does have the lowest zoom of its peers so you can either try and compensate with range, or live with it and improve stability. Ricochet Rounds adds range and stability, and is your best mag choice. For kill-chaining, Swashbuckler x5 after a melee kill reduces TTK to 0.67 (4c, 2b), while Pugilist turns this into a legendary "Monte Carlo-lite", recovering melee ability energy to repeat the cycle. Recommended MW: Stability or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=3661387068,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1392496348,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1885400500,1428297954,2610012052
+
+// Jurassic Green (PvP first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore, Fluted Barrel), Ricochet Rounds, Rangefinder, Golden Tricorn
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for solar subclasses. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed. Reasonably competitive out of the box with a subfamily TTK of 0.8s with 8 crits and 1 body shot), and an accuracy-adjusted TTK of 1.00s (7c, 3b) which only needs the smallest of damage boosts to improve as at v6.2.5. Unfortunately, stats are pretty weak across the board - the 50 Recoil Direction and joint lowest zoom means that, even with a recoil direction-correcting or stability barrel, you'll will still probably find a Counterbalance mod necessary. You really need both more range and more stability, once you've sorted the recoil direction, so Ricochet Rounds are your best mag perk. In the first trait column, Rangefinder will help push out range with an extra point of zoom. The second trait column is a bit short on PvP picks, but Golden Tricorn is the most reliable damage perk. One stack after a kill drops TTK down to 0.73s (7c, 1b) and accuracy-adjusted TTK to 0.8s (5c, 4b). If you manage to proc both stacks, this drops further to a lightning-fast TTK of 0.47s (6c) or an accuracy-adjusted TTK of 0.67s (4c, 3b). Recommended MW: Stability, with a Counterbalance mod.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=3661387068,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1392496348,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2846385770,2610012052
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. For most people Snapshot Sights and Opening Shot is the best trait combination, getting you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,1431678320,957782887,47981717
+
+// Mechabre (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake), (Alloy Mag, Flared Magwell), Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag helps with reloads, and Flared Magwell does that too, and improves stability to help a bit with flinch. For most people Snapshot Sights and Opening Shot is the best trait combination, getting you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,1431678320,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,47981717
+dimwishlist:item=1280894514&perks=839105230,3230963543,957782887,47981717
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, No Distractions, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for lane control while duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. In the first trait column, No Distractions gives you flinch reduction, so you can hold a lane against primary fire more easily, and Opening Shot in the second gives you 20 Aim Assistance, and accuracy boosts. Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,1431678320,2866798147,47981717
+
+// Mechabre (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake), (Alloy Mag, Flared Magwell), No Distractions, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for lane control while duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag helps with reloads, and Flared Magwell does that too, and improves stability to help a bit with flinch. In the first trait column, No Distractions gives you flinch reduction, so you can hold a lane against primary fire more easily, and Opening Shot in the second gives you 20 Aim Assistance, and accuracy boosts. Recommended MW: Handling, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,1431678320,2866798147,47981717
+dimwishlist:item=1280894514&perks=1840239774,3230963543,2866798147,47981717
+dimwishlist:item=1280894514&perks=839105230,3230963543,2866798147,47981717
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Alloy Mag, Snapshot Sights, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag is probably your best pick to help with reloads after you've emptied the mag. For kill-chaining Snapshot Sights gets you into the very reasonable ADS zoom of 45 quickly, and if you can proc Swashbuckler x5, you can one-shot body at any resilience, so keep going for as long as you've got ammo. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,1431678320,957782887,4082225868
+
+// Mechabre (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake), (Alloy Mag, Flared Magwell), Snapshot Sights, Swashbuckler
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. In the mag, there's not an awful lot to help out, but Alloy Mag helps with reloads, and Flared Magwell does that too, and improves stability to help a bit with flinch. For kill-chaining Snapshot Sights gets you into the very reasonable ADS zoom of 45 quickly, and if you can proc Swashbuckler x5, you can one-shot body at any resilience, so keep going for as long as you've got ammo.  Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,1431678320,957782887,4082225868
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,4082225868
+dimwishlist:item=1280894514&perks=839105230,3230963543,957782887,4082225868
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Extended Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, and Snapshot Sights and Opening Shot together gets you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,2420895100,957782887,47981717
+
+// Mechabre (PvP backup roll)
+// Arrowhead Brake, Extended Mag, Snapshot Sights, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, and Snapshot Sights and Opening Shot together gets you into the very reasonable ADS zoom of 45 quickly, adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,2420895100,957782887,47981717
+
+// Mechabre (PvP first-choice roll)
+// Fluted Barrel, Extended Mag, Auto-Loading Holster, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, Auto-Loading Holster bypasses the reload speed penalty and Opening Shot adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1280894514&perks=1840239774,2420895100,3300816228,47981717
+
+// Mechabre (PvP backup roll)
+// Arrowhead Brake, Extended Mag, Auto-Loading Holster, Opening Shot
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for solar Warlock Heat Rises AC-130 build in-air duelling. The Origin Trait is aimed more at 3v3 game modes, where you're less likely to be near a team mate to gain the better ADS and strafe speed - this should help with sniping too. For snipers you generally want to boost Handling with the barrel. For an Airborne Effectiveness build, Extended Mag adds 10, Auto-Loading Holster bypasses the reload speed penalty and Opening Shot adds 20 Aim Assistance and boosts accuracy. You will probably need some additional help from an exotic to really make this useful, but it's an option. Recommended MW: Handling, with a Targeting Adjuster or Quick Access Sling mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=1280894514&perks=839105230,2420895100,3300816228,47981717
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and Ricochet Rounds is your optimum magazine perk. Then, for duelling, Rangefinder pushes out your range to near pulse rifle distances, and Snapshot Sights halves your ADS time to get the crucial first shot in an engagement. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell), Rangefinder, Snapshot Sights
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. Boost Handling, Range and Stability with sights and mag. Then, for duelling, Rangefinder pushes out your range to near pulse rifle distances, and Snapshot Sights halves your ADS time to get the crucial first shot in an engagement. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,1968497646,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090095,3230963543,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090094,3230963543,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090093,3230963543,2846385770,957782887
+dimwishlist:item=235827225&perks=1926090092,3230963543,2846385770,957782887
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell), Rangefinder, Moving Target
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for duelling. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. Boost Handling, Range and Stability with sights and mag. Then, for duelling, Rangefinder pushes out your range to near pulse rifle distances, and Moving Target adds 10 Aim Assistance to help with your crits. Recommended MW: Range or Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1885400500,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1968497646,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090095,3230963543,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,3230963543,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090093,3230963543,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090092,3230963543,2846385770,588594999
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, (Rapid Hit, Outlaw), Kill Clip
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and  Ricochet Rounds is your optimum magazine perk. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Kill Clip, which makes the three-tap much easier, just needing 1 crit and 2 body shots. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,1885400500,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,1015611457
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell),  (Rapid Hit, Outlaw), Kill Clip
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. Boost Handling, Range and Stability with sights and mag. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Kill Clip, which makes the three-tap much easier, just needing 1 crit and 2 body shots. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,1885400500,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,1968497646,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090095,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090092,3230963543,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090093,1885400500,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,1885400500,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090095,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090093,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,1968497646,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090095,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090093,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,1561002382,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090095,3230963543,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090094,3230963543,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090093,3230963543,1168162263,1015611457
+dimwishlist:item=235827225&perks=1926090092,3230963543,1168162263,1015611457
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, (Rapid Hit, Outlaw), Headstone
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for Stasis subclasses. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and  Ricochet Rounds is your optimum magazine perk. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Headstone - either break the crystal for AoE damage in 6s or leave the crystals to prevent revives in Trials and Survival (and Rift) giving your team a numberical advantage. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,1885400500,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell),  (Rapid Hit, Outlaw), Headstone
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining, particularly for Stasis subclasses. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. Boost Handling, Range and Stability with sights and mag. Then, for kill-chaining, Rapid Hit or Outlaw reward crits with a fast reload to take advantage of Headstone - either break the crystal for AoE damage in 6s or leave the crystals to prevent revives in Trials and Survival (and Rift) giving your team a numberical advantage. Recommended MW: Handling or Range, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,1885400500,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090095,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090092,3230963543,247725512,124408337
+dimwishlist:item=235827225&perks=1926090093,1885400500,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,1885400500,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090095,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090093,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,1968497646,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090095,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090093,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,1561002382,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090095,3230963543,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090094,3230963543,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090093,3230963543,1168162263,124408337
+dimwishlist:item=235827225&perks=1926090092,3230963543,1168162263,124408337
+
+// Eyasluna (PvP first-choice roll)
+// (SteadyHand HCS, FastDraw HCS), Ricochet Rounds, Perpetual Motion, Harmony
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3 s with 2 crits, 2 body shots, as at v6.2.5. You can boost Handling and Stability with sights - Steadyhand and FastDraw are your best options, and Ricochet Rounds is your optimum magazine perk. Then for kill-chaining, you can proc Perpetual Motion on a stowed weapon to improve Handling for a faster swap after a special or power weapon kill, and Harmony will make your three-tap easier, needing just two crits and a body to kill at any resilience. Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=235827225&perks=1926090095,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,1885400500,1428297954,438098033
+
+// Eyasluna (PvP backup roll)
+// (SteadyHand HCS, FastDraw HCS, Hitmark HCS, TrueSight HCS), (Ricochet Rounds, Armor-Piercing Rounds, High-Calibre Rounds Flared Magwell), Perpetual Motion, Harmony
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. Backup PvP pick for kill-chaining. Great hand cannon - probably best in class, with great stats across the board. Out-of-the-box TTK of 0.87s with 3 crits, or accuracy-adjusted TTK of 1.3s with 2 crits, 2 body shots, as at v6.2.5. Boost Handling, Range and Stability with sights and mag. Then for kill-chaining, you can proc Perpetual Motion on a stowed weapon to improve Handling for a faster swap after a special or power weapon kill, and Harmony will make your three-tap easier, needing just two crits and a body to kill at any resilience.  Recommended MW: Handling, with a Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, MKB, Controller
+dimwishlist:item=235827225&perks=1926090093,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,1885400500,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090095,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090093,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,1968497646,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090095,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090093,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,1561002382,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090095,3230963543,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090094,3230963543,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090093,3230963543,1428297954,438098033
+dimwishlist:item=235827225&perks=1926090092,3230963543,1428297954,438098033
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, Perpetual Motion, Eye of the Storm
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for duelling. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b), as at v6.2.5. It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. Then, for duelling, Perpetual Motion boosts your gunfeel stats and Eye of the Storm makes crits easier to hit in a firefight. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,699525795
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Outlaw, Perpetual Motion), Kill Clip
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b), as at v6.2.5. It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For kill-chaining, Killing Wind, Outlaw and Perpetual Motion all provide boosts so that you can take advantage of Kill Clip after your first kill, reducing TTK to 0.53s with (6c), and an accuracy-adjusted TTK of 0.8s (4c, 3b). Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=1392496348,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=1482024992,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=4090651448,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=839105230,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1168162263,1015611457
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,1015611457
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for solar subclasses. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b), as at v6.2.5. It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For kill-chaining, Killing Wind or Perpetual Motion all provide boosts so that you can take advantage of the scorch spread by an ignition kill. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=1392496348,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=1482024992,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=4090651448,1885400500,2450788523,4293542123
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=1392496348,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=1482024992,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,4293542123
+dimwishlist:item=2708806099&perks=4090651448,1885400500,1428297954,4293542123
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, (Killing Wind, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for melee builds. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b), as at v6.2.5. It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For melee builds, Pugilist and Blunt Execution Rounds provide a fun play loop - charged or uncharged melee hits (ones that don't need a sprint or slide, sorry Titans) on opponents within 15m proc Blunt Execution Rounds, which makes killing the damaged opponent very easy with the hipfire perk, which procs Pugilist to repeat the process. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1392496348,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1482024992,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1840239774,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=4090651448,1885400500,691659142,454085387
+
+// BxR-55 Battler (PvP first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling, Smallbore, Fluted Barrel, Corkscrew Rifling), Ricochet Rounds, Pugilist, Blunt Execution Rounds
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining, particularly for melee builds. Shapeable. Just great stats across the board, plus the unique hipfire boost from the frame make the Battler a top choice for PvP. You're always likely to be taking damage, so the Hot Swap origin perk will be useful too. Out-of-the-box, this has the same TTK as a lightweight - 0.87s with 7 crits and 1 body, or an accuracy-adjusted TTK in 0.93s (6c, 3b), as at v6.2.5. It does have wonky recoil, which Arrowhead Brake sorts out completely, but extra stability plus the 20 Zoom also makes it controllable. Ricochet Rounds, is the reliable mag perk of choice. For melee builds, Pugilist and Blunt Execution Rounds provide a fun play loop - charged or uncharged melee hits (ones that don't need a sprint or slide, sorry Titans) on opponents within 15m proc Blunt Execution Rounds, which makes killing the damaged opponent very easy with the hipfire perk, which procs Pugilist to repeat the process. Recommended MW: Handling or Range, with a Freehand Grip, Quick Access Sling, Sprint Grip or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=2708806099&perks=839105230,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1392496348,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1482024992,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=1840239774,1885400500,691659142,454085387
+dimwishlist:item=2708806099&perks=4090651448,1885400500,691659142,454085387
+
+// Half-Truths (PvP first-choice roll)
+// Jagged Edge, Swordmaster's Guard, (Tireless Blade, Duelist's Trance), Eager Edge
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Shapeable. Swords aren't necessarily a top choice for PvP, as at v6.2.5, but this does come with a very useful perk in Eager Edge to close the gap unexpectedly on an opponent. Jagged Edge adds damage, and Swordmaster's Guard gets your power attack as quickly as possible. Tireless Blade, or maybe Duelist's Trance might be useful in the first trait column and Eager Edge is your must have in the second. Recommended MW: Impact, with a Quick Access Sling mod.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=3257091166&perks=3666208348,269888150,2590710093,2077819806
+dimwishlist:item=3257091166&perks=3666208348,269888150,3705817207,2077819806
+
+// The Other Half (PvP first-choice roll)
+//notes:Inspired by DMB Podcast 280 with @ImpetusAlways. First-choice PvP pick for kill-chaining. Shapeable. Swords aren't necessarily a top choice for PvP, as at v6.2.5, but this does come with a very useful perk in Eager Edge to close the gap unexpectedly on an opponent. Jagged Edge adds damage, and Swordmaster's Guard gets your power attack as quickly as possible. Eager Edge is your must have in the first trait column and Vorpal Weapon is the best of a very PvE orientated set of traits in the second. Recommended MW: Impact, with a Quick Access Sling mod.|tags: PvP, PvP-KillChain, PvP-God, MKB, Controller
+dimwishlist:item=3257091167&perks=3666208348,269888150,2077819806,1546637391
+
+// Mechabre (pvp)
+//notes:WarlockMaggie (PvP / M+KB / Controller): "Mechabre is our new Arc Aggressive Sniper, bringing both classic perk combinations and some new things to experiment with. Boasting the highest stability for Season 18’s Aggressive snipers as well as a 45 zoom, this will feel oddly well in your hands. That said, focus on perks that will reward consistency and your preferred sniping playstyle." Recommended MW: Handling or Stability|tags:pvp,mkb,controller
+dimwishlist:item=1280894514&perks=1840239774,3142289711,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,3142289711,957782887,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3142289711,957782887,588594999
+dimwishlist:item=1280894514&perks=1840239774,3142289711,2866798147,47981717
+dimwishlist:item=1280894514&perks=1840239774,3142289711,2866798147,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3142289711,2866798147,588594999
+dimwishlist:item=1280894514&perks=1840239774,3142289711,1428297954,47981717
+dimwishlist:item=1280894514&perks=1840239774,3142289711,1428297954,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3142289711,1428297954,588594999
+dimwishlist:item=1280894514&perks=1840239774,3177308360,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,3177308360,957782887,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3177308360,957782887,588594999
+dimwishlist:item=1280894514&perks=1840239774,3177308360,2866798147,47981717
+dimwishlist:item=1280894514&perks=1840239774,3177308360,2866798147,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3177308360,2866798147,588594999
+dimwishlist:item=1280894514&perks=1840239774,3177308360,1428297954,47981717
+dimwishlist:item=1280894514&perks=1840239774,3177308360,1428297954,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3177308360,1428297954,588594999
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,47981717
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3230963543,957782887,588594999
+dimwishlist:item=1280894514&perks=1840239774,3230963543,2866798147,47981717
+dimwishlist:item=1280894514&perks=1840239774,3230963543,2866798147,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3230963543,2866798147,588594999
+dimwishlist:item=1280894514&perks=1840239774,3230963543,1428297954,47981717
+dimwishlist:item=1280894514&perks=1840239774,3230963543,1428297954,2213355989
+dimwishlist:item=1280894514&perks=1840239774,3230963543,1428297954,588594999
+dimwishlist:item=1280894514&perks=839105230,3142289711,957782887,47981717
+dimwishlist:item=1280894514&perks=839105230,3142289711,957782887,2213355989
+dimwishlist:item=1280894514&perks=839105230,3142289711,957782887,588594999
+dimwishlist:item=1280894514&perks=839105230,3142289711,2866798147,47981717
+dimwishlist:item=1280894514&perks=839105230,3142289711,2866798147,2213355989
+dimwishlist:item=1280894514&perks=839105230,3142289711,2866798147,588594999
+dimwishlist:item=1280894514&perks=839105230,3142289711,1428297954,47981717
+dimwishlist:item=1280894514&perks=839105230,3142289711,1428297954,2213355989
+dimwishlist:item=1280894514&perks=839105230,3142289711,1428297954,588594999
+dimwishlist:item=1280894514&perks=839105230,3177308360,957782887,47981717
+dimwishlist:item=1280894514&perks=839105230,3177308360,957782887,2213355989
+dimwishlist:item=1280894514&perks=839105230,3177308360,957782887,588594999
+dimwishlist:item=1280894514&perks=839105230,3177308360,2866798147,47981717
+dimwishlist:item=1280894514&perks=839105230,3177308360,2866798147,2213355989
+dimwishlist:item=1280894514&perks=839105230,3177308360,2866798147,588594999
+dimwishlist:item=1280894514&perks=839105230,3177308360,1428297954,47981717
+dimwishlist:item=1280894514&perks=839105230,3177308360,1428297954,2213355989
+dimwishlist:item=1280894514&perks=839105230,3177308360,1428297954,588594999
+dimwishlist:item=1280894514&perks=839105230,3230963543,957782887,47981717
+dimwishlist:item=1280894514&perks=839105230,3230963543,957782887,2213355989
+dimwishlist:item=1280894514&perks=839105230,3230963543,957782887,588594999
+dimwishlist:item=1280894514&perks=839105230,3230963543,2866798147,47981717
+dimwishlist:item=1280894514&perks=839105230,3230963543,2866798147,2213355989
+dimwishlist:item=1280894514&perks=839105230,3230963543,2866798147,588594999
+dimwishlist:item=1280894514&perks=839105230,3230963543,1428297954,47981717
+dimwishlist:item=1280894514&perks=839105230,3230963543,1428297954,2213355989
+dimwishlist:item=1280894514&perks=839105230,3230963543,1428297954,588594999
+dimwishlist:item=1280894514&perks=4090651448,3142289711,957782887,47981717
+dimwishlist:item=1280894514&perks=4090651448,3142289711,957782887,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3142289711,957782887,588594999
+dimwishlist:item=1280894514&perks=4090651448,3142289711,2866798147,47981717
+dimwishlist:item=1280894514&perks=4090651448,3142289711,2866798147,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3142289711,2866798147,588594999
+dimwishlist:item=1280894514&perks=4090651448,3142289711,1428297954,47981717
+dimwishlist:item=1280894514&perks=4090651448,3142289711,1428297954,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3142289711,1428297954,588594999
+dimwishlist:item=1280894514&perks=4090651448,3177308360,957782887,47981717
+dimwishlist:item=1280894514&perks=4090651448,3177308360,957782887,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3177308360,957782887,588594999
+dimwishlist:item=1280894514&perks=4090651448,3177308360,2866798147,47981717
+dimwishlist:item=1280894514&perks=4090651448,3177308360,2866798147,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3177308360,2866798147,588594999
+dimwishlist:item=1280894514&perks=4090651448,3177308360,1428297954,47981717
+dimwishlist:item=1280894514&perks=4090651448,3177308360,1428297954,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3177308360,1428297954,588594999
+dimwishlist:item=1280894514&perks=4090651448,3230963543,957782887,47981717
+dimwishlist:item=1280894514&perks=4090651448,3230963543,957782887,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3230963543,957782887,588594999
+dimwishlist:item=1280894514&perks=4090651448,3230963543,2866798147,47981717
+dimwishlist:item=1280894514&perks=4090651448,3230963543,2866798147,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3230963543,2866798147,588594999
+dimwishlist:item=1280894514&perks=4090651448,3230963543,1428297954,47981717
+dimwishlist:item=1280894514&perks=4090651448,3230963543,1428297954,2213355989
+dimwishlist:item=1280894514&perks=4090651448,3230963543,1428297954,588594999
+
+// Jurassic Green (pvp)
+//notes:WarlockMaggie (PvP / M+KB / Controller): "Jurassic Green is back with new perks and an intrinsic trait. Unfortunately, Jurassic continues to be plagued with lowest-in-archetype stats nearly across the board. Improving recoil direction, increasing stability and handling, and building out a perk combo is going to be your plan for making this gun work for you." Recommended MW: Handling or Stability|tags:pvp,mkb,controller
+dimwishlist:item=2603335652&perks=839105230,1561002382,1428297954,2458213969
+dimwishlist:item=2603335652&perks=839105230,1561002382,1428297954,2610012052
+dimwishlist:item=2603335652&perks=839105230,1561002382,1428297954,11612903
+dimwishlist:item=2603335652&perks=839105230,1561002382,2846385770,2458213969
+dimwishlist:item=2603335652&perks=839105230,1561002382,2846385770,2610012052
+dimwishlist:item=2603335652&perks=839105230,1561002382,2846385770,11612903
+dimwishlist:item=2603335652&perks=839105230,1561002382,2450788523,2458213969
+dimwishlist:item=2603335652&perks=839105230,1561002382,2450788523,2610012052
+dimwishlist:item=2603335652&perks=839105230,1561002382,2450788523,11612903
+dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,2458213969
+dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,11612903
+dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,2458213969
+dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=839105230,1885400500,2846385770,11612903
+dimwishlist:item=2603335652&perks=839105230,1885400500,2450788523,2458213969
+dimwishlist:item=2603335652&perks=839105230,1885400500,2450788523,2610012052
+dimwishlist:item=2603335652&perks=839105230,1885400500,2450788523,11612903
+dimwishlist:item=2603335652&perks=839105230,3230963543,1428297954,2458213969
+dimwishlist:item=2603335652&perks=839105230,3230963543,1428297954,2610012052
+dimwishlist:item=2603335652&perks=839105230,3230963543,1428297954,11612903
+dimwishlist:item=2603335652&perks=839105230,3230963543,2846385770,2458213969
+dimwishlist:item=2603335652&perks=839105230,3230963543,2846385770,2610012052
+dimwishlist:item=2603335652&perks=839105230,3230963543,2846385770,11612903
+dimwishlist:item=2603335652&perks=839105230,3230963543,2450788523,2458213969
+dimwishlist:item=2603335652&perks=839105230,3230963543,2450788523,2610012052
+dimwishlist:item=2603335652&perks=839105230,3230963543,2450788523,11612903
+dimwishlist:item=2603335652&perks=1840239774,1561002382,1428297954,2458213969
+dimwishlist:item=2603335652&perks=1840239774,1561002382,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1561002382,1428297954,11612903
+dimwishlist:item=2603335652&perks=1840239774,1561002382,2846385770,2458213969
+dimwishlist:item=2603335652&perks=1840239774,1561002382,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1561002382,2846385770,11612903
+dimwishlist:item=2603335652&perks=1840239774,1561002382,2450788523,2458213969
+dimwishlist:item=2603335652&perks=1840239774,1561002382,2450788523,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1561002382,2450788523,11612903
+dimwishlist:item=2603335652&perks=1840239774,1885400500,1428297954,2458213969
+dimwishlist:item=2603335652&perks=1840239774,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1885400500,1428297954,11612903
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2846385770,2458213969
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2846385770,11612903
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2450788523,2458213969
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2450788523,2610012052
+dimwishlist:item=2603335652&perks=1840239774,1885400500,2450788523,11612903
+dimwishlist:item=2603335652&perks=1840239774,3230963543,1428297954,2458213969
+dimwishlist:item=2603335652&perks=1840239774,3230963543,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1840239774,3230963543,1428297954,11612903
+dimwishlist:item=2603335652&perks=1840239774,3230963543,2846385770,2458213969
+dimwishlist:item=2603335652&perks=1840239774,3230963543,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1840239774,3230963543,2846385770,11612903
+dimwishlist:item=2603335652&perks=1840239774,3230963543,2450788523,2458213969
+dimwishlist:item=2603335652&perks=1840239774,3230963543,2450788523,2610012052
+dimwishlist:item=2603335652&perks=1840239774,3230963543,2450788523,11612903
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1428297954,2458213969
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1428297954,11612903
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,2458213969
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2846385770,11612903
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2450788523,2458213969
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2450788523,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1561002382,2450788523,11612903
+dimwishlist:item=2603335652&perks=1482024992,1885400500,1428297954,2458213969
+dimwishlist:item=2603335652&perks=1482024992,1885400500,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1885400500,1428297954,11612903
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2846385770,2458213969
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2846385770,11612903
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2450788523,2458213969
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2450788523,2610012052
+dimwishlist:item=2603335652&perks=1482024992,1885400500,2450788523,11612903
+dimwishlist:item=2603335652&perks=1482024992,3230963543,1428297954,2458213969
+dimwishlist:item=2603335652&perks=1482024992,3230963543,1428297954,2610012052
+dimwishlist:item=2603335652&perks=1482024992,3230963543,1428297954,11612903
+dimwishlist:item=2603335652&perks=1482024992,3230963543,2846385770,2458213969
+dimwishlist:item=2603335652&perks=1482024992,3230963543,2846385770,2610012052
+dimwishlist:item=2603335652&perks=1482024992,3230963543,2846385770,11612903
+dimwishlist:item=2603335652&perks=1482024992,3230963543,2450788523,2458213969
+dimwishlist:item=2603335652&perks=1482024992,3230963543,2450788523,2610012052
+dimwishlist:item=2603335652&perks=1482024992,3230963543,2450788523,11612903
+
+// BrayTech Werewolf (pvp)
+//notes:WarlockMaggie (PvP / M+KB / Controller): "450 Autos got a buff with the mid-season update with increased Stability and a more forgiving damage profile. With its above average stats and equally viable perk pool, the Braytech Werewolf can be a solid contender within PvP. Focus on improving the Stability and Recoil direction as a damage perk like Kill Clip can make down a Guardian in .53 seconds." Recommended MW: Stability|tags:pvp,mkb,controller
+dimwishlist:item=2869466318&perks=1840239774,1561002382,671806388,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1561002382,671806388,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1561002382,671806388,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1561002382,3161816588,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1561002382,3161816588,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1561002382,3161816588,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1561002382,1359896290,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1561002382,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1561002382,1359896290,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1885400500,671806388,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1885400500,671806388,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,671806388,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1885400500,3161816588,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1885400500,3161816588,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,3161816588,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1359896290,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1885400500,1359896290,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1968497646,671806388,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1968497646,671806388,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1968497646,671806388,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1968497646,3161816588,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1968497646,3161816588,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1968497646,3161816588,4082225868
+dimwishlist:item=2869466318&perks=1840239774,1968497646,1359896290,1015611457
+dimwishlist:item=2869466318&perks=1840239774,1968497646,1359896290,1890422124
+dimwishlist:item=2869466318&perks=1840239774,1968497646,1359896290,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1561002382,671806388,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1561002382,671806388,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1561002382,671806388,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1561002382,3161816588,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1561002382,3161816588,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1561002382,3161816588,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1561002382,1359896290,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1561002382,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1561002382,1359896290,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1885400500,671806388,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1885400500,671806388,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,671806388,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1885400500,3161816588,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1885400500,3161816588,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,3161816588,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1359896290,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1885400500,1359896290,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1968497646,671806388,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1968497646,671806388,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1968497646,671806388,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1968497646,3161816588,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1968497646,3161816588,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1968497646,3161816588,4082225868
+dimwishlist:item=2869466318&perks=4090651448,1968497646,1359896290,1015611457
+dimwishlist:item=2869466318&perks=4090651448,1968497646,1359896290,1890422124
+dimwishlist:item=2869466318&perks=4090651448,1968497646,1359896290,4082225868
+dimwishlist:item=2869466318&perks=839105230,1561002382,671806388,1015611457
+dimwishlist:item=2869466318&perks=839105230,1561002382,671806388,1890422124
+dimwishlist:item=2869466318&perks=839105230,1561002382,671806388,4082225868
+dimwishlist:item=2869466318&perks=839105230,1561002382,3161816588,1015611457
+dimwishlist:item=2869466318&perks=839105230,1561002382,3161816588,1890422124
+dimwishlist:item=2869466318&perks=839105230,1561002382,3161816588,4082225868
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,1015611457
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,1890422124
+dimwishlist:item=2869466318&perks=839105230,1561002382,1359896290,4082225868
+dimwishlist:item=2869466318&perks=839105230,1885400500,671806388,1015611457
+dimwishlist:item=2869466318&perks=839105230,1885400500,671806388,1890422124
+dimwishlist:item=2869466318&perks=839105230,1885400500,671806388,4082225868
+dimwishlist:item=2869466318&perks=839105230,1885400500,3161816588,1015611457
+dimwishlist:item=2869466318&perks=839105230,1885400500,3161816588,1890422124
+dimwishlist:item=2869466318&perks=839105230,1885400500,3161816588,4082225868
+dimwishlist:item=2869466318&perks=839105230,1885400500,1359896290,1015611457
+dimwishlist:item=2869466318&perks=839105230,1885400500,1359896290,1890422124
+dimwishlist:item=2869466318&perks=839105230,1885400500,1359896290,4082225868
+dimwishlist:item=2869466318&perks=839105230,1968497646,671806388,1015611457
+dimwishlist:item=2869466318&perks=839105230,1968497646,671806388,1890422124
+dimwishlist:item=2869466318&perks=839105230,1968497646,671806388,4082225868
+dimwishlist:item=2869466318&perks=839105230,1968497646,3161816588,1015611457
+dimwishlist:item=2869466318&perks=839105230,1968497646,3161816588,1890422124
+dimwishlist:item=2869466318&perks=839105230,1968497646,3161816588,4082225868
+dimwishlist:item=2869466318&perks=839105230,1968497646,1359896290,1015611457
+dimwishlist:item=2869466318&perks=839105230,1968497646,1359896290,1890422124
+dimwishlist:item=2869466318&perks=839105230,1968497646,1359896290,4082225868
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep279-30th-anniversary-special-weapons.txt
+
+// Wastelander M5 (PvP first-choice roll)
+// (Barrel Shroud, Full Choke, Smallbore, Corkscrew Rifling), Assault Mag, Slideshot, Opening Shot
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. The Lightweight frame suits aggressive, mobile playstyles, boosting sprint speed by 6.25% and passively adding 20 mobility to help close gaps quickly - you'll need to hit 11 out of 12 pellets for a kill at any resilience. Good all-round stats within the subfamily. For Lightweights, range needs to be over 80 to give a 6.28m range - aim to get to 55 with your barrel, mag and masterwork, without hurting handling or projectile spread. Then Slideshot will add 20, and Opening Shot another 25 to get to 100, which pushes the range out to 7m. Just remember to ABS (always be sliding), and always follow up with a melee! Recommended MW: Range, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1679868061&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,47981717
+dimwishlist:item=1679868061&perks=1482024992,791862061,3161816588,47981717
+dimwishlist:item=1679868061&perks=4090651448,791862061,3161816588,47981717
+
+// Wastelander M5 (PvP first-choice roll)
+// (Barrel Shroud, Full Choke, Smallbore, Corkscrew Rifling), Accurized Rounds, Slideshot, Opening Shot
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. The Lightweight frame suits aggressive, mobile playstyles, boosting sprint speed by 6.25% and passively adding 20 mobility to help close gaps quickly - you'll need to hit 11 out of 12 pellets for a kill at any resilience. Good all-round stats within the subfamily. For Lightweights, range needs to be over 80 to give a 6.28m range - aim to get to 55 with your barrel, mag and masterwork, without hurting handling or projectile spread. Then Slideshot will add 20, and Opening Shot another 25 to get to 100, which pushes the range out to 7m. Just remember to ABS (always be sliding), and always follow up with a melee! Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1679868061&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=1482024992,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=4090651448,3142289711,3161816588,47981717
+
+// Wastelander M5 (PvP first-choice roll)
+// (Barrel Shroud, Full Choke, Smallbore, Corkscrew Rifling), Extended Mag, Air Assault, Opening Shot
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for airborne duelling. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. The Lightweight frame suits aggressive, mobile playstyles, boosting sprint speed by 6.25% and passively adding 20 mobility to help close gaps quickly - you'll need to hit 11 out of 12 pellets for a kill at any resilience. Good all-round stats within the subfamily. For Push out the range or boost your handling with your barrel, then maximise your Airbourne Effectiveness with Extended Mag and Air Assault. In the second trait column, Opening Shot boosts your range by 25 to push out damage drop-off distance. Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=1679868061&perks=1300023272,2420895100,3722653512,47981717
+dimwishlist:item=1679868061&perks=1047830412,2420895100,3722653512,47981717
+dimwishlist:item=1679868061&perks=1482024992,2420895100,3722653512,47981717
+dimwishlist:item=1679868061&perks=4090651448,2420895100,3722653512,47981717
+
+// Matador 64 (PvP first-choice roll)
+// (Barrel Shroud, Full Choke), Accurized Rounds, (Perpetual Motion, Threat Detector), Opening Shot
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. This is a precision pellet (not slug) shotgun with decent baseline stats, but the subfamily is weaker than lightweights, still needing 11 out of 12 pellets to hit for a guaranteed kill, but with a slower fire rate. Barrel Shroud improves the handling, or Full Choke keeps the pellets a little tighter, Accurized Rounds and Opening Shot together boost range to 100 for a 7m damage falloff distance, and in the first trait column either Threat Detector or Perpetual Motion passively boost handling. Just remember to ABS (always be sliding), and always follow up with a melee! Recommended MW: Handling, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2563012876&perks=1300023272,3142289711,1428297954,47981717
+dimwishlist:item=2563012876&perks=1047830412,3142289711,1428297954,47981717
+dimwishlist:item=2563012876&perks=1300023272,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+
+// Matador 64 (PvP first-choice roll)
+// (Barrel Shroud, Full Choke), Assault Mag, (Perpetual Motion, Threat Detector), Opening Shot
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. This is a precision pellet (not slug) shotgun with decent baseline stats, but the subfamily is weaker than lightweights, still needing 11 out of 12 pellets to hit for a guaranteed kill, but with a slower fire rate. Barrel Shroud improves the handling, or Full Choke keeps the pellets a little tighter, a Range Masterwork and Opening Shot together boost range to 100 for a 7m damage falloff distance, Assault Mag makes follow-up shots a little faster, and in the first trait column either Threat Detector or Perpetual Motion passively boost handling. Just remember to ABS (always be sliding), and always follow up with a melee! Recommended MW: Range, with a Targeting Adjustor, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=2563012876&perks=1300023272,791862061,1428297954,47981717
+dimwishlist:item=2563012876&perks=1047830412,791862061,1428297954,47981717
+dimwishlist:item=2563012876&perks=1300023272,791862061,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,791862061,4071163871,47981717
+
+// Pardon Our Dust (PvP first-choice roll)
+// (Quick Launch, Linear Compensator, Smart Drift Control), Spike Grenades, (Auto-Loading Holster, Steady Hands), (Demolitionist, Pugilist)
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. For direct, one-hit kills, you'll need Spike Grenades, paired with a barrel that boosts velocity. In the first trait column, Auto-Loading Holster means you can carry on about your business and have a shot ready when you need it, or Steady Hands provide a boost to handling when you swap back to your primary. In the second trait column Demolitionist or Pugilist grant a hefty 20% ability energy on a kill. Recommended MW: Handling or Velocity, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228,3523296417
+dimwishlist:item=3849810018&perks=1441682018,3301904089,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3525010810,3301904089,509074078,3523296417
+dimwishlist:item=3849810018&perks=3798852852,3301904089,509074078,3523296417
+dimwishlist:item=3849810018&perks=1441682018,3301904089,509074078,3523296417
+dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,691659142
+dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228,691659142
+dimwishlist:item=3849810018&perks=1441682018,3301904089,3300816228,691659142
+dimwishlist:item=3849810018&perks=3525010810,3301904089,509074078,691659142
+dimwishlist:item=3849810018&perks=3798852852,3301904089,509074078,691659142
+dimwishlist:item=3849810018&perks=1441682018,3301904089,509074078,691659142
+
+// Pardon Our Dust (PvP first-choice roll)
+// (Quick Launch, Linear Compensator, Smart Drift Control), Spike Grenades, Auto-Loading Holster, (Demolitionist, Pugilist)
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for blinting while duelling. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. For blinting or clean-up, you'll need Proximity Grenades with a barrel that offsets the Blast Radius Penalty. In the first trait column, Auto-Loading Holster means you can carry on about your business and have a shot ready when you need it. In the second trait column Demolitionist or Pugilist grant a hefty 20% ability energy on a clean-up kill. Recommended MW: Handling or Blast Radius, with a Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=3849810018&perks=1478423395,409831596,3300816228,3523296417
+dimwishlist:item=3849810018&perks=1844523823,409831596,3300816228,3523296417
+dimwishlist:item=3849810018&perks=1441682018,409831596,3300816228,3523296417
+dimwishlist:item=3849810018&perks=1478423395,409831596,3300816228,691659142
+dimwishlist:item=3849810018&perks=1844523823,409831596,3300816228,691659142
+dimwishlist:item=3849810018&perks=1441682018,409831596,3300816228,691659142
+
+// 1000 Yard Stare (PvP first-choice roll)
+// Fluted Barrel, Flared Magwell, Quickdraw, Snapshot Sights
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for duelling. Lots of competition in the Energy Adaptive sniper rifle slot, but this does have solid stats including a decent 66 Aim Assistance and a lowish 44 zoom. As with all snipers, you don't really need additional range, so look for handling to improve weapon speed and stability to reduce flinch in your barrel and mag, and it's hard to look past the tried and trusted combination of Quickdraw and Snapshot Sights in your two trait columns. Recommended MW: Handling or Blast Radius, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=4164201232&perks=1840239774,3230963543,706527188,957782887
+
+// 1000 Yard Stare (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Steady Rounds), Quickdraw, Snapshot Sights
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. Backup PvP pick for duelling. Lots of competition in the Energy Adaptive sniper rifle slot, but this does have solid stats including a decent 66 Aim Assistance and a lowish 44 zoom. As with all snipers, you don't really need additional range, so look for handling to improve weapon speed and stability to reduce flinch in your barrel and mag, and it's hard to look past the tried and trusted combination of Quickdraw and Snapshot Sights in your two trait columns. Recommended MW: Handling or Blast Radius, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=4164201232&perks=839105230,3230963543,706527188,957782887
+dimwishlist:item=4164201232&perks=4090651448,3230963543,706527188,957782887
+dimwishlist:item=4164201232&perks=1840239774,3177308360,706527188,957782887
+dimwishlist:item=4164201232&perks=839105230,3177308360,706527188,957782887
+dimwishlist:item=4164201232&perks=4090651448,3177308360,706527188,957782887
+dimwishlist:item=4164201232&perks=1840239774,106909392,706527188,957782887
+dimwishlist:item=4164201232&perks=839105230,106909392,706527188,957782887
+dimwishlist:item=4164201232&perks=4090651448,106909392,706527188,957782887
+
+// 1000 Yard Stare (PvP first-choice roll)
+// Fluted Barrel, Flared Magwell, No Distractions, Moving Target
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for land control while duelling. Lots of competition in the Energy Adaptive sniper rifle slot, but this does have solid stats including a decent 66 Aim Assistance and a lowish 44 zoom. As with all snipers, you don't really need additional range, so look for handling to improve weapon speed and stability to reduce flinch in your barrel and mag. For lane control, No Distractions reduces flinch by 35% once you've ADSed for 1s, and Moving Target improves your Aim Assistance. Recommended MW: Handling or Stability, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=4164201232&perks=1840239774,3230963543,2866798147,588594999
+
+// 1000 Yard Stare (PvP backup roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling), (Flared Magwell, Tactical Mag, Steady Rounds), No Distractions, Moving Traget
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. Backup PvP pick for land control while duelling. Lots of competition in the Energy Adaptive sniper rifle slot, but this does have solid stats including a decent 66 Aim Assistance and a lowish 44 zoom. As with all snipers, you don't really need additional range, so look for handling to improve weapon speed and stability to reduce flinch in your barrel and mag. For lane control, No Distractions reduces flinch by 35% once you've ADSed for 1s, and Moving Target improves your Aim Assistance. Recommended MW: Handling or Stability, with a Radar Tuner (to help you stay aware of your surroundings if hardscoping), or Targeting Adjuster mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=4164201232&perks=839105230,3230963543,2866798147,588594999
+dimwishlist:item=4164201232&perks=4090651448,3230963543,2866798147,588594999
+dimwishlist:item=4164201232&perks=1840239774,3177308360,2866798147,588594999
+dimwishlist:item=4164201232&perks=839105230,3177308360,2866798147,588594999
+dimwishlist:item=4164201232&perks=4090651448,3177308360,2866798147,588594999
+dimwishlist:item=4164201232&perks=1840239774,106909392,2866798147,588594999
+dimwishlist:item=4164201232&perks=839105230,106909392,2866798147,588594999
+dimwishlist:item=4164201232&perks=4090651448,106909392,2866798147,588594999
+
+// Retraced Path (PvP first-choice roll)
+// Smallbore, Tactical Battery, (Well-Rounded, Perpetual Motion), Golden Tricorn
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for kill-chaining, particularly with a solar subclass. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. Great stats - standard for trace rifles, but not quite as good as Hollow Denial. Difficult to work out what role it plays in the sandbox, effectively being a very accurate high ROF auto rifle that uses special ammo. The base accuracy-adjusted TTK is 0.8s wth 8 crits and 5 body shots, but small damage buffs do make it easier to use - Golden Tricorn x1 or Radiant get you to 0.73s TTK in 5 crits and 7 bodies, and if you can get Golden Tricorn x2 up (and have enough battery charge left), you can get an Accuracy-Adjusted TTK of 0.53s with 5 crits and 4 bodies. Choose a barrel that doesn't have any penalties and Tactical Battery provides a range of small gunfeel stat boosts. In the first trait column, Well-Rounded or Perpetual Motion both help further with gunfeel stats and, in the second, Golden Tricorn is the best damage boost for PvP. This could be very good with a Hunter Caliban's Hand build... Recommended MW: Stability or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=548958835&perks=1482024992,732557052,744594675,2610012052
+dimwishlist:item=548958835&perks=1482024992,732557052,1428297954,2610012052
+
+// Retraced Path (PvP backup roll)
+// (Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Tactical Battery, Particle Repeater, Projection Fuse, Light Battery), (Well-Rounded, Perpetual Motion), Golden Tricorn
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. Backup PvP pick for kill-chaining, particularly with a solar subclass. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. Great stats - standard for trace rifles, but not quite as good as Hollow Denial. Difficult to work out what role it plays in the sandbox, effectively being a very accurate high ROF auto rifle that uses special ammo. The base accuracy-adjusted TTK is 0.8s wth 8 crits and 5 body shots, but small damage buffs do make it easier to use - Golden Tricorn x1 or Radiant get you to 0.73s TTK in 5 crits and 7 bodies, and if you can get Golden Tricorn x2 up (and have enough battery charge left), you can get an Accuracy-Adjusted TTK of 0.53s with 5 crits and 4 bodies. Choose barrel and mag perks that boost gunfeel and don't have any penalties. In the first trait column, Well-Rounded or Perpetual Motion both help further with gunfeel stats and, in the second, Golden Tricorn is the best damage boost for PvP. This could be very good with a Hunter Caliban's Hand build... Recommended MW: Stability or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=548958835&perks=1840239774,732557052,744594675,2610012052
+dimwishlist:item=548958835&perks=839105230,732557052,744594675,2610012052
+dimwishlist:item=548958835&perks=4090651448,732557052,744594675,2610012052
+dimwishlist:item=548958835&perks=1392496348,732557052,744594675,2610012052
+dimwishlist:item=548958835&perks=3250034553,732557052,744594675,2610012052
+dimwishlist:item=548958835&perks=1482024992,3868766766,744594675,2610012052
+dimwishlist:item=548958835&perks=1840239774,3868766766,744594675,2610012052
+dimwishlist:item=548958835&perks=839105230,3868766766,744594675,2610012052
+dimwishlist:item=548958835&perks=4090651448,3868766766,744594675,2610012052
+dimwishlist:item=548958835&perks=1392496348,3868766766,744594675,2610012052
+dimwishlist:item=548958835&perks=3250034553,3868766766,744594675,2610012052
+dimwishlist:item=548958835&perks=1482024992,2969185026,744594675,2610012052
+dimwishlist:item=548958835&perks=1840239774,2969185026,744594675,2610012052
+dimwishlist:item=548958835&perks=839105230,2969185026,744594675,2610012052
+dimwishlist:item=548958835&perks=4090651448,2969185026,744594675,2610012052
+dimwishlist:item=548958835&perks=1392496348,2969185026,744594675,2610012052
+dimwishlist:item=548958835&perks=3250034553,2969185026,744594675,2610012052
+dimwishlist:item=548958835&perks=1482024992,2749775325,744594675,2610012052
+dimwishlist:item=548958835&perks=1840239774,2749775325,744594675,2610012052
+dimwishlist:item=548958835&perks=839105230,2749775325,744594675,2610012052
+dimwishlist:item=548958835&perks=4090651448,2749775325,744594675,2610012052
+dimwishlist:item=548958835&perks=1392496348,2749775325,744594675,2610012052
+dimwishlist:item=548958835&perks=3250034553,2749775325,744594675,2610012052
+dimwishlist:item=548958835&perks=1840239774,732557052,1428297954,2610012052
+dimwishlist:item=548958835&perks=839105230,732557052,1428297954,2610012052
+dimwishlist:item=548958835&perks=4090651448,732557052,1428297954,2610012052
+dimwishlist:item=548958835&perks=1392496348,732557052,1428297954,2610012052
+dimwishlist:item=548958835&perks=3250034553,732557052,1428297954,2610012052
+dimwishlist:item=548958835&perks=1482024992,3868766766,1428297954,2610012052
+dimwishlist:item=548958835&perks=1840239774,3868766766,1428297954,2610012052
+dimwishlist:item=548958835&perks=839105230,3868766766,1428297954,2610012052
+dimwishlist:item=548958835&perks=4090651448,3868766766,1428297954,2610012052
+dimwishlist:item=548958835&perks=1392496348,3868766766,1428297954,2610012052
+dimwishlist:item=548958835&perks=3250034553,3868766766,1428297954,2610012052
+dimwishlist:item=548958835&perks=1482024992,2969185026,1428297954,2610012052
+dimwishlist:item=548958835&perks=1840239774,2969185026,1428297954,2610012052
+dimwishlist:item=548958835&perks=839105230,2969185026,1428297954,2610012052
+dimwishlist:item=548958835&perks=4090651448,2969185026,1428297954,2610012052
+dimwishlist:item=548958835&perks=1392496348,2969185026,1428297954,2610012052
+dimwishlist:item=548958835&perks=3250034553,2969185026,1428297954,2610012052
+dimwishlist:item=548958835&perks=1482024992,2749775325,1428297954,2610012052
+dimwishlist:item=548958835&perks=1840239774,2749775325,1428297954,2610012052
+dimwishlist:item=548958835&perks=839105230,2749775325,1428297954,2610012052
+dimwishlist:item=548958835&perks=4090651448,2749775325,1428297954,2610012052
+dimwishlist:item=548958835&perks=1392496348,2749775325,1428297954,2610012052
+dimwishlist:item=548958835&perks=3250034553,2749775325,1428297954,2610012052
+
+// Retraced Path (PvP first-choice roll)
+// Smallbore, Tactical Battery, (Well-Rounded, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. First-choice PvP pick for kill-chaining. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. Great stats - standard for trace rifles, but not quite as good as Hollow Denial. Difficult to work out what role it plays in the sandbox, effectively being a very accurate high ROF auto rifle that uses special ammo. The base accuracy-adjusted TTK is 0.8s wth 8 crits and 5 body shots, but small damage buffs do make it easier to use - Radiant gets you to 0.73s TTK in 5 crits and 7 bodies. Choose a barrel that doesn't have any penalties and Tactical Battery provides a range of small gunfeel stat boosts. In the first trait column, Well-Rounded or Perpetual Motion both help further with gunfeel stats and, in the second, Incandescent's ignite can catch groups of opponents to make follow-up kills easier. Recommended MW: Stability or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, PvP-God, MKB, Controller
+dimwishlist:item=548958835&perks=1482024992,732557052,744594675,4293542123
+dimwishlist:item=548958835&perks=1482024992,732557052,1428297954,4293542123
+
+// Retraced Path (PvP backup roll)
+// (Smallbore, Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Polygonal Rifling, Hammer-Forged Rifling), (Tactical Battery, Particle Repeater, Projection Fuse, Light Battery), (Well-Rounded, Perpetual Motion), Incandescent
+//notes:Inspired by DMB Podcast 279 with @Saint_Kabr. Backup PvP pick for kill-chaining. Shapeable. The Hot Swap origin trait works well for PvP, boosting handling when swapping to the weapon while damaged for quick swaps and ADS speed. Great stats - standard for trace rifles, but not quite as good as Hollow Denial. Difficult to work out what role it plays in the sandbox, effectively being a very accurate high ROF auto rifle that uses special ammo. The base accuracy-adjusted TTK is 0.8s wth 8 crits and 5 body shots, but small damage buffs do make it easier to use - Radiant gets you to 0.73s TTK in 5 crits and 7 bodies. Choose barrel and mag perks that boost gunfeel and don't have any penalties. In the first trait column, Well-Rounded or Perpetual Motion both help further with gunfeel stats and, in the second, Incandescent's ignite can catch groups of opponents to make follow-up kills easier. Recommended MW: Stability or Handling, with a Targeting Adjuster, Quick Access Sling or Sprint Grip mod depending on your preference.|tags: PvP, PvP-Duel, MKB, Controller
+dimwishlist:item=548958835&perks=1840239774,732557052,744594675,4293542123
+dimwishlist:item=548958835&perks=839105230,732557052,744594675,4293542123
+dimwishlist:item=548958835&perks=4090651448,732557052,744594675,4293542123
+dimwishlist:item=548958835&perks=1392496348,732557052,744594675,4293542123
+dimwishlist:item=548958835&perks=3250034553,732557052,744594675,4293542123
+dimwishlist:item=548958835&perks=1482024992,3868766766,744594675,4293542123
+dimwishlist:item=548958835&perks=1840239774,3868766766,744594675,4293542123
+dimwishlist:item=548958835&perks=839105230,3868766766,744594675,4293542123
+dimwishlist:item=548958835&perks=4090651448,3868766766,744594675,4293542123
+dimwishlist:item=548958835&perks=1392496348,3868766766,744594675,4293542123
+dimwishlist:item=548958835&perks=3250034553,3868766766,744594675,4293542123
+dimwishlist:item=548958835&perks=1482024992,2969185026,744594675,4293542123
+dimwishlist:item=548958835&perks=1840239774,2969185026,744594675,4293542123
+dimwishlist:item=548958835&perks=839105230,2969185026,744594675,4293542123
+dimwishlist:item=548958835&perks=4090651448,2969185026,744594675,4293542123
+dimwishlist:item=548958835&perks=1392496348,2969185026,744594675,4293542123
+dimwishlist:item=548958835&perks=3250034553,2969185026,744594675,4293542123
+dimwishlist:item=548958835&perks=1482024992,2749775325,744594675,4293542123
+dimwishlist:item=548958835&perks=1840239774,2749775325,744594675,4293542123
+dimwishlist:item=548958835&perks=839105230,2749775325,744594675,4293542123
+dimwishlist:item=548958835&perks=4090651448,2749775325,744594675,4293542123
+dimwishlist:item=548958835&perks=1392496348,2749775325,744594675,4293542123
+dimwishlist:item=548958835&perks=3250034553,2749775325,744594675,4293542123
+dimwishlist:item=548958835&perks=1840239774,732557052,1428297954,4293542123
+dimwishlist:item=548958835&perks=839105230,732557052,1428297954,4293542123
+dimwishlist:item=548958835&perks=4090651448,732557052,1428297954,4293542123
+dimwishlist:item=548958835&perks=1392496348,732557052,1428297954,4293542123
+dimwishlist:item=548958835&perks=3250034553,732557052,1428297954,4293542123
+dimwishlist:item=548958835&perks=1482024992,3868766766,1428297954,4293542123
+dimwishlist:item=548958835&perks=1840239774,3868766766,1428297954,4293542123
+dimwishlist:item=548958835&perks=839105230,3868766766,1428297954,4293542123
+dimwishlist:item=548958835&perks=4090651448,3868766766,1428297954,4293542123
+dimwishlist:item=548958835&perks=1392496348,3868766766,1428297954,4293542123
+dimwishlist:item=548958835&perks=3250034553,3868766766,1428297954,4293542123
+dimwishlist:item=548958835&perks=1482024992,2969185026,1428297954,4293542123
+dimwishlist:item=548958835&perks=1840239774,2969185026,1428297954,4293542123
+dimwishlist:item=548958835&perks=839105230,2969185026,1428297954,4293542123
+dimwishlist:item=548958835&perks=4090651448,2969185026,1428297954,4293542123
+dimwishlist:item=548958835&perks=1392496348,2969185026,1428297954,4293542123
+dimwishlist:item=548958835&perks=3250034553,2969185026,1428297954,4293542123
+dimwishlist:item=548958835&perks=1482024992,2749775325,1428297954,4293542123
+dimwishlist:item=548958835&perks=1840239774,2749775325,1428297954,4293542123
+dimwishlist:item=548958835&perks=839105230,2749775325,1428297954,4293542123
+dimwishlist:item=548958835&perks=4090651448,2749775325,1428297954,4293542123
+dimwishlist:item=548958835&perks=1392496348,2749775325,1428297954,4293542123
+dimwishlist:item=548958835&perks=3250034553,2749775325,1428297954,4293542123
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep277-kings-fall-raid-weapons.txt
 
 // Doom of Chelchis (PvP first-choice roll)
