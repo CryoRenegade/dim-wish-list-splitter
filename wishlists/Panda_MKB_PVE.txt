@@ -1,6 +1,8 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+//taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
+
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep280-S18-festival-of-the-lost-and-30th-anniversary-special-power-weapons.txt
 
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep279-30th-anniversary-special-weapons.txt

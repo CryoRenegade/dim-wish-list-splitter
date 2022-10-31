@@ -1,6 +1,32 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+//taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
+
+// Jurassic Green (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Perpetual Motion, Frenzy
+//notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for endgame content. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Dreadful stats compared to any other energy rapid-fire pulse rifle as at v6.2.5.1, but it's the only solar one currently available. Wonky recoil direction of 50, so you'll need to straighten that out as much as possible with a Recoil Direction barrel, Stability Barrel or a bit of both. Take your choice of the combat-effect mag perks in your mag slot. For endgame use, Perpetual Motion boosts gunfeel stats passively and Frenzy provides a decent 15% damage boost in combat. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-God, PvE-MinorSpec, PvP-EndGame, Controller, MKB|tags: PvE, PvE-God, PvE-MinorSpec, PvP-EndGame, Controller, MKB
+dimwishlist:item=2603335652&perks=839105230,1968497646,1428297954,4104185692
+dimwishlist:item=2603335652&perks=3661387068,1968497646,1428297954,4104185692
+dimwishlist:item=2603335652&perks=1392496348,1968497646,1428297954,4104185692
+dimwishlist:item=2603335652&perks=1482024992,1968497646,1428297954,4104185692
+dimwishlist:item=2603335652&perks=839105230,1561002382,1428297954,4104185692
+dimwishlist:item=2603335652&perks=3661387068,1561002382,1428297954,4104185692
+dimwishlist:item=2603335652&perks=1392496348,1561002382,1428297954,4104185692
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1428297954,4104185692
+dimwishlist:item=2603335652&perks=839105230,1885400500,1428297954,4104185692
+dimwishlist:item=2603335652&perks=3661387068,1885400500,1428297954,4104185692
+dimwishlist:item=2603335652&perks=1392496348,1885400500,1428297954,4104185692
+dimwishlist:item=2603335652&perks=1482024992,1885400500,1428297954,4104185692
+
+// Jurassic Green (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Polygonal Rifling, Smallbore), Armor-Piercing Rounds, Perpetual Motion, Adaptive Munitions
+//notes:Inspired by DMB PvE Podcast 37. PvE first-choice roll for Barrier Champions and match game endgame content. The Origin Trait, gaining better ADS and strafe speed when on your own, might be useful when you're away from your fireteam, but think of it more as a useful added extra when it's procced. Dreadful stats compared to any other energy rapid-fire pulse rifle as at v6.2.5.1, but it's the only solar one currently available. Wonky recoil direction of 50, so you'll need to straighten that out as much as possible with a Recoil Direction barrel, Stability Barrel or a bit of both. Armor-Piercing Rounds adds 5% damage to shields in your mag slot. Perpetual Motion boosts gunfeel stats passively and, if you don't already have a better solar pulse rifle with Adaptive Munitions, then you should always have one in your vault to both deal with Barrier Champions, when the mod's around, or for dealing with shields in match game activities. Recommended MW: Handling or Stability, with a damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvP-EndGame, Controller, MKB|tags: PvE, PvE-Boss, PvE-God, PvE-MajorSpec, PvP-EndGame, Controller, MKB
+dimwishlist:item=2603335652&perks=839105230,1968497646,1428297954,1048183818
+dimwishlist:item=2603335652&perks=3661387068,1968497646,1428297954,1048183818
+dimwishlist:item=2603335652&perks=1392496348,1968497646,1428297954,1048183818
+dimwishlist:item=2603335652&perks=1482024992,1968497646,1428297954,1048183818
+
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep280-S18-festival-of-the-lost-and-30th-anniversary-special-power-weapons.txt
 
 // BrayTech Werewolf (PvP first-choice roll)
