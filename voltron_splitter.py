@@ -169,8 +169,14 @@ flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag,
 # -------------------------------------------
 # Exclude YeezyGT and Backup Rolls - Input Filters
 flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "exclude": ["yeezygt", "backup"], "excludeFlag" : False, 
+                        "exclude": ["yeezygt", "backup roll"], "excludeFlag" : False, 
                         "file": "./wishlists/MKB_!Backup_!Yeezy.txt"})
+
+# -------------------------------------------
+# Exclude Backup Rolls - Input Filters
+flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
+                        "exclude": ["backup roll"], "excludeFlag" : False, 
+                        "file": "./wishlists/MKB_!Backup.txt"})
 
 # -----------------------------------------------------------------------------------------------------------------------------
 # Clear Previous Files
