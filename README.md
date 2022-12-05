@@ -10,7 +10,10 @@ To add to DIM:
 1. Go into "wishlist" folder
 2. Select a txt file
 3. Go to raw version. Either click "view raw" link or button on top right side of text window.
-4. Copy URL of raw version into DIM wishlist settings
+4. Copy URL of raw version
+5. On DIM, navigate to Settings-Wish Lists
+6. Paste under "Optionally, supply the URL(s) for a wish list (pipe | separated)"
+7. Click "Update Wish List Source"
 
 To Change WishLists Either:
 * Copy new URL of raw verion of a wishlist
