@@ -1,189 +1,333 @@
-# Main Class for Splitter Program
-from asyncio.windows_events import NULL
+import re
+from collections import OrderedDict
+from collections import Counter
+import copy
 
+allWeapons = {}
+creditAry = []
 
-class Splitter:
-    def __init__(self):
-        self.mainFile = "./dim-wish-list-sources/voltron.txt"
-        self.newWeapon()
+def main():
+    readFile("./dim-wish-list-sources/voltron.txt")
+    #readFile("./temp.txt")
+
+def readFile(filePath):
+    with open(filePath, mode='r', encoding='utf-8') as f:
+        fileLines = f.readlines()
+        weaponAry = []
+        for i, curLine in enumerate(fileLines):
+            # Content in line, add to weapon
+            if len(curLine) > 1:
+                weaponAry.append(curLine)
+
+            # Empty line or last line, inspect weapon and reset weaponAry
+            if (weaponAry != [] and (i == len(fileLines)-1 or len(curLine) <= 1)):
+                inspectWeapon(weaponAry)
+                weaponAry = []
+
+        inspectWishlistConfig()
+
+# Get itemID, add to Dict: { itemid: [[tags, roll], [tags, roll], ...] }
+def inspectWeapon(_weaponAry):
+    rWeaponAry = copy.copy(_weaponAry)
+    rWeaponAry.reverse()
+    weaponTags = ""
+    itemID = -1
+
+    # Reverse loop weapon to get itemID
+    for curLine in rWeaponAry:
+        # Finding Tags ------------------------------------
+        curLine = curLine.lower()
+
+        # When DIM line, get itemID
+        if ("dimwishlist:item=" in curLine):                                
+            # Get's itemID
+            itemID = curLine[curLine.index("dimwishlist:item=") + 17: curLine.index("&perks=")]
+            # Add itemID to tags
+            if ("itemID:" not in weaponTags):
+                weaponTags += " | itemID:" + itemID + "/itemID"
+
+        # Search Every Line For:  ---------------------------
+        if ("dimwishlist:item=" in curLine):                                
+            if ("_dim" not in weaponTags):
+                weaponTags += " | _dim "
+            
+         # Check to add credit tag
+        if ("https://" in curLine or "u/" in curLine):
+            weaponTags += " | _credits "
+
+        if ("god-" in curLine):
+            weaponTags += " | god- "
+        if ("first-" in curLine):
+            weaponTags += " | first- "
+        if ("backup roll" in curLine):
+            weaponTags += " | backup roll "
+        if ("pandapaxxy" in curLine):
+            weaponTags += " | pandapaxxy "
+
+        # Search in Specific Area ----------------------------------------
+        # All text between '(...)'
+        pTags = re.findall(r"(?<=\().+?(?=\))", curLine)
+        weaponTags += " | " + " | ".join(str(i) for i in pTags)
+
+        # All text between '(...)'
+        bTags = re.findall(r"(?<=\[).+?(?=\])", curLine)
+        weaponTags += " | " + " | ".join(str(i) for i in bTags)
+    
+        # All text after tags:
+        if ("tags:" in curLine):
+            weaponTags += " | " + curLine[curLine.index("tags:"):]            
         
-    def newWeapon(self):
-        self.pveFlag = self.pvpFlag = self.mkbFlag = self.ctrFlag = False
-        self.dimFlag = self.creditFlag = False
+    # Change all m+kb to mkb
+    weaponTags = weaponTags.replace("m+kb", "mkb")
+    
+    # If weapon is mising Input or Gamemode tag add default of MKB and PVE
+    if (not re.search("mkb|controller", weaponTags)):
+        weaponTags += " | mkb "
+    if (not re.search("pve|pvp", weaponTags)):
+        weaponTags += " | pve "
+
+    if (itemID not in allWeapons and itemID != -1):
+        allWeapons[itemID] = []
+    if (itemID != -1):
+        allWeapons[itemID].append([weaponTags, _weaponAry])
+
+    if (itemID == -1 and "_dim" not in weaponTags and "_credit" in weaponTags):
+        creditAry.append(_weaponAry)
+
+# Look at wishlist options after reading file
+# { itemid: [[tags, roll], [tags, roll], ...] }
+def inspectWishlistConfig():
+    for wishlist in listConfigs:
+        # Write Credits to File
+        for credits in creditAry:
+            writeToFile(wishlist, credits)
+
+        # Get all Keys for weapon ID
+        for itemID in allWeapons.keys():
+            allowedRecs = []
+            for weaponInfo in allWeapons.get(itemID):
+                tags = weaponInfo[0]
+                weaponAry = weaponInfo[1]
+
+                if (checkFilters(wishlist, tags) == False):
+                    continue
+
+                weaponAry = perkAdjustments(wishlist, weaponAry)
+
+                allowedRecs.append(weaponAry)
+            
+            if ("dupes" not in wishlist):
+                writeToFile(wishlist, allowedRecs)
+                continue
+
+            allDims = []
+            for curRec in allowedRecs:
+                for curLine in curRec:
+                    if ("dimwishlist:item=" in curLine):
+                        allDims.append(curLine)
+
+            # Find dupe count and limit perks
+            perkCount = dict(Counter(allDims))
+            reqCount = int(wishlist.get("dupes") * len(allWeapons.get(itemID)) / 10)
+            allowedPerks = {key for key, value in perkCount.items() if value >= reqCount}
+
+            allowedRecs = getAllowedPerks(allowedRecs, allowedPerks)
+
+            writeToFile(wishlist, allowedRecs)
+
+# Checks weapon perks and removes those which aren't allowed
+def getAllowedPerks(_allowedRecs, allowedPerks):
+    if (len(allowedPerks) <= 0):
+        return _allowedRecs
+    
+    allowedRecs = []
+    for index, curRec in enumerate(_allowedRecs):
+        allowedRecs.append([])
+        for curLine in curRec:
+            if ("dimwishlist:item=" not in curLine):
+                allowedRecs[index].append(curLine)
+            elif (curLine in allowedPerks):
+                allowedRecs[index].append(curLine)
+    
+    return allowedRecs
+
+# Removes Origin Trait Column
+# Limits Perk Columns if Wishlist wants
+def perkAdjustments(wishlist, _weaponAry):
+    weaponAry = []
+    for curLine in _weaponAry:
+        if ("dimwishlist:item=" in curLine):
+            if ("\n" not in curLine):
+                curLine += "\n"
+            allPerks = curLine[curLine.index("&perks=")+7:curLine.index("\n")].split(",")
+
+            # Remove Origin Perk
+            if (len(allPerks) > 4):                                
+                selPerks = [allPerks[i] for i in [0, 1, 2, 3]]
+                allPerks = selPerks
+            
+            if ("perks" in wishlist and len(allPerks) >= len(wishlist.get("perks"))):
+                selPerks = [allPerks[i - 5 + len(allPerks)] for i in wishlist.get("perks")]
+                # selPerks = [allPerks[i] for i in [len(allPerks)-2, len(allPerks)-1]]
+                curLine = curLine[:curLine.index("&perks=")+7] + ",".join(str(i) for i in selPerks) + "\n"
         
-        self.lineCollection = []
+        weaponAry.append(curLine)
 
-    def readMain(self):
-        with open(self.mainFile, mode='r', encoding='utf-8') as f:
-            for line in f:
-                # Non-empty Line
-                if len(line) != 1:
-                    self.lineCollection.append(line)
+    # Remove duplicates
+    weaponAry = list(OrderedDict.fromkeys(weaponAry))
 
-                    # improved flag search in lines
-                    tempLine = line
-                    relevantLine = ""
-                    while tempLine.find("(") != -1 and tempLine.find(')', tempLine.find('(')) != -1:
-                        tarString = tempLine[tempLine.find('('):tempLine.find(')', tempLine.find('('))+1]
-                        relevantLine += " " + tarString;
-                        tempLine = tempLine.split(tarString, 1)[1]
+    # Limits Duplicates
+    #if ("dupes" in wishlist):
+    #    perkCount = OrderedDict(Counter(weaponAry))
+    #    newWeapon = []
+    #    # newWeapon = {key for key, value in perkCount.items() if value < wishlist.get("dupes")}
+    #    for key, val in perkCount.items():
+    #        if (val > int(wishlist.get("dupes"))):
+    #            val = int(wishlist.get("dupes"))
+    #        for i in range(val):
+    #            newWeapon.append(key)
+    #    return newWeapon
 
-                    # tag search in lines
-                    if "tags:" in line.lower():
-                        relevantLine += " " + line[line.rfind("tags:"):]
+    return weaponAry
 
-                    # Ignore Case
-                    relevantLine = relevantLine.lower()
-                    line = line.lower()
+# Single [] = and ex. [] and []
+# Mutlieple in [] = or ex. [x or y] and [a or b]
+def checkFilters(wishlist, tags):
+    if ("_dim" in tags):
+        if ("include" in wishlist):
 
-                    # Relevant Line Flags
-                    if not self.pveFlag and 'pve' in relevantLine:
-                        self.pveFlag = True
-                    if not self.pvpFlag and 'pvp' in relevantLine:
-                        self.pvpFlag = True
-                    if not self.mkbFlag and ('mkb' in relevantLine or "m+kb" in relevantLine):
-                        self.mkbFlag = True
-                    if not self.ctrFlag and 'controller' in relevantLine:
-                        self.ctrFlag = True
-                    
-                    # Full Line Flags
-                    if not self.dimFlag and 'dimwishlist:item' in line:
-                        self.dimFlag = True
-                    if not self.creditFlag and 'https://' in line or 'u/' in line:
-                        self.creditFlag = True
-
-                    # checks line for search flag
-                    for listSettings in flag_search_file:
-                        if ("search" in listSettings):
-                            if (not listSettings.get("searchFlag") 
-                                and any(i in line for i in listSettings.get("search")) ):
-                                listSettings["searchFlag"] = True
-
-                    # check line for exclude flag
-                    for listSettings in flag_search_file:
-                        if ("exclude" in listSettings):
-                            if (not listSettings.get("excludeFlag") 
-                                and any(i in line for i in listSettings.get("exclude")) ):
-                                listSettings["excludeFlag"] = True
-
-                # Empty Line
+            for curFilter in wishlist.get("include"):
+                filterSplit = curFilter.split(" ")
+                if (len(filterSplit) <= 1):
+                    if (curFilter not in tags):
+                        return False
                 else:
-                    self.checkWrite()
-                    self.newWeapon()
-        
-        self.checkWrite()
+                    if (not any(i in tags for i in curFilter.split(" "))):
+                        return False       
 
-    def checkWrite(self):
-        for curWishList in flag_search_file:
-            if self.lineCollection != []:
-                if (
-                    ( # Checks flags 
-                    (curWishList.get("flag", lambda: None)() or curWishList.get("flag") is None)
-                    and (curWishList.get("searchFlag") or curWishList.get("search") is None) 
-                    and (not curWishList.get("excludeFlag") or curWishList.get("exclude") is None) 
-                    ) # Checks for Dim Link or Credits
-                    or (not self.dimFlag and self.creditFlag) ):
-                    with open(curWishList.get("file"), mode='a') as tempFile:
-                        for i in self.lineCollection:
-                            tempFile.write(i)
-                        tempFile.write("\n")
+        if ("exclude" in wishlist):
+            if (any(i in tags for i in wishlist.get("exclude"))):
+                return False
+    elif ("_credit" not in tags):
+        return False
 
-            if ("search" in curWishList):
-                curWishList["searchFlag"] = False
-            if ("exclude" in curWishList):
-                curWishList["excludeFlag"] = False
+    return True
 
-mainObj = Splitter()
+# weaponAry = 2D Array
+def writeToFile(wishlist, weaponAry):   
+    with open(wishlist.get("path"), mode='a') as file:
+        for rec in weaponAry:
+            for line in rec:
+                file.write(line)
+            file.write("\n")
 
 # -----------------------------------------------------------------------------------------------------------------------------
-# Dictionary of All Filters
-flag_search_file = []
+# Array of Wishlists
+# Each Wishlist is a Dictionary with 
+#   Flag - True / False for Filter Options
+#   Include / Exclude Filter - Using AND logic: PVE, PVP, MKB, Controller, Backup Roll, God, etc. 
+#   Perk Columns - "" or "1, 2, 3, 4" for All or "3, 4" for 3rd and 4th, etc.  
+#   Grouping Options - Combines Recommendations per Weapon ex. 0 for all combines or 2 for at least 2 recommendations
+#   Destination Path - Location and Name for Wishlist
+listConfigs = []
 
 # -------------------------------------------
 # No Filters
-flag_search_file.append({"file": "./wishlists/All.txt"})
+listConfigs.append({"path": "./wishlists/All.txt"})
 
 # -------------------------------------------
 # Gamemode Filters
-flag_search_file.append({"flag": lambda: mainObj.pveFlag or not mainObj.pvpFlag, 
-                        "file": "./wishlists/PVE.txt"})
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag, 
-                        "file": "./wishlists/PVP.txt"})
+listConfigs.append({"include": ["PVE"], 
+                    "path": "./wishlists/PVE.txt"})
+listConfigs.append({"include": ["PVP"], 
+                    "path": "./wishlists/PVP.txt"})
 
 # -------------------------------------------
 # Input Filters
-flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "file": "./wishlists/MKB.txt"})
-flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
-                        "file": "./wishlists/CTR.txt"})
+listConfigs.append({"include": ["MKB"], 
+                    "path": "./wishlists/MKB.txt"})
+listConfigs.append({"include": ["Controller"], 
+                    "path": "./wishlists/CTR.txt"})
 
 # -------------------------------------------
-# Separate PvE / PvP Filters
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "file": "./wishlists/MKB_PVE.txt"})
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "file": "./wishlists/MKB_PVP.txt"})
+# Input Filters | 3rd and 4th Columns
+listConfigs.append({"include": ["MKB"],
+                    "perks": [3, 4],
+                    "path": "./wishlists/MKB_Perks.txt"})
+listConfigs.append({"include": ["Controller"],
+                    "perks": [3, 4], 
+                    "path": "./wishlists/CTR_Perks.txt"})
 
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
-                        "file": "./wishlists/CTR_PVE.txt"})
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
-                        "file": "./wishlists/CTR_PVP.txt"})
+# -------------------------------------------
+# Input Filters | 3rd and 4th Columns | At Least 2 Dupes
+listConfigs.append({"include": ["MKB"],
+                    "perks": [3, 4],
+                    "group": 2,
+                    "path": "./wishlists/MKB_Perks_D2.txt"})
+listConfigs.append({"include": ["Controller"],
+                    "perks": [3, 4],
+                    "group": 2, 
+                    "path": "./wishlists/CTR_Perks_D2.txt"})
+
+# -------------------------------------------
+# Input_Gamdemode Filters
+listConfigs.append({"include": ["MKB", "PVE"], 
+                    "path": "./wishlists/MKB_PVE.txt"})
+listConfigs.append({"include": ["MKB", "PVP"], 
+                    "path": "./wishlists/MKB_PVP.txt"})
+listConfigs.append({"include": ["Controller", "PVE"], 
+                    "path": "./wishlists/CTR_PVE.txt"})
+listConfigs.append({"include": ["Controller", "PVP"], 
+                    "path": "./wishlists/CTR_PVP.txt"})
 
 # -------------------------------------------
 # PandaPaxxy Filters
-flag_search_file.append({"search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/Panda.txt"})
+listConfigs.append({"include": ["pandapaxxy"], 
+                    "path": "./wishlists/Panda.txt"})
 
-flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/Panda_MKB.txt"})
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/Panda_MKB_PVE.txt"})
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag and (mainObj.mkbFlag or not mainObj.ctrFlag), 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/Panda_MKB_PVP.txt"})
+listConfigs.append({"include": ["MKB", "pandapaxxy"], 
+                    "path": "./wishlists/MKB_Panda.txt"})
+listConfigs.append({"include": ["MKB", "PVE", "pandapaxxy"],
+                    "path": "./wishlists/MKB_Panda_PVE.txt"})
+listConfigs.append({"include": ["MKB", "PVP", "pandapaxxy"], 
+                    "path": "./wishlists/MKB_Panda_PVP.txt"})
 
-flag_search_file.append({"flag": lambda: mainObj.ctrFlag, 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/Panda_CTR.txt"})
-flag_search_file.append({"flag": lambda: (mainObj.pveFlag or not mainObj.pvpFlag) and mainObj.ctrFlag, 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/Panda_CTR_PVE.txt"})                        
-flag_search_file.append({"flag": lambda: mainObj.pvpFlag and mainObj.ctrFlag, 
-                        "search": ["pandapaxxy"], "searchFlag": False,
-                        "file": "./wishlists/Panda_CTR_PVP.txt"})
+listConfigs.append({"include": ["Controller", "pandapaxxy"], 
+                    "path": "./wishlists/CTR_Panda.txt"})
+listConfigs.append({"include": ["Controller", "PVE", "pandapaxxy"], 
+                    "path": "./wishlists/CTR_Panda_PVE.txt"})                        
+listConfigs.append({"include": ["Controller", "PVP", "pandapaxxy"],
+                    "path": "./wishlists/CTR_Panda_PVP.txt"})
 
 # -------------------------------------------
 # God Filters
-flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "search": ["god-"], "searchFlag": False,
-                        "file": "./wishlists/MKB_GOD.txt"})
-
-# -------------------------------------------
-# Exclude YeezyGT - Input Filters
-flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "exclude": ["yeezygt"], "excludeFlag" : False, 
-                        "file": "./wishlists/MKB_!Yeezy.txt"})
-
-# -------------------------------------------
-# Exclude YeezyGT and Backup Rolls - Input Filters
-flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "exclude": ["yeezygt", "backup roll"], "excludeFlag" : False, 
-                        "file": "./wishlists/MKB_!Backup_!Yeezy.txt"})
+listConfigs.append({"include": ["MKB"],
+                    "include": ["god- first-"], 
+                    "path": "./wishlists/MKB_God.txt"})
 
 # -------------------------------------------
 # Exclude Backup Rolls - Input Filters
-flag_search_file.append({"flag": lambda: mainObj.mkbFlag or not mainObj.ctrFlag, 
-                        "exclude": ["backup roll"], "excludeFlag" : False, 
-                        "file": "./wishlists/MKB_!Backup.txt"})
+listConfigs.append({"include": ["MKB"],
+                    "exclude": ["Backup Roll"],
+                    "path": "./wishlists/MKB_!Backup.txt"})
+                
+listConfigs.append({"include": ["MKB"],
+                    "exclude": ["Backup Roll"],
+                    "perks": [3,4],
+                    "path": "./wishlists/MKB_!Backup_Perks.txt"})
 
 # -----------------------------------------------------------------------------------------------------------------------------
-# Clear Previous Files
-for curWishList in flag_search_file:
-    with open(curWishList.get("file"), mode='w') as clearFile:
-        pass
+# Clear Existing Files
+def cleanExistingFiles():
+    for wishlist in listConfigs:
+        with open(wishlist.get("path"), mode='w') as clearFile:
+            pass
+        if ("include" in wishlist):
+            wishlist["include"] = [i.lower() for i in wishlist.get("include")]
+        if ("exclude" in wishlist):
+            wishlist["exclude"] = [i.lower() for i in wishlist.get("exclude")]
 
-# -------------------------------------------
-# Start Program
-mainObj.readMain()
+#test()
+
+cleanExistingFiles()
+main()
