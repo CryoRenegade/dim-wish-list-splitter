@@ -14,4 +14,4 @@ To add to DIM:
 
 To Change WishLists Either:
 * Copy new URL of raw verion of a wishlist
-* Adjust ending of existing URL (ex. .../wishlists/PvE.txt --> .../wishlists/PvP-MKB.txt)
+* Adjust ending of existing URL (ex. .../wishlists/MKB.txt --> .../wishlists/MKB_PVE.txt)
