@@ -262,11 +262,11 @@ listConfigs.append({"include": ["Controller"],
 # Input Filters | 3rd and 4th Columns | At Least 2 Dupes
 listConfigs.append({"include": ["MKB"],
                     "perks": [3, 4],
-                    "group": 2,
+                    "dupes": 2,
                     "path": "./wishlists/MKB_Perks_D2.txt"})
 listConfigs.append({"include": ["Controller"],
                     "perks": [3, 4],
-                    "group": 2, 
+                    "dupes": 2, 
                     "path": "./wishlists/CTR_Perks_D2.txt"})
 
 # -------------------------------------------
@@ -315,6 +315,12 @@ listConfigs.append({"include": ["MKB"],
                     "exclude": ["Backup Roll"],
                     "perks": [3,4],
                     "path": "./wishlists/MKB_!Backup_Perks.txt"})
+
+listConfigs.append({"include": ["MKB"],
+                    "exclude": ["Backup Roll"],
+                    "perks": [3,4],
+                    "dupes": 2,
+                    "path": "./wishlists/MKB_!Backup_Perks_D2.txt"})
 
 # -----------------------------------------------------------------------------------------------------------------------------
 # Clear Existing Files
