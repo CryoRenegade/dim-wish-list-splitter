@@ -128,9 +128,10 @@ def inspectWishlistConfig():
 
             # Find dupe count and limit perks
             perkCount = dict(Counter(allDims))
-            reqCount = int(wishlist.get("dupes") * len(allWeapons.get(itemID)) / 10)
+            reqCount = min(int(wishlist.get("dupes") * len(allWeapons.get(itemID)) / 10), wishlist.get("dupes"))
             allowedPerks = {key for key, value in perkCount.items() if value >= reqCount}
-
+            #allowedPerks = {key for key, value in perkCount.items() if value >= 2}
+            
             allowedRecs = getAllowedPerks(allowedRecs, allowedPerks)
 
             writeToFile(wishlist, allowedRecs)
