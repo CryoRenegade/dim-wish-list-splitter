@@ -2,6 +2,46 @@ title:This is a compiled collection of god/recommended rolls from top community 
 
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+title:u/pandapaxxy's Season 19, World Drops M+KB Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
+
+title:u/pandapaxxy's Season 19, World Drops Controller Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
+
+title:u/pandapaxxy's Season 19, Spire of the Watcher Dungeon M+KB Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokmma/spire_of_the_watcher_breakdown/
+
+title:u/pandapaxxy's Season 19, Spire of the Watcher Dungeon Controller Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokmma/spire_of_the_watcher_breakdown/
+
+title:u/pandapaxxy's Season 19, Seraph Weapons and Ikelos Weapons M+KB Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokq3i/season_19_seraph_weapons_and_ikelos_weapons/
+
+title:u/pandapaxxy's Season 19, Seraph Weapons and Ikelos Weapons M+KB Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokq3i/season_19_seraph_weapons_and_ikelos_weapons/
+
+title:u/pandapaxxy's Season 19, Faction Weapons M+KB Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokr09/season_19_faction_weapons/
+
+title:u/pandapaxxy's Season 19, Faction Weapons Controller Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokr09/season_19_faction_weapons/
+
+title:u/pandapaxxy's Season 19, Dawning M+KB Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
 
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep280-S18-festival-of-the-lost-and-30th-anniversary-special-power-weapons.txt
