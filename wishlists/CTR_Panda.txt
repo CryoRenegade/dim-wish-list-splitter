@@ -42,7 +42,19 @@ title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
 
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-seraph-ikelos-weapons.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-ikelos-smg-correction.txt
+
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-s19-dawning-weapons.txt
+
+title:WarlockMaggie's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+title:SirStallion's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
 
@@ -326,63 +338,45 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 
 // Aurvandil FR6
 //notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is a spicy roll. Reconstruction and chill clip are so strong together. Subsistence is another good shout if you know you’ll secure the kill. I think dropping the charge time as a quality of life perk will make the whole experience better, but if you are okay with the charge time normally, you can go for a larger magazine." Recommended MW - Charge Time.|tags:pve,mkb,controller
-dimwishlist:item=963710795&perks=839105230,3230963543,247725512,124408337
-dimwishlist:item=963710795&perks=839105230,1087426260,247725512,124408337
-dimwishlist:item=963710795&perks=839105230,679225683,247725512,124408337
-dimwishlist:item=963710795&perks=839105230,3230963543,1428297954,124408337
-dimwishlist:item=963710795&perks=839105230,1087426260,1428297954,124408337
-dimwishlist:item=963710795&perks=839105230,679225683,1428297954,124408337
-dimwishlist:item=963710795&perks=839105230,3230963543,1354429876,124408337
-dimwishlist:item=963710795&perks=839105230,1087426260,1354429876,124408337
-dimwishlist:item=963710795&perks=839105230,679225683,1354429876,124408337
-dimwishlist:item=963710795&perks=839105230,3230963543,247725512,1015611457
-dimwishlist:item=963710795&perks=839105230,1087426260,247725512,1015611457
-dimwishlist:item=963710795&perks=839105230,679225683,247725512,1015611457
-dimwishlist:item=963710795&perks=839105230,3230963543,1428297954,1015611457
-dimwishlist:item=963710795&perks=839105230,1087426260,1428297954,1015611457
-dimwishlist:item=963710795&perks=839105230,679225683,1428297954,1015611457
-dimwishlist:item=963710795&perks=839105230,3230963543,1354429876,1015611457
-dimwishlist:item=963710795&perks=839105230,1087426260,1354429876,1015611457
-dimwishlist:item=963710795&perks=839105230,679225683,1354429876,1015611457
-dimwishlist:item=963710795&perks=839105230,3230963543,247725512,2610012052
-dimwishlist:item=963710795&perks=839105230,1087426260,247725512,2610012052
-dimwishlist:item=963710795&perks=839105230,679225683,247725512,2610012052
-dimwishlist:item=963710795&perks=839105230,3230963543,1428297954,2610012052
-dimwishlist:item=963710795&perks=839105230,1087426260,1428297954,2610012052
-dimwishlist:item=963710795&perks=839105230,679225683,1428297954,2610012052
-dimwishlist:item=963710795&perks=839105230,3230963543,1354429876,2610012052
-dimwishlist:item=963710795&perks=839105230,1087426260,1354429876,2610012052
-dimwishlist:item=963710795&perks=839105230,679225683,1354429876,2610012052
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2978966579
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,2978966579
+dimwishlist:item=963710795&perks=839105230,689005463,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,689005463,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,3523296417
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,3523296417
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,3523296417
+dimwishlist:item=963710795&perks=839105230,689005463,1820235745,3523296417
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,3523296417
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,3523296417
 
 // Aurvandil FR6
 //notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is a spicy roll. Reconstruction and chill clip are so strong together. Subsistence is another good shout if you know you’ll secure the kill. I think dropping the charge time as a quality of life perk will make the whole experience better, but if you are okay with the charge time normally, you can go for a larger magazine." Recommended MW - Charge Time.|tags:pve,mkb,controller
-dimwishlist:item=963710795&perks=839105230,3230963543,247725512,124408337
-dimwishlist:item=963710795&perks=839105230,1087426260,247725512,124408337
-dimwishlist:item=963710795&perks=839105230,679225683,247725512,124408337
-dimwishlist:item=963710795&perks=839105230,3230963543,1428297954,124408337
-dimwishlist:item=963710795&perks=839105230,1087426260,1428297954,124408337
-dimwishlist:item=963710795&perks=839105230,679225683,1428297954,124408337
-dimwishlist:item=963710795&perks=839105230,3230963543,1354429876,124408337
-dimwishlist:item=963710795&perks=839105230,1087426260,1354429876,124408337
-dimwishlist:item=963710795&perks=839105230,679225683,1354429876,124408337
-dimwishlist:item=963710795&perks=839105230,3230963543,247725512,1015611457
-dimwishlist:item=963710795&perks=839105230,1087426260,247725512,1015611457
-dimwishlist:item=963710795&perks=839105230,679225683,247725512,1015611457
-dimwishlist:item=963710795&perks=839105230,3230963543,1428297954,1015611457
-dimwishlist:item=963710795&perks=839105230,1087426260,1428297954,1015611457
-dimwishlist:item=963710795&perks=839105230,679225683,1428297954,1015611457
-dimwishlist:item=963710795&perks=839105230,3230963543,1354429876,1015611457
-dimwishlist:item=963710795&perks=839105230,1087426260,1354429876,1015611457
-dimwishlist:item=963710795&perks=839105230,679225683,1354429876,1015611457
-dimwishlist:item=963710795&perks=839105230,3230963543,247725512,2610012052
-dimwishlist:item=963710795&perks=839105230,1087426260,247725512,2610012052
-dimwishlist:item=963710795&perks=839105230,679225683,247725512,2610012052
-dimwishlist:item=963710795&perks=839105230,3230963543,1428297954,2610012052
-dimwishlist:item=963710795&perks=839105230,1087426260,1428297954,2610012052
-dimwishlist:item=963710795&perks=839105230,679225683,1428297954,2610012052
-dimwishlist:item=963710795&perks=839105230,3230963543,1354429876,2610012052
-dimwishlist:item=963710795&perks=839105230,1087426260,1354429876,2610012052
-dimwishlist:item=963710795&perks=839105230,679225683,1354429876,2610012052
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2978966579
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2978966579
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,2978966579
+dimwishlist:item=963710795&perks=839105230,689005463,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,2978966579
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,2610012052
+dimwishlist:item=963710795&perks=839105230,689005463,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,2610012052
+dimwishlist:item=963710795&perks=839105230,689005463,1523832109,3523296417
+dimwishlist:item=963710795&perks=839105230,2680121939,1523832109,3523296417
+dimwishlist:item=963710795&perks=839105230,1483536627,1523832109,3523296417
+dimwishlist:item=963710795&perks=839105230,689005463,1820235745,3523296417
+dimwishlist:item=963710795&perks=839105230,2680121939,1820235745,3523296417
+dimwishlist:item=963710795&perks=839105230,1483536627,1820235745,3523296417
 
 // Aurvandil FR6
 //notes:pandapaxxy (PvP / Controller): "In PvP there aren't a lot of pros for high-impact fusions. They are certainly strong and they are my favorites to use. But the charge time increase really hurt their overall utility. The change to 5 bolts was nice, but not having high-impact reserves in this weapons perk pool is a bit of a let down. Elemental capacitor can make it feel super consistent on void, arc or stasis. Firmly planted will make the shot you do take incredibly consistent, void or not." Recommended MW - Range.|tags:pvp,controller
@@ -502,24 +496,24 @@ dimwishlist:item=2328531378&perks=1840239774,3230963543,1774574192,331667533
 dimwishlist:item=2328531378&perks=1482024992,3230963543,1774574192,331667533
 dimwishlist:item=2328531378&perks=1840239774,2420895100,1774574192,331667533
 dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,331667533
-dimwishlist:item=2328531378&perks=1840239774,1087426260,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1482024992,1087426260,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1840239774,3230963543,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1482024992,3230963543,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1840239774,2420895100,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1482024992,2420895100,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1840239774,1087426260,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1482024992,1087426260,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1840239774,3230963543,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1482024992,3230963543,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1840239774,2420895100,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1482024992,2420895100,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1840239774,1087426260,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1482024992,1087426260,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1840239774,3230963543,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1482024992,3230963543,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1840239774,2420895100,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,2939589096
+dimwishlist:item=2328531378&perks=1840239774,1087426260,3523296417,365154968
+dimwishlist:item=2328531378&perks=1482024992,1087426260,3523296417,365154968
+dimwishlist:item=2328531378&perks=1840239774,3230963543,3523296417,365154968
+dimwishlist:item=2328531378&perks=1482024992,3230963543,3523296417,365154968
+dimwishlist:item=2328531378&perks=1840239774,2420895100,3523296417,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,3523296417,365154968
+dimwishlist:item=2328531378&perks=1840239774,1087426260,1428297954,365154968
+dimwishlist:item=2328531378&perks=1482024992,1087426260,1428297954,365154968
+dimwishlist:item=2328531378&perks=1840239774,3230963543,1428297954,365154968
+dimwishlist:item=2328531378&perks=1482024992,3230963543,1428297954,365154968
+dimwishlist:item=2328531378&perks=1840239774,2420895100,1428297954,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1428297954,365154968
+dimwishlist:item=2328531378&perks=1840239774,1087426260,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,1087426260,1774574192,365154968
+dimwishlist:item=2328531378&perks=1840239774,3230963543,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,3230963543,1774574192,365154968
+dimwishlist:item=2328531378&perks=1840239774,2420895100,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,365154968
 
 // Lodbrok-C
 //notes:pandapaxxy (PvE / M+KB / Controller): "High-impact frame autos feel weird. They shoot too slow for my liking but their damage is incredible. They can chew through rank-and-file enemies with ease, but their low magazine size handicaps them. The best thing to do is try and work around the low magazine by bumping it up or bypassing it entirely. Doing both with appended mag and demolitionist might give you the best bang for your buck. Add on adrenaline junkie for the damage boost and you have a pretty solid weapon. Osmosis will help with elemental wells and general subclass synergy. Cascade point and target lock are interesting. I think on a high-damage primary like Lodbrok-C either could work really well. Cascade point will increase your RPM and target lock will increase your damage. Either way you’re doing more damage to majors and chunky enemies." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -559,24 +553,24 @@ dimwishlist:item=2328531378&perks=1840239774,3230963543,1774574192,331667533
 dimwishlist:item=2328531378&perks=1482024992,3230963543,1774574192,331667533
 dimwishlist:item=2328531378&perks=1840239774,2420895100,1774574192,331667533
 dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,331667533
-dimwishlist:item=2328531378&perks=1840239774,1087426260,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1482024992,1087426260,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1840239774,3230963543,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1482024992,3230963543,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1840239774,2420895100,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1482024992,2420895100,3523296417,2939589096
-dimwishlist:item=2328531378&perks=1840239774,1087426260,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1482024992,1087426260,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1840239774,3230963543,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1482024992,3230963543,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1840239774,2420895100,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1482024992,2420895100,1428297954,2939589096
-dimwishlist:item=2328531378&perks=1840239774,1087426260,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1482024992,1087426260,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1840239774,3230963543,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1482024992,3230963543,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1840239774,2420895100,1774574192,2939589096
-dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,2939589096
+dimwishlist:item=2328531378&perks=1840239774,1087426260,3523296417,365154968
+dimwishlist:item=2328531378&perks=1482024992,1087426260,3523296417,365154968
+dimwishlist:item=2328531378&perks=1840239774,3230963543,3523296417,365154968
+dimwishlist:item=2328531378&perks=1482024992,3230963543,3523296417,365154968
+dimwishlist:item=2328531378&perks=1840239774,2420895100,3523296417,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,3523296417,365154968
+dimwishlist:item=2328531378&perks=1840239774,1087426260,1428297954,365154968
+dimwishlist:item=2328531378&perks=1482024992,1087426260,1428297954,365154968
+dimwishlist:item=2328531378&perks=1840239774,3230963543,1428297954,365154968
+dimwishlist:item=2328531378&perks=1482024992,3230963543,1428297954,365154968
+dimwishlist:item=2328531378&perks=1840239774,2420895100,1428297954,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1428297954,365154968
+dimwishlist:item=2328531378&perks=1840239774,1087426260,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,1087426260,1774574192,365154968
+dimwishlist:item=2328531378&perks=1840239774,3230963543,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,3230963543,1774574192,365154968
+dimwishlist:item=2328531378&perks=1840239774,2420895100,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,365154968
 
 // Lodbrok-C
 //notes:pandapaxxy (PvP / Controller): "Lodbrok-C in PvP will be an interesting weapon. High-impact frames have some chunky damage and allow for some great team shooting potential. Add in some juiced up stats and range and you can compete with some of the more meta weapons. You can realistically hit 100 range which will put you at a whopping 40m of in-game range. Juice up your other stats through perpetual motion, add in kill clip for extra oomph." Recommended MW - Stability or Range.|tags:pvp,controller
@@ -877,24 +871,24 @@ dimwishlist:item=4070357005&perks=1482024992,106909392,1354429876,4082225868
 dimwishlist:item=4070357005&perks=839105230,1087426260,1354429876,4082225868
 dimwishlist:item=4070357005&perks=3661387068,1087426260,1354429876,4082225868
 dimwishlist:item=4070357005&perks=1482024992,1087426260,1354429876,4082225868
-dimwishlist:item=4070357005&perks=839105230,3230963543,1523832109,2939589096
-dimwishlist:item=4070357005&perks=3661387068,3230963543,1523832109,2939589096
-dimwishlist:item=4070357005&perks=1482024992,3230963543,1523832109,2939589096
-dimwishlist:item=4070357005&perks=839105230,106909392,1523832109,2939589096
-dimwishlist:item=4070357005&perks=3661387068,106909392,1523832109,2939589096
-dimwishlist:item=4070357005&perks=1482024992,106909392,1523832109,2939589096
-dimwishlist:item=4070357005&perks=839105230,1087426260,1523832109,2939589096
-dimwishlist:item=4070357005&perks=3661387068,1087426260,1523832109,2939589096
-dimwishlist:item=4070357005&perks=1482024992,1087426260,1523832109,2939589096
-dimwishlist:item=4070357005&perks=839105230,3230963543,1354429876,2939589096
-dimwishlist:item=4070357005&perks=3661387068,3230963543,1354429876,2939589096
-dimwishlist:item=4070357005&perks=1482024992,3230963543,1354429876,2939589096
-dimwishlist:item=4070357005&perks=839105230,106909392,1354429876,2939589096
-dimwishlist:item=4070357005&perks=3661387068,106909392,1354429876,2939589096
-dimwishlist:item=4070357005&perks=1482024992,106909392,1354429876,2939589096
-dimwishlist:item=4070357005&perks=839105230,1087426260,1354429876,2939589096
-dimwishlist:item=4070357005&perks=3661387068,1087426260,1354429876,2939589096
-dimwishlist:item=4070357005&perks=1482024992,1087426260,1354429876,2939589096
+dimwishlist:item=4070357005&perks=839105230,3230963543,1523832109,365154968
+dimwishlist:item=4070357005&perks=3661387068,3230963543,1523832109,365154968
+dimwishlist:item=4070357005&perks=1482024992,3230963543,1523832109,365154968
+dimwishlist:item=4070357005&perks=839105230,106909392,1523832109,365154968
+dimwishlist:item=4070357005&perks=3661387068,106909392,1523832109,365154968
+dimwishlist:item=4070357005&perks=1482024992,106909392,1523832109,365154968
+dimwishlist:item=4070357005&perks=839105230,1087426260,1523832109,365154968
+dimwishlist:item=4070357005&perks=3661387068,1087426260,1523832109,365154968
+dimwishlist:item=4070357005&perks=1482024992,1087426260,1523832109,365154968
+dimwishlist:item=4070357005&perks=839105230,3230963543,1354429876,365154968
+dimwishlist:item=4070357005&perks=3661387068,3230963543,1354429876,365154968
+dimwishlist:item=4070357005&perks=1482024992,3230963543,1354429876,365154968
+dimwishlist:item=4070357005&perks=839105230,106909392,1354429876,365154968
+dimwishlist:item=4070357005&perks=3661387068,106909392,1354429876,365154968
+dimwishlist:item=4070357005&perks=1482024992,106909392,1354429876,365154968
+dimwishlist:item=4070357005&perks=839105230,1087426260,1354429876,365154968
+dimwishlist:item=4070357005&perks=3661387068,1087426260,1354429876,365154968
+dimwishlist:item=4070357005&perks=1482024992,1087426260,1354429876,365154968
 
 // Seventh Seraph Carbine
 //notes:pandapaxxy (PvE / M+KB / Controller): "I don’t know what it is about this weapon but I could never get behind it. Maybe the second iteration will change that. Reconstruction and frenzy are the absolute best perks to look for. Being able to passively double your magazine and have a damage bonus all while the weapon is stowed is too good to pass up." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -934,24 +928,24 @@ dimwishlist:item=4070357005&perks=1482024992,106909392,1354429876,4082225868
 dimwishlist:item=4070357005&perks=839105230,1087426260,1354429876,4082225868
 dimwishlist:item=4070357005&perks=3661387068,1087426260,1354429876,4082225868
 dimwishlist:item=4070357005&perks=1482024992,1087426260,1354429876,4082225868
-dimwishlist:item=4070357005&perks=839105230,3230963543,1523832109,2939589096
-dimwishlist:item=4070357005&perks=3661387068,3230963543,1523832109,2939589096
-dimwishlist:item=4070357005&perks=1482024992,3230963543,1523832109,2939589096
-dimwishlist:item=4070357005&perks=839105230,106909392,1523832109,2939589096
-dimwishlist:item=4070357005&perks=3661387068,106909392,1523832109,2939589096
-dimwishlist:item=4070357005&perks=1482024992,106909392,1523832109,2939589096
-dimwishlist:item=4070357005&perks=839105230,1087426260,1523832109,2939589096
-dimwishlist:item=4070357005&perks=3661387068,1087426260,1523832109,2939589096
-dimwishlist:item=4070357005&perks=1482024992,1087426260,1523832109,2939589096
-dimwishlist:item=4070357005&perks=839105230,3230963543,1354429876,2939589096
-dimwishlist:item=4070357005&perks=3661387068,3230963543,1354429876,2939589096
-dimwishlist:item=4070357005&perks=1482024992,3230963543,1354429876,2939589096
-dimwishlist:item=4070357005&perks=839105230,106909392,1354429876,2939589096
-dimwishlist:item=4070357005&perks=3661387068,106909392,1354429876,2939589096
-dimwishlist:item=4070357005&perks=1482024992,106909392,1354429876,2939589096
-dimwishlist:item=4070357005&perks=839105230,1087426260,1354429876,2939589096
-dimwishlist:item=4070357005&perks=3661387068,1087426260,1354429876,2939589096
-dimwishlist:item=4070357005&perks=1482024992,1087426260,1354429876,2939589096
+dimwishlist:item=4070357005&perks=839105230,3230963543,1523832109,365154968
+dimwishlist:item=4070357005&perks=3661387068,3230963543,1523832109,365154968
+dimwishlist:item=4070357005&perks=1482024992,3230963543,1523832109,365154968
+dimwishlist:item=4070357005&perks=839105230,106909392,1523832109,365154968
+dimwishlist:item=4070357005&perks=3661387068,106909392,1523832109,365154968
+dimwishlist:item=4070357005&perks=1482024992,106909392,1523832109,365154968
+dimwishlist:item=4070357005&perks=839105230,1087426260,1523832109,365154968
+dimwishlist:item=4070357005&perks=3661387068,1087426260,1523832109,365154968
+dimwishlist:item=4070357005&perks=1482024992,1087426260,1523832109,365154968
+dimwishlist:item=4070357005&perks=839105230,3230963543,1354429876,365154968
+dimwishlist:item=4070357005&perks=3661387068,3230963543,1354429876,365154968
+dimwishlist:item=4070357005&perks=1482024992,3230963543,1354429876,365154968
+dimwishlist:item=4070357005&perks=839105230,106909392,1354429876,365154968
+dimwishlist:item=4070357005&perks=3661387068,106909392,1354429876,365154968
+dimwishlist:item=4070357005&perks=1482024992,106909392,1354429876,365154968
+dimwishlist:item=4070357005&perks=839105230,1087426260,1354429876,365154968
+dimwishlist:item=4070357005&perks=3661387068,1087426260,1354429876,365154968
+dimwishlist:item=4070357005&perks=1482024992,1087426260,1354429876,365154968
 
 // Seventh Seraph Officer Revolver
 //notes:pandapaxxy (PvE / M+KB / Controller): "Precision frames lack a lot in PvE. Reconstruction and vorpal weapon will be the strongest combo, the Seventh Seraph Officer Revolver will fall off hard as the content gets more difficult. If we had seen frenzy I could recommend it higher. Without that damage perk it falls to the wayside." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -1484,12 +1478,12 @@ dimwishlist:item=2306182339&perks=3809316345,2822142346,3523296417,3871884143
 
 // Terminus Horizon
 //notes:pandapaxxy (PvE / M+KB / Controller): "Terminus Horizon will be an interesting weapon to use. Being a slow firing weapon it can probably take advantage of target lock better than the other archetypes purely because the weapon takes longer to empty its magazine comparatively. Having 73 bullets at maximum capacity and laying into a boss with triple tap, demolitionist for instant reloads or rapid hit for the bonuses to stability and reload. There are few times I will fully recommend a high-impact machine gun, but Terminus Horizon is definitely one of them.." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=487205709&perks=839105230,1087426260,247725512,2939589096
-dimwishlist:item=487205709&perks=839105230,2420895100,247725512,2939589096
-dimwishlist:item=487205709&perks=839105230,1087426260,3523296417,2939589096
-dimwishlist:item=487205709&perks=839105230,2420895100,3523296417,2939589096
-dimwishlist:item=487205709&perks=839105230,1087426260,2848615171,2939589096
-dimwishlist:item=487205709&perks=839105230,2420895100,2848615171,2939589096
+dimwishlist:item=487205709&perks=839105230,1087426260,247725512,365154968
+dimwishlist:item=487205709&perks=839105230,2420895100,247725512,365154968
+dimwishlist:item=487205709&perks=839105230,1087426260,3523296417,365154968
+dimwishlist:item=487205709&perks=839105230,2420895100,3523296417,365154968
+dimwishlist:item=487205709&perks=839105230,1087426260,2848615171,365154968
+dimwishlist:item=487205709&perks=839105230,2420895100,2848615171,365154968
 dimwishlist:item=487205709&perks=839105230,1087426260,247725512,2173046394
 dimwishlist:item=487205709&perks=839105230,2420895100,247725512,2173046394
 dimwishlist:item=487205709&perks=839105230,1087426260,3523296417,2173046394
@@ -1505,12 +1499,12 @@ dimwishlist:item=487205709&perks=839105230,2420895100,2848615171,11612903
 
 // Terminus Horizon
 //notes:pandapaxxy (PvE / M+KB / Controller): "Terminus Horizon will be an interesting weapon to use. Being a slow firing weapon it can probably take advantage of target lock better than the other archetypes purely because the weapon takes longer to empty its magazine comparatively. Having 73 bullets at maximum capacity and laying into a boss with triple tap, demolitionist for instant reloads or rapid hit for the bonuses to stability and reload. There are few times I will fully recommend a high-impact machine gun, but Terminus Horizon is definitely one of them.." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=487205709&perks=839105230,1087426260,247725512,2939589096
-dimwishlist:item=487205709&perks=839105230,2420895100,247725512,2939589096
-dimwishlist:item=487205709&perks=839105230,1087426260,3523296417,2939589096
-dimwishlist:item=487205709&perks=839105230,2420895100,3523296417,2939589096
-dimwishlist:item=487205709&perks=839105230,1087426260,2848615171,2939589096
-dimwishlist:item=487205709&perks=839105230,2420895100,2848615171,2939589096
+dimwishlist:item=487205709&perks=839105230,1087426260,247725512,365154968
+dimwishlist:item=487205709&perks=839105230,2420895100,247725512,365154968
+dimwishlist:item=487205709&perks=839105230,1087426260,3523296417,365154968
+dimwishlist:item=487205709&perks=839105230,2420895100,3523296417,365154968
+dimwishlist:item=487205709&perks=839105230,1087426260,2848615171,365154968
+dimwishlist:item=487205709&perks=839105230,2420895100,2848615171,365154968
 dimwishlist:item=487205709&perks=839105230,1087426260,247725512,2173046394
 dimwishlist:item=487205709&perks=839105230,2420895100,247725512,2173046394
 dimwishlist:item=487205709&perks=839105230,1087426260,3523296417,2173046394
@@ -1605,24 +1599,18 @@ dimwishlist:item=1751893422&perks=839105230,1087426260,3124871000,3047969693
 
 // Tripwire Canary
 //notes:pandapaxxy (PvE / M+KB / Controller): "Tripwire Canary is the newest arc combat bow. Hopefully it lives up to replace Arsenic Bite. It can roll the infamous roll of dragonfly and explosive head, with the newly buffed dragonfly it should feel really strong. Frenzy being the major source of damage can be paired with your choice of reload or draw time bonuses or the AoE of dragonfly. No choice is wrong from these options." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=3849444474&perks=839105230,3142289711,247725512,1015611457
-dimwishlist:item=3849444474&perks=839105230,3177308360,247725512,1015611457
-dimwishlist:item=3849444474&perks=839105230,3142289711,699525795,1015611457
-dimwishlist:item=3849444474&perks=839105230,3177308360,699525795,1015611457
-dimwishlist:item=3849444474&perks=839105230,3142289711,588594999,1015611457
-dimwishlist:item=3849444474&perks=839105230,3177308360,588594999,1015611457
-dimwishlist:item=3849444474&perks=839105230,3142289711,247725512,460017080
-dimwishlist:item=3849444474&perks=839105230,3177308360,247725512,460017080
-dimwishlist:item=3849444474&perks=839105230,3142289711,699525795,460017080
-dimwishlist:item=3849444474&perks=839105230,3177308360,699525795,460017080
-dimwishlist:item=3849444474&perks=839105230,3142289711,588594999,460017080
-dimwishlist:item=3849444474&perks=839105230,3177308360,588594999,460017080
-dimwishlist:item=3849444474&perks=839105230,3142289711,247725512,3047969693
-dimwishlist:item=3849444474&perks=839105230,3177308360,247725512,3047969693
-dimwishlist:item=3849444474&perks=839105230,3142289711,699525795,3047969693
-dimwishlist:item=3849444474&perks=839105230,3177308360,699525795,3047969693
-dimwishlist:item=3849444474&perks=839105230,3142289711,588594999,3047969693
-dimwishlist:item=3849444474&perks=839105230,3177308360,588594999,3047969693
+dimwishlist:item=3849444474&perks=2801223209,3429800428,201365942,4104185692
+dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,4104185692
+dimwishlist:item=3849444474&perks=2801223209,3429800428,247725512,4104185692
+dimwishlist:item=3849444474&perks=852209214,3429800428,247725512,4104185692
+dimwishlist:item=3849444474&perks=2801223209,3429800428,2848615171,4104185692
+dimwishlist:item=3849444474&perks=852209214,3429800428,2848615171,4104185692
+dimwishlist:item=3849444474&perks=2801223209,3429800428,201365942,3365897133
+dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,3365897133
+dimwishlist:item=3849444474&perks=2801223209,3429800428,247725512,3365897133
+dimwishlist:item=3849444474&perks=852209214,3429800428,247725512,3365897133
+dimwishlist:item=3849444474&perks=2801223209,3429800428,2848615171,3365897133
+dimwishlist:item=3849444474&perks=852209214,3429800428,2848615171,3365897133
 
 // Tripwire Canary
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP lightweight bows are not the strongest choice. You can definitely make them work in either a swap build or by team-shooting with them. Opening shot is going to ensure a crit when you’re in the same postal code as your opponent, or you could go for flinch city and roll with explosive head. It’s a niche play style but you can build into it." Recommended MW - Draw Time.|tags:pvp,mkb,controller
@@ -1641,24 +1629,18 @@ dimwishlist:item=3849444474&perks=852209214,3429800428,247725512,2652708987
 
 // Tripwire Canary
 //notes:pandapaxxy (PvE / M+KB / Controller): "Tripwire Canary is the newest arc combat bow. Hopefully it lives up to replace Arsenic Bite. It can roll the infamous roll of dragonfly and explosive head, with the newly buffed dragonfly it should feel really strong. Frenzy being the major source of damage can be paired with your choice of reload or draw time bonuses or the AoE of dragonfly. No choice is wrong from these options." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=3849444474&perks=839105230,3142289711,247725512,1015611457
-dimwishlist:item=3849444474&perks=839105230,3177308360,247725512,1015611457
-dimwishlist:item=3849444474&perks=839105230,3142289711,699525795,1015611457
-dimwishlist:item=3849444474&perks=839105230,3177308360,699525795,1015611457
-dimwishlist:item=3849444474&perks=839105230,3142289711,588594999,1015611457
-dimwishlist:item=3849444474&perks=839105230,3177308360,588594999,1015611457
-dimwishlist:item=3849444474&perks=839105230,3142289711,247725512,460017080
-dimwishlist:item=3849444474&perks=839105230,3177308360,247725512,460017080
-dimwishlist:item=3849444474&perks=839105230,3142289711,699525795,460017080
-dimwishlist:item=3849444474&perks=839105230,3177308360,699525795,460017080
-dimwishlist:item=3849444474&perks=839105230,3142289711,588594999,460017080
-dimwishlist:item=3849444474&perks=839105230,3177308360,588594999,460017080
-dimwishlist:item=3849444474&perks=839105230,3142289711,247725512,3047969693
-dimwishlist:item=3849444474&perks=839105230,3177308360,247725512,3047969693
-dimwishlist:item=3849444474&perks=839105230,3142289711,699525795,3047969693
-dimwishlist:item=3849444474&perks=839105230,3177308360,699525795,3047969693
-dimwishlist:item=3849444474&perks=839105230,3142289711,588594999,3047969693
-dimwishlist:item=3849444474&perks=839105230,3177308360,588594999,3047969693
+dimwishlist:item=3849444474&perks=2801223209,3429800428,201365942,4104185692
+dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,4104185692
+dimwishlist:item=3849444474&perks=2801223209,3429800428,247725512,4104185692
+dimwishlist:item=3849444474&perks=852209214,3429800428,247725512,4104185692
+dimwishlist:item=3849444474&perks=2801223209,3429800428,2848615171,4104185692
+dimwishlist:item=3849444474&perks=852209214,3429800428,2848615171,4104185692
+dimwishlist:item=3849444474&perks=2801223209,3429800428,201365942,3365897133
+dimwishlist:item=3849444474&perks=852209214,3429800428,201365942,3365897133
+dimwishlist:item=3849444474&perks=2801223209,3429800428,247725512,3365897133
+dimwishlist:item=3849444474&perks=852209214,3429800428,247725512,3365897133
+dimwishlist:item=3849444474&perks=2801223209,3429800428,2848615171,3365897133
+dimwishlist:item=3849444474&perks=852209214,3429800428,2848615171,3365897133
 
 // Tripwire Canary
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP lightweight bows are not the strongest choice. You can definitely make them work in either a swap build or by team-shooting with them. Opening shot is going to ensure a crit when you’re in the same postal code as your opponent, or you could go for flinch city and roll with explosive head. It’s a niche play style but you can build into it." Recommended MW - Draw Time.|tags:pvp,mkb,controller
@@ -4559,25 +4541,11 @@ dimwishlist:item=882778888&perks=3250034553,3142289711,247725512,3038247973
 
 // Cold Front
 //notes:pandapaxxy (PvE / M+KB / Controller): "[...] just has poor stats across the board. With the lowest stability in its class, the lowest reload and aim assist. Cold Front is tied for the lowest magazine with Blood Feud. Cold Front needs a lot to make it feel and shoot well. In PvE I would recommend corkscrew rifling to give a flat buff to all its stats. Flared magwell offers the best of both reload and stability (two stats this gun desperately needs). Frenzy and Subsistence are my final choices. Frenzy is the best for bringing up even more of Cold Front’s poor stats. Subsistence has received multiple buffs and it feels incredible on your primary add clear weapon." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,2213355989
-dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,2213355989
-dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,2213355989
-dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,2213355989
-dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,331667533
-dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,331667533
-dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,331667533
-dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,331667533
+dimwishlist:item=2814093983&perks=4090651448,3230963543,1820235745,4104185692
 
 // Cold Front
 //notes:pandapaxxy (PvE / M+KB / Controller): "[...] just has poor stats across the board. With the lowest stability in its class, the lowest reload and aim assist. Cold Front is tied for the lowest magazine with Blood Feud. Cold Front needs a lot to make it feel and shoot well. In PvE I would recommend corkscrew rifling to give a flat buff to all its stats. Flared magwell offers the best of both reload and stability (two stats this gun desperately needs). Frenzy and Subsistence are my final choices. Frenzy is the best for bringing up even more of Cold Front’s poor stats. Subsistence has received multiple buffs and it feels incredible on your primary add clear weapon." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,2213355989
-dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,2213355989
-dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,2213355989
-dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,2213355989
-dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,331667533
-dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,331667533
-dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,331667533
-dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,331667533
+dimwishlist:item=2814093983&perks=4090651448,3230963543,1820235745,4104185692
 
 // Cold Front
 //notes:pandapaxxy (PvP / Controller): "Cold Front has a giant hill to climb and with a lot of competition it might not be worth it. [...] Cold Front does have the best sights IMO so for me it’s semi-worth. In PvP you’re really looking for consistency or lethality. Cold Front does not have super strong lethality perks like kill clip or multikill clip, so you’re looking for consistency. Cold Front does offer rangefinder, putting it on par with its siblings, but the lack of stats still leaves a lot to be desired." Recommended MW - Stability.|tags:pvp,controller
@@ -4613,11 +4581,11 @@ dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
 
 // Avalanche
 //notes:pandapaxxy (PvE / M+KB / Controller): "I am always both happy and sad when this weapon rolls around. Avalanche is just a relic of year 3. It’s a weird SUROS machine gun that fires from both barrels. The saving grace is being a 450 RPM machine gun. I went slightly different with my recommendations compared to my peers. With a recoil direction of 70 you really want to bump this up to max. Arrowhead brake is the first suggestion I have. With auto-loading holster you won’t have to worry about reload speed and you’ll get all the benefits of a bigger magazine with appended mag. Finally there’s target lock. This season’s newest perk. Target lock will increase your damage the longer you stay on target. With backup mag and appended mag you cap out your magazine at 75. With these many bullets you should definitely be the coolest person in your fireteam when you hit the cap on damage and be able to show off that sweet, sweet DEEPS." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,2939589096
+dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,365154968
 
 // Avalanche
 //notes:pandapaxxy (PvE / M+KB / Controller): "I am always both happy and sad when this weapon rolls around. Avalanche is just a relic of year 3. It’s a weird SUROS machine gun that fires from both barrels. The saving grace is being a 450 RPM machine gun. I went slightly different with my recommendations compared to my peers. With a recoil direction of 70 you really want to bump this up to max. Arrowhead brake is the first suggestion I have. With auto-loading holster you won’t have to worry about reload speed and you’ll get all the benefits of a bigger magazine with appended mag. Finally there’s target lock. This season’s newest perk. Target lock will increase your damage the longer you stay on target. With backup mag and appended mag you cap out your magazine at 75. With these many bullets you should definitely be the coolest person in your fireteam when you hit the cap on damage and be able to show off that sweet, sweet DEEPS." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,2939589096
+dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,365154968
 
 // Avalanche
 //notes:pandapaxxy (PvP / Controller): "Adaptive machine guns have always been my favorite for PvP. Being able to have decent damage at range, good chip damage, and a pretty manageable recoil are all great things to have. Avalanche does bring some good things to the table, like maxing out recoil direction with arrowhead brake. Ricochet rounds gives you some much needed stability. Dynamic sway reduction will reduce your bloom on extended gunfights. [...] On Controller I would recommend tap the trigger for even more stability. Not all of it is needed, but having a gun you don’t have to fight will make your job easier and you can focus on your opponent." Recommended MW - Range.|tags:pvp,controller

@@ -42,7 +42,19 @@ title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
 
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-seraph-ikelos-weapons.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-ikelos-smg-correction.txt
+
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-s19-dawning-weapons.txt
+
+title:WarlockMaggie's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+title:SirStallion's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
 
@@ -1163,10 +1175,26 @@ dimwishlist:item=882778888&perks=3250034553,3142289711,247725512,3038247973
 //notes:pandapaxxy (PvP / Controller): "Cold Front has a giant hill to climb and with a lot of competition it might not be worth it. [...] Cold Front does have the best sights IMO so for me it’s semi-worth. In PvP you’re really looking for consistency or lethality. Cold Front does not have super strong lethality perks like kill clip or multikill clip, so you’re looking for consistency. Cold Front does offer rangefinder, putting it on par with its siblings, but the lack of stats still leaves a lot to be desired." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=2814093983&perks=1482024992,3142289711,1890422124,2846385770
 
+// Cold Front
+//notes:WarlockMaggie (PvP / M+KB / Controller): Similar to my PvP recommendation, stability needs to be your priority but you can mix in range to get a bit more accuracy. Steady Rounds plus a Range MW provides that mix with a little extra Airborne Effectiveness to help you get the jump on your opponents. Combine that with a tried and true consistency combo of Tap the Trigger and Rangefinder, this will work for you if you put in the work of finding this roll. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2814093983&perks=1482024992,3177308360,1890422124,2846385770
+
+// Cold Front
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): While the main traits are obvious picks as far as this weapon is concerned, the rest is a little confusing. With a base 7 stability, will full sending into the stat actually make a meaningful difference? Will losing it entirely via Full Bore make a difference? I honestly don't know. I will be looking for these rolls because they're a great middle ground with a little extra stability for controllers. I do believe the rolls are interchangeable though, since it's just a MW difference. Recommended MW: Range (M+KB), Stability (Controller)|tags:pvp,mkb,controller
+dimwishlist:item=2814093983&perks=1482024992,3142289711,1890422124,2846385770
+
 // Stay Frosty
 //notes:pandapaxxy (PvP / Controller): "Over in the crucible 450 pulses just aren’t anything important. Messenger exists, and the new hotness is Disparity. Stay Frosty has a lot to build up in order to compete. Arrowhead brake is a must, but smallbore is a decent alternative if you’re fine with the lower recoil direction. Ricochet rounds brings up the stability and bumps up the range a smidge. [...]  On Controller I would recommend something slightly different. Moving target is the only perk I would change. Moving target gives you aim assist and movement speed neutrally. That extra aim assist will help a ton to ensure a crit kill in order to get desperado going in the first place." Recommended MW - Stability.|tags:pvp,controller
 dimwishlist:item=2812100428&perks=839105230,1885400500,588594999,3047969693
 
+// Stay Frosty
+//notes:WarlockMaggie (PvP / M+KB / Controller): Encore got a rework this season and it works well with Desperado as any missed precision final blows will still increase the range, stability and accuracy of the weapon (5, 8, and 1.25% / stack, up to 4 stacks). With the classic combo of Arrowhead Brake and Ricochet Rounds, Stay Frosty will perform. Another possible fourth column perk would be Headseeker as it also got a rework that increases damage and aim assist. Either way, the lightweight frame will additionally give you a little boost in movement speed which may help you take cover from that Chaos Reach that just showed up. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2812100428&perks=839105230,1885400500,1195158366,3047969693
+
+// Stay Frosty
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): Lightweight pulses are feeling a lot better in PvP these days and for me, Killing Wind and Kill Clip are perks that perfectly compliment each other and provide so many benefits to the gun it becomes a no brainer. With 55 Recoil Direction, Arrowhead Brake is a must on Stay Frosty and High-Caliber should assist in opening duels to get KW/KC rolling. Omolon Fluid Dynamics will make up for any stability or reload speed losses meaning you can get the extra little bit of range from the MW. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2812100428&perks=839105230,1561002382,2450788523,1015611457
+
 // Glacioclasm
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP it’s all about stacking as many consistency perks as possible. Lowering the charge time via accelerated coils and charge time MW so you won’t have to pre-charge as long. Arrowhead to make tracking easier. Under pressure for the most accuracy bonuses. High-impact reserves for some damage bonuses. It’s not going to be as quick as Midha’s Reckoning but it can get close and feel just as strong." Recommended MW - Charge Time.|tags:pvp,mkb,controller
 dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
@@ -1174,11 +1202,27 @@ dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
 // Glacioclasm
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP it’s all about stacking as many consistency perks as possible. Lowering the charge time via accelerated coils and charge time MW so you won’t have to pre-charge as long. Arrowhead to make tracking easier. Under pressure for the most accuracy bonuses. High-impact reserves for some damage bonuses. It’s not going to be as quick as Midha’s Reckoning but it can get close and feel just as strong." Recommended MW - Charge Time.|tags:pvp,mkb,controller
 dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
+
+// Glacioclasm
+//notes:WarlockMaggie (PvP / M+KB / Controller): I’m not going to dissuade anyone from taking this into the Crucible, but bear in mind that pre-charging your shot is crucial to success with this archetype. Due to your starting ammo count of 2, Under Pressure and HIR will be already online, giving you a little extra stats and punch to dissolve that charging Guardian holding a Wastelander… Recommended MW: Charge Time|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=1840239774,3868766766,1645158859,2213355989
+
+// Glacioclasm
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): This weapon is a High-Impact. You can try to skirt that fact with lower charge times, but it will still charge slow and hit hard as long as you're accurate. I say embrace it and full send into consistency. Corrected recoil direction, higher stability, better accuracy while under fire. Which you inevitably will be with a High-Impact. Unlike PvE, I don't feel the attempt at lowering charge time is worth it. Recommended MW: Stability|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=839105230,3868766766,1645158859,699525795
 
 // Avalanche
 //notes:pandapaxxy (PvP / Controller): "Adaptive machine guns have always been my favorite for PvP. Being able to have decent damage at range, good chip damage, and a pretty manageable recoil are all great things to have. Avalanche does bring some good things to the table, like maxing out recoil direction with arrowhead brake. Ricochet rounds gives you some much needed stability. Dynamic sway reduction will reduce your bloom on extended gunfights. [...] On Controller I would recommend tap the trigger for even more stability. Not all of it is needed, but having a gun you don’t have to fight will make your job easier and you can focus on your opponent." Recommended MW - Range.|tags:pvp,controller
 dimwishlist:item=495940989&perks=839105230,1885400500,1359896290,1890422124
 
+// Avalanche
+//notes:WarlockMaggie (PvP / M+KB / Controller): Adaptives are my favorite LMG archetype and this extends to use within Crucible. With a requirement of 5 crits to achieve the coveted .53s TTK, accuracy is going to be vital: enter DSR + Tap the Trigger. With DSR taking 0.6 seconds to fully ramp up, you will likely be near maximum benefit by that 5th shot. Like Hammerhead and other 450 rpm LMGs after it, this can catch many a Guardian by surprise and melt them quickly! Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=495940989&perks=3250034553,1885400500,1359896290,1890422124
+
+// Avalanche
+//notes:/u/SirStallion_ (PvP / Controller): As a 450, Avalanche falls into a very controllable category in PvP which means you can fairly comfortably commit to more range for short bursts of damage (like the time it might take to drop a guardian) instead of long term consistent shots. So, range range range. A little extra stability for the controller players and once you get a kill and trigger Encore, all subsequent kills should be a lot easier to manage. DSR is also an option, but only if going for multi-kills, in my opinion. If the kills are a little more spread out, I'd rather have Encore. Recommended MW: Range|tags:pvp,controller
+dimwishlist:item=495940989&perks=1482024992,1561002382,1195158366,1890422124
+
 // Zephyr
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there isn’t a lot to talk about, swords aren’t really hot commodities within PvP and those that use swords are mostly using eager edge. Zephyr looks amazing but looks won't win you crucible matches." Recommended MW - Impact.|tags:pvp,mkb,controller
 dimwishlist:item=396910433&perks=3666208348,269888150,2590710093,354401740
@@ -1186,6 +1230,14 @@ dimwishlist:item=396910433&perks=3666208348,269888150,2590710093,354401740
 // Zephyr
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there isn’t a lot to talk about, swords aren’t really hot commodities within PvP and those that use swords are mostly using eager edge. Zephyr looks amazing but looks won't win you crucible matches." Recommended MW - Impact.|tags:pvp,mkb,controller
 dimwishlist:item=396910433&perks=3666208348,269888150,2590710093,354401740
+
+// Zephyr
+//notes:WarlockMaggie (PvP / M+KB / Controller): Okay, hear me out on this combo. It’s a unique one to the Adaptive frame sword archetype and what it allows is the ability to steal the overshield of a supering Guardian and apply it to yourself while dealing increased damage. This could mean you can easily shut down roaming, ground-based supers and survive the opposing team’s retribution. Otherwise, it’s just like any other sword in the Crucible (that doesn’t have Eager Edge). Recommended MW: Impact|tags:pvp,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,2209918983,1546637391
+
+// Zephyr
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): I got nothing. I personally would never take this sword into PvP, but if I absolutely had to I'd likely end up using my heavy to fight supers, which would never result in me escaping unscathed so unrelenting might help? Maybe? In any case, Cold Steel is doing nothing for you in PvP, which is the only thing that makes this sword unique. Recommended MW: Impact|tags:pvp,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,3108830275,1546637391
 
 // Mechabre (PvP first-choice roll)
 // Fluted Barrel, Alloy Mag, Snapshot Sights, Opening Shot

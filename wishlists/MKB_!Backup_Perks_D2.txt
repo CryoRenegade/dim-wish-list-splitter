@@ -42,7 +42,19 @@ title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
 
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-seraph-ikelos-weapons.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-ikelos-smg-correction.txt
+
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-s19-dawning-weapons.txt
+
+title:WarlockMaggie's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+title:SirStallion's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
 
@@ -326,15 +338,12 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 
 // Aurvandil FR6
 //notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is a spicy roll. Reconstruction and chill clip are so strong together. Subsistence is another good shout if you know you’ll secure the kill. I think dropping the charge time as a quality of life perk will make the whole experience better, but if you are okay with the charge time normally, you can go for a larger magazine." Recommended MW - Charge Time.|tags:pve,mkb,controller
-dimwishlist:item=963710795&perks=247725512,124408337
-dimwishlist:item=963710795&perks=1428297954,124408337
-dimwishlist:item=963710795&perks=1354429876,124408337
-dimwishlist:item=963710795&perks=247725512,1015611457
-dimwishlist:item=963710795&perks=1428297954,1015611457
-dimwishlist:item=963710795&perks=1354429876,1015611457
-dimwishlist:item=963710795&perks=247725512,2610012052
-dimwishlist:item=963710795&perks=1428297954,2610012052
-dimwishlist:item=963710795&perks=1354429876,2610012052
+dimwishlist:item=963710795&perks=1523832109,2978966579
+dimwishlist:item=963710795&perks=1820235745,2978966579
+dimwishlist:item=963710795&perks=1523832109,2610012052
+dimwishlist:item=963710795&perks=1820235745,2610012052
+dimwishlist:item=963710795&perks=1523832109,3523296417
+dimwishlist:item=963710795&perks=1820235745,3523296417
 
 // Aurvandil FR6
 //notes:pandapaxxy (PvP / M+KB): "In PvP there aren't a lot of pros for high-impact fusions. They are certainly strong and they are my favorites to use. But the charge time increase really hurt their overall utility. The change to 5 bolts was nice, but not having high-impact reserves in this weapons perk pool is a bit of a let down. Elemental capacitor can make it feel super consistent on void, arc or stasis. Firmly planted will make the shot you do take incredibly consistent, void or not." Recommended MW - Range.|tags:pvp,mkb
@@ -344,15 +353,12 @@ dimwishlist:item=963710795&perks=280464955,3511092054
 
 // Aurvandil FR6
 //notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is a spicy roll. Reconstruction and chill clip are so strong together. Subsistence is another good shout if you know you’ll secure the kill. I think dropping the charge time as a quality of life perk will make the whole experience better, but if you are okay with the charge time normally, you can go for a larger magazine." Recommended MW - Charge Time.|tags:pve,mkb,controller
-dimwishlist:item=963710795&perks=247725512,124408337
-dimwishlist:item=963710795&perks=1428297954,124408337
-dimwishlist:item=963710795&perks=1354429876,124408337
-dimwishlist:item=963710795&perks=247725512,1015611457
-dimwishlist:item=963710795&perks=1428297954,1015611457
-dimwishlist:item=963710795&perks=1354429876,1015611457
-dimwishlist:item=963710795&perks=247725512,2610012052
-dimwishlist:item=963710795&perks=1428297954,2610012052
-dimwishlist:item=963710795&perks=1354429876,2610012052
+dimwishlist:item=963710795&perks=1523832109,2978966579
+dimwishlist:item=963710795&perks=1820235745,2978966579
+dimwishlist:item=963710795&perks=1523832109,2610012052
+dimwishlist:item=963710795&perks=1820235745,2610012052
+dimwishlist:item=963710795&perks=1523832109,3523296417
+dimwishlist:item=963710795&perks=1820235745,3523296417
 
 // Jararaca-3SR
 //notes:pandapaxxy (PvE / M+KB / Controller): "Rapid-fire scouts are like the precision frame hand cannons. Decent but outclassed by most weapons. Rapid hit and headstone are stand out perks but work better on harder hitting archetypes. Kill clip is neutral and a good damage bump. Golden tricorn will give you the strongest damage increase but stasis in PvE for kills is a little lackluster." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -393,9 +399,9 @@ dimwishlist:item=2328531378&perks=1774574192,11612903
 dimwishlist:item=2328531378&perks=3523296417,331667533
 dimwishlist:item=2328531378&perks=1428297954,331667533
 dimwishlist:item=2328531378&perks=1774574192,331667533
-dimwishlist:item=2328531378&perks=3523296417,2939589096
-dimwishlist:item=2328531378&perks=1428297954,2939589096
-dimwishlist:item=2328531378&perks=1774574192,2939589096
+dimwishlist:item=2328531378&perks=3523296417,365154968
+dimwishlist:item=2328531378&perks=1428297954,365154968
+dimwishlist:item=2328531378&perks=1774574192,365154968
 
 // Lodbrok-C
 //notes:pandapaxxy (PvP / M+KB): "Lodbrok-C in PvP will be an interesting weapon. High-impact frames have some chunky damage and allow for some great team shooting potential. Add in some juiced up stats and range and you can compete with some of the more meta weapons. You can realistically hit 100 range which will put you at a whopping 40m of in-game range. Juice up your other stats through perpetual motion, add in kill clip for extra oomph." Recommended MW - Range.|tags:pvp,mkb
@@ -414,9 +420,9 @@ dimwishlist:item=2328531378&perks=1774574192,11612903
 dimwishlist:item=2328531378&perks=3523296417,331667533
 dimwishlist:item=2328531378&perks=1428297954,331667533
 dimwishlist:item=2328531378&perks=1774574192,331667533
-dimwishlist:item=2328531378&perks=3523296417,2939589096
-dimwishlist:item=2328531378&perks=1428297954,2939589096
-dimwishlist:item=2328531378&perks=1774574192,2939589096
+dimwishlist:item=2328531378&perks=3523296417,365154968
+dimwishlist:item=2328531378&perks=1428297954,365154968
+dimwishlist:item=2328531378&perks=1774574192,365154968
 
 // Fioritura-59
 //notes:pandapaxxy (PvE / M+KB / Controller): "Rapid-fire sidearms are really fun and quirky. They go pew pew rather fast but feel like pea shooters more than weapons half the time. Kill clip, golden tricorn, and swashbuckler will all raise your damage, but rapid-fire sidearms need their whole mag to take down most enemies. Any and all damage modifiers just drop that to half mag or a third of a mag." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -481,8 +487,8 @@ dimwishlist:item=4070357005&perks=1523832109,4104185692
 dimwishlist:item=4070357005&perks=1354429876,4104185692
 dimwishlist:item=4070357005&perks=1523832109,4082225868
 dimwishlist:item=4070357005&perks=1354429876,4082225868
-dimwishlist:item=4070357005&perks=1523832109,2939589096
-dimwishlist:item=4070357005&perks=1354429876,2939589096
+dimwishlist:item=4070357005&perks=1523832109,365154968
+dimwishlist:item=4070357005&perks=1354429876,365154968
 
 // Seventh Seraph Carbine
 //notes:pandapaxxy (PvP / M+KB): "Precision frame autos are supposedly very strong (according to Mercules904). While I have my reservations, the Seventh Seraph Carbine might prove me wrong. Dynamic sway reduction to remove bloom and rangefinder will be the go-to combo. Reconstruction, while niche, will be useful in longer gunfights or 1vX situations. Elemental capacitor will be decent in bringing up some lower stats, depending on your subclass of choice." Recommended MW - Range.|tags:pvp,mkb
@@ -502,8 +508,8 @@ dimwishlist:item=4070357005&perks=1523832109,4104185692
 dimwishlist:item=4070357005&perks=1354429876,4104185692
 dimwishlist:item=4070357005&perks=1523832109,4082225868
 dimwishlist:item=4070357005&perks=1354429876,4082225868
-dimwishlist:item=4070357005&perks=1523832109,2939589096
-dimwishlist:item=4070357005&perks=1354429876,2939589096
+dimwishlist:item=4070357005&perks=1523832109,365154968
+dimwishlist:item=4070357005&perks=1354429876,365154968
 
 // Seventh Seraph Carbine
 //notes:pandapaxxy (PvP / M+KB): "Precision frame autos are supposedly very strong (according to Mercules904). While I have my reservations, the Seventh Seraph Carbine might prove me wrong. Dynamic sway reduction to remove bloom and rangefinder will be the go-to combo. Reconstruction, while niche, will be useful in longer gunfights or 1vX situations. Elemental capacitor will be decent in bringing up some lower stats, depending on your subclass of choice." Recommended MW - Stability.|tags:pvp,mkb
@@ -628,9 +634,9 @@ dimwishlist:item=2306182339&perks=3523296417,3871884143
 
 // Terminus Horizon
 //notes:pandapaxxy (PvE / M+KB / Controller): "Terminus Horizon will be an interesting weapon to use. Being a slow firing weapon it can probably take advantage of target lock better than the other archetypes purely because the weapon takes longer to empty its magazine comparatively. Having 73 bullets at maximum capacity and laying into a boss with triple tap, demolitionist for instant reloads or rapid hit for the bonuses to stability and reload. There are few times I will fully recommend a high-impact machine gun, but Terminus Horizon is definitely one of them.." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=487205709&perks=247725512,2939589096
-dimwishlist:item=487205709&perks=3523296417,2939589096
-dimwishlist:item=487205709&perks=2848615171,2939589096
+dimwishlist:item=487205709&perks=247725512,365154968
+dimwishlist:item=487205709&perks=3523296417,365154968
+dimwishlist:item=487205709&perks=2848615171,365154968
 dimwishlist:item=487205709&perks=247725512,2173046394
 dimwishlist:item=487205709&perks=3523296417,2173046394
 dimwishlist:item=487205709&perks=2848615171,2173046394
@@ -647,9 +653,9 @@ dimwishlist:item=487205709&perks=3523296417,331667533
 
 // Terminus Horizon
 //notes:pandapaxxy (PvE / M+KB / Controller): "Terminus Horizon will be an interesting weapon to use. Being a slow firing weapon it can probably take advantage of target lock better than the other archetypes purely because the weapon takes longer to empty its magazine comparatively. Having 73 bullets at maximum capacity and laying into a boss with triple tap, demolitionist for instant reloads or rapid hit for the bonuses to stability and reload. There are few times I will fully recommend a high-impact machine gun, but Terminus Horizon is definitely one of them.." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=487205709&perks=247725512,2939589096
-dimwishlist:item=487205709&perks=3523296417,2939589096
-dimwishlist:item=487205709&perks=2848615171,2939589096
+dimwishlist:item=487205709&perks=247725512,365154968
+dimwishlist:item=487205709&perks=3523296417,365154968
+dimwishlist:item=487205709&perks=2848615171,365154968
 dimwishlist:item=487205709&perks=247725512,2173046394
 dimwishlist:item=487205709&perks=3523296417,2173046394
 dimwishlist:item=487205709&perks=2848615171,2173046394
@@ -699,17 +705,38 @@ dimwishlist:item=1751893422&perks=699525795,460017080
 dimwishlist:item=1751893422&perks=247725512,3047969693
 dimwishlist:item=1751893422&perks=699525795,3047969693
 
+// Disparity (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), (Rapid Hit, Outlaw), Headstone
+//notes:Inspired by DMB PvE Podcast 44. Shapeable. First-choice PvE roll for synergy with Stasis subclasses. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, but Hakke Breach Armaments, with the additional damage against stasis crystals is the choice to break crystals for a dragonfly-like burst of damage. This is the only current(as at v6.3.0.2) me aggressive frame pulse rifle in the kinetic slot, so it's worth hanging on a good roll. Correct the wonky recoil direction with Arrowhead Brake, or Fluted Barrel makes it feel snappier and more stable. In the mag, Flared Magwell or Tactical Mag are the best options, adding more stability and reload speed. To match up with Headstone, Rapid Hit and Outlaw both proc on the same condition to reward consistent crits. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1751893422&perks=247725512,124408337
+dimwishlist:item=1751893422&perks=1168162263,124408337
+
+// Disparity (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), (Rapid Hit, Outlaw), (Frenzy, One For All, Swashbuckler, Desperado)
+//notes:Inspired by DMB PvE Podcast 44. Shapeable. First-choice PvE roll for endgame content. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, or use Hakke Breach Armaments if you're going to face vehicles, turrets or constructs. This is the only current(as at v6.3.0.2) me aggressive frame pulse rifle in the kinetic slot, so it's worth hanging on a good roll.  Correct the wonky recoil direction with Arrowhead Brake, or Fluted Barrel makes it feel snappier and more stable. In the mag, Flared Magwell or Tactical Mag are the best options, adding more stability and reload speed. Rapid Hit and Outlaw both proc on the on crits, and then match this with your choice of the range of damage output-increasing traits. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE=EndGame, Controller, M+KB
+dimwishlist:item=1751893422&perks=247725512,4104185692
+dimwishlist:item=1751893422&perks=1168162263,4104185692
+dimwishlist:item=1751893422&perks=247725512,4049631843
+dimwishlist:item=1751893422&perks=1168162263,4049631843
+dimwishlist:item=1751893422&perks=247725512,4082225868
+dimwishlist:item=1751893422&perks=1168162263,4082225868
+dimwishlist:item=1751893422&perks=247725512,3047969693
+dimwishlist:item=1751893422&perks=1168162263,3047969693
+
+// Disparity (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake), (Flared Magwell, Tactical Mag), Pugilist (Swashbuckler, Frenzy)
+//notes:Inspired by DMB PvE Podcast 44. Shapeable. First-choice PvE roll for melee builds. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, or use Hakke Breach Armaments if you're going to face vehicles, turrets or constructs. This is the only current(as at v6.3.0.2) me aggressive frame pulse rifle in the kinetic slot, so it's worth hanging on a good roll. Correct the wonky recoil direction with Arrowhead Brake, or Fluted Barrel makes it feel snappier and more stable. In the mag, Flared Magwell or Tactical Mag are the best options, adding more stability and reload speed. Pugilist and Swashbuckler are the obvious choices for melee builds, but Frenzy has its place too to regenerate melee energy. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
+dimwishlist:item=1751893422&perks=691659142,4082225868
+dimwishlist:item=1751893422&perks=691659142,4104185692
+
 // Tripwire Canary
 //notes:pandapaxxy (PvE / M+KB / Controller): "Tripwire Canary is the newest arc combat bow. Hopefully it lives up to replace Arsenic Bite. It can roll the infamous roll of dragonfly and explosive head, with the newly buffed dragonfly it should feel really strong. Frenzy being the major source of damage can be paired with your choice of reload or draw time bonuses or the AoE of dragonfly. No choice is wrong from these options." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=3849444474&perks=247725512,1015611457
-dimwishlist:item=3849444474&perks=699525795,1015611457
-dimwishlist:item=3849444474&perks=588594999,1015611457
-dimwishlist:item=3849444474&perks=247725512,460017080
-dimwishlist:item=3849444474&perks=699525795,460017080
-dimwishlist:item=3849444474&perks=588594999,460017080
-dimwishlist:item=3849444474&perks=247725512,3047969693
-dimwishlist:item=3849444474&perks=699525795,3047969693
-dimwishlist:item=3849444474&perks=588594999,3047969693
+dimwishlist:item=3849444474&perks=201365942,4104185692
+dimwishlist:item=3849444474&perks=247725512,4104185692
+dimwishlist:item=3849444474&perks=2848615171,4104185692
+dimwishlist:item=3849444474&perks=201365942,3365897133
+dimwishlist:item=3849444474&perks=247725512,3365897133
+dimwishlist:item=3849444474&perks=2848615171,3365897133
 
 // Tripwire Canary
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP lightweight bows are not the strongest choice. You can definitely make them work in either a swap build or by team-shooting with them. Opening shot is going to ensure a crit when you’re in the same postal code as your opponent, or you could go for flinch city and roll with explosive head. It’s a niche play style but you can build into it." Recommended MW - Draw Time.|tags:pvp,mkb,controller
@@ -722,15 +749,12 @@ dimwishlist:item=3849444474&perks=247725512,2652708987
 
 // Tripwire Canary
 //notes:pandapaxxy (PvE / M+KB / Controller): "Tripwire Canary is the newest arc combat bow. Hopefully it lives up to replace Arsenic Bite. It can roll the infamous roll of dragonfly and explosive head, with the newly buffed dragonfly it should feel really strong. Frenzy being the major source of damage can be paired with your choice of reload or draw time bonuses or the AoE of dragonfly. No choice is wrong from these options." Recommended MW - Reload.|tags:pve,mkb,controller
-dimwishlist:item=3849444474&perks=247725512,1015611457
-dimwishlist:item=3849444474&perks=699525795,1015611457
-dimwishlist:item=3849444474&perks=588594999,1015611457
-dimwishlist:item=3849444474&perks=247725512,460017080
-dimwishlist:item=3849444474&perks=699525795,460017080
-dimwishlist:item=3849444474&perks=588594999,460017080
-dimwishlist:item=3849444474&perks=247725512,3047969693
-dimwishlist:item=3849444474&perks=699525795,3047969693
-dimwishlist:item=3849444474&perks=588594999,3047969693
+dimwishlist:item=3849444474&perks=201365942,4104185692
+dimwishlist:item=3849444474&perks=247725512,4104185692
+dimwishlist:item=3849444474&perks=2848615171,4104185692
+dimwishlist:item=3849444474&perks=201365942,3365897133
+dimwishlist:item=3849444474&perks=247725512,3365897133
+dimwishlist:item=3849444474&perks=2848615171,3365897133
 
 // Tripwire Canary
 //notes:pandapaxxy (PvP / M+KB / Controller): "In PvP lightweight bows are not the strongest choice. You can definitely make them work in either a swap build or by team-shooting with them. Opening shot is going to ensure a crit when you’re in the same postal code as your opponent, or you could go for flinch city and roll with explosive head. It’s a niche play style but you can build into it." Recommended MW - Draw Time.|tags:pvp,mkb,controller
@@ -740,6 +764,27 @@ dimwishlist:item=3849444474&perks=201365942,3365897133
 dimwishlist:item=3849444474&perks=247725512,3365897133
 dimwishlist:item=3849444474&perks=201365942,2652708987
 dimwishlist:item=3849444474&perks=247725512,2652708987
+
+// Tripwire Canary (PvE first-choice roll)
+// Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Explosive Head
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts or the Veist Stinger will provide the occasional fast reload and draw. The Lightweight frame provides +20 mobility and 6.25% boost to movement, which is always useful. As with all bows, get the draw time as low as possible with Elastic String, and then recover the lost accuracy with Fiberglass Arrow Shaft. For end-game content, in the first trait column, Archer's Tempo rewards crit hits with even faster draw time. Explosive Head not only adds bonus damage passively, but also disrupts overload Champions in fewer hits, when the mod is around. MW: Draw Time or Accuracy, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3849444474&perks=201365942,3365897133
+
+// Tripwire Canary (PvE first-choice roll)
+// Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, (Frenzy, Swashbuckler)
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts or the Veist Stinger will provide the occasional fast reload and draw. The Lightweight frame provides +20 mobility and 6.25% boost to movement, which is always useful. As with all bows, get the draw time as low as possible with Elastic String, and then recover the lost accuracy with Fiberglass Arrow Shaft. For end-game content, in the first trait column, Archer's Tempo rewards crit hits with even faster draw time. In the second column, damage boosts from Frenzy, just for being in combat, or Swashbuckler with your choice of 3.0 melee options both improve utility. MW: Draw Time or Accuracy, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3849444474&perks=201365942,4104185692
+
+// Tripwire Canary (PvE first-choice roll)
+// Elastic String, Fiberglass Arrow Shaft, Archer's Tempo, Successful Warm-up
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts or the Veist Stinger will provide the occasional fast reload and draw. The Lightweight frame provides +20 mobility and 6.25% boost to movement, which is always useful. As with all bows, get the draw time as low as possible with Elastic String, and then recover the lost accuracy with Fiberglass Arrow Shaft. For general content, in the first trait column, Archer's Tempo rewards crit hits with even faster draw time and in the second, Successful Warm-up boosts that even further on a kill, improving damage output. MW: Draw Time or Accuracy, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3849444474&perks=201365942,2652708987
+
+// Tripwire Canary (PvE first-choice roll)
+// Elastic String, Fiberglass Arrow Shaft, Dragonfly, (Explosive Head, Frenzy, Swashbuckler, Successful Warm-up)
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts or the Veist Stinger will provide the occasional fast reload and draw. The Lightweight frame provides +20 mobility and 6.25% boost to movement, which is always useful. As with all bows, get the draw time as low as possible with Elastic String, and then recover the lost accuracy with Fiberglass Arrow Shaft. and then recover lost accuracy with your arrow. For general content, Dragonfly is a great choice, spreading damage on crit kills in the first trait column. In the second, take your choice of damage-improving traits to help with clearing adds. MW: Draw Time or Accuracy, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3849444474&perks=2848615171,3365897133
+dimwishlist:item=3849444474&perks=2848615171,4104185692
 
 // Judgment of Kelgorath
 //notes:pandapaxxy (PvE / M+KB / Controller): "Now I have not had the opportunity to fully test it but if Incandescent works with the glaive melee. That would be a hoot. If it doesn’t work with the melee it will still be an incredible combo. You could also go with the new glaive perk close to melee to increase your glaive damage. Judgment of Kelgorath is truly the best legendary glaive of them all." Recommended MW - Shield Duration.|tags:pve,mkb,controller
@@ -789,6 +834,25 @@ dimwishlist:item=2978226043&perks=3800201097,438098033
 dimwishlist:item=2978226043&perks=3523296417,438098033
 dimwishlist:item=2978226043&perks=691659142,438098033
 
+// Judgment of Kelgorath (PvE first-choice roll)
+// Auxilliary Reserves, Appended Mag, Overflow, Close to Melee
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts but will be more use for a glaive than Hakke Breach Armaments. JoK is a new subtype for Season 19 - a slower, but harder hitting slashy shooty stick than we're used to. You're going to be in CQC, where projectile speed (governed by range) isn't quite as important, so the shield can be quite useful to survive in a crowd. Use your haft to improve charge time and shield duration, and take the extra shot from Appended Mag (Extended Mag gives you no more shots so isn't worth it). In the first trait column, Overflow on a Special or Power weapon is just so good - more than double your magazine size and it bypasses the low reload speed just for picking up a brick! Close to Melee was just built for glaives - projectile kills improve melee damage by 30%, and more kills with either projectile or melee extend the timer. Proc and go have fun. MW: Range, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-God, Controller, M+KB
+
+// Judgment of Kelgorath (PvE first-choice roll)
+// Auxilliary Reserves, Appended Mag, Overflow, Surrounded
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts but will be more use for a glaive than Hakke Breach Armaments. JoK is a new subtype for Season 19 - a slower, but harder hitting slashy shooty stick than we're used to. You're going to be in CQC, where projectile speed (governed by range) isn't quite as important, so the shield can be quite useful to survive in a crowd. Use your haft to improve charge time and shield duration, and take the extra shot from Appended Mag (Extended Mag gives you no more shots so isn't worth it). In the first trait column, Overflow on a Special or Power weapon is just so good - more than double your magazine size and it bypasses the low reload speed just for picking up a brick! Pair that with the newly buffed Surrounded for a ridiculous 40% (47% for the Enhanced version) bonus to projectile damage for just for being near three enemies. MW: Range, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+
+// Judgment of Kelgorath (PvE first-choice roll)
+// Auxilliary Reserves, Appended Mag, (Overflow, Demolitionist), Incandescent
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for solar subclass synergy in end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts but will be more use for a glaive than Hakke Breach Armaments. JoK is a new subtype for Season 19 - a slower, but harder hitting slashy shooty stick than we're used to. You're going to be in CQC, where projectile speed (governed by range) isn't quite as important, so the shield can be quite useful to survive in a crowd. Use your haft to improve charge time and shield duration, and take the extra shot from Appended Mag (Extended Mag gives you no more shots so isn't worth it). In the first trait column, Overflow on a Special or Power weapon is just so good - more than double your magazine size and it bypasses the low reload speed just for picking up a brick, or Demolitionist reloads just for using your grenade and the kills regain 20% energy! Then, have solar subclass fun proccing Incandescent's scorch and ignite effects to help clear crowds of adds even faster. MW: Range, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2978226043&perks=3643424744,4293542123
+dimwishlist:item=2978226043&perks=3523296417,4293542123
+
+// Judgment of Kelgorath (PvE first-choice roll)
+// Auxilliary Reserves, Appended Mag, Overflow, Unstoppable Force
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts but will be more use for a glaive than Hakke Breach Armaments. JoK is a new subtype for Season 19 - a slower, but harder hitting slashy shooty stick than we're used to. You're going to be in CQC, where projectile speed (governed by range) isn't quite as important, so the shield can be quite useful to survive in a crowd. Use your haft to improve charge time and shield duration, and take the extra shot from Appended Mag (Extended Mag gives you no more shots so isn't worth it). In the first trait column, Overflow on a Special or Power weapon is just so good - more than double your magazine size and it bypasses the low reload speed just for picking up a brick! Unstoppable Force then gives a 30% damage bonus to projectiles for blocking with your shield, letting you tank damage and take on beefier adds and Majors. MW: Range, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2978226043&perks=3643424744,2224838837
+
 // Path of Least Resistance
 //notes:pandapaxxy (PvE / M+KB / Controller): "I think the Path of Least Resistance is going to be a crowd favorite. Adaptive munitions to crush shields and voltshot to clear rooms. There is the classic “Musketeer” combo of stats for all and one for all. As well as some decent damage through focused fury. Subsistence I think is the best for mobbing but without a direct damage bonus you might be a bit underwhelmed with its performance." Recommended MW - Reload.|tags:pve,mkb,controller
 dimwishlist:item=2827764482&perks=1820235745,2173046394
@@ -822,6 +886,21 @@ dimwishlist:item=2827764482&perks=1583705720,4049631843
 //notes:pandapaxxy (PvP / M+KB): "Trace rifles have had a very small but solid cult following. The best are still the exotics, but having a near-perfect hipfire juiced up auto rifle is hard to argue against. Path of Least Resistance doesn’t offer a lot in terms of lethality to keep the ball rolling once it does get started. Neutrally it is very strong but I think PvE is where it will survive." Recommended MW - Reload.|tags:pvp,mkb
 dimwishlist:item=2827764482&perks=1359896290,1890422124
 dimwishlist:item=2827764482&perks=1359896290,1365187766
+
+// Path of Least Resistance (PvE first-choice roll)
+// (Polygonal Rifling, Smallbore), Particle Repeater, Triple Tap, Focused Fury
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts or Omolon Fluid Dynamics' extra stability and reload speed is always welcome. An arc legendary trace rifle to complete the energy set. Stats are a bit of a mixed bag, but there are a few interesting rolls, and at least now you can collect them all! Pump up stability as high as it will go to keep your shots on target. The legendary Coldheart-lite roll - Focused Fury kicks in 20% bonus damage after half of the base battery shots are crits, and if you keep hitting crits, Triple Tap will extend the battery. Keep it in your back pocket for bosses with big crit spots or when someone is using Divinity. MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2827764482&perks=3400784728,2896038713
+
+// Path of Least Resistance (PvE first-choice roll)
+(Polygonal Rifling, Smallbore, Fluted Barrel), (Particle Repeater, Tactical Battery, Light Battery, Enhanced Battery), Adaptive Munitions, Focused Fury
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts or Omolon Fluid Dynamics' extra stability and reload speed is always welcome. An arc legendary trace rifle to complete the energy set. Stats are a bit of a mixed bag, but there are a few interesting rolls, and at least now you can collect them all! Perhaps worth tucking away for the day that we get an anti-Barrier mod. Keep the beam on target with a stability barrel, , together with a battery that provides some extra stability, reload speed, range or charge. With Trace Rifle's fire rate, this should rip through non-matching shields in match game, and Focused Fury can then help take the Champion down once stunned. MW: Stability, with a damage-boosting Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-MajorSpec. PvE-Champion, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=2827764482&perks=1048183818,2896038713
+
+// Path of Least Resistance (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Tactical Battery, Light Battery, Enhanced Battery), Stats for All, One for All
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts or Omolon Fluid Dynamics' extra stability and reload speed is always welcome. An arc legendary trace rifle to complete the energy set. Stats are a bit of a mixed bag, but there are a few interesting rolls, and at least now you can collect them all! In use you'll be looking for a combination of a barrel that makes it feel snappier with additional handling or keeps recoil under control by improving the stability, together with a battery that provides some extra stability, reload speed, range or charge. There's a big enough battery to get your three shots to improve all the gunfeel stats with Stats for All, and boost damage by 35% with One for All - this should rip through chunkier adds in end-game content. MW: Stability, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2827764482&perks=1583705720,4049631843
 
 // Fire and Forget
 //notes:pandapaxxy (PvE / M+KB / Controller): "Other than Disparity, this is probably the best weapon to grind for this season. [...] Fire and Forget also being stasis allows you to go big damage with Silence and Squall and font of might. The aggressive burst linear fusions are definitely best in slot. Fire and Forget is an incredible gift from the Bungie gods. I would highly recommend bringing the recoil direction up to 100 with arrowhead brake. That way you can solely focus on fighting flinch. You can go a couple different routes with magazine and masterwork, but I prefer mag dumping and better burst dps with accelerated coils and charge time MW. Field prep is best for pure damage, but headstone and vorpal are probably what I will be going for. That way I can have some decent damage and crowd control. Chill clip is interesting and certainly viable, but I don’t know how useful it will really be in practice." Recommended MW - Charge Time.|tags:pve,mkb,controller
@@ -871,6 +950,22 @@ dimwishlist:item=2272041093&perks=2846385770,3523296417
 dimwishlist:item=2272041093&perks=2450788523,3523296417
 dimwishlist:item=2272041093&perks=124408337,3523296417
 
+// Fire and Forget (PvE first-choice roll)
+(Fluted Barrel, Polygonal Rifling), Enhanced Battery, Field Prep, Focused Fury
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game boss DPS. Shapeable. Veist Stinger is the origin trait to use, as it procs per shot rather than per burst, which means you'll probably never need to reload. F&F is a non-endgame obtainable  boss-killing replacement for Reed's Regret, and a aggressive-frame companion to Stormchaser. Being a stasis LFR, it's easy to get a Font of Might 25% boost to your damage if you have a Warlock putting down a Well and willing to use the Supreme Wellmaker mod, and you're using the Elemental Shards and Elemental Time Dilation mods. You'll need to keep your shots on a boss's crit spot, so maximise your stability with your barrel, and then add in an extra charge with no downsides with Enhanced Battery. For boss damage, use Field Prep to boost your ammo reserves (which you'll be calling on with Veist Stinger), and you'll get plenty of opportunity to proc the 20% damage boost from Focused Fury once you hit six individual crits (the trait procs on individual shots rather than on bursts). Recommended  MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2272041093&perks=2869569095,2896038713
+
+// Fire and Forget (PvE first-choice roll)
+(Fluted Barrel, Polygonal Rifling), Enhanced Battery, Field Prep, (Frenzy, Vorpal Weapon)
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game boss DPS. Shapeable. Veist Stinger is the origin trait to use, as it procs per shot rather than per burst, which means you'll probably never need to reload. F&F is a non-endgame obtainable  boss-killing replacement for Reed's Regret, and a aggressive-frame companion to Stormchaser. Being a stasis LFR, it's easy to get a Font of Might 25% boost to your damage if you have a Warlock putting down a Well and willing to use the Supreme Wellmaker mod, and you're using the Elemental Shards and Elemental Time Dilation mods. You'll need to keep your shots on a boss's crit spot, so maximise your stability with your barrel, and then add in an extra charge with no downsides with Enhanced Battery. For major or boss damage, use Field Prep to boost your ammo reserves (which you'll be calling on with Veist Stinger). Frenzy is an easily procced 15% damage boost just for being in combat, or Vorpal Weapon is an uncomplicated 10% boost against Majors and Bosses. Recommended  MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2272041093&perks=2869569095,4104185692
+dimwishlist:item=2272041093&perks=2869569095,1546637391
+
+// Fire and Forget (PvE first-choice roll)
+(Fluted Barrel, Polygonal Rifling), Enhanced Battery, Headstone, Chill Clip
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game boss DPS. Shapeable. Veist Stinger is the origin trait to use, as it procs per shot rather than per burst, which means you'll probably never need to reload. F&F is a non-endgame obtainable stasis LFR replacement for Reed's Regret, and an aggressive-frame companion to Stormchaser.  You'll need to keep your shots on a major or boss's crit spot, so maximise your stability with your barrel, and then add in an extra charge with no downsides with Enhanced Battery. For major or boss damage, use Field Prep to boost your ammo reserves (which you'll be calling on with Veist Stinger). For stasis subclass synergy, Fire and Forget can roll (or be crafted) with two stasis perks - use Headstone and Chill Clip for stasis crystals and slow stacks to work your Aspects and Fragments on. Recommended  MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2272041093&perks=124408337,2978966579
+
 // Retrofit Escapade
 //notes:pandapaxxy (PvE / M+KB / Controller): "I dislike 900 rpm machine guns. They don’t feel very strong for how fast they fire. If I had some good Rambo moments where I could shred hordes of low-tier adds without having to recoil control that much I would love it. But having the lowest base stats across the machine gun archetypes and the fastest rpm makes them unwieldy. Arrowhead brake will bring up the terribly low recoil direction and having more in the magazine means you can be off target for 0.001s and not waste half your ammo. Feeding frenzy and field prep are both ways to bump up the decent reload speed. Golden tricorn will get you the best bang for your glimmer when paired with a void subclass. All void subclasses are viable in end game content so that’s not an issue. Frenzy is best when not on a void subclass and vorpal will allow you to do increased but not substantial damage in and out of combat." Recommended MW - Reload.|tags:pve,mkb,controller
 dimwishlist:item=3103325054&perks=2779035018,2610012052
@@ -905,6 +1000,39 @@ dimwishlist:item=3103325054&perks=1354429876,1546637391
 dimwishlist:item=3103325054&perks=1570042021,1890422124
 dimwishlist:item=3103325054&perks=1570042021,3425386926
 
+// Retrofit Escapade (PvE first-choice roll)
+// Arrowhead Brake, (Extended Mag, Appended Mag), (Field Prep, Fourth Time's the Charm), Target Lock
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, although Suros Synergy's flinch reduction in reload is useful in a firefight too so take your pick. This is better in every stat than the only other rapid fire LMG - Shattered Cypher - and there are a few ways you can go with a weapon build. You'll need to control your fire with short bursts - so, to make it easier, tighten up the recoil direction with Arrowhead Brake. For damage against a single target, you want your magazine as large as it will go, so look for Extended or Appended. Then extend the magazine with Fourth Time's the Charm, or improve your ammo reserves and reload with Field Prep in the first trait column to give Target Lock's 40& bonus to damage as much uptime as possible. Recommended  MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+
+// Retrofit Escapade (PvE first-choice roll)
+// Arrowhead Brake, Tactical Mag, Stats for All, One for All
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for add clear in end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, although Suros Synergy's flinch reduction in reload is useful in a firefight too so take your pick. This is better in every stat than the only other rapid fire LMG - Shattered Cypher - and there are a few ways you can go with a weapon build. You'll need to control your fire with short bursts - so, to make it easier, tighten up the recoil direction with Arrowhead Brake. Tactical Mag adds a few extra shots, plus stability and reload speed. Rapid-fires have plenty of rounds to proc the SOFA (Stats/One for All) trait combination. Bonus handling, stability, range and reload speed, plus a 35% boost to damage just for hitting three different enemies. Recommended  MW: Stability or Reload Speed, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+
+// Retrofit Escapade (PvE first-choice roll)
+// Arrowhead Brake, Tactical Mag, (Stats for All, Field Prep, Fourth Time's the Charm, Feeding Frenzy), Golden Tricorn
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, although Suros Synergy's flinch reduction in reload is useful in a firefight too so take your pick. This is better in every stat than the only other rapid fire LMG - Shattered Cypher - and there are a few ways you can go with a weapon build. You'll need to control your fire with short bursts - so, to make it easier, tighten up the recoil direction with Arrowhead Brake. Tactical Mag adds a few extra shots, plus stability and reload speed. To lean into the Void 3.0 sandbox, give yourself as much ammo and uptime in the first trait column with Stats for All, Field Prep, Fourth Time's the Charm or Feeding Frenzy to take advantage of Golden Tricorn's 50% bonus damage with two stacks, using your choice of void grenade or melee. Recommended  MW: Stability or Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3103325054&perks=2869569095,2610012052
+dimwishlist:item=3103325054&perks=1354429876,2610012052
+dimwishlist:item=3103325054&perks=2779035018,2610012052
+
+// Retrofit Escapade (PvE first-choice roll)
+// Arrowhead Brake, Tactical Mag, (Stats for All, Field Prep, Feeding Frenzy), Frenzy
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, although Suros Synergy's flinch reduction in reload is useful in a firefight too so take your pick. This is better in every stat than the only other rapid fire LMG - Shattered Cypher - and there are a few ways you can go with a weapon build. You'll need to control your fire with short bursts - so, to make it easier, tighten up the recoil direction with Arrowhead Brake. Tactical Mag adds a few extra shots, plus stability and reload speed. For end-game add clear, use Stats for All, Field Prep, or Feeding Frenzy for maximum uptime in your first trait column, and the reliable Frenzy in the second for an easy to use 15% damage boost. Recommended  MW: Stability or Reload Speed, with a damage-boosting (Minor, Major, Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3103325054&perks=1583705720,4104185692
+dimwishlist:item=3103325054&perks=2869569095,4104185692
+dimwishlist:item=3103325054&perks=2779035018,4104185692
+
+// Retrofit Escapade (PvE first-choice roll)
+// Arrowhead Brake, Tactical Mag, (Stats for All, Field Prep, Feeding Frenzy), Frenzy
+//notes:Inspired by DMB PvE Podcast 44. Backup PvE roll for end-game content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, although Suros Synergy's flinch reduction in reload is useful in a firefight too so take your pick. This is better in every stat than the only other rapid fire LMG - Shattered Cypher - and there are a few ways you can go with a weapon build. You'll need to control your fire with short bursts - so, to make it easier, tighten up the recoil direction with Arrowhead Brake, or boost stability with your barrel perk. Add your choice of extra shots, stability and reload speed with the mag. For end-game add clear, use Stats for All, Field Prep, or Feeding Frenzy for maximum uptime in your first trait column, and the reliable Frenzy in the second for an easy to use 15% damage boost. Recommended  MW: Stability or Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3103325054&perks=1583705720,4104185692
+dimwishlist:item=3103325054&perks=2869569095,4104185692
+dimwishlist:item=3103325054&perks=2779035018,4104185692
+
+// Retrofit Escapade (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Flared Magwell, Appended Mag, Extended Mag), (Feeding Frenzy, Stats for All, Field Prep), Rampage
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general content. Shapeable. The Ambush origin trait is probably more for PvP than PvE, with the extra range, handling and 10% boost to damage for a few moments after combat starts, although Suros Synergy's flinch reduction in reload is useful in a firefight too so take your pick. This is better in every stat than the only other rapid fire LMG - Shattered Cypher - and there are a few ways you can go with a weapon build. You'll need to control your fire with short bursts - so, to make it easier, tighten up the recoil direction with Arrowhead Brake, or boost stability with your barrel perk. Add your choice of extra shots, stability and reload speed with the mag. For general add clear, use Stats for All, Field Prep, or Feeding Frenzy for maximum uptime in your first trait column, and the old favourite Rampage in the second to stack up to 33% bonus damage on kills. Recommended  MW: Stability or Reload Speed, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+
 // IKELOS_HC_v1.0.3
 //notes:pandapaxxy (PvE / M+KB / Controller): "This is probably the best timeline the Ikelos hand cannon has seen but it is still underwhelming. Precision frame hand cannons do not do enough damage in PvE to warrant use outside out bounties or low-level PvE. They just simply don’t scale well enough for my tastes. Frenzy and subsistence will help a ton but even with all the benefits they still underperform. Golden tricorn will give you the maximum benefits with a void subclass. Good luck with this gun." Recommended MW - Reload.|tags:pve,mkb,controller
 dimwishlist:item=1731355324&perks=1820235745,4104185692
@@ -936,6 +1064,11 @@ dimwishlist:item=1731355324&perks=3400784728,3425386926
 // IKELOS_HC_v1.0.3
 //notes:pandapaxxy (PvP / M+KB): "Precision frame hand cannons did get a slight buff recently. They are consistent but just as underwhelming in PvP. I cannot undervalue their easy recoil control, but they are outclassed in almost all other aspects. Rapid hit will make shooting a breeze, and rampage is enough to 3-crit up to 9 resilience." Recommended MW - Range.|tags:pvp,mkb
 dimwishlist:item=1731355324&perks=247725512,3425386926
+
+// IKELOS_HC_v1.0.3 (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling, Hammer-Forged Rifling), Seraph Rounds, Stats for All, One for All
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear. Shapeable. The Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Precisions aren't the strongest choice for PvE as at Season 19 v6.3.0.2, and the Ikelos HC's stats are pretty bad across the board, but there are a few combinations that are still interesting. Fill in some of the stat gaps in Handling and Range with your barrel, and then with the combined goodness of Armor-Piercing, High-Caliber and Ricochet Rounds, Seraph Rounds is a clear first choice in the mag. Even though you're using about 25% of your magazine to proc SOFA (Stats/One for All), the stat boosts to round everything out and 35% damage boost are well worth it for add-clear. Recommended  MW: Range or Handling, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1731355324&perks=1583705720,4049631843
 
 // IKELOS_SG_v1.0.3
 //notes:pandapaxxy (PvE / M+KB / Controller): "[...] it still probably won’t make much of a splash this season either. In PvE the best shotguns are pin-point frames for damage, and dealer’s choice for general use. I do like rapid-fire frames with one-two punch builds as you don’t need a lot to hit max magazine and grave robber for “free” reloads. The synergy is there and it makes for a really fun game play cycle. Subsistence and trench barrel are good options together, as are pugilist and swashbuckler. I just don’t think with all the rapid-fire frame shotguns and PvE centered shotguns the Ikelos will really shine." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -1006,6 +1139,48 @@ dimwishlist:item=2149683300&perks=2450788523,2846385770
 dimwishlist:item=2149683300&perks=1428297954,2846385770
 dimwishlist:item=2149683300&perks=2450788523,1890422124
 dimwishlist:item=2149683300&perks=1428297954,1890422124
+
+// IKELOS_SMG_v1.0.3 (PvE first-choice roll)
+// (Polygonal Rifling, Fluted Barrel), Seraph Rounds, (Threat Detector, Perpetual Motion), Voltshot
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general add clear. Shapeable. Voltshot SMG anyone? It's already an S-Tier stat monster, but is anyone actually reading past the word Voltshot? The Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Stability is the play for controller, to help keep your barrel pointed at what you're shooting at, and then with the combined goodness of Armor-Piercing, High-Caliber and Ricochet Rounds, Seraph Rounds is a clear first choice in the mag. To pair with Voltshot, forget Feeding Frenzy as it doesn't pair well so, instead, Threat Detector will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit. Recommended  MW: Reload or Stability, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2149683300&perks=4071163871,2173046394
+dimwishlist:item=2149683300&perks=1428297954,2173046394
+
+// IKELOS_SMG_v1.0.3 (PvE first-choice roll)
+// (Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell), (Threat Detector, Perpetual Motion), Voltshot
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general add clear. Shapeable. Voltshot SMG anyone? It's already an S-Tier stat monster, but is anyone actually reading past the word Voltshot? The Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Stability is the play for controller, to help keep your barrel pointed at what you're shooting at, and then to help with Voltshot you want your reload to be as fast as possible - Tactical Mag and Flared Magwell both help out. To pair with Voltshot, forget Feeding Frenzy as it doesn't pair well so, instead, Threat Detector  will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit. Recommended  MW: Reload or Stability, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2149683300&perks=4071163871,2173046394
+dimwishlist:item=2149683300&perks=1428297954,2173046394
+
+// IKELOS_SMG_v1.0.3 (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), Seraph Rounds, (Threat Detector, Perpetual Motion), Voltshot
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general add clear. Shapeable. Voltshot SMG anyone? It's already an S-Tier stat monster, but is anyone actually reading past the word Voltshot? The Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Not having to worry about stability as much, you might as well push out the range as far as you can for M&KB, and then with the combined goodness of Armor-Piercing, High-Caliber and Ricochet Rounds, Seraph Rounds is a clear first choice in the mag. To pair with Voltshot, forget Feeding Frenzy as it doesn't pair well so, instead, Threat Detector  will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit. Recommended  MW: Reload or Stability, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, M+KB
+dimwishlist:item=2149683300&perks=4071163871,2173046394
+dimwishlist:item=2149683300&perks=1428297954,2173046394
+
+// IKELOS_SMG_v1.0.3 (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), (Tactical Mag, Flared Magwell), (Threat Detector, Perpetual Motion), Voltshot
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for general add clear. Shapeable. Voltshot SMG anyone? It's already an S-Tier stat monster, but is anyone actually reading past the word Voltshot? The Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Not having to worry about stability as much, you might as well push out the range as far as you can for M&KB, and then to help with Voltshot you want your reload to be as fast as possible - Tactical Mag and Flared Magwell both help out. To pair with Voltshot, forget Feeding Frenzy as it doesn't pair well so, instead, Threat Detector  will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit. Recommended  MW: Reload or Stability, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, M+KB
+dimwishlist:item=2149683300&perks=4071163871,2173046394
+dimwishlist:item=2149683300&perks=1428297954,2173046394
+
+// IKELOS_SMG_v1.0.3 (PvE first-choice roll)
+// (Polygonal Rifling, Fluted Barrel), Seraph Rounds, (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear. Shapeable. It's already an S-Tier stat monster and the Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Stability is the play for controller, to help keep your barrel pointed at what you're shooting at, and then with the combined goodness of Armor-Piercing, High-Caliber and Ricochet Rounds, Seraph Rounds is a clear first choice in the mag. If you're looking at end-game add-clearing, Threat Detector will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit and Surrounded boosts damage by 36.5% and the enhanced version by 47%. But, even though this is a great roll, you'll still know in your heart that you really wanted Voltshot... Recommended  MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2149683300&perks=4071163871,3708227201
+dimwishlist:item=2149683300&perks=1428297954,3708227201
+
+// IKELOS_SMG_v1.0.3 (PvE first-choice roll)
+// (Polygonal Rifling, Fluted Barrel), (Tactical Mag, Flared Magwell), (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear. Shapeable. It's already an S-Tier stat monster and the Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Stability is the play for controller, to help keep your barrel pointed at what you're shooting at, Tactical Mag and Flared Magwell both help out with that, and reload speed too. If you're looking at end-game add-clearing, Threat Detector will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit and Surrounded boosts damage by 36.5% and the enhanced version by 47%. But, even though this is a great roll, you'll still know in your heart that you really wanted Voltshot... Recommended  MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2149683300&perks=4071163871,3708227201
+dimwishlist:item=2149683300&perks=1428297954,3708227201
+
+// IKELOS_SMG_v1.0.3 (PvE first-choice roll)
+// (Full Bore, Hammer-Forged Rifling), Seraph Rounds, (Threat Detector, Perpetual Motion), Surrounded
+//notes:Inspired by DMB PvE Podcast 44. First-choice PvE roll for end-game add clear. Shapeable. It's already an S-Tier stat monster and the Rasputin's Arsenal origin trait reloads on a shield break, which should save on a few reloads. Not having to worry about stability as much, you might as well push out the range as far as you can for M&KB, and then with the combined goodness of Armor-Piercing, High-Caliber and Ricochet Rounds, Seraph Rounds is a clear first choice in the mag. If you're looking at end-game add-clearing, Threat Detector will speed up your reloads and boost your stability while you're in CQC or Perpetual Motion will do the same just for moving about a bit and Surrounded boosts damage by 36.5% and the enhanced version by 47%. But, even though this is a great roll, you'll still know in your heart that you really wanted Voltshot... Recommended  MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, M+KB
+dimwishlist:item=2149683300&perks=4071163871,3708227201
+dimwishlist:item=2149683300&perks=1428297954,3708227201
 
 // IKELOS_SR_v1.0.3
 //notes:pandapaxxy (PvE / M+KB / Controller): "I still have my season 11 Ikelos sniper. I still use it and I don’t think there’s a large reason for me to grind out the crafted version. For those who don’t have the 2nd version of the Ikelos sniper, overflow and focused fury are a very fun combo for maximizing your damage per magazine. I prefer high-impact reserves and fourth time’s the charm for ammo refunding. Something about damage numbers going up consistently makes my smooth brain happy." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -1479,20 +1654,14 @@ dimwishlist:item=882778888&perks=3511092054,3038247973
 
 // Cold Front
 //notes:pandapaxxy (PvE / M+KB / Controller): "[...] just has poor stats across the board. With the lowest stability in its class, the lowest reload and aim assist. Cold Front is tied for the lowest magazine with Blood Feud. Cold Front needs a lot to make it feel and shoot well. In PvE I would recommend corkscrew rifling to give a flat buff to all its stats. Flared magwell offers the best of both reload and stability (two stats this gun desperately needs). Frenzy and Subsistence are my final choices. Frenzy is the best for bringing up even more of Cold Front’s poor stats. Subsistence has received multiple buffs and it feels incredible on your primary add clear weapon." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=2814093983&perks=247725512,2213355989
-dimwishlist:item=2814093983&perks=3523296417,2213355989
-dimwishlist:item=2814093983&perks=247725512,331667533
-dimwishlist:item=2814093983&perks=3523296417,331667533
+dimwishlist:item=2814093983&perks=1820235745,4104185692
 
 // Cold Front
 //notes:pandapaxxy (PvP / M+KB): "Cold Front has a giant hill to climb and with a lot of competition it might not be worth it. [...] Cold Front does have the best sights IMO so for me it’s semi-worth. In PvP you’re really looking for consistency or lethality. Cold Front does not have super strong lethality perks like kill clip or multikill clip, so you’re looking for consistency. Cold Front does offer rangefinder, putting it on par with its siblings, but the lack of stats still leaves a lot to be desired." Recommended MW - Range.|tags:pvp,mkb
 
 // Cold Front
 //notes:pandapaxxy (PvE / M+KB / Controller): "[...] just has poor stats across the board. With the lowest stability in its class, the lowest reload and aim assist. Cold Front is tied for the lowest magazine with Blood Feud. Cold Front needs a lot to make it feel and shoot well. In PvE I would recommend corkscrew rifling to give a flat buff to all its stats. Flared magwell offers the best of both reload and stability (two stats this gun desperately needs). Frenzy and Subsistence are my final choices. Frenzy is the best for bringing up even more of Cold Front’s poor stats. Subsistence has received multiple buffs and it feels incredible on your primary add clear weapon." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=2814093983&perks=247725512,2213355989
-dimwishlist:item=2814093983&perks=3523296417,2213355989
-dimwishlist:item=2814093983&perks=247725512,331667533
-dimwishlist:item=2814093983&perks=3523296417,331667533
+dimwishlist:item=2814093983&perks=1820235745,4104185692
 
 // Cold Front (PvE first-choice roll)
 // (Polygonal Rifling, Fluted Barrel, Smallbore), (Tactical Mag, Flared Magwell), Stats for All, One for All
@@ -1526,13 +1695,27 @@ dimwishlist:item=2814093983&perks=1820235745,3425386926
 dimwishlist:item=2814093983&perks=1428297954,3425386926
 dimwishlist:item=2814093983&perks=1820235745,3425386926
 
+// Cold Front
+//notes:WarlockMaggie (PvE / M+KB / Controller): Abysmal stability means this thing will kick like a mule and being under the 20 stability threshold means you’ll be taking extra flinch. So the priority with this weapon is to improve stability (and any other stats) as soon as possible. Enter the community-named “musketeer” build (Stats and One for All). With a quick pass over 3 targets, you’ll gain stats boosts and damage. Tac Mag may not be the most stat heavy option, but the extra bullet may help in securing that initial activation. Other stat raising perks can work, but don’t keep any rolls without ‘em. Remember, if you are a naughty Guardian, Xur will leave a Slickdraw / Gutshot Straight Cold Front in your stocking. |tags:pve,mkb,controller
+dimwishlist:item=2814093983&perks=1583705720,4049631843
+
+// Cold Front
+//notes:WarlockMaggie (PvP / M+KB / Controller): Similar to my PvP recommendation, stability needs to be your priority but you can mix in range to get a bit more accuracy. Steady Rounds plus a Range MW provides that mix with a little extra Airborne Effectiveness to help you get the jump on your opponents. Combine that with a tried and true consistency combo of Tap the Trigger and Rangefinder, this will work for you if you put in the work of finding this roll. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2814093983&perks=1890422124,2846385770
+
+// Cold Front
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): Smallbore and Flared are both going to provide minor buffs to stability which will be felt massively on a gun with a base of 7. Plus a little extra reload to help Frenzy along is never a bad thing, so Flared is a no brainer for me. Frenzy is fairly obvious, damage boost + reload boost baked into the same perk is really nice. Unrelenting may not be everyone's first pick, but for me, this gun feels like a mobbing monster, getting healing inside that same role is just a cherry on top. MW Unimportant|tags:pve,mkb,controller
+
+// Cold Front
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): While the main traits are obvious picks as far as this weapon is concerned, the rest is a little confusing. With a base 7 stability, will full sending into the stat actually make a meaningful difference? Will losing it entirely via Full Bore make a difference? I honestly don't know. I will be looking for these rolls because they're a great middle ground with a little extra stability for controllers. I do believe the rolls are interchangeable though, since it's just a MW difference. Recommended MW: Range (M+KB), Stability (Controller)|tags:pvp,mkb,controller
+dimwishlist:item=2814093983&perks=1890422124,2846385770
+
 // Stay Frosty
 //notes:pandapaxxy (PvE / M+KB / Controller): "Its base stats aren’t anything to write home about. [...] Where Stay Frosty takes the lead is in its perks. Arrowhead is a must regardless of what activity you’re in. Having a base recoil of 55 means you can slap on a CB mod and be at 100. Thresh is an incredible tool for building your supers now that your intellect stat doesn’t matter as much compared to whatever tier you’re in. Headstone is just fun add clear. [...] Short shout-out to Golden tricorn. Golden tricorn is the best for ability cycling and weapon cycling. Being able to have such a huge refreshable buff that stacks with things like elemental wells, high-energy fire, and radiance is too good to pass up. Stasis isn’t the strongest on its own for abilities, but it might get a buff. Who knows." Recommended MW - Reload.|tags:pve,mkb,controller
 dimwishlist:item=2812100428&perks=2726471870,124408337
 
 // Stay Frosty
 //notes:pandapaxxy (PvP / M+KB): "Over in the crucible 450 pulses just aren’t anything important. Messenger exists, and the new hotness is Disparity. Stay Frosty has a lot to build up in order to compete. Arrowhead brake is a must, but smallbore is a decent alternative if you’re fine with the lower recoil direction. Ricochet rounds brings up the stability and bumps up the range a smidge. Over on MnK I would recommend killing wind for the bump in range, handling and movement speed. Couple that with desperado and you’ve got a pretty solid roll for going on sprees." Recommended MW - Reload.|tags:pvp,mkb
-dimwishlist:item=2812100428&perks=2450788523,3047969693
 
 // Stay Frosty
 //notes:pandapaxxy (PvE / M+KB / Controller): "Its base stats aren’t anything to write home about. [...] Where Stay Frosty takes the lead is in its perks. Arrowhead is a must regardless of what activity you’re in. Having a base recoil of 55 means you can slap on a CB mod and be at 100. Thresh is an incredible tool for building your supers now that your intellect stat doesn’t matter as much compared to whatever tier you’re in. Headstone is just fun add clear. [...] Short shout-out to Golden tricorn. Golden tricorn is the best for ability cycling and weapon cycling. Being able to have such a huge refreshable buff that stacks with things like elemental wells, high-energy fire, and radiance is too good to pass up. Stasis isn’t the strongest on its own for abilities, but it might get a buff. Who knows." Recommended MW - Reload.|tags:pve,mkb,controller
@@ -1541,7 +1724,6 @@ dimwishlist:item=2812100428&perks=2726471870,124408337
 // Stay Frosty (PvE first-choice roll)
 // Arrowhead Brake, Armor-Piercing Rounds, Thresh, Adaptive Munitions
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for end-game match game activities and anti-Barrier Champions when the mod's around. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. This is the first Stasis Lightweight frame Pulse Rifle, the frame providing +20 mobility and 6.25% boost to movement, and the first to roll with Adaptive Munitions to provide a shield-busting primary in the kinetic slot. Has decent stats compared to kinetic Lightweights. Sort out the wonky recoil direction with Arrowhead Brake. To maximise damage against shields, look for Armor-Piercing Rounds and, in the absence of a complementary column 1 trait, Thresh provides a nice little boost to super regeneration. But the real gold is Adaptive Munitions in trait column 2 for primary ammo shield busting in the kinetic slot for the first time. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, PvE-Champions, Controller, MKB
-dimwishlist:item=2812100428&perks=2726471870,1048183818
 
 // Stay Frosty (PvE first-choice roll)
 // Arrowhead Brake, (High-Caliber Rounds, Armor-Piercing Rounds, Flared Magwell), Thresh, Headstone
@@ -1551,13 +1733,25 @@ dimwishlist:item=2812100428&perks=2726471870,124408337
 // Stay Frosty (PvE first-choice roll)
 // Arrowhead Brake, (High-Caliber Rounds, Armor-Piercing Rounds, Flared Magwell), Well-Rounded, Golden Tricorn
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for general Minor clearing. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. This is the first Stasis Lightweight frame Pulse Rifle, the frame providing +20 mobility and 6.25% boost to movement. Has decent stats compared to kinetic Lightweights. Sort out the wonky recoil direction with Arrowhead Brake, and then any of the Combat Effect Mags, or Flared Magwell will serve you well. Well Rounded is an easy way to boost gunfeel stats, and while the second stack of Golden Tricorn is tougher to proc with Stasis abilities, the first stack is a reliable 15% damage boost on a kill. Recommended MW: Stability or Range, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-God, PvE-MinorSpec, Controller, MKB
-dimwishlist:item=2812100428&perks=744594675,2610012052
 
 // Stay Frosty (PvE first-choice roll)
 // Arrowhead Brake, Flared Magwell, (Encore, Runnel Vision), Desperado
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for general Minor clearing. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. This is the first Stasis Lightweight frame Pulse Rifle, the frame providing +20 mobility and 6.25% boost to movement, and the first to roll with Desperado. Has decent stats compared to kinetic Lightweights. Sort out the wonky recoil direction with Arrowhead Brake then, to make the most out of Desperado, use Flared Magwell to boost reload speed, and then either Encore or Tunnel Vision work well with the trait to boost damage output after a kill. Recommended MW: Reload Speed, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, MKB
 dimwishlist:item=2812100428&perks=1195158366,3047969693
-dimwishlist:item=2812100428&perks=2946784966,3047969693
+
+// Stay Frosty
+//notes:WarlockMaggie (PvE / M+KB / Controller): Stay Frosty is a Lightweight Pulse Rifle and I couldn’t be happier to have it in the game. Being a Stasis weapon, it has access to Headstone. Which not only is a hilarious perk when clearing mobs but also can help activate various Stasis Fragments that care about proximity or shattering of crystals. Well-Rounded is one of my favorite perks introduced this year, granting a stack of 10 range, stability and handling for using your grenade or scoring a hit with a charged melee. The gameplay loop is super satisfying and encourages integration of gunplay and ability usage. Recommended MW: Reload|tags:pve,mkb,controller
+
+// Stay Frosty
+//notes:WarlockMaggie (PvP / M+KB / Controller): Encore got a rework this season and it works well with Desperado as any missed precision final blows will still increase the range, stability and accuracy of the weapon (5, 8, and 1.25% / stack, up to 4 stacks). With the classic combo of Arrowhead Brake and Ricochet Rounds, Stay Frosty will perform. Another possible fourth column perk would be Headseeker as it also got a rework that increases damage and aim assist. Either way, the lightweight frame will additionally give you a little boost in movement speed which may help you take cover from that Chaos Reach that just showed up. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2812100428&perks=1195158366,3047969693
+
+// Stay Frosty
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): Let me address the elephant in the gun, "Thresh". Thresh is not often seen as a top tier perk, but that's because it's typically fighting for 4th slot against damage perks or better utility perks. In this case however, it's a 3rd slot pick which means you can use it in tandem with the better utility perk, "Headstone". Assuming the headstone explosions trigger Thresh in much the same way it does Stats for All and Unrelenting, it should make for some decent super gains for your stasis builds. Recommended MW: Stability|tags:pve,mkb,controller
+dimwishlist:item=2812100428&perks=2726471870,124408337
+
+// Stay Frosty
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): Lightweight pulses are feeling a lot better in PvP these days and for me, Killing Wind and Kill Clip are perks that perfectly compliment each other and provide so many benefits to the gun it becomes a no brainer. With 55 Recoil Direction, Arrowhead Brake is a must on Stay Frosty and High-Caliber should assist in opening duels to get KW/KC rolling. Omolon Fluid Dynamics will make up for any stability or reload speed losses meaning you can get the extra little bit of range from the MW. Recommended MW: Range|tags:pvp,mkb,controller
 
 // Glacioclasm
 //notes:pandapaxxy (PvE / M+KB / Controller): "Subsistence will continue to keep reservoir burst up, but newer fusions can roll reservoir burst and keep it for more than one shot. Glacioclasm is a product of power creep, but that’s okay. Not needing to think about how many shots of reservoir burst you have left and instead going 1:1 makes things easier. Easy is good. I will also give a special shoutout to Golden tricorn. SImilar to Stay Frosty, having the ability cycling and one of the highest damage outputs you can imagine for this weapon type is incredible. Void also gives you more ways of uptime and refresh-ability. Definitely keep an eye out for that." Recommended MW - Handling.|tags:pve,mkb,controller
@@ -1579,23 +1773,36 @@ dimwishlist:item=3573686365&perks=1645158859,2213355989
 // (Fluted Barrel, Smallbore), (Particle Repeater, Accelerated Coils), (Subsistence, Slideshot), Reservoir Burst
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for crowd clearing. Option of Omolon Fluid Dynamics for the faster top-up reloads or the Dawning Surprise origin trait which helps you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. There are no real holes in the stats, but Fluted Barrel or Smallbore provide nice boosts in the barrel. In the battery, Particle Repeater helps keep the burst tight, or if you're a little impatient, Accelerated Coils reduces charge time. The big draw here is Reservoir Burst with either Subsistence or Slideshot to keep the magazine full. Recommended MW: Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
 dimwishlist:item=3573686365&perks=1820235745,1427256713
-dimwishlist:item=3573686365&perks=3161816588,1427256713
 
 // Glacioclasm (PvE first-choice roll)
 // (Fluted Barrel, Smallbore), (Enhanced Battery, Particle Repeater, Accelerated Coils), Repulsor Brace, Golden Tricorn
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for Void subclass in endgame content. Option of Omolon Fluid Dynamics or the Dawning Surprise origin trait can help you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so. There are no real holes in the stats, but Fluted Barrel or Smallbore provide nice boosts in the barrel. In the battery, Enhanced Battery gets you more shots, Particle Repeater helps keep the burst tight, or if you're a little impatient, Accelerated Coils reduces charge time. For Void subclasses, Repulsor Brace works with your void debuffs to give you a damage resistant overshield and the second stack of Golden Tricorn should be easy to proc with the melee and grenade toolkit. Recommended MW: Reload Speed or Charge Time, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
-dimwishlist:item=3573686365&perks=776531651,2610012052
+
+// Glacioclasm
+//notes:WarlockMaggie (PvE / M+KB / Controller): Nothing beats the holiday whimsy of disintegrating your enemies in a void-powered explosion, getting a round auto-loaded, and then doing it all over again :) Glacioclasm hits hard, but it also handles like a brick. Look to your magazine perks for extra stability and reload, and try to aim for more stability and handling in your barrel. A Reload MW and the Omolon intrinsic trait will help make the rare time you need to reload not take an ice age. Recommended MW: Reload|tags:pve,mkb,controller
+dimwishlist:item=3573686365&perks=1820235745,1427256713
+
+// Glacioclasm
+//notes:WarlockMaggie (PvP / M+KB / Controller): I’m not going to dissuade anyone from taking this into the Crucible, but bear in mind that pre-charging your shot is crucial to success with this archetype. Due to your starting ammo count of 2, Under Pressure and HIR will be already online, giving you a little extra stats and punch to dissolve that charging Guardian holding a Wastelander… Recommended MW: Charge Time|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=1645158859,2213355989
+
+// Glacioclasm
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): This roll feels fairly obvious. Kill stuff, Res Burst explodes them, Subsistence fills your mag and Res Burst is ready again. It's just good fun times and I didnt get it last year. The bonus damage from Res Burst will make up for the loss of impact from the Accelerated Coils and Charge Time MW. Recommended MW: Charge Time|tags:pve,mkb,controller
+dimwishlist:item=3573686365&perks=1820235745,1427256713
+
+// Glacioclasm
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): This weapon is a High-Impact. You can try to skirt that fact with lower charge times, but it will still charge slow and hit hard as long as you're accurate. I say embrace it and full send into consistency. Corrected recoil direction, higher stability, better accuracy while under fire. Which you inevitably will be with a High-Impact. Unlike PvE, I don't feel the attempt at lowering charge time is worth it. Recommended MW: Stability|tags:pvp,mkb,controller
 
 // Avalanche
 //notes:pandapaxxy (PvE / M+KB / Controller): "I am always both happy and sad when this weapon rolls around. Avalanche is just a relic of year 3. It’s a weird SUROS machine gun that fires from both barrels. The saving grace is being a 450 RPM machine gun. I went slightly different with my recommendations compared to my peers. With a recoil direction of 70 you really want to bump this up to max. Arrowhead brake is the first suggestion I have. With auto-loading holster you won’t have to worry about reload speed and you’ll get all the benefits of a bigger magazine with appended mag. Finally there’s target lock. This season’s newest perk. Target lock will increase your damage the longer you stay on target. With backup mag and appended mag you cap out your magazine at 75. With these many bullets you should definitely be the coolest person in your fireteam when you hit the cap on damage and be able to show off that sweet, sweet DEEPS." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=495940989&perks=3300816228,2939589096
+dimwishlist:item=495940989&perks=3300816228,365154968
 
 // Avalanche
 //notes:pandapaxxy (PvP / M+KB): "Adaptive machine guns have always been my favorite for PvP. Being able to have decent damage at range, good chip damage, and a pretty manageable recoil are all great things to have. Avalanche does bring some good things to the table, like maxing out recoil direction with arrowhead brake. Ricochet rounds gives you some much needed stability. Dynamic sway reduction will reduce your bloom on extended gunfights. On MnK I would recommend swashbuckler or adrenaline junkie for a flat damage bonus." Recommended MW - Range.|tags:pvp,mkb
 
 // Avalanche
 //notes:pandapaxxy (PvE / M+KB / Controller): "I am always both happy and sad when this weapon rolls around. Avalanche is just a relic of year 3. It’s a weird SUROS machine gun that fires from both barrels. The saving grace is being a 450 RPM machine gun. I went slightly different with my recommendations compared to my peers. With a recoil direction of 70 you really want to bump this up to max. Arrowhead brake is the first suggestion I have. With auto-loading holster you won’t have to worry about reload speed and you’ll get all the benefits of a bigger magazine with appended mag. Finally there’s target lock. This season’s newest perk. Target lock will increase your damage the longer you stay on target. With backup mag and appended mag you cap out your magazine at 75. With these many bullets you should definitely be the coolest person in your fireteam when you hit the cap on damage and be able to show off that sweet, sweet DEEPS." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=495940989&perks=3300816228,2939589096
+dimwishlist:item=495940989&perks=3300816228,365154968
 
 // Avalanche (PvE first-choice roll)
 (Arrowhead Brake. Fluted Barrel), (Extended Mag, Appended Mag), Ambitious Assassin, Target Lock
@@ -1656,6 +1863,20 @@ dimwishlist:item=495940989&perks=3300816228,4293542123
 dimwishlist:item=495940989&perks=3300816228,11612903
 dimwishlist:item=495940989&perks=3300816228,4082225868
 
+// Avalanche
+//notes:WarlockMaggie (PvE / M+KB / Controller): LMGs are without question some of the best mob-clearing weapons in the game. So lean into that with Subsistence and Incandescent. Avalanche takes Arrowhead quite nicely (70 to 100 recoil direction) and Ricochet rounds are my personal go-to for the range and stability bonuses it provides. Give it a try and you’ll see why it is my personal favorite LMG. Recommended MW: Reload|tags:pve,mkb,controller
+dimwishlist:item=495940989&perks=1820235745,4293542123
+
+// Avalanche
+//notes:WarlockMaggie (PvP / M+KB / Controller): Adaptives are my favorite LMG archetype and this extends to use within Crucible. With a requirement of 5 crits to achieve the coveted .53s TTK, accuracy is going to be vital: enter DSR + Tap the Trigger. With DSR taking 0.6 seconds to fully ramp up, you will likely be near maximum benefit by that 5th shot. Like Hammerhead and other 450 rpm LMGs after it, this can catch many a Guardian by surprise and melt them quickly! Recommended MW: Range|tags:pvp,mkb,controller
+
+// Avalanche
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): When my team calls for DPS, my choice is seldom the LMG. So for me, I'm shooting for mass mobbing potential and rocking this weapon with a double special setup. Similar thought process to Glacioclasm, kill stuff with big explosions (or in this case, Scorch) and refill the mag automatically. All reserves, no reload, but Flared Magwell just in case you get hit with a heaping spoonful of "Destiny" and things don't go to plan. Plus, the extra stability is nice. Recommended MW: Stability|tags:pve,mkb,controller
+dimwishlist:item=495940989&perks=1820235745,4293542123
+
+// Avalanche
+//notes:/u/SirStallion_ (PvP / M+KB): As a 450, Avalanche falls into a very controllable category in PvP which means you can fairly comfortably commit to more range for short bursts of damage (like the time it might take to drop a guardian) instead of long term consistent shots. So, range range range. A little extra stability for the controller players and once you get a kill and trigger Encore, all subsequent kills should be a lot easier to manage. DSR is also an option, but only if going for multi-kills, in my opinion. If the kills are a little more spread out, I'd rather have Encore. Recommended MW: Range|tags:pvp,mkb
+
 // Zephyr
 //notes:pandapaxxy (PvE / M+KB / Controller): "It just looks cool. Besides the general Stasis sword go ColdSteel (brrrrrrrr) I would also recommend another roll. Unrelenting to get your health back and chain reaction for STASIS BOOM." Recommended MW - Impact.|tags:pve,mkb,controller
 dimwishlist:item=396910433&perks=3108830275,2396489472
@@ -1675,26 +1896,31 @@ dimwishlist:item=396910433&perks=2590710093,354401740
 // Zephyr (PvE first-choice roll)
 // (Jagged Edge, Tempered Edge), Swordmaster's Guard, (Relentless Strike, Unrelenting), Cold Steel
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for Stasis subclass synergy. No second origin trait, but Dawning Surprise helps you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so - ideal in keeping you alive in CQC. In the blade slot, Jagged Edge to maximises damage or Tempered Edge balances a bit of extra damage and ammo, for all-round utility. Swordmaster's Guard is the usual recommendation in the guard slot, to get your heavy attack up as quickly as possible. Cold Steel is Zephyr's signature trait - ideal for synergising with Stasis subclasses by adding slow stacks and freezing opponents. Relentless Strikes works well against both groups of adds or a single target, or Unrelenting works for add-clear, recovering your health from both the perk itself and the origin trait. Recommended MW: Impact, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
-dimwishlist:item=396910433&perks=3108830275,3650930298
-dimwishlist:item=396910433&perks=1749209109,3650930298
 
 // Zephyr (PvE first-choice roll)
 // (Jagged Edge, Tempered Edge), Swordmaster's Guard, Unrelenting, (Chain Reaction, Surrounded, Whirlwind Blade)
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for Minor add clear. No second origin trait, but Dawning Surprise helps you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so - ideal in keeping you alive in CQC. In the blade slot, Jagged Edge to maximises damage or Tempered Edge balances a bit of extra damage and ammo, for all-round utility. Swordmaster's Guard is the usual recommendation in the guard slot, to get your heavy attack up as quickly as possible. Unrelenting works for an add-clear weapon build, recovering your health from both the perk itself and the origin trait. In the second trait column, Chain Reaction, Surrounded and Whirlwind Blade all help with Minors and the occasional chunky Major. Recommended MW: Impact, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
 dimwishlist:item=396910433&perks=3108830275,2396489472
-dimwishlist:item=396910433&perks=3108830275,3708227201
-dimwishlist:item=396910433&perks=3108830275,3913600130
 
 // Zephyr (PvE first-choice roll)
 // (Jagged Edge, Tempered Edge), Swordmaster's Guard, Relentless Strike, Whirlwind Blade
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for for Majors and Bosses. No second origin trait, but Dawning Surprise helps you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so - ideal in keeping you alive in CQC. In the blade slot, Jagged Edge to maximises damage or Tempered Edge balances a bit of extra damage and ammo, for all-round utility. Swordmaster's Guard is the usual recommendation in the guard slot, to get your heavy attack up as quickly as possible. For groups and single target damage, Relentless Strikes helps with your ammo economy, while Whirldwind Blade builds up to 30% bonus damage after 10 hits - great for chunkier Minor add clear or a Major or Boss.. Recommended MW: Impact, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-EndGame, PvE-God, Controller, MKB
-dimwishlist:item=396910433&perks=1749209109,3913600130
 
 // Zephyr (PvE first-choice roll)
 // (Jagged Edge, Tempered Edge), Swordmaster's Guard, Relentless Strike, (Chain Reaction, Surrounded)
 //notes:Inspired by DMB PvE Podcast 44. PvE first-choice roll for Minor add clear. No second origin trait, but Dawning Surprise helps you gain ability energy and restart healing by collecting a small box after killing a half-dozen enemies or so - ideal in keeping you alive in CQC. In the blade slot, Jagged Edge to maximises damage or Tempered Edge balances a bit of extra damage and ammo, for all-round utility. Swordmaster's Guard is the usual recommendation in the guard slot, to get your heavy attack up as quickly as possible. Relentless Strikes helps with your ammo economy for an add-clear weapon build. In the second trait column, Chain Reaction, Surrounded and Whirlwind Blade all help with Minors and the occasional chunky Major. Recommended MW: Impact, with a damage-boosting (Minor, Major or Taken Spec) mod.|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, MKB
-dimwishlist:item=396910433&perks=1749209109,2396489472
-dimwishlist:item=396910433&perks=1749209109,3708227201
+
+// Zephyr
+//notes:WarlockMaggie (PvE / M+KB / Controller): Cold Steel is what sets this blade apert from every other, the slow-into-freeze ability is an amazing pairing with Stasis subclasses as well as good utility for mods and effects that care about Stasis/Slow application. Couple it with Duelist’s Trance for extra stats. It’s a chilling prospect to consider… Recommended MW: Impact|tags:pve,mkb,controller
+
+// Zephyr
+//notes:WarlockMaggie (PvP / M+KB / Controller): Okay, hear me out on this combo. It’s a unique one to the Adaptive frame sword archetype and what it allows is the ability to steal the overshield of a supering Guardian and apply it to yourself while dealing increased damage. This could mean you can easily shut down roaming, ground-based supers and survive the opposing team’s retribution. Otherwise, it’s just like any other sword in the Crucible (that doesn’t have Eager Edge). Recommended MW: Impact|tags:pvp,mkb,controller
+
+// Zephyr
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): This one is tricky. I wanted to look for Thresh and Chain Reaction, but Half Truths can get that same roll and it would be enhanced via crafting. So it's necessary to commit to the thing only this sword can do, and that's Cold Steel. I figured Cold Steel and Wellspring would be a nice combo for any hyper aggressive Stasis builds. Recommended MW: Impact|tags:pve,mkb,controller
+
+// Zephyr
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): I got nothing. I personally would never take this sword into PvP, but if I absolutely had to I'd likely end up using my heavy to fight supers, which would never result in me escaping unscathed so unrelenting might help? Maybe? In any case, Cold Steel is doing nothing for you in PvP, which is the only thing that makes this sword unique. Recommended MW: Impact|tags:pvp,mkb,controller
 
 // Mechabre (PvE first-choice roll)
 // Fluted Barrel, (Appended Mag, Flared Magwell), Auto-Loading Holster, Vorpal Weapon

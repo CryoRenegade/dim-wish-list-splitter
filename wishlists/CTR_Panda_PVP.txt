@@ -42,7 +42,19 @@ title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
 
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-seraph-ikelos-weapons.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-ikelos-smg-correction.txt
+
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep44-s19-dawning-weapons.txt
+
+title:WarlockMaggie's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+title:SirStallion's Season 19, Dawning Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
 
 //taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep37-s18-festival-of-the-lost-reprised-weapons.txt
 
