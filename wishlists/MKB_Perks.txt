@@ -62,6 +62,8 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep279-30th-anniversary-special-weapons.txt
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep48-deep-stone-crypt-weapons.txt
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep277-kings-fall-raid-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep34-s18-nightfall-weapons.txt
@@ -6437,6 +6439,540 @@ dimwishlist:item=548958835&perks=1428297954,438098033
 dimwishlist:item=548958835&perks=2450788523,3523296417
 dimwishlist:item=548958835&perks=2450788523,1683379515
 dimwishlist:item=548958835&perks=2450788523,438098033
+
+// Posterity (PvE first-choice roll)
+// Fluted Barrel, Tactical Mag, Voltshot, Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for arc synergy and end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Who would have thought that the hottest property from DSC would be a precision hand cannon? Stats are good by comparison with competitors. Fluted Barrel makes it feel snappier and Tactical Mag adds couple of extra bullets and stability. Unusually, Voltshot rolls in the first trait column and is the runaway best option for add clear, and using Frenzy as a second damage perk also boosts handling and reload to 100 so you can proc Voltshot's jolt as fast as possible after a kill, which will also stun Overload champions from Lightfall (Season 20) onwards. Just chef's kiss good. Recommended MW: Range, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=3281285075&perks=2173046394,4104185692
+
+// Posterity (PvE first-choice roll)
+// Fluted Barrel, Tactical Mag, (Rapid Hit, Surplus, Reconstruction), Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Precision HCs aren't the best choice for PvE as at v6.3.0.7, but just in case they ever get at little love, this might be worth tucking away. Stats are good by comparison with competitors. Fluted Barrel makes it feel snappier and Tactical Mag adds couple of extra bullets and stability. For end-game add clear, Reconstruction can double the size of your magazine, or Rapid Hit or Surplus and Frenzy between them can passively max out stability, handling and reload speed and add 15% damage. Recommended MW: Range, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=3281285075&perks=1523832109,4104185692
+dimwishlist:item=3281285075&perks=3436462433,4104185692
+
+// Posterity - [YeezyGT's S16] (pve)
+//notes: [YeezyGT's S16] [MW: Any] "Posterity's probably one of my favourite designs ever, along with all of the DSC weapons really. It has great access to the core basics; reloaders, along with stability and damage buffs. I typically like One-for-All over Rampage here, the buff longevity feels much better on a weaker weapon like a 180RPM, as Rampage becomes difficult to chain (within 3s) in mid-to-high level content. Similarly, Rapid Hit works a treat over Feeding Frenzy once you start dealing with more resistant enemies." tags:pve
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=247725512,4049631843
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=1523832109,4049631843
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+
+// Posterity - [YeezyGT's S16] (pve)
+//notes: [YeezyGT's S16] [MW: Any] "Posterity's probably one of my favourite designs ever, along with all of the DSC weapons really. It has great access to the core basics; reloaders, along with stability and damage buffs. I typically like One-for-All over Rampage here, the buff longevity feels much better on a weaker weapon like a 180RPM, as Rampage becomes difficult to chain (within 3s) in mid-to-high level content. Similarly, Rapid Hit works a treat over Feeding Frenzy once you start dealing with more resistant enemies." tags:pve
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=247725512,4049631843
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=1523832109,4049631843
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+
+// Posterity (PvP/PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP/PvE first choice roll.
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=247725512,3523296417
+
+// Posterity (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll.
+dimwishlist:item=3281285075&perks=2450788523,3523296417
+
+// Posterity (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
+dimwishlist:item=3281285075&perks=2450788523,3523296417
+
+// Posterity (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=247725512,3523296417
+
+// Posterity (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll.
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=247725512,3523296417
+dimwishlist:item=3281285075&perks=2779035018,3523296417
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+
+// Posterity (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll.
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=247725512,3523296417
+dimwishlist:item=3281285075&perks=2779035018,3523296417
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=247725512,4049631843
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+dimwishlist:item=3281285075&perks=1523832109,4049631843
+dimwishlist:item=3281285075&perks=247725512,3201496230
+dimwishlist:item=3281285075&perks=2779035018,3201496230
+dimwishlist:item=3281285075&perks=1523832109,3201496230
+
+// Posterity - Posterity (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+
+// Posterity - Posterity (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+
+// Posterity - Posterity (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+dimwishlist:item=3281285075&perks=2450788523,3523296417
+dimwishlist:item=3281285075&perks=1523832109,47981717
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=247725512,47981717
+dimwishlist:item=3281285075&perks=247725512,3523296417
+
+// Posterity - Posterity (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+dimwishlist:item=3281285075&perks=2450788523,3523296417
+dimwishlist:item=3281285075&perks=1523832109,47981717
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=247725512,47981717
+dimwishlist:item=3281285075&perks=247725512,3523296417
+
+dimwishlist:item=3281285075&perks=247725512,3523296417#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1354429876,3523296417#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1523832109,3523296417#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=247725512,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1354429876,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1523832109,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=247725512,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1354429876,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1523832109,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=247725512,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1354429876,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+dimwishlist:item=3281285075&perks=1523832109,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
+
+dimwishlist:item=3281285075&perks=247725512,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1354429876,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1523832109,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=247725512,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=247725512,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1354429876,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=247725512,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1354429876,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=1523832109,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), (Rapid Hit, Perpetual Motion), Incandescent
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for solar synergy and end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). Rapid Hit or Perpetual Motion layers more stability and reload speed - stability is good to help stay on a crit spot. Incandescent is great for add clear and hits your solar verbs. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=1392919471&perks=247725512,4293542123
+dimwishlist:item=1392919471&perks=1428297954,4293542123
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Puglist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for melee builds. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). For melee builds, Pugilist and Swashbuckler are the natural choice - get a melee kill for a refreshable 33% damage boost, and then each hit regenerates a little melee energy from the origin trait, while each kill regenerates a full 10%. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1392919471&perks=691659142,4082225868
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Reconstruction, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). For end-game use, Reconstruction overfills your magazine by 100%, so if you hit 9 crits, you have 11 seconds (12s when enhanced) to use the 27 remaining shots with Focused Fury's 20% damage boost. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1392919471&perks=1523832109,2896038713
+
+// Trustee - [YeezyGT's S16] (pve)
+//notes: [YeezyGT's S16] [MW: Range/Stability] [Requires Counterbalance Stock] "Trustee is fantastic. You absolutely want Reconstruction in Col. 3, and then Col. 4 is a little weaker, so you can choose between the softer buff of Redirection, accuracy bonuses with Eye of the Storm, or just generating ability energy with Wellspring. High-Impact Reserves are good on paper, but having tried it, it doesn't trigger enough in practice simply due to how good Reconstruction is." tags:pve
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+dimwishlist:item=1392919471&perks=1523832109,699525795
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+
+// Trustee - [YeezyGT's S16] (pve)
+//notes: [YeezyGT's S16] [MW: Range/Stability] [Requires Counterbalance Stock] "Trustee is fantastic. You absolutely want Reconstruction in Col. 3, and then Col. 4 is a little weaker, so you can choose between the softer buff of Redirection, accuracy bonuses with Eye of the Storm, or just generating ability energy with Wellspring. High-Impact Reserves are good on paper, but having tried it, it doesn't trigger enough in practice simply due to how good Reconstruction is." tags:pve
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+dimwishlist:item=1392919471&perks=1523832109,699525795
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+
+// Trustee (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+
+// Trustee (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+
+// Trustee (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+dimwishlist:item=1392919471&perks=1168162263,2213355989
+dimwishlist:item=1392919471&perks=2450788523,2213355989
+dimwishlist:item=1392919471&perks=1645158859,699525795
+dimwishlist:item=1392919471&perks=1168162263,699525795
+dimwishlist:item=1392919471&perks=2450788523,699525795
+dimwishlist:item=1392919471&perks=1645158859,3592538738
+dimwishlist:item=1392919471&perks=1168162263,3592538738
+dimwishlist:item=1392919471&perks=2450788523,3592538738
+
+// Trustee (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+dimwishlist:item=1392919471&perks=1168162263,2213355989
+dimwishlist:item=1392919471&perks=2450788523,2213355989
+dimwishlist:item=1392919471&perks=1645158859,699525795
+dimwishlist:item=1392919471&perks=1168162263,699525795
+dimwishlist:item=1392919471&perks=2450788523,699525795
+dimwishlist:item=1392919471&perks=1645158859,3592538738
+dimwishlist:item=1392919471&perks=1168162263,3592538738
+dimwishlist:item=1392919471&perks=2450788523,3592538738
+
+// Trustee (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=3436462433,3592538738
+
+// Trustee (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+
+// Trustee (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+dimwishlist:item=1392919471&perks=3436462433,3201496230
+dimwishlist:item=1392919471&perks=1168162263,3201496230
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+dimwishlist:item=1392919471&perks=3436462433,3592538738
+dimwishlist:item=1392919471&perks=1168162263,3592538738
+
+// Trustee (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+dimwishlist:item=1392919471&perks=3436462433,3201496230
+dimwishlist:item=1392919471&perks=1168162263,3201496230
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+dimwishlist:item=1392919471&perks=3436462433,3592538738
+dimwishlist:item=1392919471&perks=1168162263,3592538738
+
+// Trustee - Trustee (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=1392919471&perks=3436462433,47981717
+
+// Trustee - Trustee (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=1392919471&perks=3436462433,47981717
+dimwishlist:item=1392919471&perks=3436462433,699525795
+dimwishlist:item=1392919471&perks=3436462433,2213355989
+dimwishlist:item=1392919471&perks=2450788523,47981717
+dimwishlist:item=1392919471&perks=2450788523,699525795
+dimwishlist:item=1392919471&perks=2450788523,2213355989
+dimwishlist:item=1392919471&perks=1168162263,47981717
+dimwishlist:item=1392919471&perks=1168162263,699525795
+dimwishlist:item=1392919471&perks=1168162263,2213355989
+dimwishlist:item=1392919471&perks=1645158859,47981717
+dimwishlist:item=1392919471&perks=1645158859,699525795
+dimwishlist:item=1392919471&perks=1645158859,2213355989
+
+dimwishlist:item=1392919471&perks=1523832109,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=1392919471&perks=1168162263,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=1392919471&perks=1523832109,2213355989#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=1392919471&perks=1523832109,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+
+dimwishlist:item=1392919471&perks=1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=1168162263,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=1523832109,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=1523832109,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+
+// Succession (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Extended Mag, Alloy Mag, Tactical Mag), Reconstruction, (Firing Line, Focused Fury)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Pretty much best in-subfamily stats, but any kinetic sniper has to offer a lot to stand out from the crowd. If you decide this is for you, the best rolls are more for burst damage against majors and stunned Champions. Fluted Barrel adds handling and stability, or go all-in to stability with Polygonal Rifling. You can use Tactical Mag to add stability and reload speed, Alloy Mag to help with reloads on an empty mag, or maximise your magazine size with Extended Mag. For Majors, Reconstruction will double your magazine size (so you can get up to 10 in the mag with Extended Mag and a Backup Mag mod). If you're in a group, Firing Line provides a passive 20% bonus crit damage in a fireteam or, if you're running solo, Focused Fury can proc after three crit his, so your remaining shots have 20% bonus damage. Recommended MW: Handling or stability, with a Backup Mag, or damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2990047042&perks=1523832109,1771339417
+dimwishlist:item=2990047042&perks=1523832109,2896038713
+
+// Succession - [YeezyGT's S16] (god-pve)
+//notes: [YeezyGT's S16] [MW: Handling] "The PvE Sniper. With Vorpal, you one-shot Cyclops and "pull" with one shot during Sanctified Mind. With (+4 Precise Oracle Disruptors) you one-shot Oracles, for the best solo Oracle Atheon strat. It takes two snipes to break a GM Anti-Barrier Shield. So much as aim at a Shrieker and it's done. Succession is always the play. Recombination can be stronger for burst damage too - you're only hampered in a couple of situations by not having Vorpal." tags:god-pve
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
+
+// Succession - [YeezyGT's S16] (god-pvp)
+//notes: [YeezyGT's S16] [MW: Handling/Range] "Succession is criminally slept on as a PvP Sniper. It rolls with perfect combos of Moving Target/No Distractions and Snapshot, one-shot-headshots most if not all Supers without any buff, does 160 to the body that can easily translate into one-shots at the most common resiliences, and just feels really, really good to use. I'm surprised you don't see this in the wild more, given how easily farmed it is." tags:god-pvp
+dimwishlist:item=2990047042&perks=588594999,957782887
+dimwishlist:item=2990047042&perks=2866798147,957782887
+
+// Succession - [YeezyGT's S16] (god-pve)
+//notes: [YeezyGT's S16] [MW: Handling] "The PvE Sniper. With Vorpal, you one-shot Cyclops and "pull" with one shot during Sanctified Mind. With (+4 Precise Oracle Disruptors) you one-shot Oracles, for the best solo Oracle Atheon strat. It takes two snipes to break a GM Anti-Barrier Shield. So much as aim at a Shrieker and it's done. Succession is always the play. Recombination can be stronger for burst damage too - you're only hampered in a couple of situations by not having Vorpal." tags:god-pve
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
+
+// Succession - [YeezyGT's S16] (god-pvp)
+//notes: [YeezyGT's S16] [MW: Handling/Range] "Succession is criminally slept on as a PvP Sniper. It rolls with perfect combos of Moving Target/No Distractions and Snapshot, one-shot-headshots most if not all Supers without any buff, does 160 to the body that can easily translate into one-shots at the most common resiliences, and just feels really, really good to use. I'm surprised you don't see this in the wild more, given how easily farmed it is." tags:god-pvp
+dimwishlist:item=2990047042&perks=588594999,957782887
+dimwishlist:item=2990047042&perks=2866798147,957782887
+
+// Succession (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll. Recommended MW: Handling, with Targeting Adjuster mod.
+dimwishlist:item=2990047042&perks=588594999,957782887
+
+// Succession (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Handling, with Targeting Adjuster mod.
+dimwishlist:item=2990047042&perks=588594999,957782887
+dimwishlist:item=2990047042&perks=2450788523,957782887
+
+// Succession (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Reload, with Backup Mag mod.
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+
+// Succession - Succession (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=2990047042&perks=588594999,957782887
+
+// Succession - Succession (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=2990047042&perks=588594999,957782887
+dimwishlist:item=2990047042&perks=2039302152,957782887
+dimwishlist:item=2990047042&perks=2450788523,957782887
+
+dimwishlist:item=2990047042&perks=1523832109,469285294#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
+
+dimwishlist:item=2990047042&perks=1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+
+// Heritage (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Assault Mag, Tactical Mag), Reconstruction, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Majors in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Great kinetic slug shotgun - good stats across the board. While they're no longer the pillar for majors and boss damage they once were, they still work well as a weapon to swap to for burst or sustained damage. Fluted Barrel or Smallbore are your barrel choices for extra stability with a side order of handling or range depending on your preference. Assault Mag's increased fire rate is effectively a 7.7% boost to DPS, or Tactical Mag lets you get to the maximum of 8 in the mag with a Backup Mag mod. Reconstruction overfills your magazine to double size which means you only need to hit three or four crits, depending on how close you get to the magazine limit, for 11s (12s with the Enhanced Perk) for a 20% damage boost for the remainder of the magazine with Focused Fury. Recommended MW: Handling or Range, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4248569242&perks=1523832109,2896038713
+
+// Heritage (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Assault Mag, Tactical Mag), Pugilist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for melee builds in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Great kinetic slug shotgun - good stats across the board. While they're no longer the pillar for majors and boss damage they once were, they still work well as a weapon to swap to for burst or sustained damage. Fluted Barrel or Smallbore are your barrel choices for extra stability with a side order of handling or range depending on your preference. Assault Mag's increased fire rate is effectively a 7.7% boost to DPS, or Tactical Mag lets you get to the maximum of 8 in the mag with a Backup Mag mod. or melee builds, Pugilist and Swashbuckler are the natural choice - get a melee kill for a refreshable 33% damage boost, and then each hit regenerates a little melee energy from the origin trait, while each kill regenerates a full 20%. Recommended MW: Handling or Range, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4248569242&perks=691659142,4082225868
+
+// Heritage - [YeezyGT's S16] (god-pve)
+//notes: [YeezyGT's S16] [MW: Range/Handling] "Behold - the greatest PvE slug in the game. Reconstruction/Recombination is Classic Coke, and then Auto-Loading/Recombination is Diet. There's really not much to say on the PvE side - its pretty much perfect." tags:god-pve
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=3300816228,469285294
+
+// Heritage - [YeezyGT's S16] (god-pvp)
+//notes: [YeezyGT's S16] [MW: Handling] "Widely regarded as the greatest Legendary slug. There's a lot you can do with Heritage. Moving Target is fantastic on Slugs - +10 Aim Assist is huge. Killing Wind gives you a Diet Chaperone. Hip-Fire Grip is actually really strong here, and I've hit far more hip-fire headshots in the heat of the moment than you'd expect. Keep your Handling as high as possible - the range difference is fairly negligible from 80-100, we're talking about 1 metre of range (literally about 1 step in-game), and Handling is massively important." tags:god-pvp
+dimwishlist:item=4248569242&perks=3161816588,588594999
+dimwishlist:item=4248569242&perks=3161816588,957782887
+dimwishlist:item=4248569242&perks=3161816588,2450788523
+dimwishlist:item=4248569242&perks=1866048759,588594999
+dimwishlist:item=4248569242&perks=1866048759,957782887
+dimwishlist:item=4248569242&perks=1866048759,2450788523
+
+// Heritage - [YeezyGT's S16] (god-pve)
+//notes: [YeezyGT's S16] [MW: Range/Handling] "Behold - the greatest PvE slug in the game. Reconstruction/Recombination is Classic Coke, and then Auto-Loading/Recombination is Diet. There's really not much to say on the PvE side - its pretty much perfect." tags:god-pve
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=3300816228,469285294
+
+// Heritage - [YeezyGT's S16] (god-pvp)
+//notes: [YeezyGT's S16] [MW: Handling] "Widely regarded as the greatest Legendary slug. There's a lot you can do with Heritage. Moving Target is fantastic on Slugs - +10 Aim Assist is huge. Killing Wind gives you a Diet Chaperone. Hip-Fire Grip is actually really strong here, and I've hit far more hip-fire headshots in the heat of the moment than you'd expect. Keep your Handling as high as possible - the range difference is fairly negligible from 80-100, we're talking about 1 metre of range (literally about 1 step in-game), and Handling is massively important." tags:god-pvp
+dimwishlist:item=4248569242&perks=3161816588,588594999
+dimwishlist:item=4248569242&perks=3161816588,957782887
+dimwishlist:item=4248569242&perks=3161816588,2450788523
+dimwishlist:item=4248569242&perks=1866048759,588594999
+dimwishlist:item=4248569242&perks=1866048759,957782887
+dimwishlist:item=4248569242&perks=1866048759,2450788523
+
+// Heritage (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll.
+dimwishlist:item=4248569242&perks=3161816588,588594999
+dimwishlist:item=4248569242&perks=1168162263,588594999
+dimwishlist:item=4248569242&perks=3161816588,2450788523
+dimwishlist:item=4248569242&perks=1168162263,2450788523
+
+// Heritage (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
+dimwishlist:item=4248569242&perks=3161816588,588594999
+dimwishlist:item=4248569242&perks=1168162263,588594999
+dimwishlist:item=4248569242&perks=3161816588,2450788523
+dimwishlist:item=4248569242&perks=1168162263,2450788523
+dimwishlist:item=4248569242&perks=3161816588,957782887
+dimwishlist:item=4248569242&perks=1168162263,957782887
+
+// Heritage (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll.
+dimwishlist:item=4248569242&perks=3300816228,2726471870
+
+// Heritage (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll.
+dimwishlist:item=4248569242&perks=1523832109,469285294
+
+// Heritage - Heritage (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=4248569242&perks=3161816588,957782887
+
+// Heritage - Heritage (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=4248569242&perks=3161816588,957782887
+dimwishlist:item=4248569242&perks=3161816588,588594999
+dimwishlist:item=4248569242&perks=3161816588,2450788523
+dimwishlist:item=4248569242&perks=1523832109,957782887
+dimwishlist:item=4248569242&perks=1523832109,588594999
+dimwishlist:item=4248569242&perks=1523832109,2450788523
+
+dimwishlist:item=4248569242&perks=1523832109,2726471870#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
+dimwishlist:item=4248569242&perks=3300816228,2726471870#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
+dimwishlist:item=4248569242&perks=1523832109,469285294#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
+dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
+
+dimwishlist:item=4248569242&perks=1523832109,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=3300816228,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+
+// Commemoration (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag), Subsistence, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Tactical, Appended or Extended Mag. Killing Tally is the easiest to proc damage boosting perk if you're killing adds - 3 kills equals 30% bonus damage until you stow or reload, which you won't have to do much with Subsistence refreshing your magazine, so you could keep firing until you're empty. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=1820235745,557221067
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), (Reconstruction, Fourth Time's the Charm), Firing Line
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for burst or sustained majors or boss damage in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. If you're focusing on one target for damage, Reconstruction overflows your mag to doble size, or Fourth Time's the Charm can keep you topped up against a big boss crit, while Firing Line boosts damage by 20% when you're in a fireteam. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=1354429876,1771339417
+dimwishlist:item=4230965989&perks=1523832109,1771339417
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), (Subsistence, Fourth Times The Charm, Reconstruction, Rapid Hit, Feeding Frenzy), Rampage
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. For add clear, you need a reload perk or mag extending perk in your first trait column - Subsistence, Fourth Times The Charm, Reconstruction, Rapid Hit or Feeding Frenzy all work with good old Rampage to boost damage by up to 33%. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=1820235745,3425386926
+dimwishlist:item=4230965989&perks=1354429876,3425386926
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=247725512,3425386926
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), Dragonfly, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. For a fun add-clear option in crowds, pair Dragonfly with Killing Tally. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=2848615171,557221067
+
+// Commemoration - [YeezyGT's S15] (PvE): (god-pve)
+//notes: [YeezyGT's S15] (PvE): [MW: Handling / Stability] "Don't ever let me see you manually reloading an LMG. Stack up Reconstruction with a mag extender, and you've a match made in heaven. Rampage absolutely mows through enemies, Dragonfly if you want a little more flavour. The beauty of this LMG is how stable it is -- invest in Handling and Stability and you're onto a winner. Very Hammerhead-esque, but in a much nicer form factor."|tags:god-pve
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+
+// Commemoration (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=4230965989&perks=3436462433,588594999
+dimwishlist:item=4230965989&perks=1359896290,588594999
+dimwishlist:item=4230965989&perks=3436462433,1645158859
+dimwishlist:item=4230965989&perks=1359896290,1645158859
+
+// Commemoration (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
+dimwishlist:item=4230965989&perks=3436462433,588594999
+dimwishlist:item=4230965989&perks=1359896290,588594999
+dimwishlist:item=4230965989&perks=3436462433,1645158859
+dimwishlist:item=4230965989&perks=1359896290,1645158859
+dimwishlist:item=4230965989&perks=3436462433,2848615171
+dimwishlist:item=4230965989&perks=1359896290,2848615171
+dimwishlist:item=4230965989&perks=3436462433,3425386926
+dimwishlist:item=4230965989&perks=1359896290,3425386926
+dimwishlist:item=4230965989&perks=3436462433,699525795
+dimwishlist:item=4230965989&perks=1359896290,699525795
+
+// Commemoration (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Backup Mag mod.
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+
+// Commemoration (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Rampage Spec/ Dragonfly Spec mod.
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+
+// Commemoration - Commemoration (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+
+// Commemoration - Commemoration (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+
+// Commemoration - Commemoration (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+dimwishlist:item=4230965989&perks=1359896290,1645158859
+dimwishlist:item=4230965989&perks=1359896290,699525795
+dimwishlist:item=4230965989&perks=3436462433,588594999
+dimwishlist:item=4230965989&perks=3436462433,1645158859
+dimwishlist:item=4230965989&perks=3436462433,699525795
+
+// Commemoration - Commemoration (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+dimwishlist:item=4230965989&perks=1359896290,1645158859
+dimwishlist:item=4230965989&perks=1359896290,699525795
+dimwishlist:item=4230965989&perks=3436462433,588594999
+dimwishlist:item=4230965989&perks=3436462433,1645158859
+dimwishlist:item=4230965989&perks=3436462433,699525795
+
+dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
+dimwishlist:item=4230965989&perks=1523832109,2848615171#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
+
+dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=1523832109,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Unrelenting, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. For add clear, Unrelenting keeps your health up while Chain Reaction helps clear crowds, with kills counting towards Unrelenting too. Recommended MW: Impact, with a Backup Mag, or damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3366545721&perks=3108830275,2396489472
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for major or boss damage in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. For major or boss damage in a crowd - think Duality - Relentless Strikes returns ammo for every three hits, and Surrounded boosts damage by 36.5% (47% for the Enhanced Park. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, (Thresh, Unrelenting), Demolitionist
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for melee or grenade builds. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. You can build into the origin perk benefits - 2% to all abilities on a hit, with either Thresh or Wellspring in the first trait column and Demolitionist in the second. Recommended MW: Impact, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3366545721&perks=2726471870,3523296417
+dimwishlist:item=3366545721&perks=3592538738,3523296417
+
+// Bequest - [YeezyGT's S16] (god-pve)
+//notes: [YeezyGT's S16] [MW: Impact] "Bequest is the best Adaptive Frame Sword in the game. It's got a HUGE chunk more Impact (+10) than every other Sword (bar Crown-Splitter, which is -2), and any activity where you need to actually put in good burst damage, a Surrounded Spec Bequest is by far the best bang-for-your-buck. Post-Whirlwind Blade, Post-Vorpal - Bequest still stands." tags:god-pve
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+dimwishlist:item=3366545721&perks=2726471870,3708227201
+
+// Bequest - [YeezyGT's S16] (god-pve)
+//notes: [YeezyGT's S16] [MW: Impact] "Bequest is the best Adaptive Frame Sword in the game. It's got a HUGE chunk more Impact (+10) than every other Sword (bar Crown-Splitter, which is -2), and any activity where you need to actually put in good burst damage, a Surrounded Spec Bequest is by far the best bang-for-your-buck. Post-Whirlwind Blade, Post-Vorpal - Bequest still stands." tags:god-pve
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+dimwishlist:item=3366545721&perks=2726471870,3708227201
+
+// Bequest (PvP first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll.
+dimwishlist:item=3366545721&perks=2590710093,354401740
+
+// Bequest (PvP backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
+dimwishlist:item=3366545721&perks=2590710093,354401740
+
+// Bequest (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll for bosses. Boss/Major spec mod.
+dimwishlist:item=3366545721&perks=1749209109,1685431615
+dimwishlist:item=3366545721&perks=1749209109,2244851822
+
+// Bequest (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll for bosses. Boss/Major spec mod.
+dimwishlist:item=3366545721&perks=1749209109,1685431615
+dimwishlist:item=3366545721&perks=1749209109,2244851822
+
+// Bequest (PvE first choice roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice for adds. Surrounded Spec mod.
+dimwishlist:item=3366545721&perks=2726471870,3708227201
+
+// Bequest (PvE backup roll)
+//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup for adds. Surrounded Spec mod.
+dimwishlist:item=3366545721&perks=2726471870,3708227201
+
+// Bequest - Bequest (god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
+dimwishlist:item=3366545721&perks=2590710093,354401740
+
+// Bequest - Bequest (pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
+dimwishlist:item=3366545721&perks=2590710093,354401740
 
 // Midha's Reckoning (PvP first-choice roll)
 // (Hammer-Forged Rifling, Extended Barrel, Full Bore), (Projection Fuse, Accelerated Coils), Backup Plan, Successful Warm-Up
@@ -17895,109 +18431,6 @@ dimwishlist:item=1313528549&perks=2590710093,354401740
 dimwishlist:item=1313528549&perks=2590710093,1685431615
 dimwishlist:item=1313528549&perks=2590710093,2396489472
 
-// Trustee - [YeezyGT's S16] (pve)
-//notes: [YeezyGT's S16] [MW: Range/Stability] [Requires Counterbalance Stock] "Trustee is fantastic. You absolutely want Reconstruction in Col. 3, and then Col. 4 is a little weaker, so you can choose between the softer buff of Redirection, accuracy bonuses with Eye of the Storm, or just generating ability energy with Wellspring. High-Impact Reserves are good on paper, but having tried it, it doesn't trigger enough in practice simply due to how good Reconstruction is." tags:pve
-dimwishlist:item=1392919471&perks=1523832109,3201496230
-dimwishlist:item=1392919471&perks=1523832109,699525795
-dimwishlist:item=1392919471&perks=1523832109,3592538738
-
-// Trustee - [YeezyGT's S16] (pve)
-//notes: [YeezyGT's S16] [MW: Range/Stability] [Requires Counterbalance Stock] "Trustee is fantastic. You absolutely want Reconstruction in Col. 3, and then Col. 4 is a little weaker, so you can choose between the softer buff of Redirection, accuracy bonuses with Eye of the Storm, or just generating ability energy with Wellspring. High-Impact Reserves are good on paper, but having tried it, it doesn't trigger enough in practice simply due to how good Reconstruction is." tags:pve
-dimwishlist:item=1392919471&perks=1523832109,3201496230
-dimwishlist:item=1392919471&perks=1523832109,699525795
-dimwishlist:item=1392919471&perks=1523832109,3592538738
-
-// Trustee (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=1645158859,2213355989
-
-// Trustee (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=1645158859,2213355989
-
-// Trustee (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=1645158859,2213355989
-dimwishlist:item=1392919471&perks=1168162263,2213355989
-dimwishlist:item=1392919471&perks=2450788523,2213355989
-dimwishlist:item=1392919471&perks=1645158859,699525795
-dimwishlist:item=1392919471&perks=1168162263,699525795
-dimwishlist:item=1392919471&perks=2450788523,699525795
-dimwishlist:item=1392919471&perks=1645158859,3592538738
-dimwishlist:item=1392919471&perks=1168162263,3592538738
-dimwishlist:item=1392919471&perks=2450788523,3592538738
-
-// Trustee (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=1645158859,2213355989
-dimwishlist:item=1392919471&perks=1168162263,2213355989
-dimwishlist:item=1392919471&perks=2450788523,2213355989
-dimwishlist:item=1392919471&perks=1645158859,699525795
-dimwishlist:item=1392919471&perks=1168162263,699525795
-dimwishlist:item=1392919471&perks=2450788523,699525795
-dimwishlist:item=1392919471&perks=1645158859,3592538738
-dimwishlist:item=1392919471&perks=1168162263,3592538738
-dimwishlist:item=1392919471&perks=2450788523,3592538738
-
-// Trustee (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=3436462433,3592538738
-
-// Trustee (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=1523832109,3201496230
-
-// Trustee (PvE backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=1523832109,3201496230
-dimwishlist:item=1392919471&perks=3436462433,3201496230
-dimwishlist:item=1392919471&perks=1168162263,3201496230
-dimwishlist:item=1392919471&perks=1523832109,3592538738
-dimwishlist:item=1392919471&perks=3436462433,3592538738
-dimwishlist:item=1392919471&perks=1168162263,3592538738
-
-// Trustee (PvE backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=1392919471&perks=1523832109,3201496230
-dimwishlist:item=1392919471&perks=3436462433,3201496230
-dimwishlist:item=1392919471&perks=1168162263,3201496230
-dimwishlist:item=1392919471&perks=1523832109,3592538738
-dimwishlist:item=1392919471&perks=3436462433,3592538738
-dimwishlist:item=1392919471&perks=1168162263,3592538738
-
-// Trustee - Trustee (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=1392919471&perks=3436462433,47981717
-
-// Trustee - Trustee (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=1392919471&perks=3436462433,47981717
-dimwishlist:item=1392919471&perks=3436462433,699525795
-dimwishlist:item=1392919471&perks=3436462433,2213355989
-dimwishlist:item=1392919471&perks=2450788523,47981717
-dimwishlist:item=1392919471&perks=2450788523,699525795
-dimwishlist:item=1392919471&perks=2450788523,2213355989
-dimwishlist:item=1392919471&perks=1168162263,47981717
-dimwishlist:item=1392919471&perks=1168162263,699525795
-dimwishlist:item=1392919471&perks=1168162263,2213355989
-dimwishlist:item=1392919471&perks=1645158859,47981717
-dimwishlist:item=1392919471&perks=1645158859,699525795
-dimwishlist:item=1392919471&perks=1645158859,2213355989
-
-dimwishlist:item=1392919471&perks=1523832109,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=1392919471&perks=1168162263,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=1392919471&perks=1523832109,2213355989#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=1392919471&perks=1523832109,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-
-dimwishlist:item=1392919471&perks=1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
-dimwishlist:item=1392919471&perks=1168162263,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
-dimwishlist:item=1392919471&perks=1523832109,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
-dimwishlist:item=1392919471&perks=1168162263,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
-dimwishlist:item=1392919471&perks=1523832109,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
-dimwishlist:item=1392919471&perks=1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
-
 // Reed's Regret - [YeezyGT's S16] (god-pve)
 //notes: [YeezyGT's S16] [MW: Charge Time/Range] "With Focusing Lens finished, Vorpal nerfed, and Firing Line fixed, Reed's Regret is the clear winner of the Legendary Linear Fusion War. Triple Tap/Firing Line is the usual play, with Clown/Vorpal or Triple/Vorpal being best for solo engagements. Accelerated/Liquid typically don't make too massive a change in overall DPS% (unless there's an encounter where you fully expend your ammo), and Enhanced Battery allows easier Triple Tap chaining / larger Clown Cartridge magazines." tags:god-pve
 dimwishlist:item=1399243961&perks=3400784728,1771339417
@@ -20693,55 +21126,6 @@ dimwishlist:item=2891672170&perks=1556840489,2360754333#notes:Chevy's S13 Super 
 dimwishlist:item=2891672170&perks=3300816228,2679249093#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
 dimwishlist:item=2891672170&perks=1556840489,2679249093#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
 
-// Succession - [YeezyGT's S16] (god-pve)
-//notes: [YeezyGT's S16] [MW: Handling] "The PvE Sniper. With Vorpal, you one-shot Cyclops and "pull" with one shot during Sanctified Mind. With (+4 Precise Oracle Disruptors) you one-shot Oracles, for the best solo Oracle Atheon strat. It takes two snipes to break a GM Anti-Barrier Shield. So much as aim at a Shrieker and it's done. Succession is always the play. Recombination can be stronger for burst damage too - you're only hampered in a couple of situations by not having Vorpal." tags:god-pve
-dimwishlist:item=2990047042&perks=1523832109,1546637391
-dimwishlist:item=2990047042&perks=1523832109,469285294
-
-// Succession - [YeezyGT's S16] (god-pvp)
-//notes: [YeezyGT's S16] [MW: Handling/Range] "Succession is criminally slept on as a PvP Sniper. It rolls with perfect combos of Moving Target/No Distractions and Snapshot, one-shot-headshots most if not all Supers without any buff, does 160 to the body that can easily translate into one-shots at the most common resiliences, and just feels really, really good to use. I'm surprised you don't see this in the wild more, given how easily farmed it is." tags:god-pvp
-dimwishlist:item=2990047042&perks=588594999,957782887
-dimwishlist:item=2990047042&perks=2866798147,957782887
-
-// Succession - [YeezyGT's S16] (god-pve)
-//notes: [YeezyGT's S16] [MW: Handling] "The PvE Sniper. With Vorpal, you one-shot Cyclops and "pull" with one shot during Sanctified Mind. With (+4 Precise Oracle Disruptors) you one-shot Oracles, for the best solo Oracle Atheon strat. It takes two snipes to break a GM Anti-Barrier Shield. So much as aim at a Shrieker and it's done. Succession is always the play. Recombination can be stronger for burst damage too - you're only hampered in a couple of situations by not having Vorpal." tags:god-pve
-dimwishlist:item=2990047042&perks=1523832109,1546637391
-dimwishlist:item=2990047042&perks=1523832109,469285294
-
-// Succession - [YeezyGT's S16] (god-pvp)
-//notes: [YeezyGT's S16] [MW: Handling/Range] "Succession is criminally slept on as a PvP Sniper. It rolls with perfect combos of Moving Target/No Distractions and Snapshot, one-shot-headshots most if not all Supers without any buff, does 160 to the body that can easily translate into one-shots at the most common resiliences, and just feels really, really good to use. I'm surprised you don't see this in the wild more, given how easily farmed it is." tags:god-pvp
-dimwishlist:item=2990047042&perks=588594999,957782887
-dimwishlist:item=2990047042&perks=2866798147,957782887
-
-// Succession (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll. Recommended MW: Handling, with Targeting Adjuster mod.
-dimwishlist:item=2990047042&perks=588594999,957782887
-
-// Succession (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Handling, with Targeting Adjuster mod.
-dimwishlist:item=2990047042&perks=588594999,957782887
-dimwishlist:item=2990047042&perks=2450788523,957782887
-
-// Succession (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Reload, with Backup Mag mod.
-dimwishlist:item=2990047042&perks=1523832109,1546637391
-
-// Succession - Succession (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=2990047042&perks=588594999,957782887
-
-// Succession - Succession (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=2990047042&perks=588594999,957782887
-dimwishlist:item=2990047042&perks=2039302152,957782887
-dimwishlist:item=2990047042&perks=2450788523,957782887
-
-dimwishlist:item=2990047042&perks=1523832109,469285294#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
-dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
-
-dimwishlist:item=2990047042&perks=1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
-dimwishlist:item=2990047042&perks=1523832109,1546637391#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
-
 // Seventh Seraph Officer Revolver - [YeezyGT's S16] (god-pve)
 //notes: [YeezyGT's S16] [MW: Range] "What a weapon. Honestly, recommending anything other than Timed Payload feels wrong. It is so, so good on 180RPMs, and you truly feel it as one of the best possible options when Overload Hand Cannons are in the mix. Some decent synergy perks in FTTC/Threat Detector/Firmly Planted that match the 180RPM playstyle. Max out the mag and Reload where you can, and just go to work. P.S: Warmind Cells." tags:god-pve
 dimwishlist:item=3037520408&perks=4071163871,1954620775
@@ -21194,118 +21578,6 @@ dimwishlist:item=3197270240&perks=3436462433,2450788523
 dimwishlist:item=3197270240&perks=3161816588,1546637391
 dimwishlist:item=3197270240&perks=3436462433,1546637391
 
-// Posterity - [YeezyGT's S16] (pve)
-//notes: [YeezyGT's S16] [MW: Any] "Posterity's probably one of my favourite designs ever, along with all of the DSC weapons really. It has great access to the core basics; reloaders, along with stability and damage buffs. I typically like One-for-All over Rampage here, the buff longevity feels much better on a weaker weapon like a 180RPM, as Rampage becomes difficult to chain (within 3s) in mid-to-high level content. Similarly, Rapid Hit works a treat over Feeding Frenzy once you start dealing with more resistant enemies." tags:pve
-dimwishlist:item=3281285075&perks=2779035018,4049631843
-dimwishlist:item=3281285075&perks=2779035018,3425386926
-dimwishlist:item=3281285075&perks=247725512,4049631843
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=1523832109,4049631843
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-
-// Posterity - [YeezyGT's S16] (pve)
-//notes: [YeezyGT's S16] [MW: Any] "Posterity's probably one of my favourite designs ever, along with all of the DSC weapons really. It has great access to the core basics; reloaders, along with stability and damage buffs. I typically like One-for-All over Rampage here, the buff longevity feels much better on a weaker weapon like a 180RPM, as Rampage becomes difficult to chain (within 3s) in mid-to-high level content. Similarly, Rapid Hit works a treat over Feeding Frenzy once you start dealing with more resistant enemies." tags:pve
-dimwishlist:item=3281285075&perks=2779035018,4049631843
-dimwishlist:item=3281285075&perks=2779035018,3425386926
-dimwishlist:item=3281285075&perks=247725512,4049631843
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=1523832109,4049631843
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-
-// Posterity (PvP/PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP/PvE first choice roll.
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=247725512,3523296417
-
-// Posterity (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll.
-dimwishlist:item=3281285075&perks=2450788523,3523296417
-
-// Posterity (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
-dimwishlist:item=3281285075&perks=2450788523,3523296417
-
-// Posterity (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=247725512,3523296417
-
-// Posterity (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll.
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=2779035018,3425386926
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-dimwishlist:item=3281285075&perks=247725512,3523296417
-dimwishlist:item=3281285075&perks=2779035018,3523296417
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-
-// Posterity (PvE backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll.
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=2779035018,3425386926
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-dimwishlist:item=3281285075&perks=247725512,3523296417
-dimwishlist:item=3281285075&perks=2779035018,3523296417
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-dimwishlist:item=3281285075&perks=247725512,4049631843
-dimwishlist:item=3281285075&perks=2779035018,4049631843
-dimwishlist:item=3281285075&perks=1523832109,4049631843
-dimwishlist:item=3281285075&perks=247725512,3201496230
-dimwishlist:item=3281285075&perks=2779035018,3201496230
-dimwishlist:item=3281285075&perks=1523832109,3201496230
-
-// Posterity - Posterity (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-
-// Posterity - Posterity (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-
-// Posterity - Posterity (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-dimwishlist:item=3281285075&perks=2450788523,3523296417
-dimwishlist:item=3281285075&perks=1523832109,47981717
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-dimwishlist:item=3281285075&perks=247725512,47981717
-dimwishlist:item=3281285075&perks=247725512,3523296417
-
-// Posterity - Posterity (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-dimwishlist:item=3281285075&perks=2450788523,3523296417
-dimwishlist:item=3281285075&perks=1523832109,47981717
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-dimwishlist:item=3281285075&perks=247725512,47981717
-dimwishlist:item=3281285075&perks=247725512,3523296417
-
-dimwishlist:item=3281285075&perks=247725512,3523296417#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1354429876,3523296417#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1523832109,3523296417#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=247725512,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1354429876,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1523832109,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=247725512,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1354429876,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1523832109,3201496230#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=247725512,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1354429876,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-dimwishlist:item=3281285075&perks=1523832109,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
-
-dimwishlist:item=3281285075&perks=247725512,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1354429876,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1523832109,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=247725512,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=247725512,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1354429876,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=247725512,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1354429876,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-dimwishlist:item=3281285075&perks=1523832109,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
-
 // Twilight Oath - [YeezyGT's S16] (pvp)
 //notes: [YeezyGT's S16] [MW: Range] "Twilight Oath's re-issue is fairly strictly a PvP weapon - your best bet is Opening/No Distractions/Surplus with Snapshot Sights. Invest into Range for better aim assist at distance, and swap to a different Sniper if you see an enemy running Icefall Mantle. (Fun fact: Icefall Mantle tanks a 140RPM headshot on 4+ Resilience)" tags:pvp
 dimwishlist:item=3297863558&perks=47981717,957782887
@@ -21379,50 +21651,6 @@ dimwishlist:item=3335343363&perks=280464955,957782887
 dimwishlist:item=3335343363&perks=280464955,3425386926
 dimwishlist:item=3335343363&perks=588594999,957782887
 dimwishlist:item=3335343363&perks=588594999,3425386926
-
-// Bequest - [YeezyGT's S16] (god-pve)
-//notes: [YeezyGT's S16] [MW: Impact] "Bequest is the best Adaptive Frame Sword in the game. It's got a HUGE chunk more Impact (+10) than every other Sword (bar Crown-Splitter, which is -2), and any activity where you need to actually put in good burst damage, a Surrounded Spec Bequest is by far the best bang-for-your-buck. Post-Whirlwind Blade, Post-Vorpal - Bequest still stands." tags:god-pve
-dimwishlist:item=3366545721&perks=1749209109,3708227201
-dimwishlist:item=3366545721&perks=2726471870,3708227201
-
-// Bequest - [YeezyGT's S16] (god-pve)
-//notes: [YeezyGT's S16] [MW: Impact] "Bequest is the best Adaptive Frame Sword in the game. It's got a HUGE chunk more Impact (+10) than every other Sword (bar Crown-Splitter, which is -2), and any activity where you need to actually put in good burst damage, a Surrounded Spec Bequest is by far the best bang-for-your-buck. Post-Whirlwind Blade, Post-Vorpal - Bequest still stands." tags:god-pve
-dimwishlist:item=3366545721&perks=1749209109,3708227201
-dimwishlist:item=3366545721&perks=2726471870,3708227201
-
-// Bequest (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll.
-dimwishlist:item=3366545721&perks=2590710093,354401740
-
-// Bequest (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
-dimwishlist:item=3366545721&perks=2590710093,354401740
-
-// Bequest (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll for bosses. Boss/Major spec mod.
-dimwishlist:item=3366545721&perks=1749209109,1685431615
-dimwishlist:item=3366545721&perks=1749209109,2244851822
-
-// Bequest (PvE backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup roll for bosses. Boss/Major spec mod.
-dimwishlist:item=3366545721&perks=1749209109,1685431615
-dimwishlist:item=3366545721&perks=1749209109,2244851822
-
-// Bequest (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice for adds. Surrounded Spec mod.
-dimwishlist:item=3366545721&perks=2726471870,3708227201
-
-// Bequest (PvE backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE backup for adds. Surrounded Spec mod.
-dimwishlist:item=3366545721&perks=2726471870,3708227201
-
-// Bequest - Bequest (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=3366545721&perks=2590710093,354401740
-
-// Bequest - Bequest (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=3366545721&perks=2590710093,354401740
 
 // Zephyr - [YeezyGT's S16] (god-pve)
 //notes: [YeezyGT's S16] [MW: Impact] "Unrelenting/Cold Steel is the play here -- post-buff Unrelenting works incredibly well on Swords, and Cold Steel has fantastic synergy with Stasis subclasses, whether it be ability regen, or just straight up giving yourself an overshield on top of health regen from Unrelenting. Really unique concept, definitely worth holding on to." tags:god-pve
@@ -22172,81 +22400,6 @@ dimwishlist:item=4230993599&perks=2590710093,354401740
 // Steel Sybil Z-14 - Steel Sybil Z-14 (pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
 dimwishlist:item=4230993599&perks=2590710093,354401740
-
-// Heritage - [YeezyGT's S16] (god-pve)
-//notes: [YeezyGT's S16] [MW: Range/Handling] "Behold - the greatest PvE slug in the game. Reconstruction/Recombination is Classic Coke, and then Auto-Loading/Recombination is Diet. There's really not much to say on the PvE side - its pretty much perfect." tags:god-pve
-dimwishlist:item=4248569242&perks=1523832109,469285294
-dimwishlist:item=4248569242&perks=3300816228,469285294
-
-// Heritage - [YeezyGT's S16] (god-pvp)
-//notes: [YeezyGT's S16] [MW: Handling] "Widely regarded as the greatest Legendary slug. There's a lot you can do with Heritage. Moving Target is fantastic on Slugs - +10 Aim Assist is huge. Killing Wind gives you a Diet Chaperone. Hip-Fire Grip is actually really strong here, and I've hit far more hip-fire headshots in the heat of the moment than you'd expect. Keep your Handling as high as possible - the range difference is fairly negligible from 80-100, we're talking about 1 metre of range (literally about 1 step in-game), and Handling is massively important." tags:god-pvp
-dimwishlist:item=4248569242&perks=3161816588,588594999
-dimwishlist:item=4248569242&perks=3161816588,957782887
-dimwishlist:item=4248569242&perks=3161816588,2450788523
-dimwishlist:item=4248569242&perks=1866048759,588594999
-dimwishlist:item=4248569242&perks=1866048759,957782887
-dimwishlist:item=4248569242&perks=1866048759,2450788523
-
-// Heritage - [YeezyGT's S16] (god-pve)
-//notes: [YeezyGT's S16] [MW: Range/Handling] "Behold - the greatest PvE slug in the game. Reconstruction/Recombination is Classic Coke, and then Auto-Loading/Recombination is Diet. There's really not much to say on the PvE side - its pretty much perfect." tags:god-pve
-dimwishlist:item=4248569242&perks=1523832109,469285294
-dimwishlist:item=4248569242&perks=3300816228,469285294
-
-// Heritage - [YeezyGT's S16] (god-pvp)
-//notes: [YeezyGT's S16] [MW: Handling] "Widely regarded as the greatest Legendary slug. There's a lot you can do with Heritage. Moving Target is fantastic on Slugs - +10 Aim Assist is huge. Killing Wind gives you a Diet Chaperone. Hip-Fire Grip is actually really strong here, and I've hit far more hip-fire headshots in the heat of the moment than you'd expect. Keep your Handling as high as possible - the range difference is fairly negligible from 80-100, we're talking about 1 metre of range (literally about 1 step in-game), and Handling is massively important." tags:god-pvp
-dimwishlist:item=4248569242&perks=3161816588,588594999
-dimwishlist:item=4248569242&perks=3161816588,957782887
-dimwishlist:item=4248569242&perks=3161816588,2450788523
-dimwishlist:item=4248569242&perks=1866048759,588594999
-dimwishlist:item=4248569242&perks=1866048759,957782887
-dimwishlist:item=4248569242&perks=1866048759,2450788523
-
-// Heritage (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll.
-dimwishlist:item=4248569242&perks=3161816588,588594999
-dimwishlist:item=4248569242&perks=1168162263,588594999
-dimwishlist:item=4248569242&perks=3161816588,2450788523
-dimwishlist:item=4248569242&perks=1168162263,2450788523
-
-// Heritage (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll.
-dimwishlist:item=4248569242&perks=3161816588,588594999
-dimwishlist:item=4248569242&perks=1168162263,588594999
-dimwishlist:item=4248569242&perks=3161816588,2450788523
-dimwishlist:item=4248569242&perks=1168162263,2450788523
-dimwishlist:item=4248569242&perks=3161816588,957782887
-dimwishlist:item=4248569242&perks=1168162263,957782887
-
-// Heritage (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll.
-dimwishlist:item=4248569242&perks=3300816228,2726471870
-
-// Heritage (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll.
-dimwishlist:item=4248569242&perks=1523832109,469285294
-
-// Heritage - Heritage (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=4248569242&perks=3161816588,957782887
-
-// Heritage - Heritage (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=4248569242&perks=3161816588,957782887
-dimwishlist:item=4248569242&perks=3161816588,588594999
-dimwishlist:item=4248569242&perks=3161816588,2450788523
-dimwishlist:item=4248569242&perks=1523832109,957782887
-dimwishlist:item=4248569242&perks=1523832109,588594999
-dimwishlist:item=4248569242&perks=1523832109,2450788523
-
-dimwishlist:item=4248569242&perks=1523832109,2726471870#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
-dimwishlist:item=4248569242&perks=3300816228,2726471870#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
-dimwishlist:item=4248569242&perks=1523832109,469285294#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
-dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Range
-
-dimwishlist:item=4248569242&perks=1523832109,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
-dimwishlist:item=4248569242&perks=3300816228,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
-dimwishlist:item=4248569242&perks=1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
-dimwishlist:item=4248569242&perks=3300816228,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
 
 // Annual Skate (PvP first choice roll)
 // SteadyHand HCS, Accurized Rounds, Tunnel Vision, Multikill Clip
@@ -24066,73 +24219,6 @@ dimwishlist:item=4095896073&perks=706527188,588594999
 // Accrued Redemption
 //notes:Mercules904 - (must have) "I'm really liking this bow option from the raid, in particular because of the awesome combination of perk traits it can roll in the last two slots, with Archer's Tempo and Rapid Hit."
 dimwishlist:item=4095896073&perks=201365942,247725512
-
-// Commemoration - [YeezyGT's S15] (PvE): (god-pve)
-//notes: [YeezyGT's S15] (PvE): [MW: Handling / Stability] "Don't ever let me see you manually reloading an LMG. Stack up Reconstruction with a mag extender, and you've a match made in heaven. Rampage absolutely mows through enemies, Dragonfly if you want a little more flavour. The beauty of this LMG is how stable it is -- invest in Handling and Stability and you're onto a winner. Very Hammerhead-esque, but in a much nicer form factor."|tags:god-pve
-dimwishlist:item=4230965989&perks=1523832109,3425386926
-dimwishlist:item=4230965989&perks=1523832109,2848615171
-
-// Commemoration (PvP first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP first choice roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=4230965989&perks=3436462433,588594999
-dimwishlist:item=4230965989&perks=1359896290,588594999
-dimwishlist:item=4230965989&perks=3436462433,1645158859
-dimwishlist:item=4230965989&perks=1359896290,1645158859
-
-// Commemoration (PvP backup roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvP backup roll. Recommended MW: Stability, with Counterbalance mod.
-dimwishlist:item=4230965989&perks=3436462433,588594999
-dimwishlist:item=4230965989&perks=1359896290,588594999
-dimwishlist:item=4230965989&perks=3436462433,1645158859
-dimwishlist:item=4230965989&perks=1359896290,1645158859
-dimwishlist:item=4230965989&perks=3436462433,2848615171
-dimwishlist:item=4230965989&perks=1359896290,2848615171
-dimwishlist:item=4230965989&perks=3436462433,3425386926
-dimwishlist:item=4230965989&perks=1359896290,3425386926
-dimwishlist:item=4230965989&perks=3436462433,699525795
-dimwishlist:item=4230965989&perks=1359896290,699525795
-
-// Commemoration (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Backup Mag mod.
-dimwishlist:item=4230965989&perks=1523832109,2848615171
-dimwishlist:item=4230965989&perks=1523832109,3425386926
-
-// Commemoration (PvE first choice roll)
-//notes:Inspired by Destiny Massive Breakdowns Podcast 188. PvE first choice roll. Recommended MW: Stability, with Rampage Spec/ Dragonfly Spec mod.
-dimwishlist:item=4230965989&perks=1523832109,2848615171
-dimwishlist:item=4230965989&perks=1523832109,3425386926
-
-// Commemoration - Commemoration (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-
-// Commemoration - Commemoration (god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: god-pvp)|tags:god-pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-
-// Commemoration - Commemoration (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-dimwishlist:item=4230965989&perks=1359896290,1645158859
-dimwishlist:item=4230965989&perks=1359896290,699525795
-dimwishlist:item=4230965989&perks=3436462433,588594999
-dimwishlist:item=4230965989&perks=3436462433,1645158859
-dimwishlist:item=4230965989&perks=3436462433,699525795
-
-// Commemoration - Commemoration (pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: pvp)|tags:pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-dimwishlist:item=4230965989&perks=1359896290,1645158859
-dimwishlist:item=4230965989&perks=1359896290,699525795
-dimwishlist:item=4230965989&perks=3436462433,588594999
-dimwishlist:item=4230965989&perks=3436462433,1645158859
-dimwishlist:item=4230965989&perks=3436462433,699525795
-
-dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
-dimwishlist:item=4230965989&perks=1523832109,2848615171#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling/Reload
-
-dimwishlist:item=4230965989&perks=1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
-dimwishlist:item=4230965989&perks=1523832109,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
 
 // Empty Vessel - [YeezyGT's S15] (PvE): (god-pve,pvp)
 //notes: [YeezyGT's S15] (PvE/PvP): [MW: Velocity] "God, this thing rocks. Not only does the little burst of flame on the explosion feel cool, the perk pool on it has insane potential. As always, Quick/Hard Launch, Spike (+30% dmg) or Blinding (utility). If you roll Auto-Loading Holster, congratulations. If not, Surplus is very good - and Quickdraw is fantastic for PvP / clutching with Blinding Grenades in GMs. Disruption Break is fantastic in PvP (if you want to be that guy), but a bit more situational for PvE. If you wanted Demolitionist here, I'd probably redirect you to Our Lord and Savior Salvager's Salvo."|tags:god-pve,pvp

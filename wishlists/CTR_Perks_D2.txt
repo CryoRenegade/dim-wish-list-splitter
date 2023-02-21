@@ -62,6 +62,8 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep279-30th-anniversary-special-weapons.txt
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep48-deep-stone-crypt-weapons.txt
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep277-kings-fall-raid-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep34-s18-nightfall-weapons.txt
@@ -4581,6 +4583,247 @@ dimwishlist:item=548958835&perks=1428297954,438098033
 dimwishlist:item=548958835&perks=2450788523,3523296417
 dimwishlist:item=548958835&perks=2450788523,1683379515
 dimwishlist:item=548958835&perks=2450788523,438098033
+
+// Posterity (PvE first-choice roll)
+// Fluted Barrel, Tactical Mag, Voltshot, Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for arc synergy and end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Who would have thought that the hottest property from DSC would be a precision hand cannon? Stats are good by comparison with competitors. Fluted Barrel makes it feel snappier and Tactical Mag adds couple of extra bullets and stability. Unusually, Voltshot rolls in the first trait column and is the runaway best option for add clear, and using Frenzy as a second damage perk also boosts handling and reload to 100 so you can proc Voltshot's jolt as fast as possible after a kill, which will also stun Overload champions from Lightfall (Season 20) onwards. Just chef's kiss good. Recommended MW: Range, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-EndGame, PvE-God, Controller, M+KB
+
+// Posterity (PvE first-choice roll)
+// Fluted Barrel, Tactical Mag, (Rapid Hit, Surplus, Reconstruction), Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Precision HCs aren't the best choice for PvE as at v6.3.0.7, but just in case they ever get at little love, this might be worth tucking away. Stats are good by comparison with competitors. Fluted Barrel makes it feel snappier and Tactical Mag adds couple of extra bullets and stability. For end-game add clear, Reconstruction can double the size of your magazine, or Rapid Hit or Surplus and Frenzy between them can passively max out stability, handling and reload speed and add 15% damage. Recommended MW: Range, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-Champion, PvE-EndGame, PvE-God, Controller, M+KB
+
+// Posterity - Posterity (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+
+// Posterity - Posterity (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+
+// Posterity - Posterity (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+
+// Posterity - Posterity (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+
+// Posterity - Posterity (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=1523832109,4049631843
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=247725512,3523296417
+dimwishlist:item=3281285075&perks=247725512,4049631843
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=2779035018,3523296417
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+
+// Posterity - Posterity (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+dimwishlist:item=3281285075&perks=2450788523,3523296417
+dimwishlist:item=3281285075&perks=1523832109,47981717
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=247725512,47981717
+dimwishlist:item=3281285075&perks=247725512,3523296417
+
+// Posterity - Posterity (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=1523832109,4049631843
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=247725512,3523296417
+dimwishlist:item=3281285075&perks=247725512,4049631843
+dimwishlist:item=3281285075&perks=2779035018,3425386926
+dimwishlist:item=3281285075&perks=2779035018,3523296417
+dimwishlist:item=3281285075&perks=2779035018,4049631843
+
+// Posterity - Posterity (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=3281285075&perks=2450788523,47981717
+dimwishlist:item=3281285075&perks=2450788523,3523296417
+dimwishlist:item=3281285075&perks=1523832109,47981717
+dimwishlist:item=3281285075&perks=1523832109,3523296417
+dimwishlist:item=3281285075&perks=247725512,47981717
+dimwishlist:item=3281285075&perks=247725512,3523296417
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), (Rapid Hit, Perpetual Motion), Incandescent
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for solar synergy and end-game content. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). Rapid Hit or Perpetual Motion layers more stability and reload speed - stability is good to help stay on a crit spot. Incandescent is great for add clear and hits your solar verbs. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Puglist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for melee builds. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). For melee builds, Pugilist and Swashbuckler are the natural choice - get a melee kill for a refreshable 33% damage boost, and then each hit regenerates a little melee energy from the origin trait, while each kill regenerates a full 10%. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+
+// Trustee (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Flared Magwell), Reconstruction, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats by comparison with other rapid-fire scouts, and there are a couple of ways to go with your roll. The first thing to do is sort out the recoil direction with Arrowhead Brake, which also helps handling a bit. Tactical Mag or Flared Magwell add stability and reload speed (and an extra bullet for Tac Mag). For end-game use, Reconstruction overfills your magazine by 100%, so if you hit 9 crits, you have 11 seconds (12s when enhanced) to use the 27 remaining shots with Focused Fury's 20% damage boost. Recommended MW: Handling, with a Minor or Taken Spec mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+
+// Trustee - Trustee (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=1392919471&perks=1523832109,2213355989
+
+// Trustee - Trustee (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=1392919471&perks=3436462433,47981717
+
+// Trustee - Trustee (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=1392919471&perks=1523832109,2213355989
+dimwishlist:item=1392919471&perks=1168162263,2213355989
+dimwishlist:item=1392919471&perks=3436462433,2213355989
+
+// Trustee - Trustee (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=1392919471&perks=3436462433,47981717
+dimwishlist:item=1392919471&perks=3436462433,2213355989
+dimwishlist:item=1392919471&perks=1168162263,2213355989
+
+// Succession (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling), (Extended Mag, Alloy Mag, Tactical Mag), Reconstruction, (Firing Line, Focused Fury)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Pretty much best in-subfamily stats, but any kinetic sniper has to offer a lot to stand out from the crowd. If you decide this is for you, the best rolls are more for burst damage against majors and stunned Champions. Fluted Barrel adds handling and stability, or go all-in to stability with Polygonal Rifling. You can use Tactical Mag to add stability and reload speed, Alloy Mag to help with reloads on an empty mag, or maximise your magazine size with Extended Mag. For Majors, Reconstruction will double your magazine size (so you can get up to 10 in the mag with Extended Mag and a Backup Mag mod). If you're in a group, Firing Line provides a passive 20% bonus crit damage in a fireteam or, if you're running solo, Focused Fury can proc after three crit his, so your remaining shots have 20% bonus damage. Recommended MW: Handling or stability, with a Backup Mag, or damage-boosting (Major or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+
+// Succession - Succession (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+
+// Succession - Succession (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=2990047042&perks=588594999,957782887
+
+// Succession - Succession (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+
+// Succession - Succession (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=2990047042&perks=588594999,957782887
+
+// Heritage (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Assault Mag, Tactical Mag), Reconstruction, Focused Fury
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Majors in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Great kinetic slug shotgun - good stats across the board. While they're no longer the pillar for majors and boss damage they once were, they still work well as a weapon to swap to for burst or sustained damage. Fluted Barrel or Smallbore are your barrel choices for extra stability with a side order of handling or range depending on your preference. Assault Mag's increased fire rate is effectively a 7.7% boost to DPS, or Tactical Mag lets you get to the maximum of 8 in the mag with a Backup Mag mod. Reconstruction overfills your magazine to double size which means you only need to hit three or four crits, depending on how close you get to the magazine limit, for 11s (12s with the Enhanced Perk) for a 20% damage boost for the remainder of the magazine with Focused Fury. Recommended MW: Handling or Range, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+
+// Heritage (PvE first-choice roll)
+// (Fluted Barrel, Smallbore), (Assault Mag, Tactical Mag), Pugilist, Swashbuckler
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for melee builds in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Great kinetic slug shotgun - good stats across the board. While they're no longer the pillar for majors and boss damage they once were, they still work well as a weapon to swap to for burst or sustained damage. Fluted Barrel or Smallbore are your barrel choices for extra stability with a side order of handling or range depending on your preference. Assault Mag's increased fire rate is effectively a 7.7% boost to DPS, or Tactical Mag lets you get to the maximum of 8 in the mag with a Backup Mag mod. or melee builds, Pugilist and Swashbuckler are the natural choice - get a melee kill for a refreshable 33% damage boost, and then each hit regenerates a little melee energy from the origin trait, while each kill regenerates a full 20%. Recommended MW: Handling or Range, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, Controller, M+KB
+
+// Heritage - Heritage (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4248569242&perks=1523832109,469285294
+
+// Heritage - Heritage (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4248569242&perks=3161816588,957782887
+
+// Heritage - Heritage (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=4248569242&perks=1523832109,469285294
+
+// Heritage - Heritage (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=4248569242&perks=3161816588,957782887
+
+// Commemoration (PvE first-choice roll)
+// (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag), Subsistence, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Tactical, Appended or Extended Mag. Killing Tally is the easiest to proc damage boosting perk if you're killing adds - 3 kills equals 30% bonus damage until you stow or reload, which you won't have to do much with Subsistence refreshing your magazine, so you could keep firing until you're empty. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), (Reconstruction, Fourth Time's the Charm), Firing Line
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for burst or sustained majors or boss damage in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. If you're focusing on one target for damage, Reconstruction overflows your mag to doble size, or Fourth Time's the Charm can keep you topped up against a big boss crit, while Firing Line boosts damage by 20% when you're in a fireteam. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), (Subsistence, Fourth Times The Charm, Reconstruction, Rapid Hit, Feeding Frenzy), Rampage
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. For add clear, you need a reload perk or mag extending perk in your first trait column - Subsistence, Fourth Times The Charm, Reconstruction, Rapid Hit or Feeding Frenzy all work with good old Rampage to boost damage by up to 33%. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+
+// Commemoration (PvE first-choice roll)
+// // (Arrowhead Brake, Chambered Compensator, Extended Barrel, Fluted Barrel, Polygonal Rifling), (Tactical Mag, Appended Mag, Extended Mag, Flared Magwell, Alloy Mag), Dragonfly, Killing Tally
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). Good stats and a stellar PvE perk pool make this an LMG worth chasing. You can choose to sort the recoil with Arrowhead Brake, Chambered Compensator or Extended Barrel, or improve stability with Fluted Barrel or Polygonal Rifling. Most mag choices could have a role - boost your magazine size with Appended or Extended Mag, reload speed with Flared Magwell or Alloy Mag, or both with Tactical Mag. For a fun add-clear option in crowds, pair Dragonfly with Killing Tally. Recommended MW: Handling, with a Backup Mag, or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+
+// Commemoration - Commemoration (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+
+// Commemoration - Commemoration (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+
+// Commemoration - Commemoration (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+
+// Commemoration - Commemoration (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+
+// Commemoration - Commemoration (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+dimwishlist:item=4230965989&perks=1523832109,3108830275
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+dimwishlist:item=4230965989&perks=2779035018,2848615171
+dimwishlist:item=4230965989&perks=2779035018,3108830275
+
+// Commemoration - Commemoration (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+dimwishlist:item=4230965989&perks=1359896290,1645158859
+dimwishlist:item=4230965989&perks=1359896290,699525795
+dimwishlist:item=4230965989&perks=3436462433,588594999
+dimwishlist:item=4230965989&perks=3436462433,1645158859
+dimwishlist:item=4230965989&perks=3436462433,699525795
+
+// Commemoration - Commemoration (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+dimwishlist:item=4230965989&perks=1523832109,3108830275
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+dimwishlist:item=4230965989&perks=2779035018,2848615171
+dimwishlist:item=4230965989&perks=2779035018,3108830275
+
+// Commemoration - Commemoration (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=4230965989&perks=1359896290,588594999
+dimwishlist:item=4230965989&perks=1359896290,1645158859
+dimwishlist:item=4230965989&perks=1359896290,699525795
+dimwishlist:item=4230965989&perks=3436462433,588594999
+dimwishlist:item=4230965989&perks=3436462433,1645158859
+dimwishlist:item=4230965989&perks=3436462433,699525795
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Unrelenting, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. For add clear, Unrelenting keeps your health up while Chain Reaction helps clear crowds, with kills counting towards Unrelenting too. Recommended MW: Impact, with a Backup Mag, or damage-boosting (Minor or Taken Spec) mod. Tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Relentless Strikes, Surrounded
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for major or boss damage in end-game activities. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. For major or boss damage in a crowd - think Duality - Relentless Strikes returns ammo for every three hits, and Surrounded boosts damage by 36.5% (47% for the Enhanced Park. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+
+// Bequest (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, (Thresh, Unrelenting), Demolitionist
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 48 with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for melee or grenade builds. The Bray Inheritance trait is really useful for PvE, returning from 0.46% to 2% ability energy from hits (the amount depends on the weapon archetype). The standout stat here is impact, which is 10 points higher than for any other adaptive sword, which makes it competitive in end-game content for chunkier adds. Jagged Edge adds more damage and Swordmaster's Guard increases you heavy attack charge rate. You can build into the origin perk benefits - 2% to all abilities on a hit, with either Thresh or Wellspring in the first trait column and Demolitionist in the second. Recommended MW: Impact, with a Backup Mag or damage-boosting (Major, Boss or Taken Spec) mod. Tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+
+// Bequest - Bequest (controller,god-pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+
+// Bequest - Bequest (controller,god-pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
+dimwishlist:item=3366545721&perks=2590710093,354401740
+
+// Bequest - Bequest (controller,pve)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
+dimwishlist:item=3366545721&perks=1749209109,3708227201
+
+// Bequest - Bequest (controller,pvp)
+//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
+dimwishlist:item=3366545721&perks=2590710093,354401740
 
 // Midha's Reckoning (PvP first-choice roll)
 // (Hammer-Forged Rifling, Extended Barrel, Full Bore), (Projection Fuse, Accelerated Coils), Backup Plan, Successful Warm-Up
@@ -9472,26 +9715,6 @@ dimwishlist:item=1313528549&perks=2590710093,2396489472
 dimwishlist:item=1313528549&perks=2590710093,354401740
 dimwishlist:item=1313528549&perks=2590710093,2396489472
 
-// Trustee - Trustee (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=1392919471&perks=1523832109,2213355989
-
-// Trustee - Trustee (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=1392919471&perks=3436462433,47981717
-
-// Trustee - Trustee (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=1392919471&perks=1523832109,2213355989
-dimwishlist:item=1392919471&perks=1168162263,2213355989
-dimwishlist:item=1392919471&perks=3436462433,2213355989
-
-// Trustee - Trustee (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=1392919471&perks=3436462433,47981717
-dimwishlist:item=1392919471&perks=3436462433,2213355989
-dimwishlist:item=1392919471&perks=1168162263,2213355989
-
 // Reed's Regret - Reeds Regret (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 dimwishlist:item=1399243961&perks=3400784728,1546637391
@@ -11092,22 +11315,6 @@ dimwishlist:item=2891672170&perks=3300816228,1546637391
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 dimwishlist:item=2891672170&perks=3436462433,699525795
 
-// Succession - Succession (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=2990047042&perks=1523832109,1546637391
-
-// Succession - Succession (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=2990047042&perks=588594999,957782887
-
-// Succession - Succession (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=2990047042&perks=1523832109,1546637391
-
-// Succession - Succession (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=2990047042&perks=588594999,957782887
-
 // Seventh Seraph Officer Revolver - Seventh Seraph Officer Revolver (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 dimwishlist:item=3037520408&perks=2010801679,1546637391
@@ -11386,64 +11593,6 @@ dimwishlist:item=3197270240&perks=3300816228,1546637391
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 dimwishlist:item=3197270240&perks=3436462433,47981717
 
-// Posterity - Posterity (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-
-// Posterity - Posterity (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-
-// Posterity - Posterity (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-
-// Posterity - Posterity (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-
-// Posterity - Posterity (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-dimwishlist:item=3281285075&perks=1523832109,4049631843
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=247725512,3523296417
-dimwishlist:item=3281285075&perks=247725512,4049631843
-dimwishlist:item=3281285075&perks=2779035018,3425386926
-dimwishlist:item=3281285075&perks=2779035018,3523296417
-dimwishlist:item=3281285075&perks=2779035018,4049631843
-
-// Posterity - Posterity (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-dimwishlist:item=3281285075&perks=2450788523,3523296417
-dimwishlist:item=3281285075&perks=1523832109,47981717
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-dimwishlist:item=3281285075&perks=247725512,47981717
-dimwishlist:item=3281285075&perks=247725512,3523296417
-
-// Posterity - Posterity (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=3281285075&perks=1523832109,3425386926
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-dimwishlist:item=3281285075&perks=1523832109,4049631843
-dimwishlist:item=3281285075&perks=247725512,3425386926
-dimwishlist:item=3281285075&perks=247725512,3523296417
-dimwishlist:item=3281285075&perks=247725512,4049631843
-dimwishlist:item=3281285075&perks=2779035018,3425386926
-dimwishlist:item=3281285075&perks=2779035018,3523296417
-dimwishlist:item=3281285075&perks=2779035018,4049631843
-
-// Posterity - Posterity (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=3281285075&perks=2450788523,47981717
-dimwishlist:item=3281285075&perks=2450788523,3523296417
-dimwishlist:item=3281285075&perks=1523832109,47981717
-dimwishlist:item=3281285075&perks=1523832109,3523296417
-dimwishlist:item=3281285075&perks=247725512,47981717
-dimwishlist:item=3281285075&perks=247725512,3523296417
-
 // Twilight Oath - Twilight Oath (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
 dimwishlist:item=3297863558&perks=2779035018,1546637391
@@ -11520,22 +11669,6 @@ dimwishlist:item=3335343363&perks=280464955,957782887
 dimwishlist:item=3335343363&perks=280464955,3425386926
 dimwishlist:item=3335343363&perks=588594999,957782887
 dimwishlist:item=3335343363&perks=588594999,3425386926
-
-// Bequest - Bequest (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=3366545721&perks=1749209109,3708227201
-
-// Bequest - Bequest (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=3366545721&perks=2590710093,354401740
-
-// Bequest - Bequest (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=3366545721&perks=1749209109,3708227201
-
-// Bequest - Bequest (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=3366545721&perks=2590710093,354401740
 
 // Zephyr - Zephyr (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
@@ -11908,22 +12041,6 @@ dimwishlist:item=4230993599&perks=2590710093,3913600130
 // Steel Sybil Z-14 - Steel Sybil Z-14 (controller,pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
 dimwishlist:item=4230993599&perks=2590710093,354401740
-
-// Heritage - Heritage (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=4248569242&perks=1523832109,469285294
-
-// Heritage - Heritage (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=4248569242&perks=3161816588,957782887
-
-// Heritage - Heritage (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=4248569242&perks=1523832109,469285294
-
-// Heritage - Heritage (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=4248569242&perks=3161816588,957782887
 
 // Annual Skate - Annual Skate (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
@@ -13024,58 +13141,6 @@ dimwishlist:item=4095896073&perks=201365942,3365897133
 dimwishlist:item=4095896073&perks=201365942,588594999
 dimwishlist:item=4095896073&perks=706527188,3365897133
 dimwishlist:item=4095896073&perks=706527188,588594999
-
-// Commemoration - Commemoration (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=4230965989&perks=1523832109,3425386926
-
-// Commemoration - Commemoration (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-
-// Commemoration - Commemoration (controller,god-pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve
-dimwishlist:item=4230965989&perks=1523832109,3425386926
-
-// Commemoration - Commemoration (controller,god-pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-
-// Commemoration - Commemoration (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=4230965989&perks=1523832109,3425386926
-dimwishlist:item=4230965989&perks=1523832109,2848615171
-dimwishlist:item=4230965989&perks=1523832109,3108830275
-dimwishlist:item=4230965989&perks=2779035018,3425386926
-dimwishlist:item=4230965989&perks=2779035018,2848615171
-dimwishlist:item=4230965989&perks=2779035018,3108830275
-
-// Commemoration - Commemoration (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-dimwishlist:item=4230965989&perks=1359896290,1645158859
-dimwishlist:item=4230965989&perks=1359896290,699525795
-dimwishlist:item=4230965989&perks=3436462433,588594999
-dimwishlist:item=4230965989&perks=3436462433,1645158859
-dimwishlist:item=4230965989&perks=3436462433,699525795
-
-// Commemoration - Commemoration (controller,pve)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pve)|tags:controller,pve
-dimwishlist:item=4230965989&perks=1523832109,3425386926
-dimwishlist:item=4230965989&perks=1523832109,2848615171
-dimwishlist:item=4230965989&perks=1523832109,3108830275
-dimwishlist:item=4230965989&perks=2779035018,3425386926
-dimwishlist:item=4230965989&perks=2779035018,2848615171
-dimwishlist:item=4230965989&perks=2779035018,3108830275
-
-// Commemoration - Commemoration (controller,pvp)
-//notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,pvp)|tags:controller,pvp
-dimwishlist:item=4230965989&perks=1359896290,588594999
-dimwishlist:item=4230965989&perks=1359896290,1645158859
-dimwishlist:item=4230965989&perks=1359896290,699525795
-dimwishlist:item=4230965989&perks=3436462433,588594999
-dimwishlist:item=4230965989&perks=3436462433,1645158859
-dimwishlist:item=4230965989&perks=3436462433,699525795
 
 // Empty Vessel - Empty Vessel (controller,god-pve)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pve)|tags:controller,god-pve

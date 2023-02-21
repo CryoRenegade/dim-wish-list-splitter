@@ -62,6 +62,8 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep279-30th-anniversary-special-weapons.txt
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep48-deep-stone-crypt-weapons.txt
+
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/dmb-rolls/ep277-kings-fall-raid-weapons.txt
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep34-s18-nightfall-weapons.txt
