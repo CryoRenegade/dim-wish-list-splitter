@@ -2,6 +2,12 @@ title:This is a compiled collection of god/recommended rolls from top community 
 
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// originally found at https://github.com/liminalAce/wishlists/blob/main/datto_lightfall.txt
+
+title:Datto's early thoughts on lightfall weapons.
+
+description:Original video at https://www.youtube.com/watch?v=JlV7QZ5P0Mk
+
 title:u/pandapaxxy's Season 19, World Drops M+KB Breakdown
 
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokp78/season_19_world_drops/
