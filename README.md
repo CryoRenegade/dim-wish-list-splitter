@@ -1,5 +1,9 @@
 # dim-wish-list-splitter
 
+I've stopped updating this repo alongside the Voltron updates. If you're interested in getting these wishlists you can grab "voltron_splitter.py" to create the wishlist files.
+
+----------------------------------------------------------------
+
 Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.com/48klocs/dim-wish-list-sources).
 
 Separates PvE, PvP, Controller, MKB, and their combinations into seperate files.
