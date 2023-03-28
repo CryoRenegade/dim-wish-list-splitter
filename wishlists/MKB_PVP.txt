@@ -2,6 +2,16 @@ title:This is a compiled collection of god/recommended rolls from top community 
 
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep55-season-of-defiance-weapons.txt
+
+title:Datto's Defiance Weapon Rolls
+
+description:Rolls from https://www.youtube.com/watch?v=nEVp6Fz0lTk
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep54-lightfall-neomuna-weapons.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep51-season-19-foundry-weapons.txt
+
 // originally found at https://github.com/liminalAce/wishlists/blob/main/datto_lightfall.txt
 
 title:Datto's early thoughts on lightfall weapons.
@@ -359,6 +369,21 @@ dimwishlist:item=963710795&perks=839105230,2969185026,280464955,3511092054
 dimwishlist:item=963710795&perks=3250034553,689005463,280464955,3511092054
 dimwishlist:item=963710795&perks=839105230,689005463,280464955,3511092054
 
+// Fioritura-59
+//notes:pandapaxxy (PvP / M+KB): "Rapid-fire frame sidearms are the biggest Uno Reverse card for shotgun rushers. Spray them down and you don’t need a lot of range to do so. These weapons excel in cqc but also live and die by their consistency. Fioritura-59 has great lethality perks and will serve well in a very aggressive play style but will be hard countered by anyone walking backwards." Recommended MW - Range.|tags:pvp,mkb
+dimwishlist:item=2566006935&perks=3250034553,1885400500,2450788523,1015611457
+dimwishlist:item=2566006935&perks=3250034553,1561002382,2450788523,1015611457
+dimwishlist:item=2566006935&perks=3250034553,1885400500,4071163871,1015611457
+dimwishlist:item=2566006935&perks=3250034553,1561002382,4071163871,1015611457
+dimwishlist:item=2566006935&perks=3250034553,1885400500,691659142,1015611457
+dimwishlist:item=2566006935&perks=3250034553,1561002382,691659142,1015611457
+dimwishlist:item=2566006935&perks=3250034553,1885400500,2450788523,4082225868
+dimwishlist:item=2566006935&perks=3250034553,1561002382,2450788523,4082225868
+dimwishlist:item=2566006935&perks=3250034553,1885400500,4071163871,4082225868
+dimwishlist:item=2566006935&perks=3250034553,1561002382,4071163871,4082225868
+dimwishlist:item=2566006935&perks=3250034553,1885400500,691659142,4082225868
+dimwishlist:item=2566006935&perks=3250034553,1561002382,691659142,4082225868
+
 // Jararaca-3SR
 //notes:pandapaxxy (PvP / M+KB): "This is just a stasis Contingency Plan. Which I am all here for. I love my Contingency Plan. You do have to bring up almost all Jararaca’s low stats. Hammer-forged for range or smallbore for some stability. Scouts generally don’t need range but it also doesn’t hurt to maintain your aim assist at those longer engagements. Arrowhead for recoil control as the 57 recoil direction is pretty low. Rapid hit is incredibly strong and kill clip is just the bee’s knees." Recommended MW - Range.|tags:pvp,mkb
 dimwishlist:item=1851521408&perks=3250034553,1885400500,1428297954,1015611457
@@ -412,21 +437,6 @@ dimwishlist:item=2328531378&perks=3250034553,1885400500,1359896290,1890422124
 dimwishlist:item=2328531378&perks=1482024992,1885400500,1359896290,1890422124
 dimwishlist:item=2328531378&perks=3250034553,1561002382,1359896290,1890422124
 dimwishlist:item=2328531378&perks=1482024992,1561002382,1359896290,1890422124
-
-// Fioritura-59
-//notes:pandapaxxy (PvP / M+KB): "Rapid-fire frame sidearms are the biggest Uno Reverse card for shotgun rushers. Spray them down and you don’t need a lot of range to do so. These weapons excel in cqc but also live and die by their consistency. Fioritura-59 has great lethality perks and will serve well in a very aggressive play style but will be hard countered by anyone walking backwards." Recommended MW - Range.|tags:pvp,mkb
-dimwishlist:item=2566006935&perks=3250034553,1885400500,2450788523,1015611457
-dimwishlist:item=2566006935&perks=3250034553,1561002382,2450788523,1015611457
-dimwishlist:item=2566006935&perks=3250034553,1885400500,4071163871,1015611457
-dimwishlist:item=2566006935&perks=3250034553,1561002382,4071163871,1015611457
-dimwishlist:item=2566006935&perks=3250034553,1885400500,691659142,1015611457
-dimwishlist:item=2566006935&perks=3250034553,1561002382,691659142,1015611457
-dimwishlist:item=2566006935&perks=3250034553,1885400500,2450788523,4082225868
-dimwishlist:item=2566006935&perks=3250034553,1561002382,2450788523,4082225868
-dimwishlist:item=2566006935&perks=3250034553,1885400500,4071163871,4082225868
-dimwishlist:item=2566006935&perks=3250034553,1561002382,4071163871,4082225868
-dimwishlist:item=2566006935&perks=3250034553,1885400500,691659142,4082225868
-dimwishlist:item=2566006935&perks=3250034553,1561002382,691659142,4082225868
 
 // Liminal Vigil
 //notes:pandapaxxy (PvP / M+KB): "Luminal Vigil will continue its dominance in PvP. Rangefinder will push out its effective range enough to be viable against some submachine guns. Tap the trigger or headstone for bonus accuracy or stasis crystals. Kill clip for easy damage. Desperado for Luminal Vigil, the machine gun. All fantastic perks that are wrapped up into the Crimson Chin." Recommended MW - Range.|tags:pvp,mkb
