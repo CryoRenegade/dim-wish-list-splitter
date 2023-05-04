@@ -1,6 +1,6 @@
 # dim-wish-list-splitter
 
-I've stopped updating this repo alongside the Voltron updates. If you're interested in getting these wishlists you can grab "voltron_splitter.py" to create the wishlist files.
+I'm no longer manually updating this project. However, it checks for an update everyday at midnight so it will be kept up to date as long as there aren't any format changes to the voltron source. 
 
 ----------------------------------------------------------------
 
