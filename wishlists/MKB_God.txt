@@ -2,6 +2,20 @@ title:This is a compiled collection of god/recommended rolls from top community 
 
 description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, @chrisfried, u/-seudonym-, u/zman2100, u/goddamtofu, Gleauxx, GodInGaming, Beenlab, CoolCheese, Critbuff, Apathettic, Ekuegan, Jarv, Ascendant Nomad, Shadow, Pijinnn, AbbyHour, GodinGaming, illPhysics, BRAVExHERO, Pattycakes, blueberries.gg, YeezyGT, @johnldixon, and WarlockMaggie for their contributions. Ping u/48klocs / @48klocs with any issues.
 
+title:RNGeez S20 Guardian Games Breakdown
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/135o1ti/guardian_games_rngeez_weapon_breakdown/
+
+// taken from https://github.com/GoddamTofu/D2wishlist/blob/main/PandaPaxxy_S20.txt
+
+title:u/pandapaxxy's Season 20, Lightfall And Season Of Defiance
+
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/12kyvei/lightfall_seasonal_breakdown/
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep57-root-of-nightmares-weapons.txt
+
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep56-season-of-defiance-foundry-weapons.txt
+
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep55-season-of-defiance-weapons.txt
 
 title:Datto's Defiance Weapon Rolls
@@ -354,162 +368,193 @@ title:u/Mercules904's Garden of Salvation raid weapons breakdown
 
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
 
-// Perpetualis (PvE first-choice roll)
-// (Extended Barrel, Smallbore), Tactical Mag, (Keep Away, Zen Moment), Golden Tricorn
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. Shapeable. This is the easier to get Strand adaptive auto-rifle for Season of Defiance, if you're unable to get into the Root of Nightmares Raid. The stats are decent, although both stability and handling are a little below par, and the recoil direction could maybe do with a little help, although the Noble Deeds origin perk can help out with the handling (and boost reload speed too). Extended Barrel or Smallbore are your best barrel choices, and Tactical Mag is the best of the mag perks. In the first trait column, there aren't many support perks that help in PvE - Keep Away is the pick of a limited budget, or possibly the reworked Zen Moment. For your second trait column signature perk, Golden Tricorn is unique (as at v7.0.0.6, anyway) on a Strand auto rifle and the second stack isn't too difficult to proc by either using a grapple melee or shooting a Tangle, for a massive 50% damage boost for 10s. Recommended MW: Range or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
-dimwishlist:item=392008588&perks=1467527085,106909392,3619207468,2610012052
-dimwishlist:item=392008588&perks=1482024992,106909392,3619207468,2610012052
-dimwishlist:item=392008588&perks=1467527085,106909392,2387244414,2610012052
-dimwishlist:item=392008588&perks=1482024992,106909392,2387244414,261001205
+// Acasia's Dejection (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Particle Repeater), Field Prep, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Minor add-clear in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. You can use this as a pseudo primary weapon with Field Prep as your first trait column support perk boosting your reserves, and Frenzy as your second column signature perk not only boosting damage by 15%, but capping out Handling and Reload Speed at 100. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range or Stability - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1471212226&perks=1482024992,2680121939,2869569095,4104185692
+dimwishlist:item=1471212226&perks=1392496348,2680121939,2869569095,4104185692
+dimwishlist:item=1471212226&perks=3250034553,2680121939,2869569095,4104185692
+dimwishlist:item=1471212226&perks=1482024992,3868766766,2869569095,4104185692
+dimwishlist:item=1471212226&perks=1392496348,3868766766,2869569095,4104185692
+dimwishlist:item=1471212226&perks=3250034553,3868766766,2869569095,4104185692
 
-// Perpetualis (PvE first-choice roll)
-// (Extended Barrel, Smallbore), Tactical Mag, (Keep Away, Zen Moment), Threadling
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Strand synergy in general activities. Shapeable. This is the easier to get Strand adaptive auto-rifle for Season of Defiance, if you're unable to get into the Root of Nightmares Raid. The stats are decent, although both stability and handling are a little below par, and the recoil direction could maybe do with a little help, although the Noble Deeds origin perk can help out with the handling (and reload speed too). Extended Barrel or Smallbore are your best barrel choices, and Tactical Mag is the best of the mag perks. In the first trait column, there aren't many support perks that help in PvE - Keep Away is the pick of a limited budget, or possibly the reworked Zen Moment. For your second trait column signature perk, you have Hatchling to work with Threadling-boosting fragments. Recommended MW: Range or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
-dimwishlist:item=392008588&perks=1467527085,106909392,3619207468,831391274
-dimwishlist:item=392008588&perks=1482024992,106909392,3619207468,831391274
-dimwishlist:item=392008588&perks=1467527085,106909392,2387244414,831391274
-dimwishlist:item=392008588&perks=1482024992,106909392,2387244414,831391274
+// Acasia's Dejection (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Light Battery, Tactical Battery, Particle Repeater), (Rewind Rounds, Reconstruction), Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Majors in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. For use against Majors, an overflowed or refilled magazine is a great place to start, so Reconstruction or Rewind Rounds as your first trait column support perk can both take advantage of the higher damage stacks of Target Lock as your second column signature perk, turning this into a legendary solar Coldheart. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1471212226&perks=1482024992,2680121939,3418782618,365154968
+dimwishlist:item=1471212226&perks=1392496348,2680121939,3418782618,365154968
+dimwishlist:item=1471212226&perks=3250034553,2680121939,3418782618,365154968
+dimwishlist:item=1471212226&perks=1482024992,2749775325,3418782618,365154968
+dimwishlist:item=1471212226&perks=1392496348,2749775325,3418782618,365154968
+dimwishlist:item=1471212226&perks=3250034553,2749775325,3418782618,365154968
+dimwishlist:item=1471212226&perks=1482024992,732557052,3418782618,365154968
+dimwishlist:item=1471212226&perks=1392496348,732557052,3418782618,365154968
+dimwishlist:item=1471212226&perks=3250034553,732557052,3418782618,365154968
+dimwishlist:item=1471212226&perks=1482024992,3868766766,3418782618,365154968
+dimwishlist:item=1471212226&perks=1392496348,3868766766,3418782618,365154968
+dimwishlist:item=1471212226&perks=3250034553,3868766766,3418782618,365154968
+dimwishlist:item=1471212226&perks=1482024992,2680121939,1523832109,365154968
+dimwishlist:item=1471212226&perks=1392496348,2680121939,1523832109,365154968
+dimwishlist:item=1471212226&perks=3250034553,2680121939,1523832109,365154968
+dimwishlist:item=1471212226&perks=1482024992,2749775325,1523832109,365154968
+dimwishlist:item=1471212226&perks=1392496348,2749775325,1523832109,365154968
+dimwishlist:item=1471212226&perks=3250034553,2749775325,1523832109,365154968
+dimwishlist:item=1471212226&perks=1482024992,732557052,1523832109,365154968
+dimwishlist:item=1471212226&perks=1392496348,732557052,1523832109,365154968
+dimwishlist:item=1471212226&perks=3250034553,732557052,1523832109,365154968
+dimwishlist:item=1471212226&perks=1482024992,3868766766,1523832109,365154968
+dimwishlist:item=1471212226&perks=1392496348,3868766766,1523832109,365154968
+dimwishlist:item=1471212226&perks=3250034553,3868766766,1523832109,365154968
 
-// Raconteur (PvE first-choice roll)
-// Elastic String, Compact Arrow Shaft, Archer's Tempo, Explosive Head
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. Shapeable. Our first Stasis Precision Bow, with competitive stats by comparison with the other kinetic slot options, although Accuracy is the lowest of all the Precisions. Your aim with the Bowstring and Arrow, as ever, is to reduce the draw time, while not harming your accuracy or handling. Elastic String is the best for as low a draw time as possible and helps Handling too, at the cost of Accuracy, which you can recover with an Accuracy Masterwork, while Compact Arrow Shaft boosts handling and reload speed. Don't forget, the Noble Deeds origin perk will also boost both as well. If you ever see Archer's Tempo as the support perk in the first trait column then you don't need to look much further. Similarly, Explosive Head adds damage (and flinch) for free so is the best signature perk in the second trait column. Recommended MW: Accuracy or Draw Time, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
-dimwishlist:item=45643573&perks=2801223209,16392701,201365942,3365897133
+// Acasia's Dejection (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Light Battery, Tactical Battery, Particle Repeater), (Rewind Rounds, Reconstruction), Paracausal Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Light subclass synergy for Majors in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. For use against Majors, an overflowed or refilled magazine is a great place to start, so Reconstruction or Rewind Rounds as your first trait column support perk both give you greater uptime for Paracausal Affinity's 20% damage boost after a kill from any Light damage source as the second column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1471212226&perks=1482024992,2680121939,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1392496348,2680121939,3418782618,3215448563
+dimwishlist:item=1471212226&perks=3250034553,2680121939,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1482024992,2749775325,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1392496348,2749775325,3418782618,3215448563
+dimwishlist:item=1471212226&perks=3250034553,2749775325,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1482024992,732557052,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1392496348,732557052,3418782618,3215448563
+dimwishlist:item=1471212226&perks=3250034553,732557052,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1482024992,3868766766,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1392496348,3868766766,3418782618,3215448563
+dimwishlist:item=1471212226&perks=3250034553,3868766766,3418782618,3215448563
+dimwishlist:item=1471212226&perks=1482024992,2680121939,1523832109,3215448563
+dimwishlist:item=1471212226&perks=1392496348,2680121939,1523832109,3215448563
+dimwishlist:item=1471212226&perks=3250034553,2680121939,1523832109,3215448563
+dimwishlist:item=1471212226&perks=1482024992,2749775325,1523832109,3215448563
+dimwishlist:item=1471212226&perks=1392496348,2749775325,1523832109,3215448563
+dimwishlist:item=1471212226&perks=3250034553,2749775325,1523832109,3215448563
+dimwishlist:item=1471212226&perks=1482024992,732557052,1523832109,3215448563
+dimwishlist:item=1471212226&perks=1392496348,732557052,1523832109,3215448563
+dimwishlist:item=1471212226&perks=3250034553,732557052,1523832109,3215448563
+dimwishlist:item=1471212226&perks=1482024992,3868766766,1523832109,3215448563
+dimwishlist:item=1471212226&perks=1392496348,3868766766,1523832109,3215448563
+dimwishlist:item=1471212226&perks=3250034553,3868766766,1523832109,3215448563
 
-// Raconteur (PvE first-choice roll)
-// Elastic String, Compact Arrow Shaft, Archer's Tempo, Headstone
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Stasis synergy in general activities. Shapeable. Our first Stasis Precision Bow, with competitive stats by comparison with the other kinetic slot options, although Accuracy is the lowest of all the Precisions. Your aim with the Bowstring and Arrow, as ever, is to reduce the draw time, while not harming your accuracy or handling. Elastic String is the best for as low a draw time as possible and helps Handling too, at the cost of Accuracy, which you can recover with an Accuracy Masterwork, while Compact Arrow Shaft boosts handling and reload speed. Don't forget, the Noble Deeds origin perk will also boost both as well. If you ever see Archer's Tempo as the support perk in the first trait column then you don't need to look much further. To pair with your Stasis aspects and fragments, Headstone is your choice for signature perk in the second trait column. Recommended MW: Accuracy or Draw Time, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
-dimwishlist:item=45643573&perks=2801223209,16392701,201365942,124408337
+// Acasia's Dejection (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Light Battery, Tactical Battery, Particle Repeater), (Rewind Rounds, Reconstruction), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Solar subclass synergy for Minor add-clearing in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. For use against crowds of adds, an overflowed or refilled magazine is a great place to start, so Reconstruction or Rewind Rounds as your first trait column support perk both give you greater uptime for Incandescent's scorch and ignition solar-subclass verbs for crowd control as the second column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1471212226&perks=1482024992,2680121939,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1392496348,2680121939,3418782618,4293542123
+dimwishlist:item=1471212226&perks=3250034553,2680121939,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1482024992,2749775325,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1392496348,2749775325,3418782618,4293542123
+dimwishlist:item=1471212226&perks=3250034553,2749775325,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1482024992,732557052,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1392496348,732557052,3418782618,4293542123
+dimwishlist:item=1471212226&perks=3250034553,732557052,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1482024992,3868766766,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1392496348,3868766766,3418782618,4293542123
+dimwishlist:item=1471212226&perks=3250034553,3868766766,3418782618,4293542123
+dimwishlist:item=1471212226&perks=1482024992,2680121939,1523832109,4293542123
+dimwishlist:item=1471212226&perks=1392496348,2680121939,1523832109,4293542123
+dimwishlist:item=1471212226&perks=3250034553,2680121939,1523832109,4293542123
+dimwishlist:item=1471212226&perks=1482024992,2749775325,1523832109,4293542123
+dimwishlist:item=1471212226&perks=1392496348,2749775325,1523832109,4293542123
+dimwishlist:item=1471212226&perks=3250034553,2749775325,1523832109,4293542123
+dimwishlist:item=1471212226&perks=1482024992,732557052,1523832109,4293542123
+dimwishlist:item=1471212226&perks=1392496348,732557052,1523832109,4293542123
+dimwishlist:item=1471212226&perks=3250034553,732557052,1523832109,4293542123
+dimwishlist:item=1471212226&perks=1482024992,3868766766,1523832109,4293542123
+dimwishlist:item=1471212226&perks=1392496348,3868766766,1523832109,4293542123
+dimwishlist:item=1471212226&perks=3250034553,3868766766,1523832109,4293542123
 
-// Royal Executioner (PvE first-choice roll)
-// Arrowhead Brake, Accelerated Coils, Envious Assassin, Reservoir Burst
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for burst damage in end-game activities. Shapeable. Season 20's solar adaptive fusion rifle has okayish stats, with the Noble Deeds origin perk helping with a boost to handling and reload speed when procced. Arrowhead Brake as the barrel perk makes the recoil much easier to control, taking the Recoil Direction from 58 to 88. Particle Repeater is an option to control the bolts, but Accelerated Coils is the better play - you'll be killing red bars even with the slight reduction in damage and you'll appreciate the faster charge time. The Noble Deeds origin trait helps with Handling, for more snappiness (and Reload Speed), so fits in really well. Envious Assassin is the stand out support perk in the first trait column - overflow the magazine with primary and power weapon kills, and this is the only non-Raid fusion rifle that you can do that with. Every overflowed shot will then do 25% bonus damage with Reservoir Burst as your second trait column, signature perk, as well as making enemies explode, making this great for both add-clearing groups of minors and burst damage against majors. Recommended MW: Charge Time, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MajorSpec, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=1720503118&perks=839105230,689005463,968510818,4293542123
+// Acasia's Dejection (Adept) (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Particle Repeater), Field Prep, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Minor add-clear in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. You can use this as a pseudo primary weapon with Field Prep as your first trait column support perk boosting your reserves, and Frenzy as your second column signature perk not only boosting damage by 15%, but capping out Handling and Reload Speed at 100. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range or Stability - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3493494807&perks=1482024992,2680121939,2869569095,4104185692
+dimwishlist:item=3493494807&perks=1392496348,2680121939,2869569095,4104185692
+dimwishlist:item=3493494807&perks=3250034553,2680121939,2869569095,4104185692
+dimwishlist:item=3493494807&perks=1482024992,3868766766,2869569095,4104185692
+dimwishlist:item=3493494807&perks=1392496348,3868766766,2869569095,4104185692
+dimwishlist:item=3493494807&perks=3250034553,3868766766,2869569095,4104185692
 
-// Royal Executioner (PvE first-choice roll)
-// Arrowhead Brake, Accelerated Coils, (Envious Assassin, Threat Detector, Lead from Gold), Incandescent
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Solar synergy in end-game activities. Shapeable. Season 20's solar adaptive fusion rifle has okayish stats, with the Noble Deeds origin perk helping with a boost to handling and reload speed when procced. Arrowhead Brake as the barrel perk makes the recoil much easier to control, taking the Recoil Direction from 58 to 88. Particle Repeater is an option, but Accelerated Coils is the better play - you'll be killing red bars even with the slight reduction in damage and you'll appreciate the faster charge time. The Noble Deeds origin trait helps with Handling, for more snappiness (and Reload Speed), so fits in really well. Envious Assassin is a stand out support perk in the first trait column, overflowing the magazine as you get primary and power weapon kills, but Threat Detector and Lead From Gold are right up there too. This is the first solar FR to give the option of Incandescent as the signature perk in the second column, which plays into the subclass verbs for end-game add clear. Recommended MW: Charge Time, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=1720503118&perks=839105230,689005463,968510818,4293542123
-dimwishlist:item=1720503118&perks=839105230,689005463,4071163871,4293542123
-dimwishlist:item=1720503118&perks=839105230,689005463,1556840489,4293542123
+// Acasia's Dejection (Adept) (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Light Battery, Tactical Battery, Particle Repeater), (Rewind Rounds, Reconstruction), Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Majors in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. For use against Majors, an overflowed or refilled magazine is a great place to start, so Reconstruction or Rewind Rounds as your first trait column support perk can both take advantage of the higher damage stacks of Target Lock as your second column signature perk, turning this into a legendary solar Coldheart. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Adept Big Ones or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3493494807&perks=1482024992,2680121939,3418782618,365154968
+dimwishlist:item=3493494807&perks=1392496348,2680121939,3418782618,365154968
+dimwishlist:item=3493494807&perks=3250034553,2680121939,3418782618,365154968
+dimwishlist:item=3493494807&perks=1482024992,2749775325,3418782618,365154968
+dimwishlist:item=3493494807&perks=1392496348,2749775325,3418782618,365154968
+dimwishlist:item=3493494807&perks=3250034553,2749775325,3418782618,365154968
+dimwishlist:item=3493494807&perks=1482024992,732557052,3418782618,365154968
+dimwishlist:item=3493494807&perks=1392496348,732557052,3418782618,365154968
+dimwishlist:item=3493494807&perks=3250034553,732557052,3418782618,365154968
+dimwishlist:item=3493494807&perks=1482024992,3868766766,3418782618,365154968
+dimwishlist:item=3493494807&perks=1392496348,3868766766,3418782618,365154968
+dimwishlist:item=3493494807&perks=3250034553,3868766766,3418782618,365154968
+dimwishlist:item=3493494807&perks=1482024992,2680121939,1523832109,365154968
+dimwishlist:item=3493494807&perks=1392496348,2680121939,1523832109,365154968
+dimwishlist:item=3493494807&perks=3250034553,2680121939,1523832109,365154968
+dimwishlist:item=3493494807&perks=1482024992,2749775325,1523832109,365154968
+dimwishlist:item=3493494807&perks=1392496348,2749775325,1523832109,365154968
+dimwishlist:item=3493494807&perks=3250034553,2749775325,1523832109,365154968
+dimwishlist:item=3493494807&perks=1482024992,732557052,1523832109,365154968
+dimwishlist:item=3493494807&perks=1392496348,732557052,1523832109,365154968
+dimwishlist:item=3493494807&perks=3250034553,732557052,1523832109,365154968
+dimwishlist:item=3493494807&perks=1482024992,3868766766,1523832109,365154968
+dimwishlist:item=3493494807&perks=1392496348,3868766766,1523832109,365154968
+dimwishlist:item=3493494807&perks=3250034553,3868766766,1523832109,365154968
 
-// Prodigal Return (PvE first-choice roll)
-// (Quick Launch, Smart Drift Control), Disorienting Grenades, Envious Assassin, Disruption Break
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add suppression in end-game activities. Shapeable. This drops into a very competitive field of arc lightweight grenade launchers, although it does have decent stats except for handling. The usual play is to look for velocity, to get the grenade to its target as fast as possible, and handling, for speedy swaps, and it'll be no different this time. Fortunately, the Noble Deeds origin trait helps with Handling (and Reload Speed), so fits in really well. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. For add control, Disorienting Grenades give you breathing space in a firefight. Pair that with Envious Assassin, which can give you up to three in the barrel(!) as your support perk in the first trait column, and Disruption Break, for 50% bonus kinetic damage to burst down chunkier red bar Minors and the occasional Major while they stumble around as the signature perk, and you probably have the perfect add control breach-loading GL. Recommended MW: Velocity, with a Quick Access Sling (for faster swaps) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=268260373&perks=3525010810,3032599245,968510818,1683379515
-dimwishlist:item=268260373&perks=1441682018,3032599245,968510818,1683379515
+// Acasia's Dejection (Adept) (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Light Battery, Tactical Battery, Particle Repeater), (Rewind Rounds, Reconstruction), Paracausal Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Light subclass synergy for Majors in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. For use against Majors, an overflowed or refilled magazine is a great place to start, so Reconstruction or Rewind Rounds as your first trait column support perk both give you greater uptime for Paracausal Affinity's 20% damage boost after a kill from any Light damage source as the second column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Adept Big Ones or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3493494807&perks=1482024992,2680121939,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1392496348,2680121939,3418782618,3215448563
+dimwishlist:item=3493494807&perks=3250034553,2680121939,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1482024992,2749775325,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1392496348,2749775325,3418782618,3215448563
+dimwishlist:item=3493494807&perks=3250034553,2749775325,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1482024992,732557052,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1392496348,732557052,3418782618,3215448563
+dimwishlist:item=3493494807&perks=3250034553,732557052,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1482024992,3868766766,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1392496348,3868766766,3418782618,3215448563
+dimwishlist:item=3493494807&perks=3250034553,3868766766,3418782618,3215448563
+dimwishlist:item=3493494807&perks=1482024992,2680121939,1523832109,3215448563
+dimwishlist:item=3493494807&perks=1392496348,2680121939,1523832109,3215448563
+dimwishlist:item=3493494807&perks=3250034553,2680121939,1523832109,3215448563
+dimwishlist:item=3493494807&perks=1482024992,2749775325,1523832109,3215448563
+dimwishlist:item=3493494807&perks=1392496348,2749775325,1523832109,3215448563
+dimwishlist:item=3493494807&perks=3250034553,2749775325,1523832109,3215448563
+dimwishlist:item=3493494807&perks=1482024992,732557052,1523832109,3215448563
+dimwishlist:item=3493494807&perks=1392496348,732557052,1523832109,3215448563
+dimwishlist:item=3493494807&perks=3250034553,732557052,1523832109,3215448563
+dimwishlist:item=3493494807&perks=1482024992,3868766766,1523832109,3215448563
+dimwishlist:item=3493494807&perks=1392496348,3868766766,1523832109,3215448563
+dimwishlist:item=3493494807&perks=3250034553,3868766766,1523832109,3215448563
 
-// Prodigal Return (PvE first-choice roll)
-// (Quick Launch, Smart Drift Control), High-Velocity Rounds, (Threadt Detector, Field Prep), Voltshot
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Arc Synergy in general activities. Shapeable. This drops into a very competitive field of arc lightweight grenade launchers, although it does have decent stats except for handling. The usual play is to look for velocity, to get the grenade to its target as fast as possible, and handling, for speedy swaps, and it'll be no different this time. Fortunately, the Noble Deeds origin trait helps with Handling and Reload Speed, so fits in really well. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. With one eye towards building a weapon around Voltshot (this is the first GL with Voltshot as an option, although the jury is still out on whether that's a good idea or not) as the signature perk in the second trait column, we'll need to make the reload as fast as possible. High Velocity Rounds boosts reload speed as well as velocity. Then Threat Detector or Field Prep as your support perk in the first trait column helps too. Using Spark of Beacons gives you arc Blinding on a kill, which should make the follow-up shot after a kill, to get your Jolt damage tick, easier to hit. Recommended MW: Reload Speed, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=268260373&perks=3525010810,2822142346,2869569095,2173046394
-dimwishlist:item=268260373&perks=1441682018,2822142346,2869569095,2173046394
-dimwishlist:item=268260373&perks=3525010810,2822142346,4071163871,2173046394
-dimwishlist:item=268260373&perks=1441682018,2822142346,4071163871,2173046394
-
-// Regnant (PvE first-choice roll)
-// (Quick Launch, Smart Drift Control), Spike Grenades, Auto-Loading Holster, Explosive Light
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for sustained boss DPS in end-game activities. Shapeable. Essentially a void Wendigo with poorer stats, but with access to enhanced traits. As is usual for grenade launchers, look to increase velocity to get the grenade on target as fast as possible, and handling, for general snappiness. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. The Noble Deeds origin trait helps with handling, and reload speed too, so works well. In the magazine, Spike Grenade adds direct impact damage to a target. In the first trait column as your pick of the support perks, Auto-Loading Holster lets you empty the magazine and reload while you're swapped to your DPS special weapon to rinse and repeat, while Explosive Light is by far the best damage boost for your signature perk in the second - and the enhanced version adds an extra stack on top. Recommended MW: Handling, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=268260372&perks=3525010810,3301904089,3300816228,3194351027
-dimwishlist:item=268260372&perks=3798852852,3301904089,3300816228,3194351027
-
-// Regnant (PvE first-choice roll)
-// (Quick Launch, Smart Drift Control), Spike Grenades, Envious Assassin, Explosive Light
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for burst DPS against majors in end-game activities. Shapeable. Essentially a void Wendigo with poorer stats, but with access to enhanced traits. As is usual for grenade launchers, look to increase velocity to get the grenade on target as fast as possible, and handling, for general snappiness. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. The Noble Deeds origin trait helps with handling, and reload speed too, so works well. In the magazine, Spike Grenade adds direct impact damage to a target. In the first trait column as your support perk, Envious Assassin overflows the magazine or the most quick shots to finish off a major or stunned Champion quickly, while Explosive Light is by far the best damage boost for your signature perk in the second - and the enhanced version adds an extra stack on top. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=268260372&perks=3525010810,3301904089,968510818,3194351027
-dimwishlist:item=268260372&perks=3798852852,3301904089,968510818,3194351027
-
-// Regnant (PvE first-choice roll)
-// (Volatile Launch, Linear Compensator), High-Explosive Ordnance, Repulsor Brace, Destabilizing Rounds
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for void synergy. Shapeable. Essentially a void Wendigo with poorer stats, but with access to enhanced traits. You'll be using this roll for add clearing, so you'll want to crank up the blast radius with your barrel with Volatile Launch, High Explosive Ordnance in the magazine, and a Blast Radious Masterwork. Repulsor Brace as your support perk in the first trait column gives you a void overshield for void-debuffed kills, which is exactly what Destabilizing Rounds sets you up for, as your signature perk in the second trait column, making targets near a kill volatile, including chunkier ones for easier clean-up with the next shot. This combination should make you a bit of a walking tank in add-dense areas, as long as you have ammo. Recommended MW: Blast Radius, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=268260372&perks=1478423395,1380253176,776531651,2048641572
-dimwishlist:item=268260372&perks=1441682018,1380253176,776531651,2048641572
-
-// Caretaker (PvE first-choice roll)
-// Jagged Edge, Swordmaster's Guard, (Tireless Blade, Relentless Strikes), Incandescent
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for solar synergy and minor add clearing in end-game content. Shapeable. This is maybe our first non-Raid sword with significantly different stats - the Charge Rate is 60, by comparison with every other adaptive sword's 20 (except DSC's Bequest), and the Noble Deeds origin perk boosts the charge rate further for buffing Guardians around you. As with most swords, go for as much impact damage as possible, so Jagged Edge as your blade plus the inevitable Impact Masterwork. Swordmaster's Guard is a reliable guard perk to have your heavy attack available quickly. For your support perk in the first trait column, both Tireless Blade and Relentless Strikes work but, once you get Incandescent working (and Ember of Ashes helps) as your signature perk in the second trait column, the ignite kills among adds count towards Tireless Blade kills, so that will be the more efficient way to regain ammo. Recommended MW: Impact, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=2508948099&perks=3666208348,269888150,2590710093,4293542123
-dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,4293542123
-
-// Caretaker (PvE first-choice roll)
-// Jagged Edge, Swordmaster's Guard, (Relentless Strikes, Flash Counter), (Surrounded, One For All)
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Majors and Bosses in end-game content. Shapeable. This is maybe our first non-Raid sword with significantly different stats - the Charge Rate is 60, by comparison with every other adaptive sword's 20 (except DSC's Bequest), and the Noble Deeds origin perk boosts the charge rate further for buffing Guardians around you. As with most swords, go for as much impact damage as possible, so Jagged Edge as your blade plus the inevitable Impact Masterwork. Swordmaster's Guard is a reliable guard perk to have your heavy attack available quickly. For your support park in the first trait column, Relentless Strikes don't require a kill to return ammo, so is best for chunkier adds and Majors, although Flash Counter's weaken effect is also worth considering. Majors are usually accompanied by minors, so Surrounded (especially when enhanced) or One for All as signature perks in the second trait column can both work well when you need to do damage up close. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) mod|tags: PvE, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=2508948099&perks=3666208348,269888150,2590710093,4293542123
-dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,4293542123
-
-// Caretaker (PvE first-choice roll)
-//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Majors and Bosses in end-game content. Shapeable. This is maybe our first non-Raid sword with significantly different stats - the Charge Rate is 60, by comparison with every other adaptive sword's 20 (except DSC's Bequest). As with most swords, go for as much impact damage as possible, so Jagged Edge as your blade plus the inevitable Impact Masterwork. Swordmaster's Guard is a reliable guard perk to have your heavy attack available quickly. For your support park in the first trait column, Relentless Strikes don't require a kill to return ammo, so is best for chunkier adds and Majors, although Flash Counter's weaken effect is also worth considering. Majors are usually accompanied by Minor adds, so Surrounded (especially when enhanced) or One for All as signature perks in the second trait column both work well. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) mod|tags: PvE, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,4049631843
-dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,3708227201
-
-// Round Robin (PvE first-choice roll)
-// Fluted Barrel, (Armor-Piercing Rounds, High-Caliber ROunds, Ricochet Rounds), (Stay Away, Subsistence), Hatchling
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Strand synergy in general content. Shapeable. Our first Strand Hand Cannon. Middling stats by comparison with other Aggressive Frames - prioritise handling and stability with your barrel and mag to improve gunfeel. You should be engaging enemies at a decent range so Keep Away boosts range, accuracy and reload speed, or Subsistence will keep your mag topped up. In the second trait column Hatchling spawns a Threadling on crit kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
-dimwishlist:item=2034215657&perks=1840239774,1968497646,3619207468,831391274
-dimwishlist:item=2034215657&perks=1840239774,1561002382,3619207468,831391274
-dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,831391274
-dimwishlist:item=2034215657&perks=1840239774,1968497646,1820235745,831391274
-dimwishlist:item=2034215657&perks=1840239774,1561002382,1820235745,831391274
-dimwishlist:item=2034215657&perks=1840239774,1885400500,1820235745,831391274
-
-// Synchronic Roulette (PvE first-choice roll)
-// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Envious Assassin, Hatchling
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Strand synergy in general content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column - Envious Assassin is much better on a Special or Power weapon, but it's worth it for the occasional overfilled mag. In the second trait column Hatchling spawns a Threadling on rapid kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
-dimwishlist:item=811403305&perks=1840239774,1561002382,968510818,831391274
-dimwishlist:item=811403305&perks=4090651448,1561002382,968510818,831391274
-dimwishlist:item=811403305&perks=1840239774,1968497646,968510818,831391274
-dimwishlist:item=811403305&perks=4090651448,1968497646,968510818,831391274
-dimwishlist:item=811403305&perks=1840239774,1885400500,968510818,831391274
-dimwishlist:item=811403305&perks=4090651448,1885400500,968510818,831391274
-dimwishlist:item=811403305&perks=1840239774,3230963543,968510818,831391274
-dimwishlist:item=811403305&perks=4090651448,3230963543,968510818,831391274
-
-// Synchronic Roulette (PvE first-choice roll)
-// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Pulse Monitor, Target Lock
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for end-game content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column but Pulse Monitor could be useful if you're out of cover to use Target Lock and are taking damage, to reload you magazine to keep your damage output up, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
-dimwishlist:item=811403305&perks=1840239774,1561002382,972757866,365154968
-dimwishlist:item=811403305&perks=4090651448,1561002382,972757866,365154968
-dimwishlist:item=811403305&perks=1840239774,1968497646,972757866,365154968
-dimwishlist:item=811403305&perks=4090651448,1968497646,972757866,365154968
-dimwishlist:item=811403305&perks=1840239774,1885400500,972757866,365154968
-dimwishlist:item=811403305&perks=4090651448,1885400500,972757866,365154968
-dimwishlist:item=811403305&perks=1840239774,3230963543,972757866,365154968
-dimwishlist:item=811403305&perks=4090651448,3230963543,972757866,365154968
-
-// Phyllotactic Spiral (PvE first-choice roll)
-// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Flared Magwell, Light Mag), Compulsive Reloader, Voltshot
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for general content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (you can never go wrong with additional handling and stability). With one eye to Voltshot in the final column, you want reload speed as high as possible so Flared Magwell or Light Mag, and Compulsive Reloader or Keep Away with a Reload Speed Masterwork should get Voltshot procced and ready to use as quickly as possible after a kill. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
-dimwishlist:item=3635821806&perks=1840239774,3230963543,671806388,2173046394
-dimwishlist:item=3635821806&perks=839105230,3230963543,671806388,2173046394
-dimwishlist:item=3635821806&perks=4090651448,3230963543,671806388,2173046394
-dimwishlist:item=3635821806&perks=1482024992,3230963543,671806388,2173046394
-dimwishlist:item=3635821806&perks=1840239774,679225683,671806388,2173046394
-dimwishlist:item=3635821806&perks=839105230,679225683,671806388,2173046394
-dimwishlist:item=3635821806&perks=4090651448,679225683,671806388,2173046394
-dimwishlist:item=3635821806&perks=1482024992,679225683,671806388,2173046394
-dimwishlist:item=3635821806&perks=1840239774,3230963543,3619207468,2173046394
-dimwishlist:item=3635821806&perks=839105230,3230963543,3619207468,2173046394
-dimwishlist:item=3635821806&perks=4090651448,3230963543,3619207468,2173046394
-dimwishlist:item=3635821806&perks=1482024992,3230963543,3619207468,2173046394
-dimwishlist:item=3635821806&perks=1840239774,679225683,3619207468,2173046394
-dimwishlist:item=3635821806&perks=839105230,679225683,3619207468,2173046394
-dimwishlist:item=3635821806&perks=4090651448,679225683,3619207468,2173046394
-dimwishlist:item=3635821806&perks=1482024992,679225683,3619207468,2173046394
-
-// Phyllotactic Spiral (PvE first-choice roll)
-// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Keep Away, Frenzy
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for end-game content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (you can never go wrong with additional handling and stability). Any of the combat effect rounds add utility in the mag and then for end-game activities you'll likely be staying as far away from all the hurty stuff as possible, so should be proccing Keep Away and then Frenzy provides both gunfeel and a solid 15% damage boosts. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
-dimwishlist:item=3635821806&perks=1840239774,1968497646,3619207468,4104185692
-dimwishlist:item=3635821806&perks=839105230,1968497646,3619207468,4104185692
-dimwishlist:item=3635821806&perks=4090651448,1968497646,3619207468,4104185692
-dimwishlist:item=3635821806&perks=1482024992,1968497646,3619207468,4104185692
-dimwishlist:item=3635821806&perks=1840239774,1561002382,3619207468,4104185692
-dimwishlist:item=3635821806&perks=839105230,1561002382,3619207468,4104185692
-dimwishlist:item=3635821806&perks=4090651448,1561002382,3619207468,4104185692
-dimwishlist:item=3635821806&perks=1482024992,1561002382,3619207468,4104185692
-dimwishlist:item=3635821806&perks=1840239774,1885400500,3619207468,4104185692
-dimwishlist:item=3635821806&perks=839105230,1885400500,3619207468,4104185692
-dimwishlist:item=3635821806&perks=4090651448,1885400500,3619207468,4104185692
-dimwishlist:item=3635821806&perks=1482024992,1885400500,3619207468,4104185692
+// Acasia's Dejection (Adept) (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Enhanced Battery, Light Battery, Tactical Battery, Particle Repeater), (Rewind Rounds, Reconstruction), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Solar subclass synergy for Minor add-clearing in end-game content. Most Raid weapons boast stellar stat packages, and Acasia's Dejection is no different - this is the best legendary trace rifle as at v7.0.0.6. The recoil is already pretty easy to control with 96 Recoil Direction and 80 stability, so your barrel and battery choices are more of a bonus than gap filler. For use against crowds of adds, an overflowed or refilled magazine is a great place to start, so Reconstruction or Rewind Rounds as your first trait column support perk both give you greater uptime for Incandescent's scorch and ignition solar-subclass verbs for crowd control as the second column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=3493494807&perks=1482024992,2680121939,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1392496348,2680121939,3418782618,4293542123
+dimwishlist:item=3493494807&perks=3250034553,2680121939,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1482024992,2749775325,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1392496348,2749775325,3418782618,4293542123
+dimwishlist:item=3493494807&perks=3250034553,2749775325,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1482024992,732557052,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1392496348,732557052,3418782618,4293542123
+dimwishlist:item=3493494807&perks=3250034553,732557052,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1482024992,3868766766,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1392496348,3868766766,3418782618,4293542123
+dimwishlist:item=3493494807&perks=3250034553,3868766766,3418782618,4293542123
+dimwishlist:item=3493494807&perks=1482024992,2680121939,1523832109,4293542123
+dimwishlist:item=3493494807&perks=1392496348,2680121939,1523832109,4293542123
+dimwishlist:item=3493494807&perks=3250034553,2680121939,1523832109,4293542123
+dimwishlist:item=3493494807&perks=1482024992,2749775325,1523832109,4293542123
+dimwishlist:item=3493494807&perks=1392496348,2749775325,1523832109,4293542123
+dimwishlist:item=3493494807&perks=3250034553,2749775325,1523832109,4293542123
+dimwishlist:item=3493494807&perks=1482024992,732557052,1523832109,4293542123
+dimwishlist:item=3493494807&perks=1392496348,732557052,1523832109,4293542123
+dimwishlist:item=3493494807&perks=3250034553,732557052,1523832109,4293542123
+dimwishlist:item=3493494807&perks=1482024992,3868766766,1523832109,4293542123
+dimwishlist:item=3493494807&perks=1392496348,3868766766,1523832109,4293542123
+dimwishlist:item=3493494807&perks=3250034553,3868766766,1523832109,4293542123
 
 // Basso Ostinato (PvE first-choice roll)
 // (Barrel Shround, Corkscrew Rifling, Smallbore), Tactical Mag, (Envious Assassin, Lead from Gold, Perpetual Motion), Destabilizing Rounds
@@ -549,34 +594,108 @@ dimwishlist:item=2573900604&perks=1047830412,106909392,1556840489,2679249093
 dimwishlist:item=2573900604&perks=1047830412,106909392,968510818,2679249093
 dimwishlist:item=2573900604&perks=1047830412,106909392,1428297954,2679249093
 
-// Iterative Loop (PvE first-choice roll)
-// (Arrowhead Brake, Fluted Barrel, Polygonal Rifling), (Particle Repeater, Accelerated Coils), Compulsive Reloader, Voltshot
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Arc synergy and burst damage. Seeing as fusion rifles apply the highest Jolt tick damage of any special weapon, it would be rude not to pick or shape a roll. Rapid fire fusions need a fair bit of control with nine bolts being fired, so Arrowhead Break takes the recoil direction to 77, or up the stability through Fluted Barrel or Polygonal Rifling. In the battery, there's nothing to help speed up reloading, so Particle Repeater adds more stability, or Accelerated Coils speeds up charge time. Compulsive Reloader and a Reload Speed Masterwork boosts reload to 100 at the top half of the mag, so your reloads after a kill to proc Voltshot should be as snappy as it's possible to get. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with rapid kills - really fun for PvE. Recommended MW: Reload Speed or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
-dimwishlist:item=1289796511&perks=839105230,3868766766,671806388,2173046394
-dimwishlist:item=1289796511&perks=1840239774,3868766766,671806388,2173046394
-dimwishlist:item=1289796511&perks=1392496348,3868766766,671806388,2173046394
-dimwishlist:item=1289796511&perks=839105230,689005463,671806388,2173046394
-dimwishlist:item=1289796511&perks=1840239774,689005463,671806388,2173046394
-dimwishlist:item=1289796511&perks=1392496348,689005463,671806388,2173046394
+// Battle Scar (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Accurized Rounds), Shoot to Loot, Kinetic Tremors
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for Minor add-clear in end-game content. Not a lot of current competition for lightweight pulse rifles (as at v7.0.0.7, anyway) but they add a very useful +20 mobility (useful when buildcrafting) and +6.25% movement speed. Unfortunately, the stats on the reprised Battle Scar are low across the board - the New Devrim Kay VIII Foundry Field Tested origin perk should help, but it takes a long time to proc the higher tiers (five stacks would take 1001 hits to achieve!). You'd really be looking for Arrowhead Brake in the barrel ideally, to help clean up the low recoil direction and, if you prefer stability and reload speed go for Tactical Mag, or for range go for Accurized Rounds. Battle Scar is one of the first kinetic weapons that can roll with Kinetic Tremors as your signature perk in the second trait column - for end-game activities this pairs nicely with Shoot to Loot as, as well as the passive damage boost just for repeated hits you will also pick up ammo from anywhere in the shockwave area and reload all of your guns too. Recommended MW: TBH anything will work - just go with your preference, with a damage-boosting (Minor, Taken Spec) mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2099894368&perks=839105230,106909392,3700496672,3891536761
+dimwishlist:item=2099894368&perks=839105230,3142289711,3700496672,3891536761
 
-// Volta Bracket (PvE first-choice roll)
-// Fluted Barrel, Extended Mag, Envious Assassin, (Explosive Payload, Firing Line)
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column, Explosive Payload adds a flat 15% bonus damage or, in a fireteam, Firing Line adds 20% crit damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
-dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,3038247973
-dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,1771339417
+// Battle Scar (PvE first-choice roll)
+// Arrowhead Brake, (Tactical Mag, Accurized Rounds), (Perpetual Motion, Keep Away), Osmosis
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for Minor add-clear in end-game content. Not a lot of current competition for lightweight pulse rifles (as at v7.0.0.7, anyway) but they add a very useful +20 mobility (useful when buildcrafting) and +6.25% movement speed. Unfortunately, the stats on the reprised Battle Scar are low across the board - the New Devrim Kay VIII Foundry Field Tested origin perk should help, but it takes a long time to proc the higher tiers (five stacks would take 1001 hits to achieve!). You'd really be looking for Arrowhead Brake in the barrel ideally, to help clean up the low recoil direction and, if you prefer stability and reload speed go for Tactical Mag, or for range go for Accurized Rounds. To improve your gunfeel, in the first trait slot as you r support perk, Perpetual Motion adds a decent bump to handling, stability and reload speed, or if you want extra range then Keep Away boosts that, reload speed and accuracy. Osmosis, as your signature perk in the second trait column is fairly rare and will pick up any of the energy synergies from your subclass (say, volatile rounds when that's procced by a void ability) - if you haven't already got a pulse rifle with the perk, then this would be worth hanging on to. Recommended MW: TBH anything will work - just go with your preferece, with a damage-boosting (Minor, Taken Spec) mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2099894368&perks=839105230,106909392,1428297954,1774574192
+dimwishlist:item=2099894368&perks=839105230,3142289711,1428297954,1774574192
+dimwishlist:item=2099894368&perks=839105230,106909392,3619207468,1774574192
+dimwishlist:item=2099894368&perks=839105230,3142289711,3619207468,1774574192
 
-// Volta Bracket (PvE first-choice roll)
-// Fluted Barrel, Extended Mag, Envious Assassin, Cascade Point
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column on mouse and keyboard where stability isn't so much of an issue, so Cascade Point can use the kills that boosted your mag to dump them into a target in short order into a target for speedy burst damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, M+KB
-dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,3751912585
+// Briar's Contempt (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction), Focused Fury 
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine to keep get as many shots with Focused Fury's damage boost as possible, as your second trait column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1491665733&perks=1840239774,2680121939,3418782618,2896038713
+dimwishlist:item=1491665733&perks=1392496348,2680121939,3418782618,2896038713
+dimwishlist:item=1491665733&perks=839105230,2680121939,3418782618,2896038713
+dimwishlist:item=1491665733&perks=3661387068,2680121939,3418782618,2896038713
+dimwishlist:item=1491665733&perks=1840239774,2680121939,1523832109,2896038713
+dimwishlist:item=1491665733&perks=1392496348,2680121939,1523832109,2896038713
+dimwishlist:item=1491665733&perks=839105230,2680121939,1523832109,2896038713
+dimwishlist:item=1491665733&perks=3661387068,2680121939,1523832109,2896038713
 
-// Dimensional Hypotrochoid (PvE first-choice roll)
-// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, Envious Assassin, Chain Reaction
-//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. There's an abundance of options for PvE in the first trait column, but the best option is Envious Assassin, passively overflowing the magazine as you get primary and special weapon kills, and then in the second, as this is primarily for add clear, Chain Reaction turns every kill into a stasis explosion, extending the damage radius and adding chunk damage against beefier enemies nearby. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
-dimwishlist:item=1311684613&perks=981914802,2822142346,968510818,2396489472
-dimwishlist:item=1311684613&perks=3525010810,2822142346,968510818,2396489472
-dimwishlist:item=1311684613&perks=3798852852,2822142346,968510818,2396489472
-dimwishlist:item=1311684613&perks=1441682018,2822142346,968510818,2396489472
+// Briar's Contempt (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction, Demolitionist), Frenzy 
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by up to 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine, or alternatively Demolitionist provides an instant reload to keep damage uptime for Frenzy's 15% damage boost as your second trait column signature perk. The additional 50 Reload Speed from Frenzy is handy, once you do need to reload, too. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1491665733&perks=1840239774,2680121939,3418782618,4104185692
+dimwishlist:item=1491665733&perks=1392496348,2680121939,3418782618,4104185692
+dimwishlist:item=1491665733&perks=839105230,2680121939,3418782618,4104185692
+dimwishlist:item=1491665733&perks=3661387068,2680121939,3418782618,4104185692
+dimwishlist:item=1491665733&perks=1840239774,2680121939,1523832109,4104185692
+dimwishlist:item=1491665733&perks=1392496348,2680121939,1523832109,4104185692
+dimwishlist:item=1491665733&perks=839105230,2680121939,1523832109,4104185692
+dimwishlist:item=1491665733&perks=3661387068,2680121939,1523832109,4104185692
+dimwishlist:item=1491665733&perks=1840239774,2680121939,3523296417,4104185692
+dimwishlist:item=1491665733&perks=1392496348,2680121939,3523296417,4104185692
+dimwishlist:item=1491665733&perks=839105230,2680121939,3523296417,4104185692
+dimwishlist:item=1491665733&perks=3661387068,2680121939,3523296417,4104185692
+
+// Briar's Contempt (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, Incandescent, Paracausal Affinity 
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for solar synergy in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10% so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. Unusually, you can roll Incandescent in the first trait column as your support perk, to synergise with solar subclasses to improve scorch and ignition, and proc Paracausal Affinity in the second column as your signature park. Paracausal Affinity then buffs ignition damage to keep the loop going. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1491665733&perks=1840239774,2680121939,4293542123,3215448563
+dimwishlist:item=1491665733&perks=1392496348,2680121939,4293542123,3215448563
+dimwishlist:item=1491665733&perks=839105230,2680121939,4293542123,3215448563
+dimwishlist:item=1491665733&perks=3661387068,2680121939,4293542123,3215448563
+
+// Briar's Contempt (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction), Focused Fury 
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine to keep get as many shots with Focused Fury's damage boost as possible, as your second trait column signature perk. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2890082420&perks=1840239774,2680121939,3418782618,2896038713
+dimwishlist:item=2890082420&perks=1392496348,2680121939,3418782618,2896038713
+dimwishlist:item=2890082420&perks=839105230,2680121939,3418782618,2896038713
+dimwishlist:item=2890082420&perks=3661387068,2680121939,3418782618,2896038713
+dimwishlist:item=2890082420&perks=1840239774,2680121939,1523832109,2896038713
+dimwishlist:item=2890082420&perks=1392496348,2680121939,1523832109,2896038713
+dimwishlist:item=2890082420&perks=839105230,2680121939,1523832109,2896038713
+dimwishlist:item=2890082420&perks=3661387068,2680121939,1523832109,2896038713
+
+// Briar's Contempt (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, (Rewind Rounds, Reconstruction, Demolitionist), Frenzy 
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for sustained DPS against bosses in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by up to 10%, and damage against Tormentors and Lucent Hive by 25%, so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. For boss damage, both Rewind Rounds and Reconstruction, as your first trait column support perk, overfill or refill the magazine, or alternatively Demolitionist provides an instant reload to keep damage uptime for Frenzy's 15% damage boost as your second trait column signature perk. The additional 50 Reload Speed from Frenzy is handy, once you do need to reload, too. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2890082420&perks=1840239774,2680121939,3418782618,4104185692
+dimwishlist:item=2890082420&perks=1392496348,2680121939,3418782618,4104185692
+dimwishlist:item=2890082420&perks=839105230,2680121939,3418782618,4104185692
+dimwishlist:item=2890082420&perks=3661387068,2680121939,3418782618,4104185692
+dimwishlist:item=2890082420&perks=1840239774,2680121939,1523832109,4104185692
+dimwishlist:item=2890082420&perks=1392496348,2680121939,1523832109,4104185692
+dimwishlist:item=2890082420&perks=839105230,2680121939,1523832109,4104185692
+dimwishlist:item=2890082420&perks=3661387068,2680121939,1523832109,4104185692
+dimwishlist:item=2890082420&perks=1840239774,2680121939,3523296417,4104185692
+dimwishlist:item=2890082420&perks=1392496348,2680121939,3523296417,4104185692
+dimwishlist:item=2890082420&perks=839105230,2680121939,3523296417,4104185692
+dimwishlist:item=2890082420&perks=3661387068,2680121939,3523296417,4104185692
+
+// Briar's Contempt (Adept) (PvE first-choice roll)
+// (Fluted Barrel, Polygonal Rifling, Arrowhead Brake, Chambered Compensator), Enhanced Battery, Incandescent, Paracausal Affinity 
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for solar synergy in end-game content. The first solar aggressive frame LFR - there's no Veist Stinger origin trait like Fire and Forget has, but Harmonic Resonance can boost damage by 10% so it's still going to be decent for damage. You'll want to be able to control the recoil, so look for stability or recoil direction in a barrel, and Enhanced Battery adds a useful extra shot. Unusually, you can roll Incandescent in the first trait column as your support perk, to synergise with solar subclasses to improve scorch and ignition, and proc Paracausal Affinity in the second column as your signature park. Paracausal Affinity then buffs ignition damage to keep the loop going. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Stability - just go with your preference, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2890082420&perks=1840239774,2680121939,4293542123,3215448563
+dimwishlist:item=2890082420&perks=1392496348,2680121939,4293542123,3215448563
+dimwishlist:item=2890082420&perks=839105230,2680121939,4293542123,3215448563
+dimwishlist:item=2890082420&perks=3661387068,2680121939,4293542123,3215448563
+
+// Caretaker (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, (Tireless Blade, Relentless Strikes), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for solar synergy and minor add clearing in end-game content. Shapeable. This is maybe our first non-Raid sword with significantly different stats - the Charge Rate is 60, by comparison with every other adaptive sword's 20 (except DSC's Bequest), and the Noble Deeds origin perk boosts the charge rate further for buffing Guardians around you. As with most swords, go for as much impact damage as possible, so Jagged Edge as your blade plus the inevitable Impact Masterwork. Swordmaster's Guard is a reliable guard perk to have your heavy attack available quickly. For your support perk in the first trait column, both Tireless Blade and Relentless Strikes work but, once you get Incandescent working (and Ember of Ashes helps) as your signature perk in the second trait column, the ignite kills among adds count towards Tireless Blade kills, so that will be the more efficient way to regain ammo. Recommended MW: Impact, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2508948099&perks=3666208348,269888150,2590710093,4293542123
+dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,4293542123
+
+// Caretaker (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, (Relentless Strikes, Flash Counter), (Surrounded, One For All)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Majors and Bosses in end-game content. Shapeable. This is maybe our first non-Raid sword with significantly different stats - the Charge Rate is 60, by comparison with every other adaptive sword's 20 (except DSC's Bequest), and the Noble Deeds origin perk boosts the charge rate further for buffing Guardians around you. As with most swords, go for as much impact damage as possible, so Jagged Edge as your blade plus the inevitable Impact Masterwork. Swordmaster's Guard is a reliable guard perk to have your heavy attack available quickly. For your support park in the first trait column, Relentless Strikes don't require a kill to return ammo, so is best for chunkier adds and Majors, although Flash Counter's weaken effect is also worth considering. Majors are usually accompanied by minors, so Surrounded (especially when enhanced) or One for All as signature perks in the second trait column can both work well when you need to do damage up close. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) mod|tags: PvE, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2508948099&perks=3666208348,269888150,2590710093,4293542123
+dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,4293542123
+
+// Caretaker (PvE first-choice roll)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Majors and Bosses in end-game content. Shapeable. This is maybe our first non-Raid sword with significantly different stats - the Charge Rate is 60, by comparison with every other adaptive sword's 20 (except DSC's Bequest). As with most swords, go for as much impact damage as possible, so Jagged Edge as your blade plus the inevitable Impact Masterwork. Swordmaster's Guard is a reliable guard perk to have your heavy attack available quickly. For your support park in the first trait column, Relentless Strikes don't require a kill to return ammo, so is best for chunkier adds and Majors, although Flash Counter's weaken effect is also worth considering. Majors are usually accompanied by Minor adds, so Surrounded (especially when enhanced) or One for All as signature perks in the second trait column both work well. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) mod|tags: PvE, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,4049631843
+dimwishlist:item=2508948099&perks=3666208348,269888150,1749209109,3708227201
 
 // Circular Logic (PvE backup roll)
 // Chambered Compensator, (Extended Mag, Appended Mag), Envious Assassin, Target Lock
@@ -611,6 +730,485 @@ dimwishlist:item=2187717691&perks=3661387068,1885400500,972757866,2610012052
 dimwishlist:item=2187717691&perks=3661387068,1968497646,968510818,2610012052
 dimwishlist:item=2187717691&perks=3661387068,1561002382,968510818,2610012052
 dimwishlist:item=2187717691&perks=3661387068,1885400500,968510818,2610012052
+
+// Coronach-22 (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Light Mag), Feeding Frenzy, Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (??? ???): First-choice PvE roll for solar synergy and Minor add-clear in general content. The Suros weapon for season 20 is the Coronach (named after a funeral dirge sung, or played on the bagpipes, in Scotland and Ireland), a solar Adaptive auto rifle with the lowish stats you'd expect from a World drop. The Suros origin trait can help fill in a little Handling and flinch resistance after a reload although it's more commonly thought of as being more PvP-focussed. If you didn't pick up an Ammit with Incandescent from Witch Queen, this gives you access to a similar (if unenhanced) set of perks. Arrowhead Brake as your barrel perk takes Recoil Direction to 100 and adds Handling for snappiness. To fill in the other gunfeel stats, Flared Magwell boosts Stability and Reload Speed, or Light Mag boosts Range and Reload Speed in the mag. As the support perk, in the first trait column, Feeding Frenzy boosts reload speed further after kills - your solar ignition kills from Incandescent will add to the stacks, particularly when paired with Ember of Ashes. Recommended MW: Stability or Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=355382946&perks=839105230,3230963543,2779035018,4293542123
+dimwishlist:item=355382946&perks=839105230,679225683,2779035018,4293542123
+
+// Coronach-22 (PvE first-choice roll)
+// Arrowhead Brake, Alloy Mag, Zen Moment, Target Lock
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (??? ???): First-choice PvE roll for beefier Minor add-clear in general content. The Suros weapon for season 20 is the Coronach (named after a funeral dirge sung, or played on the bagpipes, in Scotland and Ireland), a solar Adaptive auto rifle with the lowish stats you'd expect from a World drop. The Suros origin trait can help fill in a little Handling and flinch resistance after a reload although it's more commonly thought of as being more PvP-focussed. Arrowhead Brake as your barrel perk takes Recoil Direction to 100 and adds Handling for snappiness. This is one of the first ARs with Target Lock, so if you choose that as your second trait column signature perk to build towards, Alloy Mag makes a lot of sense as the magazine perk - you need to be firing continuously until the mag is empty to build damage stacks. Although generally more of a PvP perk, Zen Moment as the support perk helps with the lowish stability to keep shots on target for Target Lock's stacking damage boost. Recommended MW: Stability or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=355382946&perks=839105230,1431678320,2387244414,365154968
+
+// Dimensional Hypotrochoid (PvE first-choice roll)
+// (Hard Launch, Quick Launch, Linear Compensator, Smart Drift Control), High-Velocity Rounds, Envious Assassin, Chain Reaction
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for add clear in end-game activities. Shapeable. The first Compressed Wave Frame power-slot grenade launcher, so there's not really anything to compare against for the stats (so we can say with absolute certainty that the stats are best in class, average and worst in class all at the same time). Blast Radius only affects the initial impact, not the width of the wave so use the barrel to boost velocity and handling. Out of the two options for the mag, High Velocity Rounds is always the better one, improving Reload Speed too. There's an abundance of options for PvE in the first trait column, but the best option is Envious Assassin, passively overflowing the magazine as you get primary and special weapon kills, and then in the second, as this is primarily for add clear, Chain Reaction turns every kill into a stasis explosion, extending the damage radius and adding chunk damage against beefier enemies nearby. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Velocity, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1311684613&perks=981914802,2822142346,968510818,2396489472
+dimwishlist:item=1311684613&perks=3525010810,2822142346,968510818,2396489472
+dimwishlist:item=1311684613&perks=3798852852,2822142346,968510818,2396489472
+dimwishlist:item=1311684613&perks=1441682018,2822142346,968510818,2396489472
+
+// Hand in Hand (PvE first-choice roll)
+// Full Choke, Tactical Mag, Slideshot, One-Two Punch
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for sustained damage to Bosses and Majors in end-game content. The reprised Hand in Hand is the only non-endgame arc aggressive shotgun currently (as at v7.0.0.6) in game but, as usual for a world drop, the stats are on the low side - the New Devrim Kay VIII Foundry Field Tested origin perk should help, but it takes a long time to proc the higher tiers. Building towards One-Two Punch as your signature perk, Full Choke aids pellet spread, as you'll need to hit your target with all of them. Then Tactical Mag adds an extra extra shot (and a bonuses to reload speed and stability which admittedly, you'll not need so much). As your support perk in the first trait column, Slideshot is normally regarded as a PvP-flavoured perk but bypasses the reload to keep the magazine full for One-Two Punch in the second trait column. Recommended MW: Handling, with a damage-boosting (Major, Boss or Taken Spec) mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=664109750&perks=1047830412,106909392,3161816588,2679249093
+
+// Hand in Hand (PvE first-choice roll)
+// (Barrel Shroud, Corkscrew Rifling), Assault Mag, Slideshot, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for burst damage to Majors in end-game content. The reprised Hand in Hand is the only non-endgame arc aggressive shotgun currently (as at v7.0.0.6) in game but, as usual for a world drop, the stats are on the low side - the New Devrim Kay VIII Foundry Field Tested origin perk should help, but it takes a long time to proc the higher tiers. Handling is the standard play for shotguns, so Barrel Shroud or Corkscrew Rifling are your best choices. Assault Mag brings your RPM up to 60 and also boosts stability - maybe not so essential with a slower firing shottie, but still nice. As your support perk in the first trait column, Slideshot is normally regarded as a PvP-flavoured perk but bypasses the reload to keep the magazine full, and you can take advantage of the arc toolkit to proc the second stack of Golden Tricorn as your signature perk in the second trait column to boost damage by 50%, as well as proccing useful arc verbs, like Blinding with Spark of Beacons. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=664109750&perks=1300023272,791862061,3161816588,2610012052
+dimwishlist:item=664109750&perks=4090651448,791862061,3161816588,2610012052
+
+// Harsh Language (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, Envious Assassin, (Destabilizing Rounds, Repulsor Brace)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for void synergy and Minor add clear in end-game content. The reprised Harsh Language is only the second void wave-frame grenade launcher. Lower stats that Deafening Whisper (although the range of stats is pretty compressed) - the New Devrim Kay VIII Foundry Field Tested origin perk should help, but it takes a long time to proc the higher tiers. You start out with 100 blast radius - not that it makes any difference as it's the dump stat for wave frame GLs - so you can use the barrel and mag perks for velocity and handling. Quick Launch is ideal, and Smart Drift Control works as a good alternate, and out of the two choices, High-Velocity Rounds is the mag perk to choose. the standout support perk in the first trait column is Envious Assassin - you can get up to three shots in the barrel for killing adds with your primary or power weapon. You have a choice of two signature perks in the second trait column to help with add clear - Destabilising Rounds is the more offensive option for add clear or Repulsor Brace for tanking damage in a crowd. Recommended MW: Handling or Velocity, with a damage-boosting (Minor or Taken Spec) mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,2048641572
+dimwishlist:item=1606497639&perks=3798852852,2822142346,968510818,2048641572
+dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,776531651
+dimwishlist:item=1606497639&perks=3798852852,2822142346,968510818,776531651
+
+// Harsh Language (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, (Envious Assassin, Field Prep, Threat Detector, Stats for All), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for void synergy and burst damage to Majors in end-game content. The reprised Harsh Language is only the second void wave-frame grenade launcher. Lower stats that Deafening Whisper (although the range of stats is pretty compressed) - the New Devrim Kay VIII Foundry Field Tested origin perk should help, but it takes a long time to proc the higher tiers. You start out with 100 blast radius - not that it makes any difference as it's the dump stat for wave frame GLs - so you can use the barrel and mag perks for velocity and handling. Quick Launch is ideal, and Smart Drift Control works as a good alternate, and out of the two choices, High-Velocity Rounds is the mag perk to choose. In the first trait column Envious Assassin can give you up to three shots in the barrel for killing adds with your primary or power weapon, but Field Prep, Threat Detector or Stats for All are all worth considering as a support perk. Void subclasses provide a great toolkit to trigger the second stack of Golden Tricorn for 50% bonus damage, in the second trait column for your signature perk. Recommended MW: Handling or Velocity, with a damage-boosting (Major or Taken Spec) mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1606497639&perks=3525010810,2822142346,968510818,2610012052
+dimwishlist:item=1606497639&perks=3798852852,2822142346,968510818,2610012052
+dimwishlist:item=1606497639&perks=3525010810,2822142346,2869569095,2610012052
+dimwishlist:item=1606497639&perks=3798852852,2822142346,2869569095,2610012052
+dimwishlist:item=1606497639&perks=3525010810,2822142346,4071163871,2610012052
+dimwishlist:item=1606497639&perks=3798852852,2822142346,4071163871,2610012052
+dimwishlist:item=1606497639&perks=3525010810,2822142346,1583705720,2610012052
+dimwishlist:item=1606497639&perks=3798852852,2822142346,1583705720,2610012052
+
+// Irukandji (PvE first-choice roll)
+// (Arrowhead Brake, Polygonal Rifling), (Steady Rounds, Tactical Mag, Flared Magwell), (Envious Assassing, Fourth Time's The Charm, Rapid Hit), (Firing Line, Focused Fury)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for Major and Boss damage in a fireteam in end-game content. The Season 20 Veist weapon is a rapid-fire sniper rifle with as-expected lowish stats, as a World drop weapon. Irukandji (a small, rare, highly venomous jellyfish from Australia, because of course it would be) does benefit from the Veist Stinger origin trait which is occasionally useful even in its nerfed state. Remember that as at Season 20, this will do less base damage than an equivalent kinetic weapon so, to be competitive, you'll need the parks to fall your way. The main issue you'll find is with keeping the reticule on a boss's crit spot - you'll need to boost Recoil Direction and Stability to make this easier, so Arrowhead Brake or Polygonal Rifling are your barrel perk choices, and Flared Magwell, Tactical Mag or even Steady Rounds (you're not likely to be outside of the damage falloff distance, even with the range penalty) should be your mag perk options. As your first trait column support perk, Envious Assassin overflows your magazine passively with primary and power weapon kills, Fourth Time's The Charm works extends the magazine if you hit crits consistently, or Rapid Hit improves stability (and reload speed) as you fire to keep your reticule steadier. In the signature perk, second column trait, Firing Line is more forgiving of an occasional missed shot when you're in a fireteam but, if you're flying solo, Focused Fury will boost damage in the bottom half of your magazine if you can hit your crits consistently. Recommended MW: Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-PvE-MajorSpec, BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2673925403&perks=839105230,3177308360,968510818,1771339417
+dimwishlist:item=2673925403&perks=1392496348,3177308360,968510818,1771339417
+dimwishlist:item=2673925403&perks=839105230,106909392,968510818,1771339417
+dimwishlist:item=2673925403&perks=1392496348,106909392,968510818,1771339417
+dimwishlist:item=2673925403&perks=839105230,3230963543,968510818,1771339417
+dimwishlist:item=2673925403&perks=1392496348,3230963543,968510818,1771339417
+dimwishlist:item=2673925403&perks=839105230,3177308360,1354429876,1771339417
+dimwishlist:item=2673925403&perks=1392496348,3177308360,1354429876,1771339417
+dimwishlist:item=2673925403&perks=839105230,106909392,1354429876,1771339417
+dimwishlist:item=2673925403&perks=1392496348,106909392,1354429876,1771339417
+dimwishlist:item=2673925403&perks=839105230,3230963543,1354429876,1771339417
+dimwishlist:item=2673925403&perks=1392496348,3230963543,1354429876,1771339417
+dimwishlist:item=2673925403&perks=839105230,3177308360,968510818,2896038713
+dimwishlist:item=2673925403&perks=1392496348,3177308360,968510818,2896038713
+dimwishlist:item=2673925403&perks=839105230,106909392,968510818,2896038713
+dimwishlist:item=2673925403&perks=1392496348,106909392,968510818,2896038713
+dimwishlist:item=2673925403&perks=839105230,3230963543,968510818,2896038713
+dimwishlist:item=2673925403&perks=1392496348,3230963543,968510818,2896038713
+dimwishlist:item=2673925403&perks=839105230,3177308360,1354429876,2896038713
+dimwishlist:item=2673925403&perks=1392496348,3177308360,1354429876,2896038713
+dimwishlist:item=2673925403&perks=839105230,106909392,1354429876,2896038713
+dimwishlist:item=2673925403&perks=1392496348,106909392,1354429876,2896038713
+dimwishlist:item=2673925403&perks=839105230,3230963543,1354429876,2896038713
+dimwishlist:item=2673925403&perks=1392496348,3230963543,1354429876,2896038713
+
+// Iterative Loop (PvE first-choice roll)
+// (Arrowhead Brake, Fluted Barrel, Polygonal Rifling), (Particle Repeater, Accelerated Coils), Compulsive Reloader, Voltshot
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Arc synergy and burst damage. Seeing as fusion rifles apply the highest Jolt tick damage of any special weapon, it would be rude not to pick or shape a roll. Rapid fire fusions need a fair bit of control with nine bolts being fired, so Arrowhead Break takes the recoil direction to 77, or up the stability through Fluted Barrel or Polygonal Rifling. In the battery, there's nothing to help speed up reloading, so Particle Repeater adds more stability, or Accelerated Coils speeds up charge time. Compulsive Reloader and a Reload Speed Masterwork boosts reload to 100 at the top half of the mag, so your reloads after a kill to proc Voltshot should be as snappy as it's possible to get. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with rapid kills - really fun for PvE. Recommended MW: Reload Speed or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=1289796511&perks=839105230,3868766766,671806388,2173046394
+dimwishlist:item=1289796511&perks=1840239774,3868766766,671806388,2173046394
+dimwishlist:item=1289796511&perks=1392496348,3868766766,671806388,2173046394
+dimwishlist:item=1289796511&perks=839105230,689005463,671806388,2173046394
+dimwishlist:item=1289796511&perks=1840239774,689005463,671806388,2173046394
+dimwishlist:item=1289796511&perks=1392496348,689005463,671806388,2173046394
+
+// Koraxis's Distress (PvE first-choice roll)
+// (Linear Compensator, Quick Launch), Spike Grenades, Chain Reactions, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand subclass synergy for Minor add-clear in end-game content. Most Raid weapons boast excellent stat packages, and Koraxis's Distress is no different. Rapid fire power grenade launchers are more suited to add clear, so to lean into that role, Linear Compensator adds a little extra Blast Radius (let's face it, you'll want to catch as many adds as possible in an explosion), or Quick Launch just goes all in for velocity in the barrel. If you do catch a chunkier enemy, Spike Grenades is nice for a little extra impact damage, and then the unique combination of Chain Reaction as your first trait column support perk - let's face it, it's unusual to have it as a support perk - and Hatchling as the signature perk in the second trait column. Chain Reaction kills count towards proccing Hatchling, so you should see plenty of Threadlings spawning. Explosions and a small army of Threadlings together should clear a room pretty fast. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Blast Radius or Velocity - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2972949637&perks=1441682018,3301904089,2396489472,831391274
+dimwishlist:item=2972949637&perks=3525010810,3301904089,2396489472,831391274
+
+// Koraxis's Distress (PvE first-choice roll)
+// Volatile Launch, High-Explosive Ordnance, Chain Reaction, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand subclass synergy for Minor add-clear in end-game content. Most Raid weapons boast excellent stat packages, and Koraxis's Distress is no different. Rapid fire power grenade launchers are more suited to add clear, so to lean into that role, you'll want the Blast Radius as large as possible - Volatile Launch and High-Explosive Ordnance add 25 and a masterwork adds another 10. Then the unique combination of Chain Reaction as your first trait column support perk - let's face it, it's unusual to have it as a support perk - and Hatchling as the signature perk in the second trait column. Chain Reaction kills count towards proccing Hatchling, so you should see plenty of Threadlings spawning. Explosions and a small army of Threadlings together should clear a room pretty fast. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Blast Radius, with a Backup Mag or damage-boosting (Minor or Taken Spec) mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=2972949637&perks=1478423395,1380253176,2396489472,831391274
+
+// Koraxis's Distress (Adept) (PvE first-choice roll)
+// (Linear Compensator, Quick Launch), Spike Grenades, Chain Reaction, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand subclass synergy for Minor add-clear in end-game content. Most Raid weapons boast excellent stat packages, and Koraxis's Distress is no different. Rapid fire power grenade launchers are more suited to add clear, so to lean into that role, Linear Compensator adds a little extra Blast Radius (let's face it, you'll want to catch as many adds as possible in an explosion), or Quick Launch just goes all in for velocity in the barrel. If you do catch a chunkier enemy, Spike Grenades is nice for a little extra impact damage, and then the unique combination of Chain Reaction as your first trait column support perk - let's face it, it's unusual to have it as a support perk - and Hatchling as the signature perk in the second trait column. Chain Reaction kills count towards proccing Hatchling, so you should see plenty of Threadlings spawning. Explosions and a small army of Threadlings together should clear a room pretty fast. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Blast Radius or Velocity - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=495442100&perks=1441682018,3301904089,2396489472,831391274
+dimwishlist:item=495442100&perks=3525010810,3301904089,2396489472,831391274
+
+// Koraxis's Distress (Adept) (PvE first-choice roll)
+// Volatile Launch, High-Explosive Ordnance, Chain Reaction, Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand subclass synergy for Minor add-clear in end-game content. Most Raid weapons boast excellent stat packages, and Koraxis's Distress is no different. Rapid fire power grenade launchers are more suited to add clear, so to lean into that role, you'll want the Blast Radius as large as possible - Volatile Launch and High-Explosive Ordnance add 25 and a masterwork adds another 10. Then the unique combination of Chain Reaction as your first trait column support perk - let's face it, it's unusual to have it as a support perk - and Hatchling as the signature perk in the second trait column. Chain Reaction kills count towards proccing Hatchling, so you should see plenty of Threadlings spawning. Explosions and a small army of Threadlings together should clear a room pretty fast. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Blast Radius, with a Backup Mag or damage-boosting (Minor or Taken Spec) mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=495442100&perks=1478423395,1380253176,2396489472,831391274
+
+// Marsilion-C (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), Augmented Drum, Field Prep, Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for Major and Boss damage in end-game content. Shapeable. The Hakke foundry for Season 20 is Marsilion-C (named after the King of Muslim Spain in the late 700s CE, if you're asking), a rapid-fire, solar power grenade launcher with decent stats and which is very usable if you don't already have existing options. For major or boss damage, if you look build into Explosive Light as your signature perk in the second trait column then, as your blast radius is already set to 100, you can concentrate on Velocity in your Barrel - Quick Launch or Smart Drift Control. With 100 Blast Radius, Spike Grenades will be much less effective, so Augmented Drum is the better mag perk, as this synergises with Field Prep as your support perk in the first trait column, for more ammo reserves and faster reloads. The Enhanced Explosive Light perk grants an extra stack of damage over the standard version, so you'll have a magazine capable of using all seven stacks before reloading! Recommended MW: Velocity, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-PvE-MajorSpec, BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=867154247&perks=3525010810,1771897777,2869569095,3194351027
+dimwishlist:item=867154247&perks=3798852852,1771897777,2869569095,3194351027
+
+// Marsilion-C (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), Spike Grenades, Envious Assassin, Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for Major and Boss damage in end-game content. Shapeable. The Hakke foundry for Season 20 is Marsilion-C (named after the King of Muslim Spain in the late 700s CE, if you're asking), a rapid-fire, solar power grenade launcher with decent stats and which is very usable if you don't already have existing options. For major or boss damage, if you look build into Explosive Light as your signature perk in the second trait column then, as your blast radius is already set to 100, you can concentrate on Velocity in your Barrel - Quick Launch or Smart Drift Control and, even with 100 Blast Radius, Spike Grenades will still provide some extra impact damage as your mag perk. Envious Assassin overflows the magazine from primary and special weapon skills so you can take full advantage of the Enhanced Explosive Light's extra stack of damage over the standard version and have a magazine capable of using all seven stacks before reloading! Recommended MW: Velocity, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=867154247&perks=3525010810,3301904089,968510818,3194351027
+dimwishlist:item=867154247&perks=3798852852,3301904089,968510818,3194351027
+
+// Marsilion-C (PvE first-choice roll)
+// (Volatile Launch, Confined Launch), High-Explosive Ordnance, (Envious Assassin, Field Prep), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. (??? ???): First-choice PvE roll for solar synergy and Minor add-clear in end-game content. Shapeable. The Hakke foundry for Season 20 is Marsilion-C (named after the King of Muslim Spain in the late 700s CE, if you're asking), a rapid-fire, solar power grenade launcher with decent stats and which is very usable if you don't already have existing options. If you looking for a fun add-clear weapon for bulkier minors, with an eye towards Incandescent as your signature perk in the second trait slot, then maximise your Blast Radius with your barrel and mag perks, and masterwork - Volatile Launch or Confined Launch with High-Explosive Ordnance. Envious Assassin overflows the magazine from primary and special weapon kills, or Field Prep adds bonus reserves and reload speed as you options for your support park in the first trait column. Both add utility to Incandescent, and you can add Ember of Ashes for more scorch stacks and faster ignitions. Recommended MW: Blast Radius, with a damage-boosting (Minor, Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=867154247&perks=1478423395,1380253176,968510818,4293542123
+dimwishlist:item=867154247&perks=1844523823,1380253176,968510818,4293542123
+dimwishlist:item=867154247&perks=1478423395,1380253176,2869569095,4293542123
+dimwishlist:item=867154247&perks=1844523823,1380253176,2869569095,4293542123
+
+// Mykel's Reverence (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Alloy Mag), Rewind Rounds, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Minor add-clearing in end-game content. Most Raid weapons boast stellar stat packages, and Mykel's Reverence is no different - this is the best rapid-fire sidearm. With a Recoil Direction of 96, you can spec into your preference of Range, Stability and/or Reload Speed in the barrel and magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with Frenzy as the second column signature perk to effectively extend the magazine and keep the 15% damage boost going. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=231031173&perks=1482024992,3230963543,3418782618,4104185692
+dimwishlist:item=231031173&perks=1392496348,3230963543,3418782618,4104185692
+dimwishlist:item=231031173&perks=3250034553,3230963543,3418782618,4104185692
+dimwishlist:item=231031173&perks=1482024992,1431678320,3418782618,4104185692
+dimwishlist:item=231031173&perks=1392496348,1431678320,3418782618,4104185692
+dimwishlist:item=231031173&perks=3250034553,1431678320,3418782618,4104185692
+
+// Mykel's Reverence (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Alloy Mag), Rewind Rounds, Paracasual Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Darkness subclass synergy for Minor add-clearing in end-game content. Most Raid weapons boast stellar stat packages, and Mykel's Reverence is no different - this is the best rapid-fire sidearm. With a Recoil Direction of 96, you can spec into your preference of Range, Stability and/or Reload Speed in the barrel and magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with Paracausal Affinity for a 20% damage boost following a kill from any Darkness damage source. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Reload Speed, Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=231031173&perks=1482024992,3230963543,3418782618,3215448563
+dimwishlist:item=231031173&perks=1392496348,3230963543,3418782618,3215448563
+dimwishlist:item=231031173&perks=3250034553,3230963543,3418782618,3215448563
+dimwishlist:item=231031173&perks=1482024992,1431678320,3418782618,3215448563
+dimwishlist:item=231031173&perks=1392496348,1431678320,3418782618,3215448563
+dimwishlist:item=231031173&perks=3250034553,1431678320,3418782618,3215448563
+
+// Mykel's Reverence (Adept) (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Alloy Mag), Rewind Rounds, Frenzy
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Minor add-clearing in end-game content. Most Raid weapons boast stellar stat packages, and Mykel's Reverence is no different - this is the best rapid-fire sidearm. With a Recoil Direction of 96, you can spec into your preference of Range, Stability and/or Reload Speed in the barrel and magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with Frenzy as the second column signature perk to effectively extend the magazine and keep the 15% damage boost going. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Reload Speed, Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1986287028&perks=1482024992,3230963543,3418782618,4104185692
+dimwishlist:item=1986287028&perks=1392496348,3230963543,3418782618,4104185692
+dimwishlist:item=1986287028&perks=3250034553,3230963543,3418782618,4104185692
+dimwishlist:item=1986287028&perks=1482024992,1431678320,3418782618,4104185692
+dimwishlist:item=1986287028&perks=1392496348,1431678320,3418782618,4104185692
+dimwishlist:item=1986287028&perks=3250034553,1431678320,3418782618,4104185692
+
+// Mykel's Reverence (Adept) (PvE first-choice roll)
+// (Smallbore, Polygonal Rifling, Hammer-Forged Rifling), (Flared Magwell, Ricochet Rounds), Rewind Rounds, Paracasual Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Darkness subclass synergy for Minor add-clearing in end-game content. Most Raid weapons boast stellar stat packages, and Mykel's Reverence is no different - this is the best rapid-fire sidearm. With a Recoil Direction of 96, you can spec into your preference of Range and/or Stability in the barrel and magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with Paracausal Affinity for a 20% damage boost following a kill from any Darkness damage source. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Reload Speed, Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1986287028&perks=1482024992,3230963543,3418782618,3215448563
+dimwishlist:item=1986287028&perks=1392496348,3230963543,3418782618,3215448563
+dimwishlist:item=1986287028&perks=3250034553,3230963543,3418782618,3215448563
+dimwishlist:item=1986287028&perks=1482024992,1885400500,3418782618,3215448563
+dimwishlist:item=1986287028&perks=1392496348,1885400500,3418782618,3215448563
+dimwishlist:item=1986287028&perks=3250034553,1885400500,3418782618,3215448563
+
+// Nasreddin (PvE first-choice roll)
+// Jagged Edge, Swordmaster's Guard, Relentless Strikes, 
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for damage to Bosses in end-game content. First thing to say about the reprised Nasreddin (named for a legendary trickster figure in Muslin folklore) is that if you already have a decent arc sword, you can give this a miss, as there's nothing that really makes it stand out except, maybe, for a slightly higher base Impact stat, and the new Devrim Kay VIII Foundry origin trait which should make the heavy attack rechage rate a little faster, but it takes a long time to proc the higher tiers. For newer Guardians, the usual recommendations of Jagged Edge as the blade perk for additinal damage, Swordmaster's Guard for the guard perk to get the heavy attack up as fast as possible. Then Relentless Strikes as your support perk in the first trait column, which works well to return ammo against all enemies, and either Whirlwind Blade or Surrounded, to boost damage, for your signature perk in the second. Recommended MW: Impact, with a damage-boosting (Major, Boss or Taken Spec) mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3913600130
+dimwishlist:item=1456017061&perks=3666208348,269888150,1749209109,3708227201
+
+// Nessa's Oblation (PvE first-choice roll)
+// (Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Assault Mag, (Reconstruction, Fourth Time's the Charm), (Frenzy, Vorpal Weapon, Focused Fury)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for burst damage against Majors in end-game content. While slug shotguns aren't the burst damage meta they once were, they can still deal decent damage when the occasion demands. For the barrel, stability is a bit more important than normal, to keep your reticule on target, but Handling is still useful too. Assault Mag increases RPM to 70 to increase your damage output. As your first trait column support perk, Reconstruction or Fourth Time's The Charm both work to extend the magazine during a damage window and, for your second column signature perk, take your choice of Frenzy, Vorpal Weapon or Focused Fury to boost damage output with. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=135029084&perks=1482024992,791862061,1523832109,4104185692
+dimwishlist:item=135029084&perks=4090651448,791862061,1523832109,4104185692
+dimwishlist:item=135029084&perks=839105230,791862061,1523832109,4104185692
+dimwishlist:item=135029084&perks=1840239774,791862061,1523832109,4104185692
+dimwishlist:item=135029084&perks=1482024992,791862061,1354429876,4104185692
+dimwishlist:item=135029084&perks=4090651448,791862061,1354429876,4104185692
+dimwishlist:item=135029084&perks=839105230,791862061,1354429876,4104185692
+dimwishlist:item=135029084&perks=1840239774,791862061,1354429876,4104185692
+dimwishlist:item=135029084&perks=1482024992,791862061,1523832109,1546637391
+dimwishlist:item=135029084&perks=4090651448,791862061,1523832109,1546637391
+dimwishlist:item=135029084&perks=839105230,791862061,1523832109,1546637391
+dimwishlist:item=135029084&perks=1840239774,791862061,1523832109,1546637391
+dimwishlist:item=135029084&perks=1482024992,791862061,1354429876,1546637391
+dimwishlist:item=135029084&perks=4090651448,791862061,1354429876,1546637391
+dimwishlist:item=135029084&perks=839105230,791862061,1354429876,1546637391
+dimwishlist:item=135029084&perks=1840239774,791862061,1354429876,1546637391
+dimwishlist:item=135029084&perks=1482024992,791862061,1523832109,2896038713
+dimwishlist:item=135029084&perks=4090651448,791862061,1523832109,2896038713
+dimwishlist:item=135029084&perks=839105230,791862061,1523832109,2896038713
+dimwishlist:item=135029084&perks=1840239774,791862061,1523832109,2896038713
+dimwishlist:item=135029084&perks=1482024992,791862061,1354429876,2896038713
+dimwishlist:item=135029084&perks=4090651448,791862061,1354429876,2896038713
+dimwishlist:item=135029084&perks=839105230,791862061,1354429876,2896038713
+dimwishlist:item=135029084&perks=1840239774,791862061,1354429876,2896038713
+
+// Nessa's Oblation (PvE first-choice roll)
+// (Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Tactical Mag, Demolitionist, Paracausal Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Light subclass synergy against Majors in end-game content. While slug shotguns aren't the burst damage meta they once were, they can still deal decent damage when the occasion demands. For the barrel, stability is a bit more important than normal, to keep your reticule on target, but Handling is still useful too. Tactical Mag boosts your mag size, stability and reload speed, so is a bit of a no-brainer for the magazine perk. As your first trait column support perk, Demolitionist means grenades (remember, it's 20% grenade energy for special weapon kills), which means you should have an easy way to proc Paracausal Affinity for 20% bonus damage for 6s to clear beefier Minors, and Majors. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=135029084&perks=1482024992,106909392,3523296417,3215448563
+dimwishlist:item=135029084&perks=4090651448,106909392,3523296417,3215448563
+dimwishlist:item=135029084&perks=839105230,106909392,3523296417,3215448563
+dimwishlist:item=135029084&perks=1840239774,106909392,3523296417,3215448563
+
+// Nessa's Oblation (PvE first-choice roll)
+// (Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Tactical Mag, Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Void subclass synergy in end-game content. While slug shotguns aren't the burst damage meta they once were, they can still be effective to control beefier minors, and majors. For the barrel, stability is a bit more important than normal, to keep your reticule on target, but Handling is still useful too. Tactical Mag boosts your mag size, stability and reload speed, so is a bit of a no-brainer for the magazine perk. It's unusual to be able to roll two Void perks, so the opportunity to roll Repulsor Brace in the first trait column as your support perk, for damage reduction void overshields, and Destabilizing Rounds as your signature perk in the second to spread volatility on a kill is difficult to pass up. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=135029084&perks=1482024992,106909392,776531651,2048641572
+dimwishlist:item=135029084&perks=4090651448,106909392,776531651,2048641572
+dimwishlist:item=135029084&perks=839105230,106909392,776531651,2048641572
+dimwishlist:item=135029084&perks=1840239774,106909392,776531651,2048641572
+
+// Nessa's Oblation (Adept) (PvE first-choice roll)
+// (Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Assault Mag, (Reconstruction, Fourth Time's the Charm), (Frenzy, Vorpal Weapon, Focused Fury)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for burst damage against Majors in end-game content. While slug shotguns aren't the burst damage meta they once were, they can still deal decent damage when the occasion demands. For the barrel, stability is a bit more important than normal, to keep your reticule on target, but Handling is still useful too. Assault Mag increases RPM to 70 to increase your damage output. As your first trait column support perk, Reconstruction or Fourth Time's The Charm both work to extend the magazine during a damage window and, for your second column signature perk, take your choice of Frenzy, Vorpal Weapon or Focused Fury to boost damage output with. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Adept Big Ones or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=522366885&perks=1482024992,791862061,1523832109,4104185692
+dimwishlist:item=522366885&perks=4090651448,791862061,1523832109,4104185692
+dimwishlist:item=522366885&perks=839105230,791862061,1523832109,4104185692
+dimwishlist:item=522366885&perks=1840239774,791862061,1523832109,4104185692
+dimwishlist:item=522366885&perks=1482024992,791862061,1354429876,4104185692
+dimwishlist:item=522366885&perks=4090651448,791862061,1354429876,4104185692
+dimwishlist:item=522366885&perks=839105230,791862061,1354429876,4104185692
+dimwishlist:item=522366885&perks=1840239774,791862061,1354429876,4104185692
+dimwishlist:item=522366885&perks=1482024992,791862061,1523832109,1546637391
+dimwishlist:item=522366885&perks=4090651448,791862061,1523832109,1546637391
+dimwishlist:item=522366885&perks=839105230,791862061,1523832109,1546637391
+dimwishlist:item=522366885&perks=1840239774,791862061,1523832109,1546637391
+dimwishlist:item=522366885&perks=1482024992,791862061,1354429876,1546637391
+dimwishlist:item=522366885&perks=4090651448,791862061,1354429876,1546637391
+dimwishlist:item=522366885&perks=839105230,791862061,1354429876,1546637391
+dimwishlist:item=522366885&perks=1840239774,791862061,1354429876,1546637391
+dimwishlist:item=522366885&perks=1482024992,791862061,1523832109,2896038713
+dimwishlist:item=522366885&perks=4090651448,791862061,1523832109,2896038713
+dimwishlist:item=522366885&perks=839105230,791862061,1523832109,2896038713
+dimwishlist:item=522366885&perks=1840239774,791862061,1523832109,2896038713
+dimwishlist:item=522366885&perks=1482024992,791862061,1354429876,2896038713
+dimwishlist:item=522366885&perks=4090651448,791862061,1354429876,2896038713
+dimwishlist:item=522366885&perks=839105230,791862061,1354429876,2896038713
+dimwishlist:item=522366885&perks=1840239774,791862061,1354429876,2896038713
+
+// Nessa's Oblation (Adept) (PvE first-choice roll)
+// (Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Tactical Mag, Demolitionist, Paracausal Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Light subclass synergy against Majors in end-game content. While slug shotguns aren't the burst damage meta they once were, they can still deal decent damage when the occasion demands. For the barrel, stability is a bit more important than normal, to keep your reticule on target, but Handling is still useful too. Tactical Mag boosts your mag size, stability and reload speed, so is a bit of a no-brainer for the magazine perk. As your first trait column support perk, Demolitionist means grenades (remember, it's 20% grenade energy for special weapon kills), which means you should have an easy way to proc Paracausal Affinity for 20% bonus damage for 6s to clear beefier Minors, and Majors. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Adept Big Ones or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=522366885&perks=1482024992,106909392,3523296417,3215448563
+dimwishlist:item=522366885&perks=4090651448,106909392,3523296417,3215448563
+dimwishlist:item=522366885&perks=839105230,106909392,3523296417,3215448563
+dimwishlist:item=522366885&perks=1840239774,106909392,3523296417,3215448563
+
+// Nessa's Oblation (Adept) (PvE first-choice roll)
+// (Smallbore, Corkscrew Rifling, Fluted Barrel, Arrowhead Brake), Tactical Mag, FRepulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Void subclass synergy in end-game content. While slug shotguns aren't the burst damage meta they once were, they can still be effective to control beefier minors, and majors. For the barrel, stability is a bit more important than normal, to keep your reticule on target, but Handling is still useful too. Tactical Mag boosts your mag size, stability and reload speed, so is a bit of a no-brainer for the magazine perk. It's unusual to be able to roll two Void perks, so the opportunity to roll Repulsor Brace in the first trait column as your support perk, for damage reduction void overshields, and Destabilizing Rounds as your signature perk in the second to spread volatility on a kill is difficult to pass up. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Recommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Adept Big Ones or Taken Spec) or Backup Mag mod|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=522366885&perks=1482024992,106909392,776531651,2048641572
+dimwishlist:item=522366885&perks=4090651448,106909392,776531651,2048641572
+dimwishlist:item=522366885&perks=839105230,106909392,776531651,2048641572
+dimwishlist:item=522366885&perks=1840239774,106909392,776531651,2048641572
+
+// Perpetualis (PvE first-choice roll)
+// (Extended Barrel, Smallbore), Tactical Mag, (Keep Away, Zen Moment), Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add clear in end-game activities. Shapeable. This is the easier to get Strand adaptive auto-rifle for Season of Defiance, if you're unable to get into the Root of Nightmares Raid. The stats are decent, although both stability and handling are a little below par, and the recoil direction could maybe do with a little help, although the Noble Deeds origin perk can help out with the handling (and boost reload speed too). Extended Barrel or Smallbore are your best barrel choices, and Tactical Mag is the best of the mag perks. In the first trait column, there aren't many support perks that help in PvE - Keep Away is the pick of a limited budget, or possibly the reworked Zen Moment. For your second trait column signature perk, Golden Tricorn is unique (as at v7.0.0.6, anyway) on a Strand auto rifle and the second stack isn't too difficult to proc by either using a grapple melee or shooting a Tangle, for a massive 50% damage boost for 10s. Recommended MW: Range or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=392008588&perks=1467527085,106909392,3619207468,2610012052
+dimwishlist:item=392008588&perks=1482024992,106909392,3619207468,2610012052
+dimwishlist:item=392008588&perks=1467527085,106909392,2387244414,2610012052
+dimwishlist:item=392008588&perks=1482024992,106909392,2387244414,261001205
+
+// Perpetualis (PvE first-choice roll)
+// (Extended Barrel, Smallbore), Tactical Mag, (Keep Away, Zen Moment), Threadling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Strand synergy in general activities. Shapeable. This is the easier to get Strand adaptive auto-rifle for Season of Defiance, if you're unable to get into the Root of Nightmares Raid. The stats are decent, although both stability and handling are a little below par, and the recoil direction could maybe do with a little help, although the Noble Deeds origin perk can help out with the handling (and reload speed too). Extended Barrel or Smallbore are your best barrel choices, and Tactical Mag is the best of the mag perks. In the first trait column, there aren't many support perks that help in PvE - Keep Away is the pick of a limited budget, or possibly the reworked Zen Moment. For your second trait column signature perk, you have Hatchling to work with Threadling-boosting fragments. Recommended MW: Range or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=392008588&perks=1467527085,106909392,3619207468,831391274
+dimwishlist:item=392008588&perks=1482024992,106909392,3619207468,831391274
+dimwishlist:item=392008588&perks=1467527085,106909392,2387244414,831391274
+dimwishlist:item=392008588&perks=1482024992,106909392,2387244414,831391274
+
+// Phyllotactic Spiral (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Flared Magwell, Light Mag), Compulsive Reloader, Voltshot
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for general content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (you can never go wrong with additional handling and stability). With one eye to Voltshot in the final column, you want reload speed as high as possible so Flared Magwell or Light Mag, and Compulsive Reloader or Keep Away with a Reload Speed Masterwork should get Voltshot procced and ready to use as quickly as possible after a kill. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3635821806&perks=1840239774,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=839105230,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=4090651448,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=1482024992,3230963543,671806388,2173046394
+dimwishlist:item=3635821806&perks=1840239774,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=839105230,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=4090651448,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=1482024992,679225683,671806388,2173046394
+dimwishlist:item=3635821806&perks=1840239774,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=839105230,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=4090651448,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=1482024992,3230963543,3619207468,2173046394
+dimwishlist:item=3635821806&perks=1840239774,679225683,3619207468,2173046394
+dimwishlist:item=3635821806&perks=839105230,679225683,3619207468,2173046394
+dimwishlist:item=3635821806&perks=4090651448,679225683,3619207468,2173046394
+dimwishlist:item=3635821806&perks=1482024992,679225683,3619207468,2173046394
+
+// Phyllotactic Spiral (PvE first-choice roll)
+// (Fluted Barrel, Arrowhead Brake, Corkscrew Rifling, Smallbore), (Armor-Piercing Rounds, High-Calibre Rounds, Ricochet Rounds), Keep Away, Frenzy
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for end-game content. Shapeable. In-band stats for a high-impact pulse rifle - there's already plenty of range so use your barrel to fill out your preferred gunfeel stats (you can never go wrong with additional handling and stability). Any of the combat effect rounds add utility in the mag and then for end-game activities you'll likely be staying as far away from all the hurty stuff as possible, so should be proccing Keep Away and then Frenzy provides both gunfeel and a solid 15% damage boosts. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3635821806&perks=1840239774,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=839105230,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=4090651448,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1482024992,1968497646,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1840239774,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=839105230,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=4090651448,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1482024992,1561002382,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1840239774,1885400500,3619207468,4104185692
+dimwishlist:item=3635821806&perks=839105230,1885400500,3619207468,4104185692
+dimwishlist:item=3635821806&perks=4090651448,1885400500,3619207468,4104185692
+dimwishlist:item=3635821806&perks=1482024992,1885400500,3619207468,4104185692
+
+// Prodigal Return (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), Disorienting Grenades, Envious Assassin, Disruption Break
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for add suppression in end-game activities. Shapeable. This drops into a very competitive field of arc lightweight grenade launchers, although it does have decent stats except for handling. The usual play is to look for velocity, to get the grenade to its target as fast as possible, and handling, for speedy swaps, and it'll be no different this time. Fortunately, the Noble Deeds origin trait helps with Handling (and Reload Speed), so fits in really well. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. For add control, Disorienting Grenades give you breathing space in a firefight. Pair that with Envious Assassin, which can give you up to three in the barrel(!) as your support perk in the first trait column, and Disruption Break, for 50% bonus kinetic damage to burst down chunkier red bar Minors and the occasional Major while they stumble around as the signature perk, and you probably have the perfect add control breach-loading GL. Recommended MW: Velocity, with a Quick Access Sling (for faster swaps) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=268260373&perks=3525010810,3032599245,968510818,1683379515
+dimwishlist:item=268260373&perks=1441682018,3032599245,968510818,1683379515
+
+// Prodigal Return (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), High-Velocity Rounds, (Threadt Detector, Field Prep), Voltshot
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Arc Synergy in general activities. Shapeable. This drops into a very competitive field of arc lightweight grenade launchers, although it does have decent stats except for handling. The usual play is to look for velocity, to get the grenade to its target as fast as possible, and handling, for speedy swaps, and it'll be no different this time. Fortunately, the Noble Deeds origin trait helps with Handling and Reload Speed, so fits in really well. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. With one eye towards building a weapon around Voltshot (this is the first GL with Voltshot as an option, although the jury is still out on whether that's a good idea or not) as the signature perk in the second trait column, we'll need to make the reload as fast as possible. High Velocity Rounds boosts reload speed as well as velocity. Then Threat Detector or Field Prep as your support perk in the first trait column helps too. Using Spark of Beacons gives you arc Blinding on a kill, which should make the follow-up shot after a kill, to get your Jolt damage tick, easier to hit. Recommended MW: Reload Speed, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=268260373&perks=3525010810,2822142346,2869569095,2173046394
+dimwishlist:item=268260373&perks=1441682018,2822142346,2869569095,2173046394
+dimwishlist:item=268260373&perks=3525010810,2822142346,4071163871,2173046394
+dimwishlist:item=268260373&perks=1441682018,2822142346,4071163871,2173046394
+
+// Raconteur (PvE first-choice roll)
+// Elastic String, Compact Arrow Shaft, Archer's Tempo, Explosive Head
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for end-game activities. Shapeable. Our first Stasis Precision Bow, with competitive stats by comparison with the other kinetic slot options, although Accuracy is the lowest of all the Precisions. Your aim with the Bowstring and Arrow, as ever, is to reduce the draw time, while not harming your accuracy or handling. Elastic String is the best for as low a draw time as possible and helps Handling too, at the cost of Accuracy, which you can recover with an Accuracy Masterwork, while Compact Arrow Shaft boosts handling and reload speed. Don't forget, the Noble Deeds origin perk will also boost both as well. If you ever see Archer's Tempo as the support perk in the first trait column then you don't need to look much further. Similarly, Explosive Head adds damage (and flinch) for free so is the best signature perk in the second trait column. Recommended MW: Accuracy or Draw Time, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-EndGame, PvE-God, Controller, M+KB
+dimwishlist:item=45643573&perks=2801223209,16392701,201365942,3365897133
+
+// Raconteur (PvE first-choice roll)
+// Elastic String, Compact Arrow Shaft, Archer's Tempo, Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Stasis synergy in general activities. Shapeable. Our first Stasis Precision Bow, with competitive stats by comparison with the other kinetic slot options, although Accuracy is the lowest of all the Precisions. Your aim with the Bowstring and Arrow, as ever, is to reduce the draw time, while not harming your accuracy or handling. Elastic String is the best for as low a draw time as possible and helps Handling too, at the cost of Accuracy, which you can recover with an Accuracy Masterwork, while Compact Arrow Shaft boosts handling and reload speed. Don't forget, the Noble Deeds origin perk will also boost both as well. If you ever see Archer's Tempo as the support perk in the first trait column then you don't need to look much further. To pair with your Stasis aspects and fragments, Headstone is your choice for signature perk in the second trait column. Recommended MW: Accuracy or Draw Time, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=45643573&perks=2801223209,16392701,201365942,124408337
+
+// Regnant (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), Spike Grenades, Auto-Loading Holster, Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for sustained boss DPS in end-game activities. Shapeable. Essentially a void Wendigo with poorer stats, but with access to enhanced traits. As is usual for grenade launchers, look to increase velocity to get the grenade on target as fast as possible, and handling, for general snappiness. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. The Noble Deeds origin trait helps with handling, and reload speed too, so works well. In the magazine, Spike Grenade adds direct impact damage to a target. In the first trait column as your pick of the support perks, Auto-Loading Holster lets you empty the magazine and reload while you're swapped to your DPS special weapon to rinse and repeat, while Explosive Light is by far the best damage boost for your signature perk in the second - and the enhanced version adds an extra stack on top. Recommended MW: Handling, with a damage-boosting (Boss or Taken Spec) or Backup Mag mod|tags: PvE, PvE-BossSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=268260372&perks=3525010810,3301904089,3300816228,3194351027
+dimwishlist:item=268260372&perks=3798852852,3301904089,3300816228,3194351027
+
+// Regnant (PvE first-choice roll)
+// (Quick Launch, Smart Drift Control), Spike Grenades, Envious Assassin, Explosive Light
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for burst DPS against majors in end-game activities. Shapeable. Essentially a void Wendigo with poorer stats, but with access to enhanced traits. As is usual for grenade launchers, look to increase velocity to get the grenade on target as fast as possible, and handling, for general snappiness. Quick Launch is the best barrel, but Smart Drift Control isn't far behind. The Noble Deeds origin trait helps with handling, and reload speed too, so works well. In the magazine, Spike Grenade adds direct impact damage to a target. In the first trait column as your support perk, Envious Assassin overflows the magazine or the most quick shots to finish off a major or stunned Champion quickly, while Explosive Light is by far the best damage boost for your signature perk in the second - and the enhanced version adds an extra stack on top. Recommended MW: Handling, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MajorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=268260372&perks=3525010810,3301904089,968510818,3194351027
+dimwishlist:item=268260372&perks=3798852852,3301904089,968510818,3194351027
+
+// Regnant (PvE first-choice roll)
+// (Volatile Launch, Linear Compensator), High-Explosive Ordnance, Repulsor Brace, Destabilizing Rounds
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for void synergy. Shapeable. Essentially a void Wendigo with poorer stats, but with access to enhanced traits. You'll be using this roll for add clearing, so you'll want to crank up the blast radius with your barrel with Volatile Launch, High Explosive Ordnance in the magazine, and a Blast Radious Masterwork. Repulsor Brace as your support perk in the first trait column gives you a void overshield for void-debuffed kills, which is exactly what Destabilizing Rounds sets you up for, as your signature perk in the second trait column, making targets near a kill volatile, including chunkier ones for easier clean-up with the next shot. This combination should make you a bit of a walking tank in add-dense areas, as long as you have ammo. Recommended MW: Blast Radius, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=268260372&perks=1478423395,1380253176,776531651,2048641572
+dimwishlist:item=268260372&perks=1441682018,1380253176,776531651,2048641572
+
+// Round Robin (PvE first-choice roll)
+// Fluted Barrel, (Armor-Piercing Rounds, High-Caliber ROunds, Ricochet Rounds), (Stay Away, Subsistence), Hatchling
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Strand synergy in general content. Shapeable. Our first Strand Hand Cannon. Middling stats by comparison with other Aggressive Frames - prioritise handling and stability with your barrel and mag to improve gunfeel. You should be engaging enemies at a decent range so Keep Away boosts range, accuracy and reload speed, or Subsistence will keep your mag topped up. In the second trait column Hatchling spawns a Threadling on crit kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=2034215657&perks=1840239774,1968497646,3619207468,831391274
+dimwishlist:item=2034215657&perks=1840239774,1561002382,3619207468,831391274
+dimwishlist:item=2034215657&perks=1840239774,1885400500,3619207468,831391274
+dimwishlist:item=2034215657&perks=1840239774,1968497646,1820235745,831391274
+dimwishlist:item=2034215657&perks=1840239774,1561002382,1820235745,831391274
+dimwishlist:item=2034215657&perks=1840239774,1885400500,1820235745,831391274
+
+// Royal Executioner (PvE first-choice roll)
+// Arrowhead Brake, Accelerated Coils, Envious Assassin, Reservoir Burst
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for burst damage in end-game activities. Shapeable. Season 20's solar adaptive fusion rifle has okayish stats, with the Noble Deeds origin perk helping with a boost to handling and reload speed when procced. Arrowhead Brake as the barrel perk makes the recoil much easier to control, taking the Recoil Direction from 58 to 88. Particle Repeater is an option to control the bolts, but Accelerated Coils is the better play - you'll be killing red bars even with the slight reduction in damage and you'll appreciate the faster charge time. The Noble Deeds origin trait helps with Handling, for more snappiness (and Reload Speed), so fits in really well. Envious Assassin is the stand out support perk in the first trait column - overflow the magazine with primary and power weapon kills, and this is the only non-Raid fusion rifle that you can do that with. Every overflowed shot will then do 25% bonus damage with Reservoir Burst as your second trait column, signature perk, as well as making enemies explode, making this great for both add-clearing groups of minors and burst damage against majors. Recommended MW: Charge Time, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MajorSpec, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1720503118&perks=839105230,689005463,968510818,4293542123
+
+// Royal Executioner (PvE first-choice roll)
+// Arrowhead Brake, Accelerated Coils, (Envious Assassin, Threat Detector, Lead from Gold), Incandescent
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 55 (https://open.spotify.com/show/36OTFinErCUBrCzu6BaYbo) with @Saint_Kabr, @CourtProjects and @ImpetusAlways. First-choice PvE roll for Solar synergy in end-game activities. Shapeable. Season 20's solar adaptive fusion rifle has okayish stats, with the Noble Deeds origin perk helping with a boost to handling and reload speed when procced. Arrowhead Brake as the barrel perk makes the recoil much easier to control, taking the Recoil Direction from 58 to 88. Particle Repeater is an option, but Accelerated Coils is the better play - you'll be killing red bars even with the slight reduction in damage and you'll appreciate the faster charge time. The Noble Deeds origin trait helps with Handling, for more snappiness (and Reload Speed), so fits in really well. Envious Assassin is a stand out support perk in the first trait column, overflowing the magazine as you get primary and power weapon kills, but Threat Detector and Lead From Gold are right up there too. This is the first solar FR to give the option of Incandescent as the signature perk in the second column, which plays into the subclass verbs for end-game add clear. Recommended MW: Charge Time, with a damage-boosting (Major or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=1720503118&perks=839105230,689005463,968510818,4293542123
+dimwishlist:item=1720503118&perks=839105230,689005463,4071163871,4293542123
+dimwishlist:item=1720503118&perks=839105230,689005463,1556840489,4293542123
+
+// Rufus's Fury (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds), Rewind Rounds, (Target Lock, Frenzy)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Minor add-clear in end-game content. Shapeable. Most Raid weapons boast stellar stat packages, and Rufus's Fury is no different and will be most people's choice for a Strand primary, and will probably only get better when the additional fragments arrive. Although, at 56, the recoil is pretty up-and-down, Arrowhead Brake as the barrel perk takes the Recoil Direction to an even more controllable 86 and adds Handling. Flared Magwell or Ricochet Rounds add Stability and Reload Speed or Range and Stability in the magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with signature perks like Target Lock, where the refilled magazine allows you to reach the higher damage stacks, for damage against bulkier enemies or Frenzy for a general 15% damage bump. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=484515708&perks=839105230,1885400500,3418782618,365154968
+dimwishlist:item=484515708&perks=839105230,3230963543,3418782618,365154968
+dimwishlist:item=484515708&perks=839105230,1885400500,3418782618,4104185692
+dimwishlist:item=484515708&perks=839105230,3230963543,3418782618,4104185692
+
+// Rufus's Fury (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds), Rewind Rounds, Paracausal Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Darkness subclass synergy in end-game content. Shapeable. Most Raid weapons boast stellar stat packages, and Rufus's Fury is no different and will be most people's choice for a Strand primary, and will probably only get better when the additional fragments arrive. Although, at 56, the recoil is pretty up-and-down, Arrowhead Brake takes the Recoil Direction to an even more controllable 86 and adds Handling. Flared Magwell or Ricochet Rounds add Stability and Reload Speed or Range and Stability in the magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with Paracausal Affinity as a signature perk for a 20% boost to damage from other Darkness affinity damage sources. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=484515708&perks=839105230,1885400500,3418782618,3215448563
+dimwishlist:item=484515708&perks=839105230,3230963543,3418782618,3215448563
+
+// Rufus's Fury (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds), (Rewind Rounds, Demolitionist), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand synergy in end-game content. Shapeable. Most Raid weapons boast stellar stat packages, and Rufus's Fury is no different and will be most people's choice for a Strand primary, and will probably only get better when the additional fragments arrive. Although, at 56, the recoil is pretty up-and-down, Arrowhead Brake takes the Recoil Direction to an even more controllable 86 and adds Handling. Flared Magwell or Ricochet Rounds add Stability and Reload Speed or Range and Stability in the magazine. Rewind Rounds or Demolitionist both work as support perks in the first trait column, pairing Hatchling for Strand synergy (which should be even better when the additional fragments arrive). The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=484515708&perks=839105230,1885400500,3418782618,831391274
+dimwishlist:item=484515708&perks=839105230,3230963543,3418782618,831391274
+dimwishlist:item=484515708&perks=839105230,1885400500,3523296417,831391274
+dimwishlist:item=484515708&perks=839105230,3230963543,3523296417,831391274
+
+// Rufus's Fury (Adept) (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds), Rewind Rounds, (Target Lock, Frenzy)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Minor add-clear in end-game content. Shapeable. Most Raid weapons boast stellar stat packages, and Rufus's Fury is no different and will be most people's choice for a Strand primary, and will probably only get better when the additional fragments arrive. Although, at 56, the recoil is pretty up-and-down, Arrowhead Brake as the barrel perk takes the Recoil Direction to an even more controllable 86 and adds Handling. Flared Magwell or Ricochet Rounds add Stability and Reload Speed or Range and Stability in the magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with signature perks like Target Lock, where the refilled magazine allows you to reach the higher damage stacks, for damage against bulkier enemies or Frenzy for a general 15% damage bump. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=342514437&perks=839105230,1885400500,3418782618,365154968
+dimwishlist:item=342514437&perks=839105230,3230963543,3418782618,365154968
+dimwishlist:item=342514437&perks=839105230,1885400500,3418782618,4104185692
+dimwishlist:item=342514437&perks=839105230,3230963543,3418782618,4104185692
+
+// Rufus's Fury (Adept) (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds), Rewind Rounds, Paracausal Affinity
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Darkness subclass synergy in end-game content. Shapeable. Most Raid weapons boast stellar stat packages, and Rufus's Fury is no different and will be most people's choice for a Strand primary, and will probably only get better when the additional fragments arrive. Although, at 56, the recoil is pretty up-and-down, Arrowhead Brake takes the Recoil Direction to an even more controllable 86 and adds Handling. Flared Magwell or Ricochet Rounds add Stability and Reload Speed or Range and Stability in the magazine. Rewind Rounds is the best of the support perks in the first trait column for primary weapons, pairing with Paracausal Affinity as a signature perk for a 20% boost to damage following a kill from any Darkness damage source. The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=342514437&perks=839105230,1885400500,3418782618,3215448563
+dimwishlist:item=342514437&perks=839105230,3230963543,3418782618,3215448563
+
+// Rufus's Fury (Adept) (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Ricochet Rounds), (Rewind Rounds, Demolitionist), Hatchling
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 57 (https://open.spotify.com/episode/3LOWj7jLe0eiacDYwEbK22) with @CourtProjects, @ImpetusAlways and @Saint_Kabr. First-choice PvE roll for Strand synergy in end-game content. Shapeable. Most Raid weapons boast stellar stat packages, and Rufus's Fury is no different and will be most people's choice for a Strand primary, and will probably only get better when the additional fragments arrive. Although, at 56, the recoil is pretty up-and-down, Arrowhead Brake takes the Recoil Direction to an even more controllable 86 and adds Handling. Flared Magwell or Ricochet Rounds add Stability and Reload Speed or Range and Stability in the magazine. Rewind Rounds or Demolitionist both work as support perks in the first trait column, pairing Hatchling for Strand synergy (which should be even better when the additional fragments arrive). The Harmonic Resonance origin trait can boost damage still further by a stacking 3.33% with one other RoN Raid weapon or 10% with two. Reccommended MW: Range, Stability or Handling - just go with your preference, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=342514437&perks=839105230,1885400500,3418782618,831391274
+dimwishlist:item=342514437&perks=839105230,3230963543,3418782618,831391274
+dimwishlist:item=342514437&perks=839105230,1885400500,3523296417,831391274
+dimwishlist:item=342514437&perks=839105230,3230963543,3523296417,831391274
+
+// Senuna SI6 (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Appended Mag, Light Mag), Feeding Frenzy, Headstone
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for stasis synergy and Minor add-clear in general content. The Season 20 Omolon weapon (named after Celtic godess worshipped in Roman Britain, if you're asking) is an Adaptive Stasis Sidearm. First thing to say is that, if you already have a decent stasis sidearm, this really doesn't offer anything much new so you can probably give it a miss. For newer Guardians, controlling the recoil on sidearms, through recoil direction and stability, is the job of your barrel and mag although additional reload speed for the Senuna is also useful. If you're a serial reloaded, the Omolon origin trait will help with both in the top half of the magazine. Arrowhead Brake as your barrel perk brings the Recoil Direction to 100 and adds handling to make the gun feel snappier. In the mag, Flared Magwell or maybe Appended Mag are probably the best picks - Light Mag isn't bad either. Feeding Frenzy as your support perk in the first trait column will speed up reloads still further after kills, while Headstone as your signature perk in the second trait column generates your Stasis crystal on a crit kill to use your subclass fragments with. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=5159537&perks=839105230,1087426260,2779035018,124408337
+dimwishlist:item=5159537&perks=839105230,3230963543,2779035018,124408337
+dimwishlist:item=5159537&perks=839105230,679225683,2779035018,124408337
+
+// Senuna SI6 (PvE first-choice roll)
+// Arrowhead Brake, (Flared Magwell, Appended Mag, Light Mag), Feeding Frenzy, Golden Tricorn
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for stasis synergy and Minor add-clear in general content. The Season 20 Omolon weapon (named after Celtic godess worshipped in Roman Britain, if you're asking) is an Adaptive Stasis Sidearm. First thing to say is that, if you already have a decent stasis sidearm, this really doesn't offer anything much new so you can probably give it a miss. For newer Guardians, controlling the recoil on sidearms, through recoil direction and stability, is the job of your barrel and mag although additional reload speed for the Senuna is also useful. If you're a serial reloaded, the Omolon origin trait will help with both in the top half of the magazine. Arrowhead Brake as your barrel perk brings the Recoil Direction to 100 and adds handling to make the gun feel snappier. In the mag, Flared Magwell or maybe Appended Mag are probably the best picks - Light Mag isn't bad either. Feeding Frenzy as your support perk in the first trait column will speed up reloads still further after kills, while the first stack of Golden Tricorn as your signature perk in the second trait column is a reliable 15% damage boost, even if the second stack is tougher to proc with Stasis abilities. Recommended MW: Reload Speed, with a damage-boosting (Minor or Taken Spec) oe Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=5159537&perks=839105230,1087426260,2779035018,2610012052
+dimwishlist:item=5159537&perks=839105230,3230963543,2779035018,2610012052
+dimwishlist:item=5159537&perks=839105230,679225683,2779035018,2610012052
+
+// Senuna SI6 (PvE first-choice roll)
+//notes:Inspired by @DestinyMBP Podcast vs Enemies episode 56 (https://open.spotify.com/episode/6hjWp0NaachsNymnN22FDL) with @ImpetusAlways, @Saint_Kabr and @CourtProjects. First-choice PvE roll for stasis synergy and Minor add-clear in general content. The Season 20 Omolon weapon (named after Celtic godess worshipped in Roman Britain, if you're asking) is an Adaptive Stasis Sidearm. First thing to say is that, if you already have a decent stasis sidearm, this really doesn't offer anything much new so you can probably give it a miss. For newer Guardians, controlling the recoil on sidearms, through recoil direction and stability, is the job of your barrel and mag although additional reload speed for the Senuna is also useful. If you're a serial reloaded, the Omolon origin trait will help with both in the top half of the magazine. Arrowhead Brake as your barrel perk brings the Recoil Direction to 100 and adds handling to make the gun feel snappier. In the mag, you can take your pick of any combat effect perk - High-Caliber, Armor-Piercing or Ricochet Rounds. Grave Robber as your support perk in the first trait column bypasses reloads just for melee kills on adds and, if that's what you're doing, Pugilist synergises well as your signature perk in the second trait column, by returning melee energy on kills. Recommended MW: Handling or Stability, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=5159537&perks=839105230,1561002382,1631667848,691659142
+dimwishlist:item=5159537&perks=839105230,1968497646,1631667848,691659142
+dimwishlist:item=5159537&perks=839105230,1885400500,1631667848,691659142
+
+// Synchronic Roulette (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Envious Assassin, Hatchling
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for Strand synergy in general content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column - Envious Assassin is much better on a Special or Power weapon, but it's worth it for the occasional overfilled mag. In the second trait column Hatchling spawns a Threadling on rapid kills to play with, and lets you tap into Strand fragments, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, Controller, M+KB
+dimwishlist:item=811403305&perks=1840239774,1561002382,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,1561002382,968510818,831391274
+dimwishlist:item=811403305&perks=1840239774,1968497646,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,1968497646,968510818,831391274
+dimwishlist:item=811403305&perks=1840239774,1885400500,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,1885400500,968510818,831391274
+dimwishlist:item=811403305&perks=1840239774,3230963543,968510818,831391274
+dimwishlist:item=811403305&perks=4090651448,3230963543,968510818,831391274
+
+// Synchronic Roulette (PvE first-choice roll)
+// (Fluted Barrel, Corkscrew Rifling), (High-Caliber Rounds, Armor-Piercing Rounds, Ricochet Rounds, Flared Magwell), Pulse Monitor, Target Lock
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for end-game content. Precision frame SMG, so you don't have to worry about recoil direction and range is pretty compressed, so go for handling and stability with your barrel. In the mag, High-Caliber Rounds is always good for extra flinch on a bullet hose, but Armor-Piercing is also decent for damaging multiple adds in CQC, Ricochet Rounds can be run or just get extra stability and Reload speed with Flared Magwell. There's not much PvE-wise in the first trait column but Pulse Monitor could be useful if you're out of cover to use Target Lock and are taking damage, to reload you magazine to keep your damage output up, and the Nanotech Tracer Rockets add both damage and flinch when you proc them - really fun for PvE. Recommended MW: Handling or Reload Speed, with a damage-boosting (Minor or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-MinorSpec, PvE-God, PvE-EndGame, Controller, M+KB
+dimwishlist:item=811403305&perks=1840239774,1561002382,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,1561002382,972757866,365154968
+dimwishlist:item=811403305&perks=1840239774,1968497646,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,1968497646,972757866,365154968
+dimwishlist:item=811403305&perks=1840239774,1885400500,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,1885400500,972757866,365154968
+dimwishlist:item=811403305&perks=1840239774,3230963543,972757866,365154968
+dimwishlist:item=811403305&perks=4090651448,3230963543,972757866,365154968
+
+// Volta Bracket (PvE first-choice roll)
+// Fluted Barrel, Extended Mag, Envious Assassin, (Explosive Payload, Firing Line)
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column, Explosive Payload adds a flat 15% bonus damage or, in a fireteam, Firing Line adds 20% crit damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, Controller, M+KB
+dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,3038247973
+dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,1771339417
+
+// Volta Bracket (PvE first-choice roll)
+// Fluted Barrel, Extended Mag, Envious Assassin, Cascade Point
+//notes:Inspired by @DestinyMBP Podcast Versus Enemies episode 54 with @CourtProjects, @ImpetusAlways and @Saint_Kabr (https://open.spotify.com/episode/3obSAgsEW0RBeSjYXOVcgN?si=95ac723a75f749c3). First-choice PvE roll for burst damage in end-game activities. Sniper rifles are in a bit of a tough spot as v7.0.0.3, but it's worth holding on to a good roll or two in the Vault, just in case. If you're shaping one, Fluted Barrel makes it snappier, and you can bypass the reload speed penalty of Extended Barrel with Backup Mag and Envious Assassin, to overload your magazine of 5 to 8. In the second trait column on mouse and keyboard where stability isn't so much of an issue, so Cascade Point can use the kills that boosted your mag to dump them into a target in short order into a target for speedy burst damage. On top, the Nanotech Tracer Rockets add both damage and flinch when you proc them with multiple hits - really fun for PvE. Recommended MW: Handling or Stability, with a damage-boosting (Major, Boss or Taken Spec) or Backup Mag mod.|tags: PvE, PvE-Boss, PvE-MajorSpec, PvE-BossSpec, PvE-God, M+KB
+dimwishlist:item=3920310144&perks=1840239774,2420895100,968510818,3751912585
 
 // Aurvandil FR6 (PvE first-choice roll)
 // Fluted Barrel, (Ionized Battery, Enhanced Battery), Reconstruction, Chill Clip
