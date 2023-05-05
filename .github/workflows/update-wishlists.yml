@@ -1,5 +1,5 @@
 name: update-wishlists
-run-name: Update Wish Lists if Available
+run-name: Check for Updates
 on: push
 jobs:
   update-submodule:
