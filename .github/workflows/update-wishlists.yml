@@ -10,7 +10,7 @@ jobs:
   update-wish-lists:
     runs-on: ubuntu-latest
     steps:
-      - run: python3 voltron_splitter.py
+      - run: python3 ./voltron.py
     
   update-repo:
     runs-on: ubuntu-latest
