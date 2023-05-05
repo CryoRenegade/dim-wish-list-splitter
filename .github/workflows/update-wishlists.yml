@@ -9,6 +9,8 @@ jobs:
       - uses: actions/checkout@v3
         with:
           submodules: true
+      - run: git config --global user.email "secrets.EMAIL"
+      - run: git config --global user.name "secrets.NAME"
       - run: git submodule update --remote
       - run: python3 voltron_splitter.py
       - run: git add .
