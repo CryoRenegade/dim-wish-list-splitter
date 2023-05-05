@@ -7,6 +7,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v3
+        with:
+          submodules: true
       - run: git submodule update --remote
       - run: python3 voltron_splitter.py
       - run: git add .
