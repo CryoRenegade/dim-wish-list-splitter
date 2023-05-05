@@ -55,6 +55,7 @@ def inspectWeapon(_weaponAry):
         if ("https://" in curLine or "u/" in curLine):
             weaponTags += " | _credits "
 
+        # Check for custom tags
         if ("god-" in curLine):
             weaponTags += " | god- "
         if ("first-" in curLine):
@@ -303,7 +304,7 @@ listConfigs.append({"include": ["Controller", "PVP", "pandapaxxy"],
 # -------------------------------------------
 # God Filters
 listConfigs.append({"include": ["MKB"],
-                    "include": ["god- first-"], 
+                    "include": ["god-, first-"], 
                     "path": "./wishlists/MKB_God.txt"})
 
 # -------------------------------------------
