@@ -228,6 +228,7 @@ def writeToFile(wishlist, weaponAry):
 # Each Wishlist is a Dictionary with 
 #   Flag - True / False for Filter Options
 #   Include / Exclude Filter - Using AND logic: PVE, PVP, MKB, Controller, Backup Roll, God, etc. 
+#   Logic - ["A", "B"] = A and B, ["A B"] = A or B
 #   Perk Columns - "" or "1, 2, 3, 4" for All or "3, 4" for 3rd and 4th, etc.  
 #   Grouping Options - Combines Recommendations per Weapon ex. 0 for all combines or 2 for at least 2 recommendations
 #   Destination Path - Location and Name for Wishlist
