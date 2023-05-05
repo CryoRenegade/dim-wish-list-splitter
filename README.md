@@ -2,7 +2,7 @@
 
 I'm no longer manually updating this project. However, it checks for an update everyday at midnight so it will be kept up to date as long as there aren't any format changes to the voltron source. 
 
-Special thanks to CryoRenegade for making me aware of GitHub workflows.
+Special thanks to CryoRenegade (https://github.com/CryoRenegade) for making me aware of GitHub workflows.
 
 ----------------------------------------------------------------
 
