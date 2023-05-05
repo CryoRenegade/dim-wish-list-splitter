@@ -304,7 +304,7 @@ listConfigs.append({"include": ["Controller", "PVP", "pandapaxxy"],
 # -------------------------------------------
 # God Filters
 listConfigs.append({"include": ["MKB"],
-                    "include": ["god-, first-"], 
+                    "include": ["god-", "first-"], 
                     "path": "./wishlists/MKB_God.txt"})
 
 # -------------------------------------------
