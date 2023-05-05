@@ -1,0 +1,20 @@
+name: update-wishlists
+run-name: updates wish lists alongisde Voltron source
+on: push
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - run: git submodule update --remote
+    
+  update-wish-lists:
+    runs-on: ubuntu-latest
+    steps:
+      - run: python3 ./voltron_splitter.py
+    
+  update-repo:
+    runs-on: ubuntu-latest
+    steps:
+      - run: git add .
+      - run: git commit -m "update alongside dim-wish-list-sources by 48klocs"
+      - run: git push origin main
