@@ -1,5 +1,5 @@
 name: update-wishlists
-run-name: updates wish lists alongisde Voltron source
+run-name: Update Wish Lists if Available
 on: push
 jobs:
   update-submodule:
