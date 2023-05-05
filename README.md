@@ -3,6 +3,7 @@
 I'm no longer manually updating this project. However, it checks for an update everyday at midnight so it will be kept up to date as long as there aren't any format changes to the voltron source. 
 
 Special thanks to CryoRenegade for making me aware that GitHub workflows were a thing.
+
 ----------------------------------------------------------------
 
 Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.com/48klocs/dim-wish-list-sources).
