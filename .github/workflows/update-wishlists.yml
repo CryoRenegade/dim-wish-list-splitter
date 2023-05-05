@@ -14,5 +14,5 @@ jobs:
       - run: git submodule update --remote
       - run: python3 voltron_splitter.py
       - run: git add .
-      - run: git commit -m "update alongside dim-wish-list-sources by 48klocs"
+      - run: git commit -m "update alongside dim-wish-list-sources by 48klocs" | "echo "No changes to commit"
       - run: git push origin main
