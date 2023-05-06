@@ -3,7 +3,9 @@ from collections import OrderedDict
 from collections import Counter
 import copy
 
+# Dictionary for each weapon, values are tags and rolls
 allWeapons = {}
+# Array of credit information
 creditAry = []
 
 def main():
@@ -13,7 +15,9 @@ def main():
 def readFile(filePath):
     with open(filePath, mode='r', encoding='utf-8') as f:
         fileLines = f.readlines()
+        # Temp array to hold info for current weapon
         weaponAry = []
+        
         for i, curLine in enumerate(fileLines):
             # Content in line, add to weapon
             if len(curLine) > 1:
@@ -23,17 +27,18 @@ def readFile(filePath):
             if (weaponAry != [] and (i == len(fileLines)-1 or len(curLine) <= 1)):
                 inspectWeapon(weaponAry)
                 weaponAry = []
-
+                
+        # Look at wishlist options after reading file
         inspectWishlistConfig()
 
 # Get itemID, add to Dict: { itemid: [[tags, roll], [tags, roll], ...] }
 def inspectWeapon(_weaponAry):
+    # Reverse loop weapon to get itemID
     rWeaponAry = copy.copy(_weaponAry)
     rWeaponAry.reverse()
     weaponTags = ""
     itemID = -1
 
-    # Reverse loop weapon to get itemID
     for curLine in rWeaponAry:
         # Finding Tags ------------------------------------
         curLine = curLine.lower()
@@ -70,7 +75,7 @@ def inspectWeapon(_weaponAry):
         pTags = re.findall(r"(?<=\().+?(?=\))", curLine)
         weaponTags += " | " + " | ".join(str(i) for i in pTags)
 
-        # All text between '(...)'
+        # All text between '[...]'
         bTags = re.findall(r"(?<=\[).+?(?=\])", curLine)
         weaponTags += " | " + " | ".join(str(i) for i in bTags)
     
@@ -87,11 +92,13 @@ def inspectWeapon(_weaponAry):
     if (not re.search("pve|pvp", weaponTags)):
         weaponTags += " | pve "
 
+    # Add weapon tags and rolls to dictonary for all weapons
     if (itemID not in allWeapons and itemID != -1):
         allWeapons[itemID] = []
     if (itemID != -1):
         allWeapons[itemID].append([weaponTags, _weaponAry])
 
+    # Add credit info to credit array
     if (itemID == -1 and "_dim" not in weaponTags and "_credit" in weaponTags):
         creditAry.append(_weaponAry)
 
@@ -105,6 +112,7 @@ def inspectWishlistConfig():
 
         # Get all Keys for weapon ID
         for itemID in allWeapons.keys():
+            # Array for roll sets that pass check
             allowedRecs = []
             for weaponInfo in allWeapons.get(itemID):
                 tags = weaponInfo[0]
@@ -121,6 +129,7 @@ def inspectWishlistConfig():
                 writeToFile(wishlist, allowedRecs)
                 continue
 
+            # Array storing lines that include dim rolls
             allDims = []
             for curRec in allowedRecs:
                 for curLine in curRec:
@@ -192,8 +201,8 @@ def perkAdjustments(wishlist, _weaponAry):
 
     return weaponAry
 
-# Single [] = and ex. [] and []
-# Mutlieple in [] = or ex. [x or y] and [a or b]
+# Single [] = and (ex. [] and [])
+# Mutlieple in [] = or (ex. [x or y] and [a or b])
 def checkFilters(wishlist, tags):
     if ("_dim" in tags):
         if ("include" in wishlist):
