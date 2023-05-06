@@ -8,7 +8,14 @@ Special thanks to CryoRenegade (https://github.com/CryoRenegade) for making me a
 
 Uses the voltron.txt file from dim-wish-list-sources by 48klocs (https://github.com/48klocs/dim-wish-list-sources).
 
-Separates PvE, PvP, Controller, MKB, and their combinations into seperate files.
+Splits Voltron into separate lists using a variety of filters such as:
+- Gamemode: PVE, PVP
+- Input: Mouse and Keyboard (MKB), Controller (CTR)
+- Author: Currently only Pandapaxxy (Panda)
+- Dupes: Number of time same roll is recommended. Currently only using D2, or rolls with at least 2 dupes
+- Perks: Limits rolls to specific perk columns. Currently Perks only limits to 3rd and 4th column.
+
+Feel free to submit an issue if you'd like to see a wish list added.
 
 If no PvP or PvE tag weapon added to only PvE. If no MKB or Controller tag weapon added to MKB.
 
