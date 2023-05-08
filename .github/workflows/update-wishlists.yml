@@ -2,7 +2,8 @@ name: update-wishlists
 run-name: Check for Updates
 # Run once a day at midnight UTC
 on: 
-  push
+  schedule:
+    - cron: "0 0 * * *"
 jobs:
   update-repo:
     runs-on: ubuntu-latest
