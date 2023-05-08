@@ -2,6 +2,7 @@ import re
 from collections import OrderedDict
 from collections import Counter
 import copy
+import sys
 
 # Dictionary for each weapon, values are tags and rolls
 allWeapons = {}
