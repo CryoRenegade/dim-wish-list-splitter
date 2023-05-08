@@ -2,7 +2,7 @@ import re
 from collections import OrderedDict
 from collections import Counter
 import copy
-import sys
+#import sys
 
 # Dictionary for each weapon, values are tags and rolls
 allWeapons = {}
@@ -348,8 +348,6 @@ def cleanExistingFiles():
 
 #test()
 
-print(sys.getfilesystemencoding())
+#print(sys.getfilesystemencoding())
 cleanExistingFiles()
-print(sys.getfilesystemencoding())
 main()
-print(sys.getfilesystemencoding())
