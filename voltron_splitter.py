@@ -348,6 +348,8 @@ def cleanExistingFiles():
 
 #test()
 
+print(sys.getfilesystemencoding())
 cleanExistingFiles()
+print(sys.getfilesystemencoding())
 main()
 print(sys.getfilesystemencoding())
