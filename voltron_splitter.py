@@ -227,7 +227,7 @@ def checkFilters(wishlist, tags):
 
 # weaponAry = 2D Array
 def writeToFile(wishlist, weaponAry):   
-    with open(wishlist.get("path"), mode='a') as file:
+    with open(wishlist.get("path"), mode='a', encoding='utf-8') as file:
         for rec in weaponAry:
             for line in rec:
                 file.write(line)
