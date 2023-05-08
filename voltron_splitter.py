@@ -14,7 +14,7 @@ def main():
     #readFile("./temp.txt")
 
 def readFile(filePath):
-    with open(filePath, mode='r', encoding='utf-8') as f:
+    with open(filePath, mode='r') as f:
         fileLines = f.readlines()
         # Temp array to hold info for current weapon
         weaponAry = []
