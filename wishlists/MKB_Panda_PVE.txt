@@ -6,6 +6,8 @@ title:RNGeez S20 Guardian Games Breakdown
 
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/135o1ti/guardian_games_rngeez_weapon_breakdown/
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep61-guardian-games-weapons.txt
+
 // taken from https://github.com/GoddamTofu/D2wishlist/blob/main/PandaPaxxy_S20.txt
 
 title:u/pandapaxxy's Season 20, Lightfall And Season Of Defiance
