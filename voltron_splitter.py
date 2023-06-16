@@ -312,6 +312,10 @@ listConfigs.append({"include": ["Controller", "PVE", "pandapaxxy"],
 listConfigs.append({"include": ["Controller", "PVP", "pandapaxxy"],
                     "path": "./wishlists/CTR_Panda_PVP.txt"})
 
+listConfigs.append({"include": ["MKB", "pandapaxxy"],
+                    "perks": [3,4],
+                    "path": "./wishlists/MKB_Panda_Perks.txt"})
+
 # -------------------------------------------
 # God Filters
 listConfigs.append({"include": ["MKB"],
