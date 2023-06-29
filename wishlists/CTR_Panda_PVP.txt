@@ -8,6 +8,10 @@ title:u/pandapaxxy's Season 21, Season Of Deep
 
 description:Originally found here https://www.reddit.com/r/sharditkeepit/comments/145hckm/season_21_weapon_breakdown/
 
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep67-ghost-of-the-deep-weapons.txt
+
+// originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep66-taken-and-reckoning-weapons.txt
+
 // originally found at https://gist.github.com/heckinn/a0becf75fae81cfa5f845468191d3ed8
 
 title:Speedrunner's Shopping List
