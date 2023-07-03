@@ -12,6 +12,8 @@ description:Originally found here https://www.reddit.com/r/sharditkeepit/comment
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep66-taken-and-reckoning-weapons.txt
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep68-nightfall-and-trials-of-osiris-weapons.txt
+
 // originally found at https://gist.github.com/heckinn/a0becf75fae81cfa5f845468191d3ed8
 
 title:Speedrunner's Shopping List
@@ -1428,6 +1430,128 @@ dimwishlist:item=2883484461&perks=1482024992,3142289711,4071163871,11612903
 dimwishlist:item=2883484461&perks=1300023272,3142289711,744594675,11612903
 dimwishlist:item=2883484461&perks=4090651448,3142289711,744594675,11612903
 dimwishlist:item=2883484461&perks=1482024992,3142289711,744594675,11612903
+
+// Buzzard
+//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Adaptive(300) Kinetic Sidearm Primary Ammo.  "Buzzard with Rangefinder will have a 17m range, going all into range will only bump that up to 18m. I would highly recommend just investing your stats into making the gun feel better as your range will just not bump up the same way. You can max out stability without a lot of investments and Perpetual Motion 2x. Buzzard is an incredibly strong sidearm with incredible stats. Definitely give it a try if you like sidearms." |tags:pvp,controller
+dimwishlist:item=213264394&perks=1840239774,1885400500,1428297954,2846385770
+dimwishlist:item=213264394&perks=3250034553,1885400500,1428297954,2846385770
+dimwishlist:item=213264394&perks=1482024992,1885400500,1428297954,2846385770
+dimwishlist:item=213264394&perks=1840239774,1561002382,1428297954,2846385770
+dimwishlist:item=213264394&perks=3250034553,1561002382,1428297954,2846385770
+dimwishlist:item=213264394&perks=1482024992,1561002382,1428297954,2846385770
+dimwishlist:item=213264394&perks=1840239774,1885400500,3643424744,2846385770
+dimwishlist:item=213264394&perks=3250034553,1885400500,3643424744,2846385770
+dimwishlist:item=213264394&perks=1482024992,1885400500,3643424744,2846385770
+dimwishlist:item=213264394&perks=1840239774,1561002382,3643424744,2846385770
+dimwishlist:item=213264394&perks=3250034553,1561002382,3643424744,2846385770
+dimwishlist:item=213264394&perks=1482024992,1561002382,3643424744,2846385770
+
+// Buzzard (Adept)
+//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Adaptive(300) Kinetic Sidearm Primary Ammo.  "Buzzard with Rangefinder will have a 17m range, going all into range will only bump that up to 18m. I would highly recommend just investing your stats into making the gun feel better as your range will just not bump up the same way. You can max out stability without a lot of investments and Perpetual Motion 2x. Buzzard is an incredibly strong sidearm with incredible stats. Definitely give it a try if you like sidearms." |tags:pvp,controller
+dimwishlist:item=927835311&perks=1840239774,1885400500,1428297954,2846385770
+dimwishlist:item=927835311&perks=3250034553,1885400500,1428297954,2846385770
+dimwishlist:item=927835311&perks=1482024992,1885400500,1428297954,2846385770
+dimwishlist:item=927835311&perks=1840239774,1561002382,1428297954,2846385770
+dimwishlist:item=927835311&perks=3250034553,1561002382,1428297954,2846385770
+dimwishlist:item=927835311&perks=1482024992,1561002382,1428297954,2846385770
+dimwishlist:item=927835311&perks=1840239774,1885400500,3643424744,2846385770
+dimwishlist:item=927835311&perks=3250034553,1885400500,3643424744,2846385770
+dimwishlist:item=927835311&perks=1482024992,1885400500,3643424744,2846385770
+dimwishlist:item=927835311&perks=1840239774,1561002382,3643424744,2846385770
+dimwishlist:item=927835311&perks=3250034553,1561002382,3643424744,2846385770
+dimwishlist:item=927835311&perks=1482024992,1561002382,3643424744,2846385770
+
+// THE SWARM
+//notes:pandapaxxy (PvP / Controller): Recommended MW: Range or Stability. High-Impact(360) Arc Machine Gun Heavy Ammo.  "Over in the Crucible having Rangefinder in the third column and Tap the Trigger in the fourth column give this machine gun a leg up over other high-impact frames. It isn’t the strongest machine gun in the game but will do incredible work if you prefer this archetype over the adaptive frames." |tags:pvp,controller
+dimwishlist:item=2759590322&perks=1840239774,3142289711,2846385770,1890422124
+dimwishlist:item=2759590322&perks=3250034553,3142289711,2846385770,1890422124
+dimwishlist:item=2759590322&perks=1840239774,106909392,2846385770,1890422124
+dimwishlist:item=2759590322&perks=3250034553,106909392,2846385770,1890422124
+dimwishlist:item=2759590322&perks=1840239774,2420895100,2846385770,1890422124
+dimwishlist:item=2759590322&perks=3250034553,2420895100,2846385770,1890422124
+dimwishlist:item=2759590322&perks=1840239774,3142289711,1359896290,1890422124
+dimwishlist:item=2759590322&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=2759590322&perks=1840239774,106909392,1359896290,1890422124
+dimwishlist:item=2759590322&perks=3250034553,106909392,1359896290,1890422124
+dimwishlist:item=2759590322&perks=1840239774,2420895100,1359896290,1890422124
+dimwishlist:item=2759590322&perks=3250034553,2420895100,1359896290,1890422124
+dimwishlist:item=2759590322&perks=1840239774,3142289711,2846385770,365154968
+dimwishlist:item=2759590322&perks=3250034553,3142289711,2846385770,365154968
+dimwishlist:item=2759590322&perks=1840239774,106909392,2846385770,365154968
+dimwishlist:item=2759590322&perks=3250034553,106909392,2846385770,365154968
+dimwishlist:item=2759590322&perks=1840239774,2420895100,2846385770,365154968
+dimwishlist:item=2759590322&perks=3250034553,2420895100,2846385770,365154968
+dimwishlist:item=2759590322&perks=1840239774,3142289711,1359896290,365154968
+dimwishlist:item=2759590322&perks=3250034553,3142289711,1359896290,365154968
+dimwishlist:item=2759590322&perks=1840239774,106909392,1359896290,365154968
+dimwishlist:item=2759590322&perks=3250034553,106909392,1359896290,365154968
+dimwishlist:item=2759590322&perks=1840239774,2420895100,1359896290,365154968
+dimwishlist:item=2759590322&perks=3250034553,2420895100,1359896290,365154968
+
+// THE SWARM (Adept)
+//notes:pandapaxxy (PvP / Controller): Recommended MW: Range or Stability. High-Impact(360) Arc Machine Gun Heavy Ammo.  "Over in the Crucible having Rangefinder in the third column and Tap the Trigger in the fourth column give this machine gun a leg up over other high-impact frames. It isn’t the strongest machine gun in the game but will do incredible work if you prefer this archetype over the adaptive frames." |tags:pvp,controller
+dimwishlist:item=566740455&perks=1840239774,3142289711,2846385770,1890422124
+dimwishlist:item=566740455&perks=3250034553,3142289711,2846385770,1890422124
+dimwishlist:item=566740455&perks=1840239774,106909392,2846385770,1890422124
+dimwishlist:item=566740455&perks=3250034553,106909392,2846385770,1890422124
+dimwishlist:item=566740455&perks=1840239774,2420895100,2846385770,1890422124
+dimwishlist:item=566740455&perks=3250034553,2420895100,2846385770,1890422124
+dimwishlist:item=566740455&perks=1840239774,3142289711,1359896290,1890422124
+dimwishlist:item=566740455&perks=3250034553,3142289711,1359896290,1890422124
+dimwishlist:item=566740455&perks=1840239774,106909392,1359896290,1890422124
+dimwishlist:item=566740455&perks=3250034553,106909392,1359896290,1890422124
+dimwishlist:item=566740455&perks=1840239774,2420895100,1359896290,1890422124
+dimwishlist:item=566740455&perks=3250034553,2420895100,1359896290,1890422124
+dimwishlist:item=566740455&perks=1840239774,3142289711,2846385770,365154968
+dimwishlist:item=566740455&perks=3250034553,3142289711,2846385770,365154968
+dimwishlist:item=566740455&perks=1840239774,106909392,2846385770,365154968
+dimwishlist:item=566740455&perks=3250034553,106909392,2846385770,365154968
+dimwishlist:item=566740455&perks=1840239774,2420895100,2846385770,365154968
+dimwishlist:item=566740455&perks=3250034553,2420895100,2846385770,365154968
+dimwishlist:item=566740455&perks=1840239774,3142289711,1359896290,365154968
+dimwishlist:item=566740455&perks=3250034553,3142289711,1359896290,365154968
+dimwishlist:item=566740455&perks=1840239774,106909392,1359896290,365154968
+dimwishlist:item=566740455&perks=3250034553,106909392,1359896290,365154968
+dimwishlist:item=566740455&perks=1840239774,2420895100,1359896290,365154968
+dimwishlist:item=566740455&perks=3250034553,2420895100,1359896290,365154968
+
+// The Immortal
+//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Aggressive(750) Strand Submachine Gun Primary Ammo.  "Immortal is running the crucible and it is not hard to see why. A great submachine gun with some of the best stats for its family, Rangefinder in column three and Target Lock for an even faster TtK neutrally is hot. There’s nothing bad to say about Immortal other than a foreseeable nerf. Either to its stats, all aggressive frame submachine guns or a targeted nerf. An alternative would be Kill Clip as a more reliable damage source but we will just have to see what the end of this season brings." |tags:pvp,controller
+dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,365154968
+dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
+dimwishlist:item=4039572196&perks=3250034553,1561002382,2846385770,365154968
+dimwishlist:item=4039572196&perks=1482024992,1561002382,2846385770,365154968
+dimwishlist:item=4039572196&perks=3250034553,1885400500,1359896290,365154968
+dimwishlist:item=4039572196&perks=1482024992,1885400500,1359896290,365154968
+dimwishlist:item=4039572196&perks=3250034553,1561002382,1359896290,365154968
+dimwishlist:item=4039572196&perks=1482024992,1561002382,1359896290,365154968
+dimwishlist:item=4039572196&perks=3250034553,1885400500,1428297954,365154968
+dimwishlist:item=4039572196&perks=1482024992,1885400500,1428297954,365154968
+dimwishlist:item=4039572196&perks=3250034553,1561002382,1428297954,365154968
+dimwishlist:item=4039572196&perks=1482024992,1561002382,1428297954,365154968
+dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,1015611457
+dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,1015611457
+dimwishlist:item=4039572196&perks=3250034553,1561002382,2846385770,1015611457
+dimwishlist:item=4039572196&perks=1482024992,1561002382,2846385770,1015611457
+dimwishlist:item=4039572196&perks=3250034553,1885400500,1359896290,1015611457
+dimwishlist:item=4039572196&perks=1482024992,1885400500,1359896290,1015611457
+dimwishlist:item=4039572196&perks=3250034553,1561002382,1359896290,1015611457
+dimwishlist:item=4039572196&perks=1482024992,1561002382,1359896290,1015611457
+dimwishlist:item=4039572196&perks=3250034553,1885400500,1428297954,1015611457
+dimwishlist:item=4039572196&perks=1482024992,1885400500,1428297954,1015611457
+dimwishlist:item=4039572196&perks=3250034553,1561002382,1428297954,1015611457
+dimwishlist:item=4039572196&perks=1482024992,1561002382,1428297954,1015611457
+
+// The Immortal (Adept)
+//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Aggressive(750) Strand Submachine Gun Primary Ammo.  "Immortal is running the crucible and it is not hard to see why. A great submachine gun with some of the best stats for its family, Rangefinder in column three and Target Lock for an even faster TtK neutrally is hot. There’s nothing bad to say about Immortal other than a foreseeable nerf. Either to its stats, all aggressive frame submachine guns or a targeted nerf. An alternative would be Kill Clip as a more reliable damage source but we will just have to see what the end of this season brings." |tags:pvp,controller
+dimwishlist:item=3193598749&perks=1840239774,3142289711,1428297954,47981717
+dimwishlist:item=3193598749&perks=1482024992,3142289711,1428297954,47981717
+dimwishlist:item=3193598749&perks=1840239774,791862061,1428297954,47981717
+dimwishlist:item=3193598749&perks=1482024992,791862061,1428297954,47981717
+dimwishlist:item=3193598749&perks=1840239774,3142289711,3523296417,47981717
+dimwishlist:item=3193598749&perks=1482024992,3142289711,3523296417,47981717
+dimwishlist:item=3193598749&perks=1840239774,791862061,3523296417,47981717
+dimwishlist:item=3193598749&perks=1482024992,791862061,3523296417,47981717
 
 // Riiswalker - Riiswalker (controller,god-pvp)
 //notes: File auto generated from csv pandapaxxy-s15-roundup (tags: controller,god-pvp)|tags:controller,god-pvp
@@ -4048,36 +4172,6 @@ dimwishlist:item=2890082420&perks=1840239774,2969185026,3161816588,2213355989
 dimwishlist:item=2890082420&perks=202670084,2969185026,3161816588,2213355989
 dimwishlist:item=2890082420&perks=3250034553,2969185026,3161816588,2213355989
 
-// Buzzard
-//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Adaptive(300) Kinetic Sidearm Primary Ammo.  "Buzzard with Rangefinder will have a 17m range, going all into range will only bump that up to 18m. I would highly recommend just investing your stats into making the gun feel better as your range will just not bump up the same way. You can max out stability without a lot of investments and Perpetual Motion 2x. Buzzard is an incredibly strong sidearm with incredible stats. Definitely give it a try if you like sidearms." |tags:pvp,controller
-dimwishlist:item=213264394&perks=1840239774,1885400500,1428297954,2846385770
-dimwishlist:item=213264394&perks=3250034553,1885400500,1428297954,2846385770
-dimwishlist:item=213264394&perks=1482024992,1885400500,1428297954,2846385770
-dimwishlist:item=213264394&perks=1840239774,1561002382,1428297954,2846385770
-dimwishlist:item=213264394&perks=3250034553,1561002382,1428297954,2846385770
-dimwishlist:item=213264394&perks=1482024992,1561002382,1428297954,2846385770
-dimwishlist:item=213264394&perks=1840239774,1885400500,3643424744,2846385770
-dimwishlist:item=213264394&perks=3250034553,1885400500,3643424744,2846385770
-dimwishlist:item=213264394&perks=1482024992,1885400500,3643424744,2846385770
-dimwishlist:item=213264394&perks=1840239774,1561002382,3643424744,2846385770
-dimwishlist:item=213264394&perks=3250034553,1561002382,3643424744,2846385770
-dimwishlist:item=213264394&perks=1482024992,1561002382,3643424744,2846385770
-
-// Buzzard (Adept)
-//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Adaptive(300) Kinetic Sidearm Primary Ammo.  "Buzzard with Rangefinder will have a 17m range, going all into range will only bump that up to 18m. I would highly recommend just investing your stats into making the gun feel better as your range will just not bump up the same way. You can max out stability without a lot of investments and Perpetual Motion 2x. Buzzard is an incredibly strong sidearm with incredible stats. Definitely give it a try if you like sidearms." |tags:pvp,controller
-dimwishlist:item=927835311&perks=1840239774,1885400500,1428297954,2846385770
-dimwishlist:item=927835311&perks=3250034553,1885400500,1428297954,2846385770
-dimwishlist:item=927835311&perks=1482024992,1885400500,1428297954,2846385770
-dimwishlist:item=927835311&perks=1840239774,1561002382,1428297954,2846385770
-dimwishlist:item=927835311&perks=3250034553,1561002382,1428297954,2846385770
-dimwishlist:item=927835311&perks=1482024992,1561002382,1428297954,2846385770
-dimwishlist:item=927835311&perks=1840239774,1885400500,3643424744,2846385770
-dimwishlist:item=927835311&perks=3250034553,1885400500,3643424744,2846385770
-dimwishlist:item=927835311&perks=1482024992,1885400500,3643424744,2846385770
-dimwishlist:item=927835311&perks=1840239774,1561002382,3643424744,2846385770
-dimwishlist:item=927835311&perks=3250034553,1561002382,3643424744,2846385770
-dimwishlist:item=927835311&perks=1482024992,1561002382,3643424744,2846385770
-
 // Caretaker
 //notes:pandapaxxy (PvP / Controller): Recommended MW: Impact. Adaptive(60) Solar Sword Heavy Ammo.  "In PvP you want to use Tireless Blade to get the most of your ammo, everything else is the same." |tags:pvp,controller
 dimwishlist:item=2508948099&perks=3666208348,3625355092,2590710093,4274614370
@@ -5062,44 +5156,6 @@ dimwishlist:item=1028124540&perks=1467527085,3142289711,588594999,1015611457
 dimwishlist:item=1028124540&perks=1482024992,3142289711,588594999,1015611457
 dimwishlist:item=1028124540&perks=2420895100,3142289711,588594999,1015611457
 
-// The Immortal
-//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Aggressive(750) Strand Submachine Gun Primary Ammo.  "Immortal is running the crucible and it is not hard to see why. A great submachine gun with some of the best stats for its family, Rangefinder in column three and Target Lock for an even faster TtK neutrally is hot. There’s nothing bad to say about Immortal other than a foreseeable nerf. Either to its stats, all aggressive frame submachine guns or a targeted nerf. An alternative would be Kill Clip as a more reliable damage source but we will just have to see what the end of this season brings." |tags:pvp,controller
-dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,365154968
-dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,365154968
-dimwishlist:item=4039572196&perks=3250034553,1561002382,2846385770,365154968
-dimwishlist:item=4039572196&perks=1482024992,1561002382,2846385770,365154968
-dimwishlist:item=4039572196&perks=3250034553,1885400500,1359896290,365154968
-dimwishlist:item=4039572196&perks=1482024992,1885400500,1359896290,365154968
-dimwishlist:item=4039572196&perks=3250034553,1561002382,1359896290,365154968
-dimwishlist:item=4039572196&perks=1482024992,1561002382,1359896290,365154968
-dimwishlist:item=4039572196&perks=3250034553,1885400500,1428297954,365154968
-dimwishlist:item=4039572196&perks=1482024992,1885400500,1428297954,365154968
-dimwishlist:item=4039572196&perks=3250034553,1561002382,1428297954,365154968
-dimwishlist:item=4039572196&perks=1482024992,1561002382,1428297954,365154968
-dimwishlist:item=4039572196&perks=3250034553,1885400500,2846385770,1015611457
-dimwishlist:item=4039572196&perks=1482024992,1885400500,2846385770,1015611457
-dimwishlist:item=4039572196&perks=3250034553,1561002382,2846385770,1015611457
-dimwishlist:item=4039572196&perks=1482024992,1561002382,2846385770,1015611457
-dimwishlist:item=4039572196&perks=3250034553,1885400500,1359896290,1015611457
-dimwishlist:item=4039572196&perks=1482024992,1885400500,1359896290,1015611457
-dimwishlist:item=4039572196&perks=3250034553,1561002382,1359896290,1015611457
-dimwishlist:item=4039572196&perks=1482024992,1561002382,1359896290,1015611457
-dimwishlist:item=4039572196&perks=3250034553,1885400500,1428297954,1015611457
-dimwishlist:item=4039572196&perks=1482024992,1885400500,1428297954,1015611457
-dimwishlist:item=4039572196&perks=3250034553,1561002382,1428297954,1015611457
-dimwishlist:item=4039572196&perks=1482024992,1561002382,1428297954,1015611457
-
-// The Immortal (Adept)
-//notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Aggressive(750) Strand Submachine Gun Primary Ammo.  "Immortal is running the crucible and it is not hard to see why. A great submachine gun with some of the best stats for its family, Rangefinder in column three and Target Lock for an even faster TtK neutrally is hot. There’s nothing bad to say about Immortal other than a foreseeable nerf. Either to its stats, all aggressive frame submachine guns or a targeted nerf. An alternative would be Kill Clip as a more reliable damage source but we will just have to see what the end of this season brings." |tags:pvp,controller
-dimwishlist:item=3193598749&perks=1840239774,3142289711,1428297954,47981717
-dimwishlist:item=3193598749&perks=1482024992,3142289711,1428297954,47981717
-dimwishlist:item=3193598749&perks=1840239774,791862061,1428297954,47981717
-dimwishlist:item=3193598749&perks=1482024992,791862061,1428297954,47981717
-dimwishlist:item=3193598749&perks=1840239774,3142289711,3523296417,47981717
-dimwishlist:item=3193598749&perks=1482024992,3142289711,3523296417,47981717
-dimwishlist:item=3193598749&perks=1840239774,791862061,3523296417,47981717
-dimwishlist:item=3193598749&perks=1482024992,791862061,3523296417,47981717
-
 // The Inquisitor
 //notes:pandapaxxy (PvP / Controller): Recommended MW: Range. Pinpoint Slug(65) Arc Shotgun Special Ammo.  "Gunnora’s Axe blows the Inquisitor out of the water. Not having access to Threat Detector or Slickdraw really puts this shotgun at a disadvantage. I would grind it out for collections or a trophy but Iron Banner will be better for farming a dedicated pinpoint slug." |tags:pvp,controller
 dimwishlist:item=2653171212&perks=1840239774,3142289711,1428297954,47981717
@@ -5130,60 +5186,6 @@ dimwishlist:item=4162642204&perks=1441682018,2822142346,2039302152,3300816228
 dimwishlist:item=4162642204&perks=3525010810,3301904089,2039302152,3300816228
 dimwishlist:item=4162642204&perks=3798852852,3301904089,2039302152,3300816228
 dimwishlist:item=4162642204&perks=1441682018,3301904089,2039302152,3300816228
-
-// THE SWARM
-//notes:pandapaxxy (PvP / Controller): Recommended MW: Range or Stability. High-Impact(360) Arc Machine Gun Heavy Ammo.  "Over in the Crucible having Rangefinder in the third column and Tap the Trigger in the fourth column give this machine gun a leg up over other high-impact frames. It isn’t the strongest machine gun in the game but will do incredible work if you prefer this archetype over the adaptive frames." |tags:pvp,controller
-dimwishlist:item=2759590322&perks=1840239774,3142289711,2846385770,1890422124
-dimwishlist:item=2759590322&perks=3250034553,3142289711,2846385770,1890422124
-dimwishlist:item=2759590322&perks=1840239774,106909392,2846385770,1890422124
-dimwishlist:item=2759590322&perks=3250034553,106909392,2846385770,1890422124
-dimwishlist:item=2759590322&perks=1840239774,2420895100,2846385770,1890422124
-dimwishlist:item=2759590322&perks=3250034553,2420895100,2846385770,1890422124
-dimwishlist:item=2759590322&perks=1840239774,3142289711,1359896290,1890422124
-dimwishlist:item=2759590322&perks=3250034553,3142289711,1359896290,1890422124
-dimwishlist:item=2759590322&perks=1840239774,106909392,1359896290,1890422124
-dimwishlist:item=2759590322&perks=3250034553,106909392,1359896290,1890422124
-dimwishlist:item=2759590322&perks=1840239774,2420895100,1359896290,1890422124
-dimwishlist:item=2759590322&perks=3250034553,2420895100,1359896290,1890422124
-dimwishlist:item=2759590322&perks=1840239774,3142289711,2846385770,365154968
-dimwishlist:item=2759590322&perks=3250034553,3142289711,2846385770,365154968
-dimwishlist:item=2759590322&perks=1840239774,106909392,2846385770,365154968
-dimwishlist:item=2759590322&perks=3250034553,106909392,2846385770,365154968
-dimwishlist:item=2759590322&perks=1840239774,2420895100,2846385770,365154968
-dimwishlist:item=2759590322&perks=3250034553,2420895100,2846385770,365154968
-dimwishlist:item=2759590322&perks=1840239774,3142289711,1359896290,365154968
-dimwishlist:item=2759590322&perks=3250034553,3142289711,1359896290,365154968
-dimwishlist:item=2759590322&perks=1840239774,106909392,1359896290,365154968
-dimwishlist:item=2759590322&perks=3250034553,106909392,1359896290,365154968
-dimwishlist:item=2759590322&perks=1840239774,2420895100,1359896290,365154968
-dimwishlist:item=2759590322&perks=3250034553,2420895100,1359896290,365154968
-
-// THE SWARM (Adept)
-//notes:pandapaxxy (PvP / Controller): Recommended MW: Range or Stability. High-Impact(360) Arc Machine Gun Heavy Ammo.  "Over in the Crucible having Rangefinder in the third column and Tap the Trigger in the fourth column give this machine gun a leg up over other high-impact frames. It isn’t the strongest machine gun in the game but will do incredible work if you prefer this archetype over the adaptive frames." |tags:pvp,controller
-dimwishlist:item=566740455&perks=1840239774,3142289711,2846385770,1890422124
-dimwishlist:item=566740455&perks=3250034553,3142289711,2846385770,1890422124
-dimwishlist:item=566740455&perks=1840239774,106909392,2846385770,1890422124
-dimwishlist:item=566740455&perks=3250034553,106909392,2846385770,1890422124
-dimwishlist:item=566740455&perks=1840239774,2420895100,2846385770,1890422124
-dimwishlist:item=566740455&perks=3250034553,2420895100,2846385770,1890422124
-dimwishlist:item=566740455&perks=1840239774,3142289711,1359896290,1890422124
-dimwishlist:item=566740455&perks=3250034553,3142289711,1359896290,1890422124
-dimwishlist:item=566740455&perks=1840239774,106909392,1359896290,1890422124
-dimwishlist:item=566740455&perks=3250034553,106909392,1359896290,1890422124
-dimwishlist:item=566740455&perks=1840239774,2420895100,1359896290,1890422124
-dimwishlist:item=566740455&perks=3250034553,2420895100,1359896290,1890422124
-dimwishlist:item=566740455&perks=1840239774,3142289711,2846385770,365154968
-dimwishlist:item=566740455&perks=3250034553,3142289711,2846385770,365154968
-dimwishlist:item=566740455&perks=1840239774,106909392,2846385770,365154968
-dimwishlist:item=566740455&perks=3250034553,106909392,2846385770,365154968
-dimwishlist:item=566740455&perks=1840239774,2420895100,2846385770,365154968
-dimwishlist:item=566740455&perks=3250034553,2420895100,2846385770,365154968
-dimwishlist:item=566740455&perks=1840239774,3142289711,1359896290,365154968
-dimwishlist:item=566740455&perks=3250034553,3142289711,1359896290,365154968
-dimwishlist:item=566740455&perks=1840239774,106909392,1359896290,365154968
-dimwishlist:item=566740455&perks=3250034553,106909392,1359896290,365154968
-dimwishlist:item=566740455&perks=1840239774,2420895100,1359896290,365154968
-dimwishlist:item=566740455&perks=3250034553,2420895100,1359896290,365154968
 
 // The Wizened Rebuke
 //notes:pandapaxxy (PvP / Controller): Recommended MW: Range. High-Impact(960) Kinetic Sidearm Primary Ammo.  "In order to compete with Rapid-Fire fusions and Precision Frame fusions you’re going to either need to pre-charge with Under-Pressure and High-Impact Reserves or go all in for Backup Plan. This will bring the charge time down to 600ms while keeping the damage per bolt at 51 and maintaining the four bolt kill." |tags:pvp,controller
