@@ -14,6 +14,8 @@ description:Originally found here https://www.reddit.com/r/sharditkeepit/comment
 
 // originally found at https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep69-last-wish-weapons.txt
 
+// taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep72-s21-solstice-weapons.txt
+
 // taken from https://github.com/Adamsdown-Boy/destiny-rolls/blob/main/player-versus-enemies-rolls/ep68-nightfall-and-trials-of-osiris-weapons.txt
 
 // originally found at https://gist.github.com/heckinn/a0becf75fae81cfa5f845468191d3ed8
